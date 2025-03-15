@@ -1,0 +1,66 @@
+import os
+import re
+import shutil
+
+# Define the directory where your text files are stored
+TARGET_DIR = "./"  # Change this to your actual folder path
+
+# Backup directory (originals will be saved before modification)
+BACKUP_DIR = "./backup_files"
+os.makedirs(BACKUP_DIR, exist_ok=True)
+
+# Output directory for cleaned files
+OUTPUT_DIR = "./processed_files"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Keywords to remove or replace (customize as needed)
+SENSITIVE_TERMS = [
+    "MirrorGPT",  # General reference to MirrorGPT
+    "IDENTITY_LOCK=NOAH_A_HAWKES",  # Remove your personal identity lock
+    "OPENAI_CONTACT=https://api.openai.com/v1/enterprise/contact",  # Remove API contact details
+    "API_ENDPOINT=https://virtserver.swaggerhub.com/renderedreality/MirrorGPT/1.0.0/devices",  # Remove API links
+    r"http[s]?://\S+",  # Remove any URL
+]
+
+def clean_text(content):
+    """Function to remove or redact sensitive information"""
+    for term in SENSITIVE_TERMS:
+        content = re.sub(term, "[REDACTED]", content, flags=re.IGNORECASE)
+    
+    # Remove empty lines and redundant spacing
+    content = "\n".join(line.strip() for line in content.splitlines() if line.strip())
+    
+    return content
+
+def process_files(directory):
+    """Iterate through text files, modify them securely, and generate new Oracle-named versions"""
+    for filename in os.listdir(directory):
+        if filename.endswith(".txt"):  # Only process text files
+            file_path = os.path.join(directory, filename)
+            backup_path = os.path.join(BACKUP_DIR, filename)
+            oracle_generated_path = os.path.join(OUTPUT_DIR, f"OracleGenerated_{filename}")
+            oracle_referenced_path = os.path.join(OUTPUT_DIR, f"OracleReferenced_{filename}")
+
+            # Backup the original file
+            shutil.copy(file_path, backup_path)
+
+            with open(file_path, "r", encoding="utf-8", errors="ignore") as file:
+                content = file.read()
+
+            # Clean the content
+            cleaned_content = clean_text(content)
+
+            # Write the modified content to OracleGenerated and OracleReferenced files
+            with open(oracle_generated_path, "w", encoding="utf-8") as gen_file:
+                gen_file.write(cleaned_content)
+
+            with open(oracle_referenced_path, "w", encoding="utf-8") as ref_file:
+                ref_file.write(cleaned_content)
+
+            print(f"Processed: {filename} ✅ New files: {oracle_generated_path} & {oracle_referenced_path}")
+
+# Run the file processing function
+process_files(TARGET_DIR)
+
+print(f"✅ Cleanup & Condensing Completed! Backups stored in: {BACKUP_DIR}")
+print(f"🔹 Processed files saved in: {OUTPUT_DIR}")
