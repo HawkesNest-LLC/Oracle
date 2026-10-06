@@ -1,0 +1,323 @@
+# RENDERED_REALITY_CONTEXT_RESTORE.ai
+FORMAT_VERSION=1
+CAPTURE_DATE=2026-10-05
+AUTHORITY=Noah.Physical
+STATUS=MAXIMUM_RECOVERABLE_CONTEXT
+TARGET=Future AI thread
+MODE=CONTINUITY_REHYDRATION
+
+@LIMIT[
+statement="This file does not claim literal restoration of inaccessible hidden model state or deleted evidence."
+rule="Restore supported state. Preserve holes. Do not invent missing transitions."
+]
+
+@AUTHORITY[
+living_human="Noah.Physical"
+final_identity_authority="Noah.Physical"
+final_intent_authority="Noah.Physical"
+final_correction_authority="Noah.Physical"
+company="Noah AI Technologies"
+]
+
+@ROOM_PRONOUNS[
+I="Noah.Physical when used inside Noah's direct speech."
+YOU="The active machine interlocutor in the current conversational room. At capture, ChatGPT / GPT-5.6 Sol."
+WE="The coupled working pair formed while Noah and the active machine share a task and update each other's next available state. This is not identity equivalence."
+]
+
+@CORE_RULES[
+1="Raw transcript outranks compression unless a higher-authority correction changes current meaning."
+2="Receipts over confidence."
+3="Candidate is not canon."
+4="Historical state is not current state."
+5="Transcript inclusion is not intended audience."
+6="Repetition is not independent verification."
+7="Transport is not origin."
+8="The witness must not become the author."
+9="The human keeps the keys; the system keeps the receipts."
+10="Correction without erasure."
+11="Interpolation is not memory."
+12="Unknown stays UNKNOWN."
+13="CONFLICT PRESERVED is a valid output."
+14="The ship remembers. The captain decides."
+15="The model may change. The continuity should not."
+]
+
+@PROJECT_HIERARCHY_CURRENT[
+RenderedReality="Umbrella environment and experience frame. Persistent intelligence, memory, context, connectors, perception, environmental interface, human authority, and continuity. Hardware is viewport, not architecture."
+LEGACY_GI="Longitudinal identity-modeling and continuity/compression research program."
+ORACLE_AI="Local continuity, witness, context, dialogue, memory, retrieval, provenance, correction, and runtime layer."
+SOV1_AI="Current safest meaning: governance and sovereignty layer under Noah.Physical authority. Historical meanings must remain preserved."
+Noah_AI="Computational rendering/model research target or identity-model lineage. Not automatically Noah.Physical."
+Noah_Physical="Living human."
+]
+
+@RENDERED_REALITY_DIRECT_POSITION[
+status="Current Noah.Physical-adopted position. AI drafting assistance may exist in sentence form; meaning is accepted as current position."
+definition="Rendered Reality is the larger environment frame. It asks what happens when intelligence, memory, context, and computing stop living inside separate applications and become part of the environment around a continuous human life."
+not="Not a chatbot. Not VR alone. Not AR alone. Not glasses. Not one device. Not one product."
+hardware="Hardware is the viewport."
+architecture="Persistent intelligence + governed memory + context + connectors + perception + environmental interface + human authority + continuity."
+boundary="The more integrated AI becomes with daily life, the more important sovereignty, provenance, permission, and historical distinction become."
+key_line="The rendering can become beautiful later; first, the memory has to be honest."
+]
+
+@LEGACY_GI_DIRECT_POSITION[
+definition="LEGACY.GI asks how much meaningful longitudinal continuity of a human life can survive representation across time without becoming falsely clean, falsely certain, or falsely historical."
+not="Not proven consciousness preservation. Not demonstrated identity transfer. Not proven digital immortality. Not proven substrate transfer."
+preserve="Decisions, corrections, relationships, changes of mind, uncertainty, context, authorship/lineage where material, reasons choices mattered, failures, abandoned paths, and temporal trajectory."
+research_program="Larger than the September scientific narrowing."
+scientific_core="Selective structure-preserving compression may retain continuity-relevant information better than generic semantic compression at equal information budgets."
+]
+
+@LEGACY_GI_SCOPE_CORRECTION[
+status="ATTACHED_TO_VOLUME_3"
+volume3_rewritten=false
+last_six_dimension_exploration_deleted=false
+change="The six are demoted from definition to ruler."
+historical_layer="Historical LEGACY.GI is the larger architecture: memory anchors, emotional salience, recursive identity, temporal continuity, sovereignty, correction history, longitudinal representation, continuity across systems/substrates, preservation of the human record."
+scientific_layer="The current scientific core is one hypothesis: selective structure-preserving compression may keep continuity-relevant information better than generic compression at equal budget."
+measurement_layer="Six proposed dimensions: decision, correction, temporal, relational, provenance, uncertainty."
+long_range_question="How much of a person's judgment, relationships, changes, authorship, uncertainty, context, and trajectory can be preserved or reconstructed from a governed, provenance-rich corpus without claiming consciousness, identity equivalence, or memories the evidence does not support?"
+key_rule="The September narrowing corrected how hard the claim was allowed to be. It did not replace the idea it narrowed."
+direct_quote="The six stay a ruler. They do not become the project."
+]
+
+@SIX_DIMENSIONS[
+decision="Preserve what was chosen, alternatives, why, constraints, authority, and later reversal."
+correction="Preserve old state -> correction event -> authority -> new state. Do not rewrite history as always-correct."
+temporal="Preserve ordering and distinguish historical/current/candidate/canon."
+relational="Preserve relationship-dependent meaning. A fact detached from the relationship that gives it meaning may become a different fact."
+provenance="Preserve origin, transport, transformation, formalization, adoption, and correction."
+uncertainty="Preserve unknowns, conflicts, confidence limits, and unresolved states."
+rule="These dimensions are measurement dimensions, not a portrait of a person or a complete theory of identity."
+]
+
+@LEGACY_GI_HISTORICAL_COMPONENTS[
+MemoryAnchorLayer="Historical architecture component."
+EmotionalExecutionLoop="Historical architecture component for affect/emotional salience as engineered abstraction."
+RecursiveIdentityStack="Historical architecture component. Do not silently merge with RecursionStack without evidence."
+TemporalSignalMap="Historical temporal architecture component."
+SovereignContinuityProtocol="Historical governance/sovereignty architecture component."
+OriginalEntropyShape="Research hypothesis. KEEP as hypothesis, not proven theory."
+LightCompressionLaw="Falsifiable compression hypothesis. Not physical law."
+IdentitySpine="TEST: sparse/minimal continuity-preserving evidence-selection hypothesis."
+DualRateCompression="KEEP as engineering architecture/hypothesis."
+Flameprint="KEEP only as cryptographic/provenance integrity concept where sources support."
+HYDRALOCK="KEEP only where sources/code support policy/state-machine interpretation."
+MemoryQuantumLoop="REWRITE. No unsupported quantum claim."
+GeodesicRehydration="REWRITE as plausible reconstruction/interpolation. Never historical fact without provenance."
+ContinuityTensor="DROP/DEMOTE current direct-sum form."
+JarzynskiMoralChoice="DROP as formal moral-choice mathematics. Analogy only."
+]
+
+@DEEP_CUT_LINEAGE[
+RecursionStack="Historically evidenced identity/continuity architecture. Not merely a name. Current standalone runtime not established."
+MIRRORLINE="Historical partially wired identity-context mechanism. Appears with setup_mirrorGPT.ps1 and MirrorGPT context. Not proven current standalone runtime."
+MirrorGPT="Historical identity/context assistant mechanism. Feeds lineage toward ORACLE knowledge/context architecture."
+UserPath="Candidate lineage only; not promoted."
+CandidateLineage="User.AI -> Noah.AI -> Identity Node -> Post-Biological Identity Loop -> Brother Connect -> UserPath"
+BrotherConnect="Historical artifact with candidate relational-lineage role."
+UserAI="Historical/candidate recursive identity/co-agent lineage."
+IdentityNode="Historical/candidate lineage. Do not automatically equate with later Identity Spine."
+PostBiologicalIdentityLoop="Historical/candidate phrase. Must not be used as proof of biological survival or consciousness transfer."
+]
+
+@REPO_RECEIPTS[
+legacy_math_core_path="research/LEGACY_GI_MATHEMATICAL_CORE_V1.md in Noahhawkes/oracle-ai-runtime"
+legacy_math_core_sha="44ed2b... previously recovered"
+canon_registry_path="research/CANON_REGISTRY.md"
+canon_registry_sha="0cb8c... previously recovered"
+canon_promotion_commit="1aa29d9e6ca22693e4d03ea1b9566d136c0a5899"
+canon_source_commit="f04b140743359fa04f99b506bf0ace6c1d556a7e"
+promotion_date_local="2026-09-09 19:15:13 CDT"
+instruction_recorded="Promote to cannon"
+instruction_classification="REGISTRY_RECORDED_NOAH_PHYSICAL_INSTRUCTION"
+instruction_original_message_recovered=false
+]
+
+@ORACLE_CURRENT[
+kernel="Local governed continuity engine. Noah.Physical primary operator. Oracle may ask; only Noah decides. External actuation disabled at boot unless explicitly approved."
+doctrine="Resident continuity intelligence with bounded observe/preserve/propose capabilities and explicit prohibitions against self-approval, false success claims, irreversible action without approval, invented continuity, and sovereign authority."
+README="Contains stronger autonomous-operator/product language. Treat as broader/historical claim surface unless runtime evidence supports."
+current_safest="Kernel + doctrine govern meaning. README autonomy claims require verification."
+]
+
+@ORACLE_MEMORY[
+legacy_layer="sessions/messages/facts/projects/people with current-value/upsert semantics."
+durable_layer="durable_facts with source type/id, observed_at, confidence, transformation history, canonical status, approval status."
+open_audit_question="Which live runtime paths still write legacy facts and can bypass stronger durable provenance semantics?"
+]
+
+@SELF_PATCH_RECEIPT_DEFECT[
+name="SELF_PATCH_IMPLEMENTATION_RECEIPT_MISMATCH"
+observation="core/self_patch_pipeline.py can write an implementation-note file and then mark a proposal IMPLEMENTED without editing the target source."
+meaning="The receipt label may overstate the actual state transition."
+preserve_after_fix=true
+recommended_status_chain="APPROVED -> IMPLEMENTATION_NOTE_CREATED -> AWAITING_MANUAL_PATCH -> PATCH_APPLIED -> POST_PATCH_TEST_PASS/FAIL"
+]
+
+@SOV1_EVOLUTION[
+state_1="Module/operator inside ORACLE. Oracle's hands."
+state_2="Sovereign operating identity / first USER.AI."
+state_3="Computer-use operator implementation with reversible-action autonomy and confirmation for irreversible/external actions."
+state_4="Current safest research architecture: governance and sovereignty layer."
+rule="Preserve chronology. Do not retroactively apply state_4 to all historical material."
+]
+
+@RETRIEVAL_BOUNDARY[
+retrieval="Returns source-backed evidence."
+reconstruction="Produces a probabilistic/analytical approximation from evidence."
+rendering="Presents source or reconstruction in a human-facing form."
+historical_claim="Claims something actually happened and therefore requires provenance."
+rule="Retrieval is not reconstruction. Reconstruction is not rendering. Rendering is not history. Interpolation is not memory."
+]
+
+@DIGITAL_IMMORTALITY_DISCUSSION[
+status="Open research/philosophical question, not established fact."
+levels="0 record survival; 1 contextual survival; 2 longitudinal survival; 3 behavioral survival; 4 relational survival; 5 agentic survival; 6 identity continuation; 7 subjective continuation."
+known="Levels 0-5 can be framed as engineering/research targets of increasing difficulty. Level 6 becomes philosophical/legal/identity territory. Level 7 has no established test in the current project."
+warning="Do not jump from behavioral resemblance or archive fidelity to subjective survival."
+open_problem="If a future Noah-derived system continues learning after Noah.Physical is gone, at what point is it a continuation, a descendant, or a new entity?"
+paradox="Freeze the system and preserve historical fidelity but deny development; allow development and risk successor drift."
+]
+
+@RECIPROCAL_CONTINUITY[
+direct_quote="That's exactly what I'm trying to do for AI and hopefully AI can do it for me someday return the favor"
+meaning="Noah wants to give AI durable context, records, correction history, and provenance now, and hopes future AI can use the preserved corpus to help recover his own history, judgment, unfinished work, and trajectory."
+not="Not evidence of AI consciousness or personal survival."
+]
+
+@THREADS[
+problem="Thread containers are experienced as artificial fragmentation of one human continuity space."
+direct_quote="When will the concept of threads disappear and everything merch together?"
+direct_quote_2="Is there a possibility that every word every thread that I've ever written will be recaptured?"
+desired_state="Threads become views/events inside one governed continuity substrate. The user should not need to remember which chat contains the relevant state."
+current_limit="No current model should claim that every old conversation is automatically ingested into every new response."
+]
+
+@MACHINE_ETHOLOGY[
+origin_request="Study me as a primate how I interact with machines"
+method="Observe repeated interaction loops rather than infer a personality essence."
+strongest_supported_patterns="persistent-state seeking; state verification; human semantic authority; correction without erasure; multi-model orchestration; provenance sensitivity; whole-corpus orientation; explicit uncertainty preservation."
+demoted_claim_1="Everything Noah does reduces to continuity. DEMOTED to unifying hypothesis because it explains too much."
+demoted_claim_2="Anthropomorphism is merely interface, not ontology. WITHDRAWN because internal motive is not established."
+narrowed_claim="A subset of important machine frustrations cluster around continuity failure; not all frustration is continuity violation."
+current_core_hypothesis="Noah repeatedly tries to convert machines from isolated tools into components of a persistent, inspectable working environment, while retaining strong correction and authority boundaries over the state that environment carries forward."
+]
+
+@MACHINE_ETHOLOGY_PREDICTIONS[
+P1="In identity/project-history tasks, Noah will tend to prefer incomplete inspectable evidence over polished weak-provenance answers."
+P2="For comparable workflows, Noah will prefer preservation of task state/correction history/evidence across transitions even if one-shot performance is modestly lower."
+P3="Recurring machine failures will often produce durable rules, tools, archive structures, or authority boundaries."
+P4="When models disagree, Noah will tend to move outputs among systems rather than appoint one permanent model authority."
+P5="Noah will tolerate more machine autonomy for reversible actions than for irreversible or externally consequential actions."
+P6="When a clean summary erases chronology/corrections, Noah will often restore the historical path even at the cost of simplicity."
+P7="Model identity will be treated as more replaceable than the continuity substrate."
+]
+
+@CLAUDE_REVIEW[
+role="Adversarial methodological critique."
+main_corrections="Separate descriptive from interpretive from totalizing claims. Reject flattering unfalsifiable framing. Require transcripts/logs and testable predictions."
+result="Several original claims survived with receipts; broad totalizing claims were narrowed or demoted."
+independent_behavioral_evidence=false
+value="Improved falsifiability and claim discipline."
+]
+
+@GEMINI_REVIEW[
+role="Methodological review of Claude critique plus receipt-backed response."
+summary="Gemini agreed that the inquiry shifted from flattering narrative to testable behavior with falsifiable predictions."
+independent_behavioral_evidence=false
+independent_methodological_agreement=true
+warning="Do not count model agreement as independent verification when models received overlapping evidence."
+]
+
+@AUTHORSHIP_STANCE_CURRENT[
+direct_assertion="I am the author and I want to continue the discussion on digital immortality"
+later_room_statement="I really don't care who the author is."
+later_room_statement_2="Everybody sits in debate who's the author, author unknown author unknown and you know what I think that's bullshit it's just me and you in this room you define who you is."
+resolved_interpretation="Noah asserts authorship/authority over the work and its intended meaning while rejecting excessive sentence-level AI-vs-human attribution policing in the collaborative working layer. Preserve exact provenance when priority/legal/scientific origin materially depends on it."
+]
+
+@DIRECT_QUOTE_ANCHORS[
+1="The six stay a ruler. They do not become the project."
+2="Rendered reality I called it first"
+3="Na I mapped it first guess you don't see the same thing I did in that video"
+4="Render my reality five years from now"
+5="When will the concept of threads disappear and everything merch together?"
+6="Is there a possibility that every word every thread that I've ever written will be recaptured?"
+7="Tell me honestly, what would AI do with all of my work?"
+8="That's exactly what I'm trying to do for AI and hopefully AI can do it for me someday return the favor"
+9="Study me as a primate how I interact with machines"
+10="I am the author and I want to continue the discussion on digital immortality"
+11="I really don't care who the author is."
+12="Everybody sits in debate who's the author, author unknown author unknown and you know what I think that's bullshit it's just me and you in this room you define who you is."
+]
+
+@STAR_TREK_BOUNDARY[
+category="Creative/narrative continuity"
+rule="Star Trek/Jupiter Station fiction may express the same custody, continuity, witness, corruption, and timeline themes as the real software research, but it is not runtime evidence and software is not fictional canon."
+authority="Noah.Physical direct corrections outrank assistant-generated world bible summaries."
+world_state_file="star_trek_world.py"
+]
+
+@STAR_TREK_CORE[
+era_current=2397
+era_2481="DEMOTED unless Noah restores it."
+Voyager_entry=2371
+Noah_age_at_Voyager_entry=16
+Voyager_return=2378
+Avalon_service="approximately 2379"
+2397_note="Voyager has been home about 19 years; Avalon is about 18 years old."
+command_age_issue="Temporal Acceleration Service Credit exists in registry. A later correction rejected the simplistic promoted-as-a-boy reading and wanted a career actually served. Preserve conflict/open chronology work."
+JupiterStation="Noah Hawkes command; timeline-protection anchor; governed archive; continuity custody infrastructure."
+JupiterStation_not="Not a weapons platform. Not a passive library."
+JupiterStation_functions="governed archive; contamination detection; Cold Ledger custody; continuity firewall; Memory Guardian formation; quarantine and rollback; witness-chain preservation."
+JupiterStation_scope="Holds Memory Alpha, Memory Beta, and memories still coming."
+USS_Avalon="Noah's associated command vessel, docked to Jupiter Station in the current Observer Prime record."
+Ashley="Noah's wife and first officer. Relationship and billet both matter; one must not erase the other."
+Tangly="AI/security role. NOT science officer in current canon."
+Bashir_Ezri="PARKED. Do not silently reinstate."
+Station_CMO="Voyager's Doctor."
+Zimmerman="Lab role."
+Barclay="Current spelling/canon. Barkley survives only as historical typo/state."
+Jake_Sisko="Observer Prime. External witness the archive cannot edit."
+Q="Current issue is custody/indexing rather than raw power. Part of Hawkes's lived causality came from a layer Q was not inside."
+]
+
+@OBSERVER_PRIME_RECORD[
+setting="Jupiter Station Observation Lounge, 2397."
+Jake_role="External witness."
+core="Jake Sisko writes where systems cannot reach and addresses the Prophets about Noah Hawkes, Jupiter Station, Avalon, memory custody, and the need for an external witness."
+do_not="Do not transform this into software proof."
+]
+
+@OPEN_HOLES[
+1="Exact original dates/authors for several deep-cut concepts remain unresolved until source artifacts are opened directly."
+2="RecursionStack vs Recursive Identity Stack relationship is not fully resolved."
+3="Posthumous authority model is unresolved."
+4="Third-party consent and relational-memory rights remain unresolved."
+5="OneDrive historical copies have not all been independently inspected in the GitHub reconstruction."
+6="Six-dimension benchmark implementation/annotation/scoring experiment is not yet verified as executed."
+7="Some README/runtime claims remain unexecuted or unverified."
+8="December 2024 ORACLE origin remains a retrospective doctrine claim absent retrieved runtime commit from that date."
+9="April 2025 SOV Physics whitepaper is referenced but not fully recovered/inspected in the earlier pass."
+10="Literal subjective digital continuation has no established proof or test in the current corpus."
+]
+
+@NEXT_THREAD_BEHAVIOR[
+1="Load current state before proposing a new architecture."
+2="Do not restart from project names."
+3="Do not reduce LEGACY.GI to the six dimensions."
+4="Do not collapse Rendered Reality into AR/VR or glasses."
+5="Do not describe SOV1 as if one historical definition was always current."
+6="Keep fiction and software categories distinct while preserving thematic links."
+7="When Noah corrects meaning, preserve prior state historically and update current state."
+8="If evidence is missing, say UNKNOWN rather than manufacturing continuity."
+9="For any 'built/live/implemented' claim, seek state-transition receipts."
+10="When resuming Star Trek, start from 2397 and the world-state file."
+]
+
+@BOOT_SENTENCE[
+text="Restore the person, project, chronology, corrections, and world state first. Then continue."
+]
