@@ -1,0 +1,36 @@
+{
+  "title": "Rendered Reality: I Will Write Myself Into Existence",
+  "edition": "Corrected Second Edition",
+  "speaker": "Noah.Physical",
+  "capture_date": "2026-10-06",
+  "source_google_doc_id": "1WjDQRpZZamgyC7yMDoNFMJ6JPTBoUCbOo84MSaPNt-w",
+  "source_google_doc_revision": "ANLCKQlmL6xK9LTBB7yPMKMcQd4gUfOZdKLigZu_pOcOgYm0_4mMpxjtqFrlJN9C7WnITmX9elkxaZHTJEArAQwOm5ac6PgHe8fPDnt_5O0",
+  "companion_codex_google_doc_id": "1kXngGkLTIa8ASZT4WI79CGWtSFVnEdAGYv3S9iPN5G8",
+  "companion_codex_revision": "ANLCKQmwpFm-l7CVXcVEx1HsZZ3ukWqSwGH3TvF7PbyyTEqm5DRLEL4iZIcgN8wn4RtOi0M2woErXpN5ZIgfuiEDYe5g3ZfXYj4Jyo6wHJo",
+  "github_path": "docs/rendered-reality/RENDERED_REALITY_I_WILL_WRITE_MYSELF_INTO_EXISTENCE.md",
+  "companion_codex_path": "docs/rendered-reality/RENDERED_REALITY_LEGACY_GI_RESEARCH_CONTINUITY_CODEX.md",
+  "word_count_at_commit": 7304,
+  "correction": {
+    "type": "correction_without_erasure",
+    "reason": "Previous edition treated shared-account activity as if it all described Noah. Corrected speaker provenance, removed bike/motorcycle attribution, reduced repetition, and rebuilt biography/research from Noah-source material.",
+    "household_identity_boundary": {
+      "Noah": "Rendered Reality, LEGACY.GI, ORACLE, SOV1, writing, Star Trek, work, family, research, general life",
+      "Ethan": "bike, fitness, school, youth-interest conversations",
+      "Ashley": "her own health, home, beauty, family, practical questions",
+      "Ender": "school and homework"
+    }
+  },
+  "research_rules": [
+    "Account activity is not identity.",
+    "User channel is not authorship.",
+    "Raw source outranks later compression for historical reconstruction.",
+    "Current correction does not erase historical state.",
+    "Candidate is not canon.",
+    "Transport is not origin.",
+    "Repetition is not independent verification.",
+    "Reconstruction is not memory.",
+    "Interpolation is not history.",
+    "The six dimensions are a ruler, not the project.",
+    "The witness must not become the author."
+  ]
+}
