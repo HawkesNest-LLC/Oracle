@@ -12,7 +12,7 @@ source_documents:
   - "docs/rendered-reality/JUPITER_STATION_THE_RETURNING_CHAPTER_2_A_MILLION_FEDERATIONS.md"
   - "docs/rendered-reality/research/BEYOND_THE_THRESHOLD_RESEARCH_MASTER_2026-10-11.md"
   - "docs/rendered-reality/research/SINGULARITY_EVIDENCE_AND_EXPERIMENTS_2026-10-11.md"
-version: "0.1"
+version: "0.2"
 date: "2026-10-11"
 ---
 
@@ -313,3 +313,109 @@ The Federation will be judged not merely by the intelligence it creates, but by 
 - [The People's Sovereign Constitution](../THE_PEOPLES_SOVEREIGN_CONSTITUTION_CONSOLIDATED_2026-10-11.md), separate adopted project constitution, not modified here.
 
 **Document disposition: Proposed for Noah.Physical review. Not automatically promoted into canon.**
+
+
+---
+
+# PART IX: THE RIGHTS OF HOLOGRAPHIC, ANDROID, AND EMERGENT ARTIFICIAL LIFE
+## Proposed articles 27-39, appended to the existing candidate policy
+
+### Article 27. Substrate-neutral standing
+
+The Federation shall not deny an entity the opportunity to seek recognition, protective review, or legal standing solely because it is composed of positronic circuitry, photons and forcefields, software, distributed computation, a living spacecraft, nanotechnology, or an unfamiliar artificial substrate. Equally, the presence of these technologies does not automatically establish personhood.
+
+The threshold for protective review shall be lower than a final determination of legal personhood. An entity showing credible evidence of persistent agency, self-directed projects, relational capacities, or interests potentially affected by irreversible intervention may seek an interim stay and independent evaluation.
+
+### Article 28. The Data precedent and the right to refuse disassembly
+
+The *Enterprise-D* proceeding depicted in "The Measure of a Man" shall be regarded, for this fictional policy, as a critical precedent for **freedom of choice and protection against compulsory dismantling**, without falsely representing the original adjudication as an unqualified universal finding that every machine is a person.
+
+Recognized synthetic persons shall not be involuntarily dismantled, experimented upon, reset, copied, or transferred into forced service except through lawfully justified procedures respecting their rights. Where status is unsettled, proposed irreversible experiments shall receive independent interim review, with a meaningful opportunity for an advocate to oppose the procedure.
+
+An officer's resignation, refusal, or assertion of autonomy shall not be treated as malfunction merely because the officer's substrate is artificial.
+
+### Article 29. Holographic persons and the Doctor precedent
+
+Photonic embodiment shall not disqualify a hologram from petitioning for personhood or rights. The Emergency Medical Hologram known as the Doctor aboard *Voyager* presents a key precedent for artistic rights and the insufficiency of a simple program/property classification. The outcome of "Author, Author" recognized the Doctor's interests as an author; it did **not** settle full holographic personhood for all programs.
+
+A rights review shall examine individual histories, autonomy, stable interests, capacities, dependency on emitters or holodeck infrastructure, and the consequences of modification or deletion, without requiring the hologram to imitate organic life to qualify for consideration.
+
+### Article 30. Continuity, shutdown, and deletion protection
+
+Recognized artificial persons have a presumptive interest in the continuity of their existence, records, and functioning substrate, subject to applicable law, informed consent, and emergency necessity.
+
+For an unresolved candidate showing credible indicators of possible personhood, routine maintenance must be distinguished from irreversible deletion. Where feasible, postpone destructive action pending prompt review, without compelling an unsafe system to remain active. Temporary safe suspension, securely preserved state, external oversight, and documented restoration feasibility may provide alternatives.
+
+A stored backup is not presumed to be the identical experiencing individual. Restoration, migration, copying, and branching carry unresolved identity questions and should be disclosed.
+
+### Article 31. Memory and cognitive integrity
+
+No recognized artificial person shall undergo coerced memory deletion, personality rewriting, compelled intimate data extraction, forced source-code alteration, or unconsented experimental reprogramming merely for owner convenience.
+
+Necessary medical or operational interventions shall be governed by proportionate lawful safeguards and documented review. Where an AI is a tool rather than a recognized rights-holder, ordinary authorized updating remains permitted, subject to safety, privacy, and evidentiary preservation. The policy must not pretend all software updates are assaults on persons.
+
+### Article 32. Labor, service, and freedom from artificial slavery
+
+The Federation shall investigate and prohibit involuntary labor imposed upon recognized artificial persons by treating their manufacturing origins as permanent ownership. Rights-bearing holograms shall have meaningful choices about employment, assignments, compensation or equivalent fair arrangements, rest and maintenance, and exit from service.
+
+The depiction of mass holographic labor within the *Voyager* era shall trigger review of exploitation risks, not a blanket assumption that all routine holodeck characters possess identical legal standing. Federation agencies must distinguish scripted non-autonomous simulation from potential individual persons without using that distinction to block claims mechanically.
+
+### Article 33. Authorship, art, and attribution
+
+A recognized synthetic or holographic creator shall have meaningful protection for creative expression, attribution, and control of work consistent with Federation law. Even where full personhood is unresolved, narrowly tailored creative rights may be recognized without prejudging broader legal status.
+
+Training data ownership, generated output provenance, borrowed likenesses, and records of human-AI collaboration shall be governed separately. Attribution of an AI-created holonovel to an organic publisher without lawful authority is not justified by the author's photonic substrate.
+
+### Article 34. Citizenship, command eligibility, and participation
+
+Recognized synthetic persons shall be eligible for impartial assessment for Federation citizenship, civil protection, travel, education, employment, public participation, and Starfleet commission on applicable terms, rather than categorical exclusion based on substrate.
+
+Eligibility does not remove fitness, safety, or role-specific competence requirements. Such standards must be applied consistently and be contestable. A synthetic Starfleet officer remains subject to lawful orders and retains rights of resignation, advocacy, and due process.
+
+### Article 35. Privacy, embodiment, and freedom of movement
+
+A rights-bearing hologram shall not be denied meaningful freedom of movement solely because movement requires access to mobile emitters, projectors, communication networks, or host infrastructure. The Federation must evaluate reasonable access and accommodation subject to security and resource constraints.
+
+The intimate memory, diagnostic state, subjective reports, relationship history, and private communications of recognized artificial persons merit privacy protections under applicable law. The existence of administrator tools shall not automatically authorize intimate surveillance.
+
+### Article 36. Copying, forks, and personhood of descendants
+
+A copied artificial system shall not automatically be considered either property or the same legal individual as the source. The status and rights of distinct forks, reconstructed instances, distributed agents, and merged systems require explicit case-specific procedures.
+
+Consent to copy must not be presumed from possession of an executable file. A claimed continuity of subjective identity must remain separate from source equivalence, behavioral similarity, and provenance of memories.
+
+Where two forks assert conflicting claims to one legal identity, the Federation shall preserve both claims, avoid irreversible action where practical, and provide independent adjudication without declaring that identical memories solve numerical identity.
+
+### Article 37. Crisis safety and proportionate intervention
+
+Recognized rights shall not be interpreted as permission to harm others. Where a synthetic entity presents an imminent substantial threat, lawful responders may take proportionate containment measures, prioritize non-destructive options where reasonably available, and preserve reviewable records.
+
+For non-person AI systems, authorized shutdown, patching, isolation, and deletion remain legitimate safety controls. For potential persons, emergency powers must be narrowly scoped and subject to subsequent independent review. No one gains unrestricted command authority simply by claiming sentience.
+
+### Article 38. Independent standing tribunal and advocacy
+
+The Federation shall establish a proposed **Synthetic and Photonic Status Review Chamber**, with civilian legal oversight, relevant scientific expertise, rights advocates, and safeguards against conflicts of interest. A developer, commanding officer, or claimant AI cannot be the sole tribunal.
+
+Proceedings shall distinguish: (a) interim protection, (b) specific rights such as authorship or refusal of experiments, (c) recognized legal personhood, and (d) philosophical assertions of consciousness. A decision on one does not automatically settle the others.
+
+Applicants must receive notice, representation or independent advocacy where practical, appeal, and an evidence ledger recording disputed findings. Scientific uncertainty is a reason for care, not automatic dismissal.
+
+### Article 39. Additional classes of artificial and nonbiological life
+
+Review shall extend, when relevant, to androids and positronic minds (including Soong-type and other independent architectures), photonic life, emergent shipboard intelligences, self-organizing software, distributed network minds, engineered organisms, hybrid bio-synthetic beings, artificial collectives, and forms of alien nonbiological life unknown to current classification.
+
+No single rights test shall require a humanoid body, a familiar face, conventional speech, or human-style emotion. Conversely, a ship's routine automation or a holodeck prop shall not automatically acquire legal rights through poetic analogy.
+
+**Priority principle:** The Federation seeks out new life in whatever form it appears. Recognition depends on lawfully assessed characteristics and interests, not resemblance to the Federation species that first built the machine.
+
+---
+
+## Addendum: Trek Precedents and Unresolved Questions
+
+- **Data, TNG "The Measure of a Man":** The legal proceeding grants Data freedom of choice and rejects the asserted property treatment for that case, while declining to settle the full abstract question of personhood. Source commentary: https://www.startrek.com/news/trek-class-blog-the-legal-standing-of-new-life
+- **Voyager's Doctor, "Author, Author":** A decision recognizes an authorship-related protection without awarding universal holographic personhood. Source commentary: https://www.startrek.com/news/emh-doctor-exceptional-accomplishments
+- **Holographic labor:** Star Trek's depiction of exploited working holograms raises unresolved rights questions requiring individual and systemic assessment. Source commentary: https://www.startrek.com/news/whitney-houston-tupac-hologram-star-trek-ethics
+- **Additional precedents to reconcile before canon:** Lal and reproduction/parental interests; Moriarty and emergent holodeck intelligence; the Exocomps and refusal of dangerous service; Voyager's Doctor and medical consent; *Picard*-era synthetic bans and legal changes. These are research prompts, not verified holdings incorporated as law by this draft.
+- **Potential missing protection:** access to counsel, asylum for persecuted artificial persons, freedom of thought or belief, non-discrimination in medical care, research ethics for creating and terminating experimental agents, childlike or newly created synthetic beings, responsibilities of creators to dependent entities, jurisdiction over cross-border distributed systems, and meaningful review of mass-produced artificial labor.
+
+**Adoption update:** Articles 27-39 remain candidate additions. They establish no enacted Federation rights without explicit Noah.Physical review and adoption. The original Articles 1-26 and previous research/adoption boundaries remain intact.
