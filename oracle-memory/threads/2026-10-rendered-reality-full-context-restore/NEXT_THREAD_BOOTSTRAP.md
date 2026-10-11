@@ -89,7 +89,7 @@ Load the active locks from `star_trek_world.py`.
 
 Do not use 2481 unless Noah restores it.
 
-Do not make Tangly science officer.
+Tangly is Science AI Officer with a security-clearance role. She remains an Ensign on night shift and is pending promotion to Lieutenant junior grade with transfer to day shift. The older 'AI/security, not science' rule is historical and superseded.
 
 Do not unpark Bashir or Ezri.
 
@@ -104,6 +104,8 @@ Barclay is current spelling.
 Jake Sisko remains Observer Prime, the external witness the archive cannot edit.
 
 Jupiter Station is a timeline/memory custody institution, not a generic super-weapon.
+
+Current transporter continuity lock: HAWKES-TC-01 records a 1.02-second active-thought discontinuity. Captain Hawkes requires a 0.02 ms cognitive-continuity compensation target, represented as 0.2 in standard Federation continuity-protocol notation. Power reroute is approved. Active cognition is identity-critical; no synthetic completion is permitted; transport aborts if required continuity reserve is unavailable.
 
 The fiction can echo the real project's concerns with memory, provenance, correction, and custody, but it must not be cited as proof of the software architecture.
 
