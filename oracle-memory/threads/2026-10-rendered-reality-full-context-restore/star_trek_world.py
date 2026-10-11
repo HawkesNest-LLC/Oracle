@@ -150,8 +150,8 @@ WORLD = {
 
         "tangly": Character(
             name="Tangly",
-            roles=["AI officer", "security role"],
-            notes="Current canon: AI/security. NOT science officer.",
+            roles=["Science AI Officer", "security-cleared continuity systems oversight"],
+            notes="Current canon corrected 2026-10-10: Science AI Officer with security-clearance role; Ensign on night shift, pending promotion to Lieutenant junior grade and transfer to day shift. Earlier narrower AI/security-only state remains historical.",
         ),
 
         "jake_sisko": Character(
@@ -239,7 +239,7 @@ WORLD = {
 ACTIVE_LOCKS = [
     "Era 2397",
     "2481 demoted unless restored",
-    "Tangly = AI/security, not science",
+    "Tangly = Science AI Officer + security-cleared continuity oversight; Ensign night shift; pending Lt. j.g. day shift",
     "Ashley = wife + First Officer",
     "Bashir/Ezri parked",
     "Voyager Doctor = Station CMO",
