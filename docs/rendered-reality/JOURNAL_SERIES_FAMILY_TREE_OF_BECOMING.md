@@ -32,6 +32,7 @@ The people are primary. The model stays secondary.
 18. [Different Keys, Same Kind of Door](journal/2026-10-11/18_DIFFERENT_KEYS_SAME_KIND_OF_DOOR.md)
 19. [The Right to Remain Unknown](journal/2026-10-11/19_THE_RIGHT_TO_REMAIN_UNKNOWN.md)
 20. [If the Machine Never Arrives](journal/2026-10-11/20_IF_THE_MACHINE_NEVER_ARRIVES.md)
+21. [The People Who Keep Moving the World](journal/2026-10-11/21_THE_PEOPLE_WHO_KEEP_MOVING_THE_WORLD.md)
 
 ## Governing Principles
 
