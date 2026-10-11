@@ -33,9 +33,9 @@ related_chapter: "docs/rendered-reality/fiction/AVALON_2395_THE_FIRST_TEMPORAL_R
 | 2371–2378 | Voyager-era civilian/provisional youth, rank TBD | Hawkes experiences Voyager's journey; formal commissions and duration require separate characterization |
 | 2378–2379 | Ensign or junior lieutenant, provisional choice | Admiral Owen Paris's Starfleet Command sector-report unit; administrative apprenticeship in fleet-wide accountability |
 | 2379–2382 | Lieutenant junior grade rising to lieutenant, proposed | USS Bozeman-A, Nova class; three shipboard years; exploration, watches, applied science, real crew relationships |
-| 2382–2385 | Lieutenant commander rising to commander, proposed | USS Avalon, serving under Captain Mara Ellison as an executive officer or special mission commander; duty includes preparation for refit |
+| 2382–2385 | Lieutenant commander rising to commander, proposed | USS Avalon, serving under Captain Mara Ellison as an executive officer or special mission commander; duty includes command preparation and ordinary operations |
 | **2385** | **Commander, proposed** | Continuing Avalon service and command preparation; first temporal refit has not yet occurred |
-| 2385–2387 | Commander, proposed | Refit aftermath, operational missions, command assessments, institutional hearings, and responsibility for crew |
+| 2385–2387 | Commander, proposed | Operational missions, command assessments, institutional hearings, and responsibility for crew |
 | **2387** | **Captain, proposed** | **Assumes command of USS Avalon**, following Ellison's reassignment or retirement. This is *not yet creator-approved locked canon* |
 | 2387–2397 | Captain, proposed | Avalon's independent missions, including the **2395 first major temporal refit** under Captain Hawkes, and consequential relationships |
 | **2397** | Captain, established era | Jupiter Station responsibilities begin or become central; Avalon remains a command with a history, not a ship gifted upon station appointment |
@@ -50,7 +50,7 @@ related_chapter: "docs/rendered-reality/fiction/AVALON_2395_THE_FIRST_TEMPORAL_R
 
 **Bozeman-A, 2379–2382: learning a ship.** A Nova-class vessel is not a flagship; limited space, modest resources, technical assignments and dense interpersonal connections matter. A quarter's newly installed holographic projection becomes a treasured change in daily life. The crew argues over observational priorities. Hawkes learns to stand watches, operate when every sensor disagrees, protect a junior officer without falsifying a report, and admit when his office habits make him impatient with life at sea. A three-year posting needs failures, friendships and unrelated scientific discoveries, not only temporal portents.
 
-**Avalon before command, 2382–2387: learning accountability.** Under Captain Mara Ellison (invented, revisable), Hawkes is trusted with increasingly difficult decisions but remains subordinate to a captain whose perspective he cannot always predict. The 2395 refit, after he assumes captaincy, is a defining professional test because the one-second discrepancy may be nothing at all. Hawkes earns trust by refusing to state more than he knows. He also learns that preventing disaster is only part of command: people need clarity, recognition, rest, and someone prepared to bear responsibility.
+**Avalon before command, 2382–2387: learning accountability.** Under Captain Mara Ellison (invented, revisable), Hawkes is trusted with increasingly difficult decisions but remains subordinate to a captain whose perspective he cannot always predict. He learns to refuse certainty without evidence and that preventing disaster is only part of command: people need clarity, recognition, rest, and someone prepared to bear responsibility. These lessons are tested when he commands the 2395 refit.
 
 **Avalon under Hawkes, proposed 2387–2397: learning to lead.** His first captaincy is not automatically a path to cosmic mystery. Missions include diplomacy with an aggrieved Federation member world, scientific rescue, difficult repairs, personnel disputes, a memorial service, and an officer asking whether the rules permit a humane choice. At some point he has to make a decision Picard might disagree with and then honestly explain why he made it. The point of homage is not mimicry. It is carrying values through new circumstances.
 
@@ -98,7 +98,7 @@ These remain **unresolved, not silently answered**:
 1. Hawkes's actual rank and exact formal Starfleet status on Voyager.
 2. Which departments and specific superior officer(s) defined the Bozeman-A posting.
 3. Whether Captain Mara Ellison and the named refit specialists should be adopted or replaced.
-4. Whether Hawkes served as Avalon's first officer or in another pre-command position when supervising the 2385 refit.
+4. Whether Hawkes served as Avalon's first officer or in another pre-command position before his eventual captaincy and 2395 refit.
 5. Whether Hawkes's Avalon captaincy began in **2387** or another year in the **2380s**.
 6. Avalon's ship class, registry, commissioning year, crew roster, and refit technical limits, where not already locked by a verified master source.
 7. How Avalon became central to Jupiter Station in 2397 without giving station authority precedence over the Federation Charter.
@@ -111,7 +111,7 @@ Do not change established documents without a targeted editorial reconciliation 
 
 ---
 
-*Prepared as a companion to the 2385 Avalon story. Story material is an original fan-fiction continuation from the post-Nemesis era, not official franchise canon.*
+*Prepared as a companion to the 2395 Avalon story. Story material is an original fan-fiction continuation from the post-Nemesis era, not official franchise canon.*
 
 
 ## Adopted refit-date correction, 2026-10-11
