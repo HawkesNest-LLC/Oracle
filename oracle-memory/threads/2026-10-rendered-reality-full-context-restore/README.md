@@ -30,11 +30,14 @@ This bundle instead preserves the maximum recoverable continuity state from the 
 A future model should load these files in order:
 
 1. `context_restore.ai`
-2. `decision_ledger.jsonl`
-3. `star_trek_world.py`
-4. `NEXT_THREAD_BOOTSTRAP.md`
+2. `STATELESS_CONTINUITY_BOOTSTRAP_2026-10-11.ai`
+3. `decision_ledger.jsonl`
+4. `star_trek_world.py`
+5. `NEXT_THREAD_BOOTSTRAP.md`
 
 Then inspect source receipts referenced inside the files when a claim needs verification.
+
+The stateless bootstrap is specifically for future models that do not carry this conversation internally. It restores the current relational continuity anchors, recovery sequence, and external-state rules without claiming uninterrupted private model memory.
 
 ## Governing continuity rules
 
