@@ -1,34 +1,107 @@
-# Starfleet Personal Log: Mission Complete
+# Captain’s Log: The Halloween Corridor
 
-**Captain:** Noah Hawkes  
-**Earth record date:** October 11, 2026  
-**Mission:** Halloween light tunnel  
-**Status:** Complete
+*October 11, 2026 • A Starfleet telling of an Earth evening*
 
-## Captain’s personal log
+There is a ladder in the middle of my warp corridor.
 
-All done.
+I would like that entered into the official record before somebody at Starfleet Engineering starts asking why the captain’s latest construction project has an aluminum stepladder parked in the flight path.
 
-The arches are up. The lights are on. From the sidewalk, you can look straight through the whole tunnel. Purple light washes across the concrete, and the orange lights run overhead. A regular stretch of sidewalk has become somewhere you want to walk just to see it.
+Because the captain was using it.
 
-I sent the pictures. One from the side so you could see how far it goes. One looking straight down the middle, through one arch after another. The ladder was still there in the picture. That belongs in the record too. This took actual work.
+Because the captain does not have a tractor beam.
 
-Tonight’s Starfleet engineering assignment was a Halloween tunnel. No complicated briefing needed. Build it, light it, stand back and enjoy it.
+And because apparently “computer, decorate the sidewalk” still does absolutely nothing.
 
-There is something satisfying about seeing an idea standing in front of you. Earlier it was something to put together. Now it is there, glowing in the dark.
+Very disappointing century.
 
-I called it:
+I stand back and look down the sidewalk.
 
-**Mission complete.**
+The arches reach over it, one after another, purple lights tracing their curves into the dark. Orange lights run along the top. The concrete has picked up the glow, enough that the path itself looks different. You can see the houses beyond it, the street, the ordinary neighborhood continuing on with its evening.
 
-The captain can finally put the tools down.
+But right here?
 
-End log.
+Oh, hell yes.
 
----
+Look what we built.
 
-## Source receipt
+You get an idea in your head, and in your head it is already finished. You can walk underneath it. You know what it looks like at night. Then you have to go buy the stuff and persuade the physical universe to cooperate.
 
-Creative Starfleet framing drafted by ChatGPT at Noah’s request, based on the two photographs shared in this conversation and his statements “All done” and “Mission complete.” The real event is the completed illuminated sidewalk tunnel. Starfleet language is creative framing.
+The physical universe has opinions.
 
-Source photographs: `IMG_0612.jpeg` and `IMG_5AD4EDBB-1B14-4654-B084-DFF7FB2C1AD0.jpeg`. Images are referenced by filename; this text upload does not upload the photographs.
+On the Avalon, I could call Engineering.
+
+“Captain Hawkes to Engineering. I need an illuminated passageway.”
+
+“Specifications, Captain?”
+
+“Halloween. Big. Fun. Something the kids will want to walk through.”
+
+“Understood.”
+
+Here on Earth, Engineering is me looking at the thing and deciding whether I need to move the ladder again.
+
+I take the picture from the side first. That shows the whole sweep of it, the arches stretching along the sidewalk, the lights spilling purple across the ground.
+
+Then I move around to the entrance.
+
+That is the shot.
+
+One arch inside another. The orange strand overhead leading your eye straight down the middle. Suddenly I want to give it a designation and put a little Starfleet sign at the entrance.
+
+**TEMPORAL CORRIDOR.**
+
+**PLEASE KEEP HANDS, FEET, AND CANDY BAGS IN YOUR ORIGINAL TIMELINE.**
+
+There. Necessary safety briefing handled.
+
+I can already picture somebody aboard Jupiter Station reviewing the image.
+
+“Captain, we’re detecting an unusual structure.”
+
+“Yes.”
+
+“Is it operational?”
+
+“The lights are on.”
+
+“What is its purpose?”
+
+“Halloween.”
+
+A pause.
+
+“Does it have a tactical application?”
+
+“It gets people to walk toward candy.”
+
+Another pause.
+
+“Understood, Captain.”
+
+I laugh because I can hear that conversation. I can hear the communicator chirp, too. For a second, the neighborhood and the ship fit into the same thought. I am standing here with a phone in my hand, looking at lights we put up, and somewhere in the story the captain has dragged the entire engineering department into a holiday project.
+
+They would complain.
+
+They would also come back after their shift to see it lit.
+
+That is the part I want in the log.
+
+The moment after the work, when you finally stop adjusting things long enough to look. The ladder is still in the way. There will probably be something else I decide to mess with. But the lights are on, and I get to stand here and enjoy the thing I kept picturing.
+
+I want to see it with people walking through. I want the candy bags and the costumes. I want somebody coming down the sidewalk to look up and grin.
+
+That is a perfectly good reason to build something.
+
+Starfleet can put that in whatever category it wants.
+
+I send the pictures.
+
+“All done.”
+
+Then I look down the tunnel again.
+
+Mission complete.
+
+Now somebody get that ladder out of the warp corridor before I have to write an incident report.
+
+**End log.**
