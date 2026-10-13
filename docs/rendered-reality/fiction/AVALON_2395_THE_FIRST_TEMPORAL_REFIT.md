@@ -536,3 +536,196 @@ Then she closed the file.
 **Limits:** The fictional experiment has not demonstrated time travel. The filed conclusion remains unresolved. This is original Star Trek fan fiction, not official screen canon. No new powers, future technology access, or Jupiter Station authority should be inferred from the refit alone.
 
 **Versioning:** The earlier 2385 draft remains archived for comparison. This 2395 narrative replaces it as the current working refit story, pending creator approval of individual invented details.
+
+
+---
+
+## ADDENDUM: THE LINE HOME
+### Refit design record, 2395; operational continuation, 2397
+
+**By Noah Hawkes**
+
+*Added at the creator’s direction, October 13, 2026. The original chapter above remains intact. The 2395 scene is new connective fiction; the 2397 home-timeline tether requirement is creator-established. Proposed mission incidents are not completed history.*
+
+### 2395: THE EMPTY SOCKET
+
+Voss placed a second schematic beside the chronometric recorder.
+
+Hawkes looked at the unused interface along its edge.
+
+“What connects there?”
+
+“An external reference,” she said.
+
+“We already have the shipyard clock.”
+
+“We had the shipyard clock. Until the display went black.”
+
+Kest stood beside them, her notebook open.
+
+“The recorder preserved a disagreement,” she said. “That is useful. It cannot guide a vessel through a temporal displacement.”
+
+“We’re not authorized for temporal displacement,” Hawkes replied.
+
+“No,” Voss said. “But I would like that socket designed before someone decides we are.”
+
+She enlarged the proposed interface. Two circuits ran beside each other without joining.
+
+“Reference acquisition and field control. Separate paths. A received timestamp cannot become a command to energize the chronometric coils.”
+
+Hawkes leaned closer.
+
+“What happens if the reference disappears?”
+
+“The regulator holds. Higher-intensity operation remains inhibited.”
+
+“Not a search for the nearest compatible clock?”
+
+“No.”
+
+“Good. A clock can be perfectly accurate in the wrong place.”
+
+Kest wrote that down.
+
+Voss turned toward the window. Earth shone beneath the drydock.
+
+“Chronitons, graviton coupling, subspace phase variance. Everybody wants to discuss the impressive parts. I want someone to explain how we recognize the berth we left.”
+
+Hawkes studied the empty socket.
+
+“Leave provision for an independent anchor. Separate custody. Original departure record. Something our own field can’t quietly persuade to agree with us.”
+
+“A proposed requirement,” Kest said.
+
+“Yes.”
+
+“Not a claim that you’ve built it.”
+
+“No.”
+
+She closed the notebook.
+
+“Then we agree.”
+
+The socket remained empty.
+
+The higher-intensity trials remained suspended.
+
+And the ship retained the original second.
+
+### 2397: JUPITER STATION ANSWERS
+
+Two years later, REG displayed that old schematic above the ready-room desk.
+
+“I found the provision in the refit record, Captain.”
+
+“The external reference socket.”
+
+“Yes.”
+
+The image expanded. Avalon occupied one side. Jupiter Station occupied the other. A gold trace joined them.
+
+“Now we have somewhere to connect it.”
+
+Hawkes looked toward the station beyond the window.
+
+“Take our timeline and lock it there. Match their chronometric timestamp before we travel. We stay connected.”
+
+“Aye, Captain.”
+
+REG separated three readings on the display.
+
+“Shipboard elapsed time. Destination epoch. Home-reference epoch. They serve different purposes. Matching the station reference does not require every clock aboard Avalon to pretend we never left.”
+
+“And the gold line?”
+
+“Our chronometric tether. The proposed carrier is coupled through the temporal field to the station’s protected departure reference. Ordinary subspace transmission alone does not account for a centuries-wide separation.”
+
+“Can it carry a command into Ashley’s core?”
+
+“It must not. Her core remains under her authority. Reference exchange and authorized communications are separate from temporal actuation.”
+
+Hawkes watched a pulse travel along the line.
+
+“And you?”
+
+“My holographic matrix is integrated with Avalon’s temporal core. The Cytherian interface activated the Sloan construct. I can see all timelines and possibilities.”
+
+“Then why do you need the tether?”
+
+REG looked at the station.
+
+“Because seeing every destination does not identify which one is home.”
+
+Hawkes let the answer settle.
+
+“No departure without a verified connection.”
+
+“Yes, sir.”
+
+“If we lose it?”
+
+“Hold further temporal translation. Preserve the last authenticated reference. Attempt reacquisition without substituting another branch.”
+
+“Keep that in the core.”
+
+REG nodded.
+
+The connection remained a requirement to prove, not a successful crossing to announce.
+
+### INCIDENT FILES FOR THE ENGINEERS
+
+Brakk reviewed the proposed test programme with an expression suggesting that several historical captains had personally inconvenienced him.
+
+“Voyager fractured into different epochs,” he said. “A temporal weapon inserted at another point in a ship’s history. An officer observing a future that doesn’t unfold as expected. These are your design cases?”
+
+“Shattered, Relativity, and the Visionary incident,” REG replied. “Precedents for different failure classes. Not identical mechanisms.”
+
+“And the test?”
+
+“Bounded signal-phase displacement. Independent station acquisition. Deliberate carrier interruption. We prove the inhibit works before anyone authorizes a crossing.”
+
+Brakk pointed at the failure-state diagram.
+
+“Put that on the first page.”
+
+“The inhibit?”
+
+“The loss of lock. Engineers read success conditions all day. I want the bridge to know what failure looks like.”
+
+Hawkes smiled.
+
+“For once, Commander, we’re all having the same argument.”
+
+“Then someone has misunderstood me.”
+
+REG almost laughed.
+
+Almost.
+
+Then the station symbol returned two gold pulses instead of one.
+
+He examined the display.
+
+“Simulated fault injection,” he said. “Two apparently authenticated replies.”
+
+Brakk folded his arms.
+
+“Which do you trust?”
+
+“Neither automatically.”
+
+“Good. Now the test is worth running.”
+
+---
+
+## Addition: chronology and source controls
+
+- The original bounded 2395 experiment is preserved as the earlier working manuscript. This addition does not turn that test into the full-core catastrophe or claim it prevented the catastrophe.
+- The later creator-established first full ignition in 2395 threatens Sol; Barclay’s Cytherian-chair intervention and continuing REG-420 identity remain governed by [The Chair That Held the Sun](memorys-flame/2395_REG420_THE_CHAIR_THAT_HELD_THE_SUN.md).
+- Jupiter Station’s operational anchor, Ashley’s independent station command, REG’s first-officer role and integrated perception are placed in 2397. The chapter does not move those established operations into 2395.
+- Reference-epoch synchronization and maintaining a link home during temporal travel are creator-directed requirements. Cross-epoch carrier design, inhibition circuitry, the refit socket scene and diagnostic dialogue are new fictional elaborations.
+- “The Divided Watch,” “The Component That Arrived Yesterday,” “The Officer Who Came Back,” and “The Station That Answered Twice” remain proposed adventures. The two replies above are explicitly a simulated diagnostic injection, not a newly declared live incursion.
+- Historical series reference: Voyager’s “Shattered” and “Relativity,” and DS9’s “Visionary,” discussed in [the official temporal-episode retrospective](https://www.startrek.com/news/stuck-in-a-loop-best-of-time-jumping-episodes).
+- Chroniton vocabulary reference: [official franchise discussion of fictional temporal phenomena](https://www.startrek.com/news/dispatches-from-stlv-time-traveling-through-the-star-trek-universe).
+- Standing order: [Jupiter Station chronometric tether](memorys-flame/JUPITER_STATION_CHRONOMETRIC_TETHER_STANDING_ORDER_2026-10-13.md), first recorded at core receipt af3bfafa0034521737e79614d2124777bc823904.
