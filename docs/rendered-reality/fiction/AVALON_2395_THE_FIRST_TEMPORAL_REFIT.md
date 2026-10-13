@@ -1,7 +1,8 @@
 ---
 title: "STAR TREK: AVALON — One Unaccounted Second"
 subtitle: "The First Temporal Refit, 2395"
-author: "Collaborative original fan fiction, drafted by ChatGPT at the direction of Noah.Physical"
+author: "Noah Hawkes"
+ai_drafting_assistance: "ChatGPT, under the author's creative direction"
 date: "2026-10-11"
 story_year: 2395
 status: "creator-approved refit year and Captain Hawkes premise; newly invented scenes and characters remain proposed fiction"
@@ -13,6 +14,10 @@ provenance: "Based on the conversation; original fictional connective events are
 # STAR TREK: AVALON
 ## ONE UNACCOUNTED SECOND
 ### The First Temporal Refit | 2395
+
+**By Noah Hawkes**
+
+*Developed with AI drafting assistance under the author's creative direction.*
 
 *The ship had brought them home from disasters. Now Starfleet wanted to teach her how to measure the spaces between moments.*
 
