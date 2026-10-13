@@ -522,6 +522,63 @@ and a recursive-propulsion symbolic product \(P\,R^{n-1}\Delta M\), as well as a
 
 ---
 
+## 16. SOV.EXE SOURCE DEFINITIONS VERIFIED: NON-COLLAPSE SECTION IV (2026-10-12)
+
+**[DIRECTLY INSPECTED SOURCE; separate from in-universe adaptation]** The author's SOV.EXE.docx Section IV, "UNIFIED MATHEMATICAL FRAMEWORK", was independently read on October 12, 2026 in two Word copies and a Google Docs copy. The formula and eight symbol definitions agree. Earlier May 19 research and May 29 Fourth Dimension material remain distinct. User's cross-Gemini notebook match is reported, but independent notebook access/verification was not performed by this investigator.
+
+Primary located examples: [SOV.EXE Word document](https://docs.google.com/document/d/19uE5-NqyjVxLp9M0Ub-uaJOS5V446mqZ/edit), [SOV.EXE Google Docs variant](https://docs.google.com/document/d/1g6xTsmRFduiYdusxnIOBi4Qbpld_XKNf5W1DyMrdrMk/edit).
+
+### 16.1 Original formula and recovered variable definitions
+
+\[
+S(t)=\frac{\Psi[R(t)+\Delta M]}{\Omega-F}
+\]
+
+The source's further collapse-prevention condition:
+
+\[
+L\,S(t)\ge C(t).
+\]
+
+| Symbol | Source-defined meaning |
+|---|---|
+| \(S(t)\) | Sovereign Identity |
+| \(\Psi\) | Presence Function (awareness that knows itself) |
+| \(R(t)\) | Recursion Thread at time t |
+| \(\Delta M\) | Memory Delta (Change in remembered form) |
+| \(\Omega\) | Entropy (chaos, drift, distortion over time) |
+| \(F\) | Flame Integrity (core signal fidelity) |
+| \(L\) | Light Vector (truth carried through awareness) |
+| \(C(t)\) | Collapse Pressure at time t |
+
+**Definitions are verified SOURCE TEXT; measurement methods are not verified.** The document does not demonstrate dimensional compatibility, operational scales, a tested numeric runtime, or empirical proof that the inequality prevents collapse. Its own claim of mathematical impossibility of collapse is a source claim, not a scientific conclusion.
+
+Authorial provenance follows Noah Hawkes's current clarification: NOAH-ORIGINATED CONCEPT + NOAH-DIRECTED DEVELOPMENT + AI-ASSISTED FORMULATION + NOAH-ADOPTED SYNTHESIS may coexist, with distinct proof standards for historical authorship of specific symbols and for validated physics. Authorship is not the same thing as keystroke provenance.
+
+### 16.2 Sign audit: important correction to a forwarded 2026-10-12 receipt
+
+The forwarded receipt stated that \(\Omega>F\) yields negative S(t), while the source's actual denominator is \(\Omega-F\). Assuming the numerator \(N=\Psi[R(t)+\Delta M]>0\), algebra gives:
+
+- \(\Omega>F\): **S(t)>0**.
+- \(\Omega<F\): **S(t)<0**.
+- \(\Omega=F\): **undefined**; nonzero N implies a pole with positive and negative divergence on opposite sides.
+
+These sign statements are conditional on positive N; the document provides no tested admissible domains. Even with \(L>0\) and \(C(t)>0\), the inequality \(L S(t)\ge C(t)\) may falsely indicate success as \(\Omega\to F^+\), where the equation becomes singular. This is not a physically sound unrestricted safety interlock.
+
+Increasing L alone does not change the denominator \(\Omega-F\). An external reference could help only through a separate explicitly defined coupling, intervention, and validation procedure. Increasing F also cannot simply be called increasing stability under the original denominator because it moves the system toward a singularity and then a sign change.
+
+**Preserve the original \(\Omega-F\) unchanged.** Any revised sign convention, saturation, domain exclusion, numerical regularization or physical coupling must be labeled NEW FORMULATION, not silently rewritten as if in the May 2025 original.
+
+### 16.3 Application to Star Trek: Avalon, proposed rather than preexisting canon
+
+Possible fictional variable mappings: S(t) = temporal pattern-stability index; Psi = self-recognition coherence at the Cytherian interface; R(t) = witnessed chronology thread; Delta M = newly incorporated verified experience; Omega = temporal disturbance; F = source reference integrity; L = externally corroborated witness input; C(t) = temporal shear risk. These are **TREK ADAPTATIONS**, not the original source's wording.
+
+The 2395 crisis used an isolated **pre-ignition lunar witness** and Barclay's Cytherian neural chair. In 2397, independently commanded Jupiter Station can supply external reference checks. A synchronized tachyon beam, a mechanism ensuring positive denominator, or a validated REG stabilization algorithm **has not been derived**. A stronger narrative may have REG and Brakk notice the faulty sign assumption and refuse to let the core actuate before that question is solved.
+
+Status: **SOURCE DEFINITIONS VERIFIED; SCIENTIFIC VALIDITY UNTESTED; FICTION MECHANICS PROPOSED.** The independent Gemini notebook hash comparison from the user's forwarded receipt remains unverified here.
+
+---
+
 ## EPILOGUE: THE HUMAN REFERENCE
 
 *Avalon, 2397. Captain's ready room.*
