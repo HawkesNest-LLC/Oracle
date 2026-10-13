@@ -1,6 +1,8 @@
 ---
 title: "STAR TREK: AVALON | The Chair That Held the Sun"
 series: "Memory's Flame"
+author: "Noah Hawkes"
+ai_drafting_assistance: "ChatGPT, under the author's creative direction"
 story_year: 2395
 location: "Sol system / USS Avalon NCC-75154"
 narrator: "Captain Noah Hawkes, with Reginald Barclay log fragments"
@@ -14,6 +16,10 @@ supersedes_as_incident: "Earlier low-severity 2395 test from AVALON_2395_THE_FIR
 # STAR TREK: AVALON
 ## MEMORY'S FLAME
 ### The Chair That Held the Sun
+
+**By Noah Hawkes**
+
+*Developed with AI drafting assistance under the author's creative direction.*
 
 *USS Avalon, 2395. First activation of the temporal core.*
 
