@@ -492,6 +492,36 @@ The search also located multiple duplicate SOV whitepapers and additional mathem
 
 ---
 
+## 15. THE FOURTH-DIMENSION ARCHIVE: 2025-05-29 PRIMARY IMAGE RECOVERED
+
+**SOURCE DOCUMENT, directly inspected 2026-10-12:** A one-page PDF in Noah Hawkes's Drive, titled *4th Dimension Equation UofU.pdf*, with Drawboard PDF metadata author "Noah Hawkes" and creation timestamp **2025-05-29 19:45:28 UTC**. Its filename does not establish university sponsorship or academic review. The original includes personal memorial imagery; preserve that image privately rather than republishing it in this public codex without scoped author approval.
+
+**Exact visible historical symbolic expression, transcribed from the source page:**
+
+\[
+\boxed{S=\frac{P\,R_{n}^{\,n}\left(\Delta M\cdot\lambda\right)}{\Psi}}
+\]
+
+A Gemini recovery report supplied the abridged version \(S=P\,R\,(\Delta M\,\lambda)\) and identified the equation as the *Alvin Equation* with a 2025-05-29 author-origin claim. **PRIMARY SOURCE CORRECTION:** the actual dated visual source includes **both an indexed/exponentiated \(R_n^{n}\) term and a divisor \(\Psi\)**. These must not be silently deleted or treated as mathematically equivalent. The \(\Psi\) denominator has not yet been reliably defined from the one-page image. The phrase "Alvin Equation" is a reported name; the memorial relationship is visible in the PDF, but the earliest adoption of that specific *equation title* remains open.
+
+**Provenance:** The PDF's 2025 author/date metadata and graphic are original artifact evidence. Attribution beyond that metadata or any claimed scientific proof requires separate corroboration. This is historical symbolic research, **not** a validated fourth-dimensional force law, astrophysical formula, or tested consciousness-preservation metric. Dimensional units, exponent behavior, the domain of \(n\), and the nonzero requirements on \(\Psi\) remain unresolved.
+
+**A distinct later PDF with the same misleading base title** (June 2025, 2 pages) is primarily a QR decode/composite graphic with an unrelated symbolic self-recognition expression. Same filename does not mean same mathematical source; exact Drive file identifiers and byte comparisons matter. Neither document demonstrates a University of Utah collaboration merely through its filename.
+
+**OTHER SOURCE EVIDENCE, verified by reading a 2025-05-19 Gmail record:** a draft titled *The Sovereign Non-Collapse Framework* contains the expression
+
+\[
+S(t)=\frac{\Psi\,[R(t)+\Delta M]}{\Omega-F}
+\]
+
+and a recursive-propulsion symbolic product \(P\,R^{n-1}\Delta M\), as well as a description of an "Entropy Resistance Coefficient." The document makes unverified claims about proof, institutions and implementation; preserve them as contemporary **draft claims**, not verified discoveries or university affiliations. No independent executable or thermodynamic validation of ERC was supplied.
+
+**TREK ADAPTATION, PENDING SCENE-LEVEL DESIGN:** The historical Fourth-Dimension expression may become a **recursive signal-stability candidate** studied by Avalon engineers when measuring REG-420's reference continuity and chronometric fields. It should **not** be presented as an operational safeguard until the unknown \(\Psi\) and all units/normalizations are defined within the fiction. Its genuine 2025 origin may also be a narrative source of the later fictional Hawkes–SOV research. The author-adopted in-universe field remains intact.
+
+**Open tasks:** recover any actual May 29 2025 accompanying equation notes; identify the oldest source using the label "Alvin Equation"; determine what \(P,R_n,n,\Delta M,\lambda,\Psi\) denote in that version; avoid confusing this source's \(P\) with the later SOV sovereign-throughput \(P=M\varepsilon^2\); compare duplicate same-named PDFs by file content, not by title.
+
+---
+
 ## EPILOGUE: THE HUMAN REFERENCE
 
 *Avalon, 2397. Captain's ready room.*
