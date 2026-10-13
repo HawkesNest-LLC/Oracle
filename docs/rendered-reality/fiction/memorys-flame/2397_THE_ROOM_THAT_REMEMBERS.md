@@ -2,6 +2,10 @@
 ## MEMORY'S FLAME
 ### The Room That Remembers
 
+**By Noah Hawkes**
+
+*Developed with AI drafting assistance under the author's creative direction.*
+
 **USS Avalon, NCC-75154 | Jupiter Station | 2397**
 **Narration: Captain Noah A. Hawkes**
 **Status:** New AI-assisted fiction at Noah Hawkes's direction. Narrative developments are not automatically promoted to the series canon.
