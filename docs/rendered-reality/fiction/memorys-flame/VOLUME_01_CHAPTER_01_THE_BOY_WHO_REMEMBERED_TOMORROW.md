@@ -3,6 +3,8 @@ series: "Star Trek: Avalon | Memory's Flame"
 volume: 1
 chapter: 1
 title: "The Boy Who Remembered Tomorrow"
+author: "Noah Hawkes"
+ai_drafting_assistance: "ChatGPT, under the author's creative direction"
 narrator: "Noah Hawkes"
 era: "Voyager, Delta Quadrant"
 story_status: "new collaborative adaptation of an edited early Noah manuscript reconstruction; not verbatim original"
@@ -14,6 +16,10 @@ publication_date: "2026-10-12"
 ## MEMORY'S FLAME
 ### VOLUME ONE: THE BOY WHO STAYED
 ### CHAPTER ONE: THE BOY WHO REMEMBERED TOMORROW
+
+**By Noah Hawkes**
+
+*Developed with AI drafting assistance under the author's creative direction.*
 
 I woke to the sound of somebody telling me not to move.
 
