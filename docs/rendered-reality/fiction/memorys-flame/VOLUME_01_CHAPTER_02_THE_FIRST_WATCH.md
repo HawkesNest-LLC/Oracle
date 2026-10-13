@@ -3,6 +3,8 @@ series: "Star Trek: Avalon | Memory's Flame"
 volume: 1
 chapter: 2
 title: "The First Watch"
+author: "Noah Hawkes"
+ai_drafting_assistance: "ChatGPT, under the author's creative direction"
 narrator: "Noah Hawkes"
 era: "Voyager, Delta Quadrant"
 story_status: "new collaborative novel fiction; not text recovered from the original handwritten manuscript"
@@ -14,6 +16,10 @@ continues: "VOLUME_01_CHAPTER_01_THE_BOY_WHO_REMEMBERED_TOMORROW.md"
 ## MEMORY'S FLAME
 ### VOLUME ONE: THE BOY WHO STAYED
 ### CHAPTER TWO: THE FIRST WATCH
+
+**By Noah Hawkes**
+
+*Developed with AI drafting assistance under the author's creative direction.*
 
 I was late.
 
