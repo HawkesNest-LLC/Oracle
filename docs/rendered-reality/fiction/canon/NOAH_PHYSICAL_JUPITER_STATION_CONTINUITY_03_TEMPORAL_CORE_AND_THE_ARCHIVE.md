@@ -1,3 +1,5 @@
+> **Current fiction canon · October 14, 2026:** The [creator reconciliation](https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/archives/JUPITER_STATION_CANON_RECONCILIATION_2026-10-14.md) supersedes conflicting dated claims below. The Long Way Home novel is official. Ellie has settled appearance and lieutenant junior grade rank; Tangly is retired. REG is first officer; Sorev is Vulcan science officer and second officer; Brakk is Tellarite. Both tender crews were recovered aboard Enterprise-B. The displaced buoy remains destination-unresolved. HAWKES-TC-01 is the 1.02-second transporter thought-loss scenario. Holo Rights Initiative Section 7 is fictional law with wording unrecovered. Senna's pronouns remain open. Retained historical prose is not current authority where it conflicts.
+
 # JUPITER STATION AND USS AVALON
 ## My continuity record, Volume III: The Temporal Core, the million Federations, and the right to know without the right to interfere
 **Active fictional era:** 2397
