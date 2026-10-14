@@ -497,9 +497,9 @@ Three section clocks. One central integrator. A separate beacon receiver.
 
 The failure timestamp preceded the laboratory containment. It coincided with the displacement of Enterprise’s buoy.
 
-Beyond the viewer, the buoy reappeared through the closing seam. Its recorder reported eleven minutes while only four had passed outside.
+The buoy remained displaced. We had no authenticated destination or recovery report.
 
-Johnson ordered it recovered.
+Johnson kept its last measured position in the incident record.
 
 Then he asked Rusk whether his return coordinates were valid.
 
@@ -2110,3 +2110,8 @@ I looked around the table at my crew.
 “All right,” I said. “What do you do?”
 
 **End episode.**
+
+
+## Creator correction · October 14, 2026
+
+This novel edition is the official selected story under Noah.Physical's current ruling. Both tender continuations and their crews reached Enterprise-B's shuttle bay; subsequent lives remain unprovided. The earlier buoy reappearance, elapsed-time comparison, and recovery order are superseded: the buoy was temporally displaced, with destination and recovery unresolved. Earlier text remains retrievable in commit history. See [current canon reconciliation](../../archives/JUPITER_STATION_CANON_RECONCILIATION_2026-10-14.md).
