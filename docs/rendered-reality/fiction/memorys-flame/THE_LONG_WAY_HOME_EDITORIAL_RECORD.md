@@ -3,7 +3,7 @@
 Author and creator authority: Noah Alexander Hawkes.  
 Development: Noah-directed, AI-assisted novel-style adaptation.  
 Prepared: October 13, 2026.  
-Status: revised manuscript for creator review. Publication of this file records the revision; it does not silently replace all prior drafts or promote every new scene into series canon.
+Status: official selected story under Noah.Physical's October 14, 2026 ruling, with the explicit correction recorded below. The original October 13 editorial review status is superseded; earlier drafts remain historical.
 
 ## Scope
 
@@ -61,7 +61,7 @@ The action culminates in release of Avalon, Asterion's own return, and safe with
 - Complete ancestry from the local Ganymede branch to Asterion's departure history is not globally certified. The navigation resolution relies on preserved departure-reference succession and a live authenticated endpoint, not identical names or appearance.
 - The issuing authority and legal validity of Asterion's mission orders require independent review.
 - Rusk's later disciplinary outcome is not supplied.
-- Neither the fate of the two tender continuations nor Enterprise-B's eventual fate is resolved.
+- Both tender continuations and their crews were recovered into Enterprise-B's shuttle bay. Their subsequent lives and Enterprise-B's eventual fate remain unresolved. The communications buoy's destination and recovery also remain unresolved.
 - The complete reference-receiver design and maximum capacities of Asterion's systems remain unknown.
 - Department of Temporal Investigations review is pending. No automatic clearance of Hawkes's choices is claimed.
 - The competing Jupiter/Avalon REG-origin manuscripts are not reconciled by this episode. Only the creator-established Avalon 2395 sacrifice is recalled.
@@ -85,3 +85,8 @@ The original source file records authorship as it appears in the conversation: t
 - Manuscript Git blob SHA: `c98f5c9a909bb4d1f24179c8a68eaccb06c3512f`.
 - The manuscript was fetched at its commit and compared exactly against the submitted UTF-8 content. Match confirmed.
 - No existing repository file was overwritten by these creations. The new action climax and resolved arrival are retained as a reviewable adaptation with this explicit lineage.
+
+
+## October 14 creator reconciliation
+
+The manuscript is now the official selected story. Its buoy reappearance, elapsed-time reading, and recovery order were superseded by the creator's instruction that temporal displacement remains destination-unresolved. The previously recorded word counts, hashes, and publication receipts describe the October 13 edition, not the corrected current bytes. [Reconciliation and open source gaps](../../archives/JUPITER_STATION_CANON_RECONCILIATION_2026-10-14.md).
