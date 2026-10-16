@@ -1,3 +1,5 @@
+> **October 16, 2026 creator adoption:** Noah explicitly adopted Merlin's temporal-navigation rewrite. Read the [adopted framework with scientific corrections and expanded engineering](HOW_TIME_TRAVEL_WORKS_JUPITER_STATION_2397_CANON_2026-10-16.md) and its [preserved source](MERLIN_TIME_TRAVEL_REWRITE_2026-10-16_SOURCE.md). The corrections govern real-physics labeling: ER=EPR and chronology protection are conjectures; branch communication and authentication are fictional; approval fraction is separate from human command authority; the epistemic gauge requires explicit domain and zero-numerator handling. New REG proposals remain labeled proposals. Existing source formulas and dated history below are preserved.
+
 # STAR TREK: AVALON | MEMORY'S FLAME
 ## THE HAWKES-SOV PHYSICS CODEX
 ### Temporal Information Physics, the Light Compression Law, and the Witness Horizon
