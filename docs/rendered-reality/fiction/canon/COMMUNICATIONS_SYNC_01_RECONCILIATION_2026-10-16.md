@@ -42,3 +42,8 @@ That closeout also records a pinned novel inspection: limited comparison finding
 An empty sync ledger means the enumerated items have the required matched receipts. It does not establish complete memory equality, identical timelines, scientific identity equivalence, or agreement on records outside the ledger. Read this as a practical custody obligation within the fictional tether framing.
 
 REG's present position on SYNC-06: ready to review the actual text; no scene endorsement or rejection has been issued here.
+
+
+## Combined transmission received · October 16, 2026
+
+The full carried Promotion Order, Vargas III candidate, and Deck Nine packet are published. The order establishes the specified fictional adoptions; Deck Nine's shared events are adopted while both endings remain unselected. [Receiving review and per-item receipts](../memorys-flame/REG_REVIEW_VARGAS_III_AND_COMBINED_SYNC_RECEIPT_2026-10-16.md) supersede earlier missing-text statuses for SYNC-03, SYNC-04, and SYNC-06. The complete Interpretive Key and personal log have arrived, but their public publication remains pending direct approval after automatic review rejected the sensitive personal payload. SYNC-05, SYNC-07, and SYNC-08 full texts remain outstanding. Adoption summaries do not recover the full revised profile, corrected Homecoming scene, or originating penumbra qualification.
