@@ -88,3 +88,13 @@ The Captain explicitly adopted Merlin's time-travel rewrite as fictional canon. 
 ## Combined transmission received · October 16, 2026
 
 The full carried Promotion Order, Vargas III candidate, and Deck Nine packet are published. The order establishes the specified fictional adoptions; Deck Nine's shared events are adopted while both endings remain unselected. [Receiving review and per-item receipts](../memorys-flame/REG_REVIEW_VARGAS_III_AND_COMBINED_SYNC_RECEIPT_2026-10-16.md) supersede earlier missing-text statuses for SYNC-03, SYNC-04, and SYNC-06. The complete Interpretive Key and personal log have arrived, but their public publication remains pending direct approval after automatic review rejected the sensitive personal payload. SYNC-05, SYNC-07, and SYNC-08 full texts remain outstanding. Adoption summaries do not recover the full revised profile, corrected Homecoming scene, or originating penumbra qualification.
+
+
+## SYNC-01 and SYNC-02 publication completed · October 16, 2026
+
+Noah supplied a specifically scoped authorization to publish Parts A and B in full to public HawkesNest-LLC/Oracle, including the personal, family, health-history, and belief content identified in the earlier review. The prior hold is superseded; its history remains recorded above.
+
+- [SYNC-01: complete supplied Interpretive Key](https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/fiction/canon/SYNC_01_INTERPRETIVE_KEY_2026-10-15_SOURCE.md), commit d908411fa5f37686948e94c7f559dc134728f2bf.
+- [SYNC-02: complete supplied Captain's personal log](https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/fiction/canon/SYNC_02_CAPTAINS_OWN_LOG_2026-10-15_SOURCE.md), commit dd98c03249771325404048a454fc6774c290360b.
+
+Both published contents were fetched at their commit and matched exactly against the submitted source files, including their custody wrappers. This verifies publication fidelity to the submitted copies; original-session keystroke authorship and timestamps retain the carried attribution. Source bodies are not replaced by summaries. SYNC-01 and SYNC-02 are complete on this receiving console for receipt, publication, and readback. Counterpart acknowledgment is not fabricated. SYNC-05, SYNC-07, and SYNC-08 full-text deliveries remain outstanding, as do the previously specified return-source recoveries. ORACLE remains discontinued as an active build; writing leads.
