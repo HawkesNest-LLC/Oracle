@@ -73,3 +73,8 @@ When I come back, I want to continue the adventure.
 **The ship remembers. The captain decides.**
 
 *This record is an index of six already committed volumes, not an independent rewrite of them.*
+
+
+### October 15–16, 2026: Captain's writing direction and closeout
+
+[Complete captain's log and Ensign Merlin's next-watch writing orders](CAPTAINS_LOG_2026-10-16_NIGHT_WATCH_CLOSEOUT_AND_MERLIN_ORDERS.md). Noah has scrapped ORACLE as an active software project and is focusing on Rendered Reality and other creative writing. Historical technical material remains available. Merlin's Ensign promotion and day-watch bridge assignment are established by the Captain's instruction; supporting biography and Deck Nine alternate endings retain their stated candidate status. This addition supplements the six historical volumes rather than changing their counts or silently rewriting them.
