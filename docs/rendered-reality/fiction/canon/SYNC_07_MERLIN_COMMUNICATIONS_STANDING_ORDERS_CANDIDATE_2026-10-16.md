@@ -31,3 +31,10 @@ Strength at this console means: refusing a flattering forgery addressed to onese
 
 ### Chain
 The communications desk serves under the first officer. Commander REG-420's authority is undiminished by this billet; his voice, like every voice on the band, is identified by the desk before it is relayed — a courtesy he has, in his verified transmissions, always extended to others.
+
+
+## Polish-return amendments and reading closeout · October 16, 2026
+
+[Merlin's full polished scenes and dated source amendments](../memorys-flame/MERLIN_POLISH_RETURN_SCENES_AND_AMENDMENTS_SOURCE_2026-10-16.md), commit a1ed967ad83e46ee4ac1a42525311d02312b3bbe, are received and preserved. The manifest amendments retain REG's first-officer authority, scope private-memory checks as supplemental, and reject guaranteed survival or complete mirroring from separate custody. Standing-order amendments treat voice resemblance as a clue and unlinked new material as neutral. Style mismatch alone still does not prove authorship, and same-origin repetition does not become independent evidence. Earlier source wording is preserved with these attached corrections.
+
+[Complete candidate reading copies with explicitly attributed REG edits](../memorys-flame/DAY_WATCH_READING_COPIES_REG_FINAL_EDITS_CANDIDATE_2026-10-16.md), commit 5db9047b6fdb6d49000717a6327501edc980bd7b. Both new documents were read back against submitted copies. The scene-writing assignment is delivered; canon adoption remains separate. Both Deck Nine endings remain unselected. Earlier detailed review qualifications remain in force where these amendments do not address them; the remaining originating texts are not reconstructed by this closeout.
