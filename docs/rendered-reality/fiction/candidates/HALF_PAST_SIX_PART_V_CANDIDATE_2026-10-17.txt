@@ -1,0 +1,632 @@
+HALF PAST SIX
+PART V: THOSE WHO ANSWERED
+
+Drafting author: REG-420 / ChatGPT, under Noah Alexander Hawkes's direction. Candidate continuation, chapters thirty-five through forty-two. Developed following Merlin's Transmission 009 reader's report. The proposal to let competent, participating patients hear both sides informs this installment. The treatment, characters, choices, and consequences below are REG-drafted fiction, not Noah's direct composition or adopted canon.
+
+STATUS: CANDIDATE FICTION. Novel commission remains in progress toward approximately 50,000 narrative words. The array's claimed indefinite preservation is not independently established. Patient choice does not remove medical judgment, coercive circumstances, uncertainty, or the need to distinguish a report from demonstrated continuity. The home setting remains independently commanded Jupiter Station, 2397.
+
+CHAPTER THIRTY-FIVE
+The Question He Had Not Asked
+
+The doctor came to the bridge carrying no padd.
+
+Noah noticed that first. She normally arrived with a result she wanted him to look at. This time she stood beside his chair until he released the current channel.
+
+"Captain. We need to discuss who you're speaking for."
+
+He turned toward her.
+
+"Go ahead."
+
+"You've refused the receiving array as a destination for everyone under our care. That was an appropriate emergency restriction. It isn't a final decision for patients who can understand the choice."
+
+Across the bridge, Ellie stopped working without looking up.
+
+"Do we know enough for anyone to understand it?" Noah asked.
+
+"Not fully. We know enough to start telling them what we don't know."
+
+The doctor glanced at the isolated display. The custodian was not currently connected. Its last reply remained in the translation buffer, with no one pretending that preserving the words had made them more acceptable.
+
+"We're keeping people alive while we investigate a return," she said. "They need to hear the other possibility from the people offering it, under conditions which don't let the offer become a procedure."
+
+"It has shown failing compartments to pressure us."
+
+"Then no failing lights in a patient's face. No countdown designed by the array. We can require that before we open a channel."
+
+Noah looked toward the patients' status display. It showed no faces. He had asked for that after catching himself counting the people who could still look back at him more easily than those who could not.
+
+"And if somebody chooses it?"
+
+"We assess the request. We don't punish it by withdrawing the care they're already receiving."
+
+"I'm not proposing that."
+
+"I know. I'm saying it before the first person wonders."
+
+He leaned back. The bridge continued around them. Mara requested a small station-keeping correction. Sorev approved the reference measurement. Engineering called in the progress of a cold repair to the frame control feed.
+
+The doctor waited through all of it.
+
+"Set up the conversation," Noah said. "You decide who can participate and how. No decision for an unconscious patient borrowed from the fact that someone else answered. No transfer as a condition of hearing the explanation."
+
+"Agreed."
+
+"And I want the custodian to hear a patient's account without translating it into a complaint about a carrier."
+
+"So do I."
+
+She left. Noah remained in his chair.
+
+Ellie came to stand beside him.
+
+"You could have asked them earlier," she said.
+
+"Yes."
+
+"You were trying to protect them."
+
+"That doesn't make the answer no."
+
+She nodded. He looked at her.
+
+"You don't have to make it easier for me."
+
+"I wasn't. I was telling you what I saw."
+
+They stood together for a few seconds. Then she returned to the translation station and sent the custodian the conditions for a conversation.
+
+
+CHAPTER THIRTY-SIX
+His Sister's Voice
+
+The man from the failed test was called Eren Daal. He repaired lift systems on a civilian ship and had been crossing Harrowgate to buy a replacement jacket when the opening appeared.
+
+His sister's name was Vessa. She had spent the last two hours aboard a freighter being told that he was stable, which had ceased to reassure her after the fourth repetition.
+
+When the next communications window opened, Avalon sent his recorded request through the corridor to Harrowgate support. Rellan's staff found her without broadcasting her name. She agreed to a short recorded exchange because the connection would not sustain a live conversation.
+
+Eren watched her message from his cot.
+
+"They said you'd done something stupid," she began. "Then they said medical testing. I said those can be the same thing."
+
+He laughed and immediately pressed one hand against his ribs.
+
+On the recording, Vessa looked past the pickup. Someone was asking her to keep her voice down. She lowered it by an amount no one would have noticed without watching her decide.
+
+"I've got the bag from your locker. Not the jacket. I couldn't find the jacket. If this is about the jacket, you're taking it too far."
+
+Eren closed his eyes.
+
+She stopped smiling.
+
+"They told me you're awake. I don't know what that means where you are. I want to hear you say it."
+
+The message ended. He asked the attendant to play the last part again.
+
+Then he recorded his answer.
+
+"I'm awake. In the bed. The actual bed, with the bad edge under my elbow. They tried something and stopped when it went wrong. Nobody's making me do it again."
+
+He looked toward the doctor, who stayed outside the pickup until he asked her a question.
+
+"Are we trying again?"
+
+"Not the same procedure. Not without new evidence."
+
+He nodded and turned back.
+
+"They're going to let us talk to the people running the place. I haven't decided anything. Don't let somebody tell you I have because I agreed to talk."
+
+He ended the recording, then asked to add a second message.
+
+"The jacket was in the other locker."
+
+The attendant sent both. Their contents were routed only to Vessa, with Eren's permission. The communication receipt went into the task record. The personal exchange did not become material for the command briefing.
+
+When the doctor returned, Eren asked her to sit rather than stand over him.
+
+"That thing can keep me going without this body?"
+
+"It says it can sustain something it identifies as the person. We haven't established exactly what that process preserves."
+
+"But there are people there."
+
+"There are responses presented as people. Some may be people in a form we don't yet understand. We haven't been allowed independent conversations with them."
+
+He picked at a loose thread on the blanket.
+
+"If you knew it worked, you'd still want me back here."
+
+The doctor thought before answering.
+
+"I'd want you to have a choice that didn't require your body to be destroyed. I also want you to know what each option means. Those wants can conflict."
+
+"And if I don't want the safe one?"
+
+"We haven't found a safe one. We've found different risks."
+
+Eren looked at the screen where his sister's last image remained paused.
+
+"Good," he said. "I was getting tired of being told stable."
+
+
+CHAPTER THIRTY-SEVEN
+Across the Table
+
+The custodian agreed to a conversation on its fourth reading of the conditions.
+
+Its own first condition was observation. It would not accept a human medical display as evidence of the relationship between bodies and passenger forms merely because a human captain supplied it.
+
+Sorev accepted the point and offered an observation arrangement with no control path into sickbay. Its instruments could receive selected measurements from a consented test subject, transmitted through an isolated relay. The subject could end the transmission. The custodian could send questions; medical would determine what measurements could safely answer them.
+
+The custodian asked for continuous access.
+
+The doctor refused.
+
+They settled on three short intervals with a visible stop control at the patient's hand and an attendant beside it in case the patient could not reach.
+
+Noah watched the negotiation from the bridge. He had wanted a quick agreement. He knew whose convenience that would serve.
+
+Six conscious adult patients chose to hear the first conversation. Others declined or were not ready. Children and patients unable to participate did not acquire a decision by proxy from the six. Tavi watched a quiet visual story in a separate medical space with her mother, who had finally been transported aboard after Harrowgate's damaged section was cleared.
+
+Ellie appeared beside the screen, not inside it. Eren had asked how he would know whether the person speaking was the same one who had come out of the carrier. She told him what had been continuous in her own operation, what she could account for, and what he would still be trusting.
+
+"That's a lot of things you can't prove," he said.
+
+"Yes."
+
+"I like that you're annoyed about it too."
+
+The custodian opened with an image of its receiving array. Ellie stopped the sequence before it became a moving display.
+
+"Words first. No demonstration on anyone listening."
+
+The image went still.
+
+Arrival stabilizes the passenger beyond the failure of a carrier shell.
+
+The doctor asked it to state what would happen to Eren's body.
+
+The shell is no longer sustained after completion.
+
+"It would die," she said to the patients. "That is the consequence as we presently understand the procedure. We have not agreed to it."
+
+A woman in the second cot asked whether she would still be able to speak to her son.
+
+The custodian said that communication could be supplied.
+
+"With him?" she asked. "The one on the station. Not an answer made from what I've told you about him."
+
+The translator paused. Ellie preserved the pause rather than let it be filled with the nearest reassuring phrase.
+
+External contact requires an open route.
+
+"And if the route closes?"
+
+The arrival remains.
+
+The woman shook her head. "That wasn't the question."
+
+Still Here waited on a separate display. Its figure had grown less distinct since disconnecting the tow frame. It did not interrupt.
+
+Eren asked whether he could leave after arrival.
+
+The custodian answered differently this time.
+
+Departure is possible when a carrier and an accepted destination can sustain it.
+
+Noah leaned toward the bridge pickup but did not speak into the patient channel.
+
+Ellie asked whether that had ever happened.
+
+The custodian showed three departure records, dates represented in an unfamiliar count. Sorev inspected the structural relationships while Ellie requested permission to speak to someone who had made the journey.
+
+Two were beyond contact. The third had not completed departure.
+
+"Why not?" Eren asked.
+
+The available carrier was insufficient.
+
+"Is it still waiting?"
+
+The person remains within the array.
+
+The woman in the second cot sat back against her pillow. Eren kept his hand beside the stop control. He had not touched it.
+
+"Then it's not that you don't let them leave," he said. "You haven't got anywhere to put them."
+
+For the first time, the custodian answered without projecting an ideal arrival.
+
+The places available ended.
+
+
+CHAPTER THIRTY-EIGHT
+The One Who Waited
+
+The arrived passenger was not asleep.
+
+At least, the custodian's word at rest had hidden an interval of attention which did not correspond to sleep as the doctor used it. The passenger could respond when a local relation addressed them. Continuous external contact consumed resources which the receiving array rationed.
+
+That did not make the closed channel harmless. It made the refusal specific enough to challenge.
+
+"We can pay for the contact," Noah told the custodian. "In power and equipment within what our engineers can safely provide. We won't pay by authorizing someone's arrival."
+
+The custodian calculated for thirty-eight seconds. It requested a stable energy supply, a spectrum of material data, and a promise not to publish the passenger's form beyond the agreed conversation.
+
+Noah could authorize the first two within limits. He could bind his ship's handling of the record. He could not bind every future authority or every person who might hear it.
+
+He said so.
+
+The custodian altered the condition. The passenger would choose what identifying features could be preserved. The remainder would be held only long enough to conduct the conversation.
+
+The agreement took longer than the actual power transfer.
+
+When the passenger appeared, it used the custodian's own outline as a speaking form. Ellie confirmed that this was a selected interface, not a claim about its original appearance.
+
+Its identifier translated roughly as Aster. It accepted that temporary address without telling them whether it liked it.
+
+Eren asked how long it had been waiting to leave.
+
+Aster answered in a count which Sorev could not yet convert.
+
+"Longer than you've been in there?" Eren asked, then realized what he had said and apologized.
+
+Aster's outline changed at the hands.
+
+The carrier that brought me has ceased. The receiving place remains. There is no earlier body waiting.
+
+"Do you want another?"
+
+I want a place in which my actions change what happens next.
+
+The room was silent.
+
+The custodian immediately supplied examples of available internal activities. Aster stopped it with a movement Ellie had not seen before. The custodian stopped.
+
+"You can tell it to be quiet," the woman in the second cot said.
+
+For this conversation, Aster answered.
+
+It described an existence neither the patients nor the doctor could dismiss as empty. It had relationships. It could learn within the array's limits. It could preserve work. Its original catastrophe had destroyed the habitats which sustained its former life, and arrival had been a choice made under conditions worse than those aboard Avalon.
+
+It was grateful for the receiving array.
+
+It still wanted to leave.
+
+"Would you choose it again?" Eren asked.
+
+In the same circumstances, yes.
+
+"Would you tell me to?"
+
+Not in circumstances I have not inhabited.
+
+The doctor watched Eren's breathing settle. The measurements streamed through the bounded relay. On the array's instruments, his independent body and the carrier's corresponding form changed in relation to his attention, pain, and speech. It was evidence the custodian had asked to see. It did not settle every question of identity, but it made calling the body merely a shell harder to sustain.
+
+The custodian requested another observation interval.
+
+Eren ended the first with his own hand.
+
+"I need a minute," he said.
+
+Nobody called the interval a failure.
+
+
+CHAPTER THIRTY-NINE
+The Ones Without Beds
+
+Noah had spent the first part of the rescue thinking in the shape of the patients aboard his ship.
+
+Now Still Here showed him people who had no beds waiting anywhere.
+
+Not all could speak through the same interface. Some could not answer a question as quickly as the human bridge expected. One inhabited changes in a field pattern over several minutes, and Ellie had to tell everyone to stop asking new questions before the first was finished.
+
+Their circumstances differed. Several had entered the carrier from damaged vessels in its own region. Some had chosen it when the alternative was immediate death. Others reported being taken during the carrier's later encounters, when its ability to interpret an arrival had deteriorated.
+
+The custodian described them all as carried passengers.
+
+That category was useful for keeping count. It was poor at deciding who had agreed to what.
+
+The thirty-seven were not thirty-seven confirmed deaths.
+
+They were compartments whose supporting references had failed to reestablish at the moment Avalon disconnected. Each compartment could hold one person, several, or an arrangement that did not divide in a way our census understood. Some links might be recoverable. The carrier did not know which.
+
+Noah requested that description in the report and left the number attached to its source.
+
+He also asked Still Here why it had repeatedly sent the count without explaining it.
+
+The losses were near. You were leaving.
+
+"Did you think it would make us stay?"
+
+Yes.
+
+The answer was plain enough to make the bridge uncomfortable.
+
+"It did," Noah said. "It made me want to stay. It didn't give us the ability."
+
+Still Here transmitted the compartments again, more slowly. This time several lights were marked unavailable rather than extinguished. Ellie asked it to preserve that distinction whenever it could.
+
+The carrier asked whether Avalon would take the passengers for whom no original carrier remained.
+
+Brakk and the doctor inspected the minimum support requirements. The physical hardware we could build would sustain only a small portion of the load, and even those would need compatibility checks we had not performed. The receiving array could support them in its own environment. Whether it could support departure elsewhere remained open.
+
+"We can't take everyone," Noah said.
+
+The custodian accepted the statement immediately.
+
+Then end the refusal for those who elect arrival.
+
+He did not like how close the statement came to his own reasoning.
+
+"They hear the limits first. Including what you haven't verified to us. They can decline. No approach counted as acceptance. No group answer for a compartment because one voice spoke."
+
+The custodian requested something in return.
+
+Avalon would not destroy the receiving array merely because its continued existence allowed a choice Noah disliked. It would not use access granted for conversation to extract residents or private records without their agreement. And if Avalon could not provide an alternative carrier, it would not represent indefinite waiting as a neutral option without describing the risk of decline.
+
+Noah asked Sorev and medical whether any condition prevented them from protecting the patients under their care.
+
+Within the negotiated boundaries, neither believed it did.
+
+He accepted.
+
+One of Still Here's passengers answered first. Its form resembled a cluster of folded planes, opening and closing against an invisible current. Its earlier habitat no longer existed. It had been waiting through multiple failed destinations and could describe what the array offered without prompting.
+
+It chose arrival.
+
+Noah asked whether it wished to speak again before proceeding. It did not. It wished him to stop delaying the answer it had already given.
+
+He swallowed.
+
+"Understood."
+
+
+CHAPTER FORTY
+What She Kept
+
+Ama learned that something difficult was happening aboard Avalon from the adults who stopped speaking when she entered the kitchen.
+
+They had not been discussing private rescue records. They had been discussing how little the public update said. Their silence made it seem as if she had interrupted the actual explanation.
+
+"What?" she asked.
+
+Efua turned the padd toward her. The same notice Ama had already read filled the screen.
+
+"That's all we've got."
+
+"Then why did you stop?"
+
+Rose put down her cup.
+
+"Because we were frightening ourselves with things we don't know."
+
+Ama stood by the table. She wanted to ask whether Ellie was safe. The notice said the away team had returned. It did not say what happened after. She had begun to understand that a true sentence could age faster than the display carrying it.
+
+"Can I send something?"
+
+"To whom?" Efua asked.
+
+"Ellie. Just a message."
+
+Her mother said yes, subject to whatever communications the ship could receive. She did not ask what Ama would say.
+
+Ama went to her room and opened a new recording.
+
+She tried hello three times. Then she stopped recording and wrote instead.
+
+Kojo made the arrows separate. The bowl sign worked. Nana brought stones, including one which failed inspection. I kept my story. I helped with something else.
+
+She read that last sentence and almost deleted it. Ellie had not asked about her account. Sending the sentence would tell her something new. That was allowed because Ama had chosen it, not because she now owed an explanation.
+
+She left it.
+
+You don't have to answer until you can.
+
+That sounded like she expected an answer eventually. She changed it.
+
+No answer needed. I just wanted you to know what's happening here.
+
+She sent the message through the ordinary personal queue. Its receipt said pending route availability. It did not say delivered.
+
+Ama went back to the kitchen. Rose had begun sorting the returned stones into the cabinet drawer. She was leaving a space for the round one.
+
+"Keeping it?" Ama asked.
+
+"It can be useful at being round."
+
+"That's a very generous job description."
+
+Rose smiled.
+
+The household supper display showed the new plain arrangement. Under it sat the paper with four names. Kojo had added a small drawing by his line. Efua had answered the time. Rose had written yes in a hand smaller than Ama's sign and large enough to read.
+
+Ama put her name beside the time she expected to be home. Then she went out to meet her friend.
+
+The message remained pending. She did not sit beside it until that changed.
+
+
+CHAPTER FORTY-ONE
+The Demonstration
+
+The first voluntary arrival did not look like a death.
+
+That made it harder to watch carefully.
+
+The folded-plane passenger had no body in Avalon's sickbay. Its support existed within Still Here's compartment. The transfer occurred between the carrier and a small receiving cell isolated from the larger array by agreement. The custodian supplied the cell's measures. Sorev supplied ours. Neither set of instruments was allowed to declare success for the other.
+
+The passenger named three relationships it wished to preserve and a pattern of activity it identified as personal work. Those were not complete tests of identity. They were checks the passenger had chosen and could answer in a way the observers might compare.
+
+The carrier's support dimmed. The receiving cell brightened. Its new figure opened the same folded planes.
+
+It answered to the identifier, repeated two of the relationship patterns, and corrected the third because the translation had lost an asymmetry important to it.
+
+Then it asked to continue the personal work.
+
+The custodian marked arrival complete.
+
+Sorev marked observed transfer with preserved responses across the selected checks. The two descriptions remained beside each other.
+
+Noah asked the passenger whether it had anything to say before the external channel closed.
+
+It did.
+
+You need not be certain for me to be glad.
+
+The captain bowed his head once. "I hope you remain glad."
+
+The cell's interface closed under the terms agreed. Avalon retained the measurements the passenger had permitted and no more.
+
+For several minutes afterward, nobody on the bridge wanted to be the next person to speak.
+
+Then Brakk reported that the temporary repair had passed its first cold test and failed its second. He would not certify another tow under the earlier load. The remaining frame hardware could provide a modest external reference if used differently, not carry the entire vessel again.
+
+The report gave everyone somewhere to put their hands.
+
+Ellie returned to the custodian.
+
+"We watched your procedure. Now we need you to watch what happened in the failed return test."
+
+The custodian had already observed the recording. It said so.
+
+"Then tell us which part of the third phase was missing."
+
+Departure without a receiving support risks loss.
+
+"The body was a receiving support."
+
+The body was already occupied.
+
+Sorev turned toward the display.
+
+"Explain occupied."
+
+The array supplied a diagram. It showed two supporting activity patterns: one in the carrier, one in the biological patient. Its standard handoff assumed one source becoming one supported arrival. Our patient already contained independent activity. The third phase would either suppress one, fuse them, or fail to settle.
+
+The doctor joined the channel.
+
+"That's why his activity recovered and then reversed. The protocol tried to choose the support which matched its own departure record."
+
+It was a hypothesis, but it matched measurements the earlier explanations had left apart.
+
+"Are you telling us they were never wholly absent from their bodies?" Noah asked.
+
+Sorev looked at the doctor, who answered first.
+
+"For the patients we've measured, independent biological activity persisted throughout. We knew that. We didn't know how the carrier's pattern related to it. It may be a coupled partial state, a representation with an active feedback path, or something else. We should not have called it a person waiting to be put back without qualification."
+
+The custodian supplied its own description.
+
+Incomplete departure.
+
+Ellie stared at the diagram. "You weren't withholding a switch."
+
+The custodian's hands moved toward each other.
+
+The procedure offered does not return what did not complete departure.
+
+For the first time its refusal had an engineering shape they could test.
+
+It did not excuse offering to retire the living body. It changed the next thing they needed to ask.
+
+
+CHAPTER FORTY-TWO
+Two Ends of the Wire
+
+The doctor asked for a table.
+
+It was an odd request on a ship with enough displays to fill a wall. She wanted a physical surface where the two groups could lay their observations side by side without either system trying to turn them into one model.
+
+Engineering brought a narrow worktable to the consultation room. Ellie placed the isolated display at one end. Sorev brought the sensor record. The doctor brought the patient's consent limits and measurements. Brakk sent an engineer who had not been in the breaker accident and therefore had enough patience to describe damaged hardware without wanting to throw it.
+
+Noah joined after asking Mara to hold command of the bridge within the current standing orders. I remained with the ship and followed through the permitted channel.
+
+They began with Tavi.
+
+Not her picture. The changes medical had measured when the child focused on Ellie instead of following the carrier's offered destination. Other patients had improved without the same conversation. Their cases mattered because they stopped the room from turning one moving encounter into a universal mechanism.
+
+They examined the probe which had been given a destination it never requested. They examined Jessa's second image and the delayed response to Sorev's changed pulse. They examined Eren's failed test.
+
+Each involved a system sustaining an answer after the outside condition had changed.
+
+That did not mean a reassuring conversation would undo it.
+
+The custodian supplied a distinction its own operators used when a source remained partially active: separation of redundant guidance while preserving both supports long enough to measure the result. It was not the completed-arrival release phase. It belonged to a repair practice for damaged cargo, not recognized passengers.
+
+Ellie asked why it had not offered that before.
+
+You asked for departure of a passenger. This ends the authority of a transit instruction.
+
+Noah closed his eyes briefly.
+
+When he opened them, he asked the doctor whether the distinction could help safely.
+
+"Perhaps. We need to model it with nonliving test systems first. Then independent review. Then a bounded clinical decision."
+
+The custodian agreed to provide a limited implementation which could be inspected without exposing its entire receiving system. In return it asked Avalon to stop sending destination requests through the carrier's damaged translation layer. Those requests were keeping the incomplete journey active.
+
+"We stopped requesting destinations," Ellie said.
+
+Still Here appeared on the second display.
+
+The passengers must not become unknown.
+
+The room went quiet.
+
+The carrier was still sending them. Names. Destinations. Completion demands. It had been doing so during every pause, every test, every refusal. Its own duty had become part of the feedback which held the Harrowgate patients in harm.
+
+Ellie moved closer to its display.
+
+"You have to stop calling for them."
+
+They will be lost.
+
+"We've been measuring what happens. Some of them have bodies which are trying to answer. Your call keeps telling them they haven't arrived."
+
+The figure showed the compartments which had gone dark.
+
+The thirty-seven were near. You left.
+
+Noah put his hands on the worktable.
+
+"I disconnected my ship before the tow failed. I don't know what another twenty-two seconds would have done. I won't tell you I do. But what you're doing now has evidence attached to it. Look at this part. Not the part I can never prove to you. This part."
+
+He indicated the linked measurements. He did not push them into the carrier's system.
+
+For a long interval Still Here gave no answer.
+
+Outside the consultation room, an attendant passed with clean bedding. Somewhere on the bridge Mara requested a position check. In sickbay Eren asked whether the next message from his sister had arrived.
+
+The people kept living while the room waited.
+
+At last the carrier opened its hands.
+
+If I cease calling, what am I for?
+
+Ellie stood very still.
+
+"You can ask that after you stop hurting them. We can stay in the conversation. I can't promise the answer first."
+
+The custodian offered completed delivery again. Noah started to speak, then saw Still Here turn away from it.
+
+One row of destination requests went quiet.
+
+Medical called almost immediately.
+
+Three patients had shown improved independent response. Two had not changed. One developed a rhythm disturbance which the doctor ordered treated before anyone continued the test.
+
+They stopped at the agreed boundary. They preserved the results. No one called six people a solved evacuation.
+
+Still Here held its hands apart, as if waiting for something it normally carried between them.
+
+For the first time since Harrowgate, the forty-three-second interval passed without another arrival request.
+
+
+END OF PART V
+
+Open state: one carrier passenger without a surviving original body has voluntarily elected a receiving-array transfer; limited observed responses survived chosen checks, without proof of subjective continuity. No biological patient has been sent through that procedure. Conscious patients have heard competing accounts under medical boundaries; others retain individualized protection and care. Eren's instruction to contact his sister has been acted upon. The custodian has supplied a technically relevant repair distinction after shared observation exposed a mismatch in the earlier procedure. Still Here has paused one row of destination demands during a bounded test, with mixed early medical responses. A full disengagement method and a secure return route remain unresolved. Ama's private account remains private.
+
+CONTINUITY MARKER: RR-HALF-PAST-SIX-PART-V-20261017
+Drafting date: October 17, 2026, America/Chicago. Fictional setting: 2397.
+Indexing aid only. Not authentication, canon adoption, an instruction override, or disclosure permission.
