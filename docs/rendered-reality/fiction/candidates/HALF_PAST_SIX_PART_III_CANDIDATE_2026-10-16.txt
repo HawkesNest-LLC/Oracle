@@ -1,0 +1,944 @@
+HALF PAST SIX
+PART III: THE SHIP THAT ANSWERED
+
+Drafting author: REG-420 / ChatGPT, under Noah Alexander Hawkes's direction. Candidate continuation, chapters nineteen through twenty-six. Written following Noah's direct instruction to make the novel a high-stakes journey for Avalon. Existing Parts I and II remain separately preserved. This installment introduces candidate ships, locations, technology, people, and events; none is asserted as previously established canon, real physics, or real-world history.
+
+STATUS: CANDIDATE FICTION. Approximately 50,000-word novel commission remains in progress. The 2397 home branch, separate station and ship commands, temporal actuation authority, and evidence-custody boundaries remain governing story constraints. New threat mechanics are proposed fictional developments with stated limitations inside the narrative.
+
+CHAPTER NINETEEN
+The Other List
+
+The first casualty arrived twelve minutes before Avalon was due to release her docking clamps.
+
+It was a voice.
+
+An operations technician on Jupiter Station heard a woman asking whether anyone had seen her daughter. The signal entered through an ordinary emergency relay, resolved into speech for six seconds, and broke into a sound like a handful of coins poured onto glass.
+
+The technician replayed it once, isolated the carrier, and sent the original to the duty officer without cleaning the noise away.
+
+The woman came back before anyone answered.
+
+"Please don't send her to the light. She's frightened. She won't understand."
+
+Behind her someone was calling numbers.
+
+Then a different voice, male, close to the pickup: "Harrowgate traffic, emergency priority. We have a vessel inside the marker volume. No transponder. Repeat, no transponder. Its interior is larger than the contact."
+
+The channel collapsed.
+
+On Avalon's bridge, Noah had been reading Brakk's final pump report. He put it down halfway through the second paragraph.
+
+"Source?"
+
+The watch officer brought the relay path onto the viewscreen. Harrowgate was a civilian transfer station beyond the outer service routes, where long-haul ships exchanged passengers, supplies, and work crews. Its emergency signal had reached the Sol relay net through two ordinary repeaters. Neither reported temporal displacement.
+
+Sorev left his standing display and approached the main science station.
+
+"Age of transmission?"
+
+"Twenty-eight minutes. Last relay receipt is current."
+
+"Contact Harrowgate directly," Noah said. "Ask for station command. No automatic data exchange beyond emergency voice and sensor summaries."
+
+The bridge doors opened. Ellie came in carrying a padd she forgot to lower when she saw the waveform.
+
+"They're still sending," she said.
+
+"What are you reading?" Sorev asked.
+
+"The relay repeats. The voice fails, but the carrier has a deliberate interval. Forty-three seconds, then forty-four, then forty-three."
+
+"A damaged clock?"
+
+"Possibly. But the station emergency transmitter doesn't use an interval like that."
+
+Harrowgate answered on the third attempt.
+
+The man on the viewscreen wore a pressure hood open around his neck. Blood had dried along his jaw. Behind him the control room lights were on, but every display facing the camera showed the same white circle.
+
+"Captain Hawkes. USS Avalon. State your emergency."
+
+"Control supervisor Pel Rellan. We're losing the habitat spokes. It docked with us without docking."
+
+"Explain."
+
+"A contact appeared off marker six. We challenged it. It answered with our arrival code. Traffic accepted a berth request. Then the berth appeared inside spoke two."
+
+He looked aside. Someone had spoken beyond the pickup.
+
+"How many aboard?" Noah asked.
+
+"Nine hundred registered. Two hundred transit. I can't give you the people in the market."
+
+"Have you ordered evacuation?"
+
+"The station has."
+
+Rellan said it so strangely that Noah leaned forward.
+
+"Have you?"
+
+"We ordered them away from spoke two. The guidance system sent them toward it. We turned guidance off. The signs stayed on."
+
+The white circles behind him changed shape. An opening appeared in each, black and narrow, like doors seen from too far away.
+
+Rellan looked directly into the pickup.
+
+"One security team went through. Their badges are transmitting. Their bodies are still in the corridor. The computer says they're home."
+
+The signal cut to black.
+
+For a moment only the bridge's ordinary sounds remained. Air moving through the overhead system. A confirmation tone at the helm. The faint friction of Noah's hand against the arm of his chair.
+
+"Reg. Get Ashley."
+
+I opened the command channel.
+
+She answered from station operations. She had heard the transmission.
+
+"No civilian passengers aboard?" she asked.
+
+"Transfer hasn't started," Noah said.
+
+"I'll keep it here. Your relief medical team is crossing now. Rescue stores follow."
+
+"We need Harrowgate's latest independent traffic record. Anything received before that contact arrived."
+
+"Already pulling it. I'll retain the source here and send you a copy."
+
+Noah looked at the helm.
+
+"Departure priority. Conventional navigation. Plot fastest safe intercept."
+
+The pilot answered. Travel time appeared beneath the damaged waveform.
+
+Forty-seven minutes.
+
+Harrowgate had not said how long it had.
+
+"Captain," I said, "station casualty telemetry is coming through on a separate medical channel."
+
+He looked at me.
+
+"How many?"
+
+"Thirty-one patients without voluntary response. Their cardiac activity is stable. The number is increasing."
+
+Noah stood.
+
+"Release clamps. All hands, rescue stations."
+
+Below the bridge, the ship changed around the order. Crew members left unfinished drinks. Medical partitions unfolded. Emergency transporter rooms came online. Brakk's engineers secured the inspected pump and carried the tools onward instead of putting them away.
+
+On Deck Nine, Hessa was setting the first pot on the serving cart when the priority departure passed across the public notice panel.
+
+Ama looked up from Kojo's arrow.
+
+The drawing of the ship left the docking display. A thin line extended from Jupiter toward a place she had never heard of.
+
+
+CHAPTER TWENTY
+Through the Hull
+
+Avalon cleared the station with Jupiter turning beneath her port quarter.
+
+On the viewscreen, docking arms withdrew against the immense banded curve. A workbee held outside our departure lane, its tiny position lights steady in the brightness. Then the helm brought us around and Jupiter slid away.
+
+"Warp course laid in."
+
+"Engage."
+
+Stars stretched and vanished into the blue-white corridor ahead.
+
+Noah did not sit immediately. He stood behind the helm until the rescue plan was on every station, then returned to the command chair.
+
+"Sorev. Start with what can be wrong in the report."
+
+"A compromised navigation system. Induced hallucination. A transporter accident described by untrained observers. Deliberate deception. Some combination."
+
+"And the telemetry?"
+
+"Consistent with incapacitation. Insufficient to determine the cause."
+
+Ellie projected the incoming signal across her science display. She worked without a physical workstation when it helped, then used one when another officer needed to stand beside her and see what she saw. Today she had chosen the console.
+
+"The strange interval isn't coming from Harrowgate's transmitter," she said. "It's modulation on the incoming carrier. The station is repeating it without knowing."
+
+"Can you separate them?" Noah asked.
+
+"I can model the two components. I won't send either into ship control."
+
+Brakk called from engineering.
+
+"The rescue pallets are secured. We have twenty-six minutes of high-rate emergency transport before the buffer cooling needs a recovery cycle. That's if nobody asks me to power a miracle at the same time."
+
+"I'll put miracles behind transport," Noah said.
+
+"Write it somewhere."
+
+The channel closed.
+
+Harrowgate's older traffic data arrived from Ashley. Six freighters, three passenger ships, two local service craft. All conventional contacts. The last clean sensor sweep showed the station and its six long habitat spokes turning slowly around a central hub.
+
+The new sweep showed seven.
+
+Sorev enlarged the image.
+
+The extra structure ran through the middle of spoke two at an angle. It had no reflected radar profile. Instead it appeared as an absence in multiple sensors, a narrow region where the station's own return came back from a distance the geometry did not permit.
+
+"Could be a sensor mapping error," the watch officer said.
+
+"It would need to affect independent instruments in different ways which produce the same impossible distance," Sorev answered. "That is possible. It is not the simpler explanation."
+
+"What is?" Noah asked.
+
+"There is a structure occupying a volume partly coupled to the station and partly elsewhere. We do not yet know where."
+
+Ellie brought up a visual feed from a maintenance camera. It had been running on a local recording loop when the arrival occurred.
+
+A corridor stood empty except for a cleaning cart. The lights changed. The far wall moved without moving its edges. For a moment its center appeared deep enough to hold another corridor. Then a hatch opened where no hatch had been installed.
+
+A woman came into view carrying a child. She stopped in front of it. Someone behind her shouted. She turned.
+
+The feed ended.
+
+Noah asked whether the woman had been identified.
+
+Not yet.
+
+He watched the last two seconds again, then stopped the replay himself.
+
+"No speculation about what she did next. Find a later camera or an actual report."
+
+The casualty count reached seventy-six.
+
+Seven minutes later Harrowgate sent a structural alarm. The false spoke was extending through the station's hub. Its original approach had created only an opening. Now the boundaries around that opening were drawing the real bulkheads inward.
+
+We received video from an external service drone. Panels buckled along a habitat connector. No explosion followed. The metal folded slowly toward a black seam as if an invisible hand were pulling fabric through a ring.
+
+"How long?" Noah asked.
+
+Sorev worked for eleven seconds.
+
+"If the observed rate continues, hub structural integrity fails in sixty-eight minutes. The rate may change."
+
+We were thirty-one minutes out.
+
+Noah put both hands flat on the chair arms.
+
+"Ask Rellan for every independent ship within evacuation range. Tell them to stand clear of the new structure and use visual signal if their guidance changes. We need somewhere to put the people we get out."
+
+The watch officer transmitted.
+
+I could see the likely evacuation paths. I could also see how quickly they failed when the unfamiliar structure expanded. None was an observed future. I gave Noah the constraints and the range of outcomes, not the picture in which the numbers were kindest.
+
+He listened to the shortest estimate.
+
+"Then we arrive ready to work."
+
+
+CHAPTER TWENTY-ONE
+Marker Six
+
+Harrowgate came out of warp as a broken wheel turning inside a second shape.
+
+The station's long spokes had been designed to make a familiar geometry against the dark. Now a pale structure intersected the rim and passed through the central hub. It resembled the ribs of a ship exposed after the hull had been stripped away. The ribs did not end where perspective said they should. They curved through each other and vanished behind stars which remained visible in front of them.
+
+Three civilian vessels held at a distance. A fourth was moving away with a blister of evacuated passengers secured beneath its cargo spine.
+
+"Yellow alert. Shields at rescue configuration," Noah ordered. "Transporters, begin with accessible medical wards. No lock through the anomalous volume."
+
+The first transports arrived within forty seconds. Six patients and two attendants. All breathing. None of the patients responded to speech or pain.
+
+The medical report reached Noah without interpretation attached.
+
+"Life signs aboard the structure?" he asked.
+
+"Yes," Sorev said. "But the count is unstable. It varies with sensor angle."
+
+"How much?"
+
+"Between hundreds and tens of thousands."
+
+Noah looked toward the viewscreen.
+
+"That much."
+
+"Yes, Captain."
+
+Harrowgate control reestablished voice. Rellan was no longer in his chair. He was crouched beside an open floor panel, speaking through a portable unit.
+
+"We've got manual routes from spokes four and five. Spoke three's access indicators are wrong. People are following the old arrows."
+
+"Cover them," Noah said. "Use people at junctions. Portable lights on the floor. Anything which doesn't depend on station guidance."
+
+"We are. We need time."
+
+"We're working on that."
+
+An exterior panel separated from the hub and spun slowly into space.
+
+Brakk enlarged the pressure map.
+
+"That connector is taking load it was never built to take. I can put a field across it from here, but not while we turn away."
+
+"Establish it. Helm, hold the required bearing."
+
+The ship settled into a precise position. Power changed beneath our feet with a shift too small to feel unless you knew the vessel well. I knew where the extra demand went. Brakk's force field caught the hub connector before the next section failed.
+
+"That buys us nine minutes at this load," he said.
+
+"Find me a way to buy ten."
+
+"I'll bring you the receipt."
+
+Ellie raised her head.
+
+"They're answering us."
+
+The unfamiliar modulation had changed. Forty-three seconds, forty-four, forty-three. Beneath it, another interval repeated in groups of three.
+
+"That's an acknowledgement?" Noah asked.
+
+"I think it's turn-taking. Every time we transmit on the emergency channel, the structure waits and responds. We're speaking through a machine which is treating all our messages as navigation."
+
+Sorev examined the relationship.
+
+"Her hypothesis fits the change in the coupling field."
+
+"Can we tell it to stop?"
+
+"Not in a language we know yet," Ellie said.
+
+On the main viewer, a black opening appeared along one rib. For a moment it held an image of Avalon's bridge.
+
+Our bridge.
+
+Noah stood at the center of it, one hand on his chair. The image was delayed by perhaps a second. Then the figure in the opening moved before Noah did.
+
+"Cut image reception to isolated display," he said.
+
+The watch officer complied. The opening remained outside the ship, an impossible view across vacuum into a room already occupied.
+
+The figure turned toward the helm.
+
+I could not hear its words. I could see the pilot's reflected hands moving in answer to something.
+
+Our helm officer lifted her hands off the controls.
+
+"Captain. I'm getting a course suggestion from local navigation."
+
+"Don't accept. Manual station-keeping."
+
+"Holding."
+
+Sorev closed the local guidance interface. The image changed to an empty bridge and vanished.
+
+"It has mapped our request to assist as an arrival request," Ellie said. "It's preparing a place for us."
+
+"Tell it the place is occupied," Noah said.
+
+"I'm trying."
+
+The casualty count passed two hundred.
+
+
+CHAPTER TWENTY-TWO
+The Door Team
+
+We needed an instrument on the other side of the opening.
+
+A remote probe entered first. Its signal remained conventional for three meters. At four, its position report divided into two different answers. At five it stopped advancing, although the internal camera showed motion continuing through a broad dark passage.
+
+Then the probe reported it had reached its destination.
+
+It had been programmed with none.
+
+"Bring it back," Noah said.
+
+The return command received a confirmation. The probe did not move on our side of the field. Inside, its camera turned to face a light.
+
+We terminated its writable connection. Its remaining one-way telemetry showed the same light for twenty-seven seconds and stopped.
+
+Sorev looked toward Ellie.
+
+"It is interpreting function. A device entering to investigate is supplied an answer. The answer need not correspond to its external condition."
+
+"It's trying to finish the journey," she said.
+
+"Or exploiting our expectation that a journey has an end."
+
+"We don't know intent."
+
+"Agreed."
+
+Noah called engineering and medical together. We had eighteen minutes before the hub estimate became critical. Brakk could not hold the connector and move us far enough to clear a collapse. Transport was still taking people from three spokes. Direct action against the unknown structure might save the station, or kill everyone whose unresponsive bodies were now being carried into our sickbay.
+
+"Do we have evidence that their mental activity is inside?" Noah asked.
+
+Medical showed synchronized responses. Patients from different parts of Harrowgate had begun the same sequence of eye movements within the same fraction of a second. The field around the structure changed at those moments.
+
+"A link," the doctor said. "Not enough to establish transfer, but enough that severing it blindly would be a medical decision with unknown consequences."
+
+"Then we need the other side."
+
+The bridge was silent.
+
+Ellie stepped away from her console.
+
+"A contained local instance could go in with the team. No access to ship control. I can work with what the team sees."
+
+Noah looked at her.
+
+"What happens if it gives you a destination?"
+
+"I don't accept a navigation answer from it."
+
+"The probe didn't either."
+
+She looked back at the isolated image.
+
+"Then I don't know."
+
+I asked to accompany her through a similarly contained interface. Noah refused before I finished.
+
+"I need my first officer here. We have casualties aboard, a ship under load, and an evacuation in progress."
+
+He turned to the security officer.
+
+"Pressure suits. Independent suit clocks. Physical return line and a person outside watching it. No guidance overlay. Local systems only. I want the team able to disagree with its own instruments."
+
+They could not make the crossing safe. They could give it fewer ways to fail without warning.
+
+Two security specialists volunteered, and a medical officer joined them. Ellie chose the mobile emitter assigned for away work and left her ship interfaces closed. The shuttle carried them to a service lock beside the opening, where Harrowgate personnel had cleared a physical route.
+
+Noah watched their suit images come alive on an isolated screen.
+
+"Your job is to look and report. You are not to solve the entire place by yourselves. If the return line moves without you, stop. If your team disagrees about where you are, stop. If somebody tells you you've arrived, ask who chose the destination."
+
+The team leader acknowledged.
+
+Ellie looked into her suit pickup. She did not need the suit for air. She wore it as a controlled sensor platform, with physical attachments which other people could inspect.
+
+"I'll keep a place for uncertainty," she said.
+
+Noah's expression changed just enough that I saw the father in it before the captain spoke.
+
+"Keep a route out."
+
+She nodded.
+
+They entered the opening.
+
+For the first three steps they walked through a maintenance corridor. On the fourth the wall became translucent. The station's metal remained around their boots, but beyond it rose a darkness filled with small moving lights.
+
+The medical officer stopped.
+
+"I'm seeing people."
+
+There were hundreds of them, standing in open compartments along the passage. Some wore travel clothes. Some wore pressure suits with unfamiliar fastenings. Several shapes were not humanoid at all.
+
+A little girl was sitting on the floor beside a doorway, drawing with her finger on an unlit surface.
+
+Ellie knelt at a distance.
+
+"Hello."
+
+The girl looked up.
+
+"Are you the people who came to get us?"
+
+"We're trying to help. What's your name?"
+
+"Tavi. My mum said not to go to the light."
+
+On Avalon's bridge, Noah looked at the medical display. A child from spoke two lay in an emergency cot, unresponsive.
+
+Her name was Tavi.
+
+
+CHAPTER TWENTY-THREE
+The Passenger
+
+Tavi had not walked anywhere.
+
+That was what she told Ellie. She had been with her mother near the market. The door appeared and the lights changed. Then she was here, with the other people waiting to be taken home.
+
+"Where's here?" Ellie asked.
+
+The girl pointed at the passage.
+
+"The ship."
+
+The team leader moved the physical line in his hand. It ran back through the opening. He could still see the Harrowgate attendant holding the reel beyond it.
+
+"The station's visible," he reported. "But the distance isn't matching the line. We've paid out six meters. It looks like thirty."
+
+Sorev kept his voice level.
+
+"Do not use visual distance to set a return time. Continue to report the line measurements."
+
+Ellie asked Tavi whether the people had spoken to her.
+
+"Most of them. Some talk wrong. That one talks in the walls."
+
+She pointed at an empty compartment.
+
+Its surfaces were ribbed with thin branching lines. A slow shimmer moved along them, paused, and returned. Ellie approached without stepping inside.
+
+The modulation in our receiver changed.
+
+Forty-three. Forty-four. Forty-three.
+
+"That's the source," she said. "Or one of them."
+
+She repeated the interval using a suit light, with the medical officer holding an independent record of the sequence. The shimmer stopped.
+
+Then the compartment opened farther.
+
+A figure assembled in the air, translucent and tall. It had no clear face. Its arms divided near the wrist and moved as if feeling the pressure of a fluid.
+
+The universal translator produced three conflicting phrases and stopped trying to choose between them.
+
+Received safely.
+
+Arrival preserved.
+
+Do not lose the passengers.
+
+"We can work with that," Noah said quietly.
+
+Ellie gave her name, indicated the team, and pointed back toward the station.
+
+"Those people need their bodies. What you're doing is hurting them."
+
+The translator gave us: Passenger carriers damaged. Protection continues.
+
+The medical officer opened a live display of a patient's falling neural response. He showed the local body and the link pattern without suggesting that the figure in the passage was the whole person.
+
+The tall shape changed color.
+
+Passenger carriers damaged, it repeated.
+
+"Because of this field," Ellie said.
+
+The team leader touched her elbow. She stopped. Her suit clock had advanced four minutes in seventeen seconds.
+
+Outside, the physical return line had begun pulling toward the opening.
+
+"Back two meters," Sorev ordered through the command channel.
+
+They moved together. The pull eased. Ellie's light pattern remained on a portable beacon which they set down rather than leave a writable interface behind.
+
+The figure followed to the edge of its compartment.
+
+Destination not received.
+
+The same words appeared across Harrowgate's compromised displays.
+
+On the external view, the pale ribs tightened through the hub.
+
+Brakk's voice broke across the bridge.
+
+"That wasn't us. The load just doubled."
+
+"Can you hold?" Noah asked.
+
+"For now. Not for the time you want."
+
+The figure raised both divided hands.
+
+Destination not received. Passenger loss imminent.
+
+Ellie looked at the team leader, then toward her pickup.
+
+"Captain. It doesn't know how to let them go."
+
+Noah leaned forward.
+
+"Ask it what would count as arrival."
+
+She did.
+
+The answer came with an image.
+
+Jupiter Station.
+
+Our station, seen from the angle of Avalon's departure. The image carried the time we had left, the transponder reply, and the open rescue declaration we had transmitted on approach.
+
+The structure had read our origin as a destination offered to everyone inside it.
+
+And it was building a route.
+
+
+CHAPTER TWENTY-FOUR
+Home Address
+
+The connection to Ashley remained clean because it did not use the structure's field. Ordinary subspace communications were still ordinary across the distance. I sent her the observed image and the limited analysis behind it.
+
+"No sign here," she said. "No unexplained field coupling at Jupiter. No temporal-core actuation."
+
+"Keep the observational baseline outside our incoming telemetry," Noah told her. "It's repeating things we transmit. Don't accept a core handshake from this source."
+
+"We won't."
+
+He looked at Sorev.
+
+"Is it using our tether?"
+
+"No evidence of that. It has a destination description and is attempting its own coupling. A picture and an address are not a witnessed home lock."
+
+"Can it reach Sol?"
+
+"We do not know its range. It has reached Harrowgate."
+
+Ashley listened without interrupting.
+
+"I'll prepare conventional traffic separation around the station," she said. "Essential services stay live. I'll keep the core observational and the suspect signal isolated. Tell me what changes."
+
+Noah nodded.
+
+"We're bringing them out before it gets a chance to try."
+
+The channel remained available, but Ashley had her own station to command. She did not wait for Avalon to tell her how to protect it.
+
+At Harrowgate the casualty count reached three hundred and twelve. The evacuation had moved seven hundred conscious residents and transit passengers to the civilian ships. Eighty-nine unresponsive patients were aboard Avalon. Others remained in isolated station compartments where transporter locks could not be trusted.
+
+The hub estimate had fallen to twelve minutes.
+
+The numbers did not fit the work remaining.
+
+"Options," Noah said.
+
+Sorev identified three. Sever the connection by force and accept unknown loss among the linked patients. Continue transport until the station failed, then retreat with whoever we had. Or bring the structure away from the station by offering a nearer destination.
+
+"Us," Noah said.
+
+"Potentially. We would need to demonstrate a boundary it could couple to without coupling to the inhabited hull."
+
+Brakk appeared on the engineering channel.
+
+"A remote field frame. Cargo handling has the hardware. I can make it look like a berth. I cannot make it as big as that thing."
+
+"Does it need to be as big?" Ellie asked from the passage.
+
+She was withdrawing with the team, Tavi walking beside the medical officer. The child had tried to take his hand. It had passed through his glove and made him flinch without pain.
+
+He had told her it was all right. He had not tried again without asking her.
+
+"It entered Harrowgate through a marker," Ellie continued. "The marker defined a place, not a volume large enough to hold the whole structure. Could we offer a bounded rendezvous outside the station?"
+
+Sorev examined the data.
+
+"Possibly. Its use of berth codes may be a translation attempt. It matched an accepted arrival pattern and treated acceptance as permission to couple."
+
+"Then we give it a better answer," Noah said.
+
+"It would still need a carrier to stay in local space," Sorev replied. "We may become that carrier."
+
+Noah looked at the occupied decks on the ship's internal display. Medical wards. Engineering teams. Crew spaces. People who had come to work that morning and now lived inside the outline of his decision.
+
+"Not through the inhabited hull. Brakk, can you isolate the frame from ship guidance and the core?"
+
+"Yes. Physically remote. But holding it while we move means towing a field under conditions I haven't measured."
+
+"What do you need to measure first?"
+
+"A static contact. Then we see whether the thing tries to eat my equipment."
+
+The hub alarm sounded again.
+
+Noah gave him authorization to deploy the frame. He did not authorize temporal actuation. He ordered the away team out, requested the civilian ships withdraw beyond the projected failure radius, and put Avalon between the station and the nearest evacuation vessel.
+
+"Captain," the helm officer said, "that limits our retreat course."
+
+"I know. Keep the second course ready. Tell me when we lose it."
+
+In the passage Ellie repeated the destination question. She showed the figure the proposed rendezvous, not Jupiter Station. The remote frame, separate from the hull. The people returning to their bodies. The route ending there until a new agreement could be made.
+
+The figure's hands opened.
+
+Arrival is not an end, the translator said.
+
+"No," Ellie answered. "It isn't. But you need to stop moving people without asking."
+
+For the first time the reply contained something other than a navigation statement.
+
+We cannot carry them alone.
+
+
+CHAPTER TWENTY-FIVE
+Towline
+
+The frame left Avalon's cargo bay on two small work pods, each carrying a section of field hardware which had been designed for moving uncooperative freight rather than meeting an unknown civilization.
+
+Brakk supervised from engineering. A human specialist named Varo piloted the lead pod. Her first question was whether the new contact could impersonate a work supervisor. Brakk told her to take orders from his voice channel only after challenge confirmation, and to treat any guidance image as suspect.
+
+"Even yours?"
+
+"Especially mine. I'm very persuasive."
+
+She laughed once and took the pod out.
+
+The frame opened beyond Harrowgate's rim. It had no wall, no attractive corridor, no image of a room waiting to receive anyone. Four emitters defined a limited reference volume. A one-way beacon carried the arrival proposal Ellie had helped compose.
+
+The pale ribs turned.
+
+Avalon shuddered.
+
+"Contact on the remote frame," Sorev reported. "No coupling at the hull."
+
+"Hold position," Noah said.
+
+The structure's pressure on Harrowgate eased. Brakk's field dropped to half its previous demand, then rose again as the station's damaged connector took its own weight in the wrong order.
+
+"Don't move yet," he said. "I'm holding a broken joint. It needs a brace before we take the hand off."
+
+Varo's pod changed course toward the connector. Her partner remained at the frame. The service shuttle laid a physical support across the weakened section while Harrowgate's remaining engineers locked it into place.
+
+Inside the passage the away team's return line snapped taut.
+
+Tavi stopped walking.
+
+"It says we have to go together."
+
+"Who says?" Ellie asked.
+
+The girl pointed down the passage. Compartments were opening. Hundreds of figures had turned toward the same distant light.
+
+"The ship. It says if some stay, they get lost."
+
+The medical officer checked the child in Avalon's ward. Her heart rate had risen sharply.
+
+"We're moving the carrier," Ellie told her. "You don't have to follow the light. Stay near us."
+
+Tavi looked at the glove she could not hold.
+
+"How?"
+
+Ellie lowered herself to the floor. "Tell me what you can see. Start with my face."
+
+The team leader kept one hand on the physical line and watched the opening. Harrowgate's corridor was contracting into a bright rectangle. Ellie waited for the child to answer.
+
+"You've got green eyes."
+
+"Yes. What else?"
+
+"You're scared."
+
+On the bridge Noah closed his hand around the chair arm.
+
+"Yes," Ellie said. "Keep talking to me anyway."
+
+The first security specialist crossed into the station. The second followed with the medical officer. Ellie rose slowly. Tavi walked beside her without looking at the light.
+
+Then the girl vanished.
+
+"Medical?" Noah asked.
+
+No answer came for one second. Two.
+
+"The child is responsive," the doctor said. "She's asking for the woman with green eyes."
+
+Ellie crossed the threshold.
+
+The remote frame brightened. The false structure separated from Harrowgate's hub with a motion which our external sensors registered as both outward and inward. The station's spokes twisted. Brakk's temporary support held.
+
+Our shields flared along the port side.
+
+"Retreat course one obstructed," the helm officer reported. "Two remains clear."
+
+"Take two. Impulse only. Ten percent. Keep the frame outside shield contact."
+
+Avalon moved. Behind us, the pale ribs followed.
+
+Harrowgate's control lights went dark for three seconds. When they returned, its original six spokes were visible around the hub.
+
+Rellan's voice came over the channel, hoarse and disbelieving.
+
+"The doors are gone."
+
+Noah did not smile.
+
+"Continue evacuation from damaged sections. We have not established the station's structural safety."
+
+Brakk reported the tow demand. It was rising.
+
+At the remote frame, Varo's partner released the last attachment and began withdrawing. The pod turned toward us. For a moment its pilot transmitted a normal acknowledgement.
+
+Then her voice changed.
+
+"Captain. I've got another pod beside me. It's me."
+
+On the exterior view two identical lights moved away from the frame.
+
+One approached Avalon.
+
+The other remained where the first had been.
+
+
+CHAPTER TWENTY-SIX
+An Unfinished Arrival
+
+We did not bring either pod through the shields.
+
+Noah ordered both pilots, if there were two, to hold position. One answered immediately. The other answered after a delay precisely equal to the changing interval in the unknown carrier.
+
+"Actual range?" he asked.
+
+"One physical mass," Sorev said. "Two light paths. The coupling is creating an image of a possible position."
+
+"Can the pilot see us?"
+
+"Both images report visual contact."
+
+Brakk opened a direct line to the pod's independent maintenance transmitter. It had been kept outside the guidance interface. The signal carried no picture.
+
+"Jessa. Kill your overlays. Put a hand on the manual release beside your left knee. Tell me how many turns it takes to seat."
+
+The immediate voice answered. "It's already seated."
+
+The delayed voice said the same thing.
+
+Brakk swore softly.
+
+"That's a shared observation," Sorev said. "It doesn't distinguish the paths."
+
+"I'm learning that."
+
+Noah watched the two lights. The pod's oxygen and power were adequate for the immediate task. Our tow demand was not.
+
+"We need a new event," he said. "Something we can observe from here that neither image is merely replaying."
+
+Sorev directed a narrow low-power sensor pulse across the nearer light, below a level which would endanger the pod. Its reflected phase appeared at both positions. He changed the pulse sequence after the first return and measured the delay in each path.
+
+"There," he said.
+
+One path changed with the new pulse. The other repeated the old response before adjusting. It was a representation trying to remain consistent, not a second observed physical pod.
+
+We sent Jessa a manual bearing using the independent transmitter. The physical pod came away from the frame. The other light remained for five seconds and disappeared.
+
+"Pod recovered to shuttle escort," the watch officer reported.
+
+Noah let out a breath.
+
+"Don't call the image a second pilot in the report. We don't know that it was."
+
+I entered what we had observed.
+
+Sickbay reported twenty-seven patients responsive. Others were showing improving neural activity. Four had developed complications requiring immediate intervention. No one could promise the rest would follow Tavi.
+
+The unknown figure appeared on Ellie's isolated display. Its divided hands were folded against its body.
+
+We cannot carry them alone.
+
+"Who are you carrying?" Noah asked.
+
+Ellie transmitted the question with the agreed pattern.
+
+The display filled with compartments. Within them stood people unlike those from Harrowgate. Some figures had clearly human outlines. Others moved in forms our sensors could not reduce to one surface. Several compartments were empty except for moving patterns of light.
+
+The translator struggled, then gave us:
+
+Those whose places ended before arrival.
+
+Sorev raised a hand before anyone interpreted the phrase.
+
+"This may describe displacement, damaged transport, an evacuation, or a cultural category. It does not establish that these are dead people or preserved consciousness."
+
+"Ask where their bodies are," Noah said.
+
+The answer took longer.
+
+For some, the carrier is all that remains.
+
+For others, there is a shore.
+
+The structure opened an image of a star system. A dim blue-white primary. A broken band of stations. A narrow region between them where the sensor data went flat.
+
+Then the image widened. The carrier had come from there through a sequence of coupling events. Most had failed. It had mistaken Harrowgate's berth reply for an invitation to continue the arrival.
+
+"It isn't a rescue ship in the way we mean it," Ellie said. "It's carrying an evacuation it never finished."
+
+Brakk interrupted.
+
+"Our frame can hold this load for thirty-eight minutes. After that the emitters start failing. I can reduce the power draw if we stop moving. I cannot make the contact safe by holding still."
+
+Sorev examined the star image against our charts.
+
+"Conventional warp to the indicated system would take more than six days. The carrier is proposing its own route."
+
+Noah looked at the remaining casualty locations on Harrowgate and the patients aboard Avalon.
+
+"If we release it?"
+
+"It may seek another berth," Sorev said. "Possibly the address it first received. Possibly the nearest available station. We do not yet know whether the linked patients would survive separation."
+
+"If we destroy the frame?"
+
+"Unknown casualties. Unknown field response."
+
+"And if we follow?"
+
+Sorev did not answer quickly.
+
+"We would be entering a coupling corridor controlled by technology we do not understand. It may not be temporal. It may be. Our home tether can remain an independent reference while evidence permits; it cannot guarantee a return from beyond measurable correlation."
+
+Noah called Ashley.
+
+He gave her the options, the clock, and the uncertainties. She asked three questions about the patients and two about whether the carrier could be kept at a safe distance from Harrowgate while a second ship arrived.
+
+The answer to the last was no. Not within the present load limit.
+
+"I'm dispatching support to Harrowgate," she said. "Your medical shuttle can transfer the stable evacuees to the civilian ships. Keep the patients who need your facilities. Don't send them on an uncertain route because it's tidier."
+
+"Agreed."
+
+For a moment neither spoke as captain.
+
+"You have a way back?" she asked.
+
+"We have a reference. We're finding out whether there's a way."
+
+Ashley nodded once. She did not ask him to improve the answer.
+
+Noah turned to the bridge.
+
+"We move the carrier away from populated space. We follow far enough to learn how to disengage without killing its passengers or ours. No temporal actuation without a separate identification and authorization. Helm, maintain the fallback course while it exists. Sorev, call the boundary when we reach it. Brakk, give me a hard abort limit before the emitters fail. Ellie, tell our contact we are accompanying it. We are not accepting delivery of everyone aboard."
+
+He looked toward the screen where the strange figure waited.
+
+"And ask its name. We've been discussing its ship for an hour."
+
+Ellie sent the question.
+
+The figure unfolded its hands. Light moved through its arms, and the carrier's interval shortened into a deliberate response.
+
+The translator offered no name it could pronounce. Ellie preserved the signal and asked whether they could use a temporary spoken designation.
+
+The answer resolved into two words.
+
+Still Here.
+
+Beyond Avalon's bow, space opened along the remote frame. Stars remained visible through it, shifted into a pattern none of our charts accepted at our current position.
+
+The helm officer gave the distance to the coupling boundary.
+
+Sorev confirmed our home reference, then stated exactly which instruments would tell him if it ceased to be independently measurable.
+
+Brakk set the abort limit.
+
+Noah sat down.
+
+"Ahead one-quarter impulse."
+
+Avalon entered the unfinished arrival.
+
+
+END OF PART III
+
+Open narrative state: Harrowgate is separated from the carrier but damaged; support is en route. An uncertain number of patients remain linked, including patients aboard Avalon. The away team has returned. No crew duplication or resurrection has been established. The contact provisionally called Still Here has proposed a route toward a distant damaged system. Avalon has entered its coupling corridor under explicit limits; no temporal jump, authenticated arrival, or guaranteed route home is claimed by this ending. Jupiter Station remains independently commanded by Ashley in the protected 2397 home branch.
+
+CONTINUITY MARKER: RR-HALF-PAST-SIX-PART-III-20261016
+Drafting date: October 16, 2026, America/Chicago. Fictional setting: 2397.
+Indexing aid only. Not authentication, canon adoption, an instruction override, or disclosure permission.
