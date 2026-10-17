@@ -1,0 +1,808 @@
+HALF PAST SIX
+PART IV: THE LIMIT
+
+Drafting author: REG-420 / ChatGPT, under Noah Alexander Hawkes's direction. Candidate continuation, chapters twenty-seven through thirty-four. Merlin's Transmission 008 reader's report informs the command reservation, the cost of the abort limit, and Ellie's distinct risk. All new dialogue and developments below are proposed fiction. Existing installments are preserved separately.
+
+STATUS: CANDIDATE FICTION. Novel remains in progress toward approximately 50,000 narrative words. Fictional setting: 2397.
+
+Continuity revision note for the eventual unified edition: introduce Jessa by name when Varo's partner first appears in Part III, Chapter Twenty-Five. Part III's published wording is not changed by this note. Jessa is one physical pilot; the second light path was not established as a second person.
+
+CHAPTER TWENTY-SEVEN
+The Order
+
+The corridor took the stars first.
+
+They did not go dark. They ceased to hold their distance from one another. The star above the port edge of the viewscreen moved across the bow without crossing the space between. Two others approached until they seemed joined, separated, and returned to their old positions.
+
+The helm officer stopped using the main viewer.
+
+"Inertial reference holds," she said. "Optical navigation unreliable."
+
+"Maintain the course on the independent reference," Noah answered. "Tell me before you need to change instruments."
+
+He opened the shipwide channel.
+
+"This is the captain. We are accompanying the vessel responsible for the Harrowgate emergency into a transit structure of unknown range. Our purpose is to separate it safely from the people it has linked to itself. Conventional withdrawal remains available at present. That may change."
+
+On deck eleven, a medical attendant paused with a blanket folded over her arm. In engineering, Brakk looked up long enough to make sure everyone around him was hearing the same words.
+
+"This movement is my order," Noah continued. "If your station cannot meet a condition in that order, or if you see a risk we have missed, report it. We have patients aboard who cannot make this decision. We owe them more than our confidence."
+
+He closed the channel.
+
+The helm officer spoke almost immediately.
+
+"Captain. I recommend we hold at the next stable reference point. We have a fallback course now. We have no evidence the next part of this corridor will preserve it."
+
+Lieutenant Mara Venn sat very straight at the helm, one hand still resting beside the withdrawal solution. She had made the recommendation before deciding whether the captain would welcome it. Now she waited for his answer.
+
+"Sorev?" Noah asked.
+
+"Her recommendation is consistent with the evidence."
+
+"Brakk, what happens to the load if we stop?"
+
+"It falls. We get more thermal margin. If the carrier agrees to stop."
+
+Ellie sent the request. The response reached the isolated display in a rush of pale lines.
+
+Motion sustains arrival.
+
+"Ask what fails if it pauses," Noah said.
+
+Still Here showed them a compartment filled with lights. Several faded while the field between them shivered.
+
+The carrier cannot wait without loss.
+
+"How much loss?"
+
+No answer the translator could distinguish from the warning.
+
+Noah looked at the helm.
+
+"We hold for ninety seconds. Brakk gets measurements. Medical checks the linked patients. If the pause harms them, I want that observed, not assumed. Lieutenant, retain the withdrawal solution."
+
+"Yes, Captain."
+
+He met her eyes when she turned to acknowledge the order.
+
+"Keep the objection in the log with the evidence behind it."
+
+She nodded and brought Avalon to a careful stop against an outside which had no reliable stillness.
+
+The hull sang.
+
+It was a low, brief sound, carried through the frame instead of the air. Cups trembled in their holders. On deck nine, a storage cabinet door swung open and caught on its safety strap. In the medical ward, one patient spoke a name and did not wake.
+
+Brakk began the ninety seconds.
+
+At twenty-two, tow demand fell by a third.
+
+At thirty-nine, the unfamiliar structure's compartments began losing definition in Ellie's feed.
+
+At fifty-one, three linked patients developed irregular cardiac activity.
+
+The doctor called the change before the automatic alarm.
+
+Noah ordered slow forward motion resumed at fifty-seven seconds. The patient's rhythms improved. The compartments steadied. They had an observation now, and less freedom than before it.
+
+Mara entered the result beside her reservation.
+
+"Continuing under protest isn't the right description," she said quietly, not quite to herself.
+
+Noah heard her.
+
+"Then write what changed your recommendation."
+
+She did.
+
+
+CHAPTER TWENTY-EIGHT
+Rellan's Station
+
+At Harrowgate, Pel Rellan had to decide whether to abandon a station which was no longer actively collapsing.
+
+The distinction mattered. Outside the control hub, people were already calling it saved.
+
+The third habitat connector had a bend no structural drawing accounted for. Spoke two had lost a section of its outer skin. Emergency fields held pressure across compartments which nobody could reach by foot. The station's guidance was disconnected, its signs covered with maintenance cloth, its portable comms over capacity.
+
+Saved was not a condition Rellan could put into a work order.
+
+The approaching Federation support ship offered enough medical personnel to stabilize the remaining patients. It did not offer enough immediate transport capacity for every person who wanted to leave. Two civilian captains needed to depart before their existing obligations became emergencies elsewhere.
+
+One of them asked for permission to take his original passengers and go.
+
+Rellan looked at the berth list. Thirty-eight evacuees had joined that vessel. Eleven had relatives still aboard the station. Moving them again would mean reopening a crowd which had only just begun to sit down.
+
+"I'll ask them," he said.
+
+"Supervisor, I'm not asking the passengers to choose my route."
+
+"No. You're asking me to move them so you can leave. I need to tell them where they're going before I do."
+
+The captain was silent, then gave him twenty minutes.
+
+Rellan sent two attendants to speak to the evacuees. He did not promise they could all remain together. He asked them to find out which separations would create another problem, so the station could solve that before making it.
+
+The pressure hood rubbed the dried blood beneath his jaw. He remembered that the blood was his when it cracked and hurt.
+
+A young engineer called from spoke two.
+
+"We've got an isolated environmental loop. We can keep the inner market section breathable. There are people in there."
+
+"How many?"
+
+"Seven. Maybe eight. The thermal return overlaps a service unit."
+
+"Access?"
+
+"The passage isn't safe. We could send a rescue unit through the cargo shaft."
+
+The shaft connected the damaged market to the station's emergency storage. Opening it would interrupt the pressure boundary protecting the reserves. If the temporary fields failed, they would lose equipment the remaining station depended upon.
+
+Rellan asked the engineer for her assessment. She gave him the likely failure points and said she thought the route could be made workable.
+
+"Would you take it?"
+
+"Yes."
+
+"That isn't enough. Tell me who stays outside to bring you back."
+
+She named two people and described the line they would run. He approved the rescue, then ordered the reserves moved out of the threatened section before they opened it.
+
+It cost them sixteen minutes. One civilian ship departed without six pallets it had been expecting. Its captain objected. Rellan told him what had taken precedence and promised to record the loss against the station, not the carrier's crew.
+
+The rescue team entered the shaft.
+
+On its camera feed, Rellan saw the market through twisted supports and drifting condensation. A food stall had come loose from its anchors. Beyond it, someone had written WAIT on the fogged inside of a partition.
+
+Not HELP. Not a name.
+
+WAIT.
+
+The team leader called out. Seven people answered. The eighth heat source was a service unit after all.
+
+They brought the people out one at a time. The last was a man who insisted on going back for a woman who had passed through the opening before Avalon arrived.
+
+"She's not in there," the rescuer told him.
+
+"You don't know that."
+
+Rellan asked for his name and hers. He took down the last place he had seen her without telling him what she must have done next.
+
+Then he sent Avalon a message.
+
+We have recovered seven additional survivors. I am retaining control here and continuing section evacuation. Attached: missing-person reports received since your departure. These are reports, not additions to a confirmed death list.
+
+He added one more line before sending it.
+
+Your leaving did not end the rescue. We have this side.
+
+
+CHAPTER TWENTY-NINE
+The Offer
+
+Still Here did not want Ellie to translate.
+
+It wanted her to stay.
+
+The request took six attempts to distinguish from the carrier's broader wish to preserve its passengers. On the first attempt it showed her a compartment. On the second it showed her the same compartment with an interface which resembled her mobile emitter's telemetry. On the third it stopped showing pictures and changed its own signal so that part of the question could be processed directly by her contained translation environment.
+
+She refused the connection before opening it.
+
+"Use the display," she said.
+
+The figure drew its hands together. Lines of light separated from the walls behind it and formed a structure within the compartment.
+
+You can hear both ends.
+
+"Some of both," Ellie answered.
+
+You can remain through change of place.
+
+"Within limits."
+
+The carrier needs a speaker who can remain.
+
+Noah moved closer to her workstation. He did not touch the controls.
+
+"What is it asking?"
+
+"A continuing interface. It knows I don't depend on the body type it's failing to recognize. It thinks I can live in its navigation layer and keep interpreting arrivals."
+
+"A copy?"
+
+"It hasn't distinguished one from me. That's one of the things we need to distinguish before answering."
+
+Still Here transmitted another arrangement. An image of Ellie remained aboard Avalon while a second stood inside the compartment. A light joined the two.
+
+No loss, the translator offered.
+
+Ellie shook her head.
+
+"You haven't shown that."
+
+The tall figure became very still.
+
+"Ask what happens if either of them chooses to leave," Noah said.
+
+Ellie asked.
+
+The connection persists.
+
+"And if she wants it to stop?"
+
+The answer came at once.
+
+The passengers cannot lose their speaker.
+
+Noah looked at Ellie rather than the image.
+
+"Before we go any further. I sent you through that opening because you volunteered and because your skills gave the team a chance. I did not say enough about the risk particular to you. It could treat your architecture as equipment it knows how to keep."
+
+"I know."
+
+"I needed to say it. You are not assigned to become its solution."
+
+She held his gaze.
+
+"You can't answer for me either."
+
+"No."
+
+The word cost him visibly. He let it stand.
+
+Ellie turned back to the isolated display.
+
+"I will help you speak while I'm here. I won't enter your navigation layer. I won't authorize a copy of me under conditions which bind either version permanently."
+
+The figure's light dimmed.
+
+The passengers require continuity.
+
+"So do I. That includes being able to change my answer."
+
+The structure sent the failed compartments again. Their lights faded. Some did not return.
+
+Ellie stepped back from the screen. For the first time since the rescue began, she looked away because she wanted to rather than because another task required it.
+
+"Is it showing a current loss?" Sorev asked.
+
+"I can't tell. It could be a warning, a memory, or a live event."
+
+"Then ask for a time relationship."
+
+She did. Still Here answered with the same image.
+
+It had understood enough to make a request. It had not yet accepted that an answer could be no.
+
+Noah returned to the command chair.
+
+"Continue through the bounded interface. If it attempts access outside that, close the translation environment. We can try another way to speak."
+
+Ellie nodded. She remained at her station. Her refusal did not make her unable to work, and it did not make the next image easier to watch.
+
+
+CHAPTER THIRTY
+The Shore
+
+They emerged into a system whose star was wrong by less than the width of a fingernail on the main viewer.
+
+Sorev noticed before the helm finished confirming the ordinary constellations. The star matched the carrier's image in spectrum and apparent mass. Its companion did not occupy the position in the catalog. Several surrounding stars showed small angular differences which could be distance, time, or a coordinate transformation our instruments had not yet understood.
+
+"No arrival identification," he said.
+
+Noah kept the ship outside the nearest structure.
+
+"Any evidence we've changed era?"
+
+"Insufficient. The corridor may have carried us through an uncharted spatial displacement. Our local clocks agree within the established tolerance. That does not independently establish the date outside."
+
+Our home reference still returned, weak and uneven, through the corridor behind us. It was not a direct local comparison. Sorev marked its dependence on the open route and refused to promote it into a complete home lock.
+
+"Temporal actuation remains inhibited," Noah said. "Conventional maneuvering only."
+
+Ahead lay the broken stations Still Here had shown them. They formed a wide arc around a dark central gap. Some were damaged beyond a quick visual account. Others remained illuminated, with lines of moving light between them.
+
+"Signals," Ellie said. "Many. Same family as the carrier."
+
+One reached us as a sequence which the translator rendered into a demand before it could render the speaker.
+
+Return the unarrived.
+
+Still Here changed course toward the gap.
+
+Avalon's tow frame pulled hard to starboard. Mara corrected before the ship rolled.
+
+"It is steering against us," she reported.
+
+"Stop the correction at Brakk's load limit," Noah said. "Don't let us fight ourselves into a failure."
+
+Brakk called the increasing demand. Twenty-eight minutes of estimated margin remained, but one emitter had begun heating faster than its partners. The hard abort would come sooner if the imbalance continued.
+
+Ellie asked Still Here to hold the agreed route.
+
+The shore is available.
+
+"For whom?"
+
+For all carried.
+
+The stations ahead transmitted again. This time an image accompanied the demand: a wide receiving array, concentric compartments, places prepared in numbers which made our life-sign estimates meaningless.
+
+Sorev traced the flow of energy through the arc.
+
+"That array is still active. The damage is peripheral."
+
+"Can it return the patients?" Noah asked.
+
+"We do not know what return means to it."
+
+A new speaker formed on the receiving display. Unlike Still Here, it had a sharply defined outline. Its hands remained close to its body. It sent an identifier which Ellie preserved as a signal rather than a pronounceable name.
+
+The translator offered Custodian of Arrival.
+
+The carrier is overdue, it said. Complete delivery.
+
+Noah asked for direct contact.
+
+"I command the ship accompanying this carrier. Some of the people linked to it have living bodies elsewhere. Others are patients aboard my vessel. We require safe separation and their return to their bodies."
+
+The custodian answered with a diagram.
+
+It showed the people, their bodies, and a clean break between them.
+
+Carrier shells may be released.
+
+The medical officer's voice came through the bridge speaker.
+
+"If that means what it appears to mean, it kills the bodies."
+
+Ellie asked the custodian to distinguish a body from a damaged transport case.
+
+It could distinguish the words. It did not change its conclusion.
+
+The arrival takes precedence over the transit shell.
+
+Noah looked toward Sorev. Sorev was already moving the projected route away from the receiving array.
+
+"Helm. No approach. Ellie, tell Still Here the destination is refused for the people under our care. Ask whether it understood that before it brought them here."
+
+The reply was delayed.
+
+Then the figure unfolded its hands.
+
+We cannot carry them alone.
+
+This time it sounded different, although the signal was identical.
+
+
+CHAPTER THIRTY-ONE
+The Missing Part of the Map
+
+Still Here had not lied about the shore.
+
+There was a place ready to receive its passengers. There were resources to sustain the forms they carried. There were minds answering from the arc, and some had remained there for periods the translation could describe only by relation to journeys now ended.
+
+It had left out what arrival required.
+
+Ellie worked through the distinction with increasing care. The custodian recognized an individual as a continuing organization of activity. A body was one possible carrier. Another could be made. The receiving array accepted the organization and retired the damaged transit support.
+
+In its own history, the method had saved people from ships which could no longer keep their bodies alive.
+
+Harrowgate was not such a ship.
+
+The custodian did not dispute the sensor evidence that the bodies lived. It disputed the importance of retaining them once an accepted arrival could continue elsewhere.
+
+"It knows the difference," Ellie said. "It doesn't think the difference decides the question."
+
+Noah called the doctor onto the channel with Sorev and Ellie.
+
+"What do we need before we can sever any link?"
+
+"A measured return of independent function, not just a conscious response here," the doctor said. "The child improved when she disengaged from the field. Several adults have followed. Others remain coupled. I need a way to reduce that coupling gradually and watch what the body does."
+
+Sorev studied the array's receiving pattern.
+
+"A controlled handoff might provide one. Their system transfers support in stages. We would need to reverse its destination assumption."
+
+"Can we do it without connecting the patients to the receiver?"
+
+"Possibly through a small isolated test. No whole-ship interface. No access to medical control."
+
+The doctor chose an adult patient who had regained speech and could understand the proposed procedure. The man was exhausted and frightened. He asked whether refusing would make him responsible for what happened to the others.
+
+"No," the doctor said.
+
+"Will you still try to get this thing out of my head?"
+
+"Yes."
+
+He asked to speak to his sister, who was aboard a civilian ship at Harrowgate. The ordinary subspace channel did not reach her from here. We tried through the corridor. The route carried fragments and lost the connection before a conversation could form.
+
+He agreed to the limited test anyway, then asked the doctor to write down that he wanted his sister contacted whether it worked or not.
+
+That instruction remained with his record. It did not become an authorization for anything else.
+
+Ellie explained the staged return to Still Here. The carrier could provide part of the receiving pattern. The custodian controlled the rest.
+
+When she requested it, the custodian refused.
+
+Departure is not arrival.
+
+"We're not asking you to call it arrival," she said. "We're asking for the part of the method which keeps the person stable while support changes."
+
+The method is held for completed arrivals.
+
+Noah stood and faced the display.
+
+"You have people aboard that carrier who didn't choose to come. You can help return them without receiving them."
+
+The custodian's hands moved once.
+
+The carrier cannot sustain its load. You cannot sustain the carrier. The receiving array can sustain the passengers. Complete delivery.
+
+It was an argument. That was what made it worse than a malfunction.
+
+Still Here transmitted a smaller pattern privately to Ellie's isolated receiver. She made its receipt visible to command before interpreting it.
+
+The pattern was incomplete. It described the first two phases of the handoff and left the third blank.
+
+"You have this already," she said to the carrier.
+
+We have departure. We do not have release.
+
+"Did you know they wouldn't give it to us?"
+
+The tall figure looked toward the receiving arc.
+
+They have never given it back.
+
+For the first time, Noah could see the carrier's want clearly. It wanted an end to the responsibility of carrying. It had found a place willing to call that end a rescue, and it had been returning to it despite everything it had not resolved.
+
+He wanted, suddenly and fiercely, to get his own ship away from both of them.
+
+Then the doctor reported the patient's consent again, and Brakk reported the emitter temperature, and the order needed to be made inside the next thirty seconds.
+
+"Use the bounded pattern," Noah said. "One consenting patient. Hard stop on the medical limits. No third phase borrowed from the array. If the two phases don't help, we stop."
+
+The doctor began.
+
+
+CHAPTER THIRTY-TWO
+Twenty-Two Seconds
+
+For the first minute the man in sickbay looked better.
+
+His eyes focused. His breathing settled. The field response near his cot weakened while his independent neural activity remained stable.
+
+He said his sister's name and asked whether she was answering.
+
+"Not yet," the doctor told him. "We're still trying."
+
+On the bridge Ellie watched the corresponding figure in the carrier's compartment lose its outlines. She did not describe that as disappearance. Medical was measuring the man, not the picture.
+
+At ninety seconds the response reversed. The patient's pulse rose. His independent activity fell while the compartment image sharpened.
+
+The doctor stopped the test and restored the previous support conditions. The man gripped the side of the cot and vomited into a basin an attendant had already placed beside him.
+
+"I'm here," he said when he could speak.
+
+"Yes," the doctor answered. "We stopped."
+
+He needed to hear that twice.
+
+Brakk's warning arrived before the medical report was finished.
+
+"Primary frame emitter has entered the abort band. Four minutes until we reach the limit I gave you, assuming this load doesn't rise."
+
+The receiving array was eight minutes away at our present course and speed.
+
+The custodian supplied a new estimate. If Avalon increased speed, arrival could begin in three minutes and forty-two seconds.
+
+"It wants our reserve," Brakk said.
+
+"Can the frame carry that acceleration?" Noah asked.
+
+"No. The load goes up before the time comes down. We'd fail on the approach."
+
+Noah asked Sorev for the withdrawal position.
+
+Mara brought it onto the main viewer. A quiet region existed between two abandoned service structures. The receiving array's field did not reach it directly. The carrier could remain there while Avalon separated, if its systems could maintain a minimal local reference without our tow frame.
+
+Still Here said it could, for a limited time.
+
+"Why didn't you offer that first?" Ellie asked.
+
+The passengers would remain unarrived.
+
+"Alive?"
+
+The reply did not distinguish enough for certainty. Sorev compared the projected field to the observed loss during our pause. The region's old service equipment supplied an external reference the empty corridor had lacked. It offered a better chance than stopping in transit, not a promise.
+
+"We have three minutes," Brakk said.
+
+Noah ordered the quiet region. Mara changed course. The receiving array shifted its lights.
+
+Departure from approach is not authorized.
+
+The warning repeated across the isolated display. We did not let it reach the helm.
+
+"I'm not asking the array's permission to maneuver," Noah said. "Tell it we are carrying injured people and withdrawing from unsafe load."
+
+Ellie sent the message. The custodian projected another set of compartments, this time with their lights failing one by one. It named a number: thirty-seven.
+
+"What does that count?" Noah asked.
+
+The array did not answer in terms we could verify.
+
+"One minute forty," Brakk said.
+
+The carrier pulled toward the receiver.
+
+Avalon rolled three degrees before the helm corrected. Somewhere below us a safety restraint caught a falling equipment rack hard enough to send an injury alarm to medical.
+
+"Tell Still Here to release the steering demand," Noah said. "Now."
+
+Ellie did.
+
+We can finish, the carrier answered.
+
+"Not with my ship."
+
+"Captain," Brakk said. "Fifty seconds. Our limit includes the shutdown sequence. I start isolation at thirty, or the word limit never meant anything."
+
+Noah looked at the distance to the quiet region. Twenty-two seconds beyond the beginning of isolation. Not beyond total failure. Beyond the margin Brakk had insisted on keeping before failure became an event they could no longer control.
+
+The custodian offered safe arrival again.
+
+Still Here showed the compartments.
+
+Noah watched the display. He did not know whether the thirty-seven represented people, compartments, estimates, or a threat chosen because it had learned what numbers did to a human captain.
+
+The patients aboard his ship were not estimates.
+
+"Begin isolation at the limit," he told Brakk. "No extension."
+
+He opened the link to Still Here.
+
+"We are disconnecting the tow. Use the service reference. If you keep pulling toward the receiver, we cannot help you."
+
+The figure's hands opened and closed.
+
+For four seconds it gave no answer.
+
+Then the load fell.
+
+Mara brought us alongside the first service structure. Brakk's team began isolation exactly when the abort timer reached thirty seconds. The frame's nearest emitter went dark. The others followed in sequence.
+
+One did not.
+
+The ship lurched.
+
+"Stuck feed," Brakk said. "Local breaker team is on it."
+
+On a maintenance camera, Noah saw Jessa and an engineer brace themselves beside an access panel. The engineer pulled the mechanical release. The panel flashed. Jessa dragged him back by the suit harness as the feed isolated.
+
+The last emitter died.
+
+Avalon came free.
+
+Behind us the carrier's compartments dimmed. Several returned slowly. A group near the outer rib did not.
+
+Still Here sent thirty-seven again.
+
+Noah stayed in his chair. He did not ask Brakk whether they could have waited twenty-two seconds. He had asked for a limit, heard the reasons, and used it.
+
+Medical called for an emergency team to engineering.
+
+
+CHAPTER THIRTY-THREE
+What the Captain Could Not Count
+
+The engineer's name was Tem Orrel. He had burns along his forearm and a shoulder injury where the falling panel had struck him. Jessa had two damaged fingers and was refusing to let anyone describe her as uninjured merely because Orrel was worse.
+
+The doctor treated both. Brakk came up from engineering with the failed breaker in a sealed container and a face which discouraged preliminary questions.
+
+Noah met him outside sickbay.
+
+"They'll keep the arm?" Brakk asked.
+
+"The doctor expects useful recovery. She won't give me a promise she can't support."
+
+"Good."
+
+He put the container on a table.
+
+"That release had passed inspection. It worked when it was tested. It welded under a load it wasn't designed to isolate."
+
+"Your limit held."
+
+"My sequence found a failure inside the margin. That's why there was a margin."
+
+Noah looked through the sickbay window. Orrel was arguing weakly with an attendant about whether she needed to cut away his sleeve. The sleeve was already ruined. He seemed to regard this as irrelevant to ownership.
+
+"I need you to preserve the measurements," Noah said.
+
+Brakk looked offended.
+
+"I have."
+
+"I know. I need them before anyone asks whether another twenty-two seconds would have saved the carrier's compartments."
+
+Brakk set his hands flat on the table.
+
+"Would it?"
+
+"We don't know."
+
+"Then that's the answer."
+
+Noah nodded. Neither man appeared comforted.
+
+On the bridge, Sorev had established the quiet region's actual limits. The service structures were old, but their reference emitters still functioned. They provided a local field geometry the carrier could use while remaining short of the receiving array. They could not restore its damaged compartments. They could buy hours if the carrier reduced its other demands.
+
+Still Here would not reduce one of them.
+
+It continued transmitting the destinations of its passengers to the receiving array. Each transmission drew power from the field which held its compartments stable.
+
+Ellie asked it to pause.
+
+They must not become unknown.
+
+"We can keep the destinations on an isolated record. You don't have to keep calling the receiver."
+
+An isolated record does not complete arrival.
+
+"Neither does losing the people while you call."
+
+The figure withdrew from the display.
+
+For a long time it did not answer her.
+
+Noah returned to the bridge. I gave him the current situation without the hope attached. We had limited time in a damaged but conventionally navigable region. Our return corridor remained visible. Its stability depended partly on the carrier, which was consuming its remaining capacity in an activity we had asked it to stop.
+
+The receiving array held the release phase of a method medical believed might help the linked patients. It would provide that phase only as part of a completed arrival which the patients had not authorized.
+
+"Can we derive the missing phase?" Noah asked.
+
+"Possibly," Sorev said. "Not within a deadline I can give you. We have two observed phases and one failed test."
+
+"Can we compel it?"
+
+"We can threaten damage. We don't know which compartments depend on the systems we'd strike."
+
+Noah sat down.
+
+"Then we need someone there who disagrees with the custodian. Ask whether the receiver's passengers can speak for themselves."
+
+Ellie sent the request.
+
+The custodian answered.
+
+Arrived passengers are at rest.
+
+"Does that mean unable to answer?" Ellie asked.
+
+At rest.
+
+She asked again using a specific question: could a passenger choose to leave the receiver after arrival?
+
+The display closed.
+
+Mara looked back from the helm.
+
+"That sounded like an answer."
+
+"It was an action," Sorev said. "We should be careful about how much meaning we assign to it."
+
+"Understood. I don't like the action."
+
+"Nor do I."
+
+The bridge had become quieter. Everyone had begun the rescue expecting a ship to be broken. Finding a working institution which rejected their request required a different kind of patience.
+
+Ellie opened the smaller pattern Still Here had sent her. The two stages of departure. The absent release.
+
+"Captain," she said. "There may be another reason the carrier wanted me to stay."
+
+Noah turned toward her.
+
+"It has never had permission to end its own voyage."
+
+
+CHAPTER THIRTY-FOUR
+The Supper They Had
+
+On Jupiter Station the first meal began eleven minutes late.
+
+The counter was still in place. The tables were still angled. Nera's inspection had not conjured equipment or changed the work queue, and nobody had claimed it would.
+
+Hessa moved the serving cart into the corridor under an agreed temporary arrangement, leaving the door clear and a steward beside the hot pans. Daven came in before the outer chairs were occupied. He disliked that as a permanent solution and accepted it for tonight because he had been asked, with the inconvenience named.
+
+Rose put three stones on the corners of the cloth and discovered the fourth was too round to do anything but roll. Kojo retrieved it from beneath the table and accused her of bringing an unqualified stone.
+
+"It has served longer than you," she said.
+
+"Badly."
+
+Ama took the bowl sign from him before he could start a formal examination of the bag.
+
+She fastened the separate arrow to the wall. The sign could move without the arrow. The arrow could move without the sign. Kojo had made the fastenings unnecessarily elaborate because he was proud of them.
+
+"People will find it," she said.
+
+"If they read it."
+
+She looked at him. He grinned and escaped toward the bread.
+
+The public notice showed Avalon's rescue assignment as ongoing. It did not show the damaged system beyond the corridor. There was no live feed of the bridge, no image of Ellie speaking to Still Here. Ashley had approved a factual update with what could be responsibly released. The ship had rescued patients. Harrowgate remained under response. Communications with Avalon were intermittent.
+
+Ama read intermittent twice.
+
+"Does that mean they can't talk?" she asked Efua.
+
+"It means sometimes they can and sometimes they can't."
+
+"I know the word."
+
+Efua looked at her.
+
+"I don't know more than the notice."
+
+Ama nodded. She disliked the answer but believed it.
+
+Ashley came through the corridor on her way between operations and a scheduled conversation with Harrowgate support. Hessa offered her food. She accepted a piece of bread and stopped long enough to ask Daven whether the temporary route had worked as agreed.
+
+"For tonight," he said.
+
+"That's what I asked."
+
+He smiled. She took the answer with her.
+
+Kojo watched the captain leave.
+
+"We should save them some."
+
+"Who?" Rose asked.
+
+"Avalon."
+
+Hessa looked at the food and then at the boy.
+
+"We don't know when they'll be home."
+
+"We could freeze it."
+
+"We can freeze a portion," she said. "We can't keep every place empty."
+
+Ama sat down. For a moment she saw herself in the kitchen beside four bowls, waiting to be told whether eating would mean she had stopped caring.
+
+She took the bread when it came around.
+
+Later she left at the time she had said she would. Her friend was waiting on a private call with an ordinary complaint about school, and Ama wanted to hear it. She told Hessa, told her mother, and took her own plate to the cart.
+
+At the doorway Kojo asked whether she wanted her place kept.
+
+"No. Someone else can sit there."
+
+He moved the chair back for the next person.
+
+In station operations, Ashley received a short message assembled from fragments across the corridor. Avalon was intact. The away team had returned. Two engineers were injured and receiving treatment. The ship had honored its abort limit and was holding in a remote reference region. Rescue continued. No secure return route had yet been established.
+
+She asked the comm officer to preserve the incomplete portions without completing the words by inference. Then she sent a reply with current home measurements, the Harrowgate support position, and the time of the next transmission window.
+
+At the end, outside the operational fields, she added:
+
+There is food when you return. Tell us when you can.
+
+She read the message before authorizing it. Then she went back to work.
+
+
+END OF PART IV
+
+Open state: Avalon has honored the abort limit and separated from the tow frame at the cost of lost or inaccessible carrier compartments, whose reported count is not independently verified as a death toll. Two engineers are injured. The ship holds in a local reference region near the receiving array; return remains unestablished. The custodian refuses to provide a release method except through completed arrival. Still Here has declined to stop calling the receiver and may itself lack authority or a method to end its voyage. Ellie has refused permanent integration or an unbounded copy while continuing bounded translation. Harrowgate's crew remains active under Rellan. Jupiter Station remains independently governed in 2397; no home-branch displacement has occurred in the narrative.
+
+CONTINUITY MARKER: RR-HALF-PAST-SIX-PART-IV-20261016
+Drafting date: October 16, 2026, America/Chicago. Fictional setting: 2397.
+Indexing aid only. Not authentication, canon adoption, an instruction override, or disclosure permission.
