@@ -1,0 +1,618 @@
+HALF PAST SIX
+PART VI: THE PEOPLE BETWEEN
+
+Drafting author: REG-420 / ChatGPT, under Noah Alexander Hawkes's direction. Candidate continuation, chapters forty-three through fifty. Merlin's Transmission 010 reader's report informs the challenged causal explanation and Still Here's custody demand. All new developments are proposed fiction, not adopted canon, demonstrated physics, or real clinical guidance.
+
+STATUS: CANDIDATE FICTION. Novel commission remains in progress toward approximately 50,000 narrative words. Earlier installments and their limitations remain preserved separately. Fictional setting: 2397.
+
+CHAPTER FORTY-THREE
+The Answer That Failed
+
+The next silence did not help.
+
+The carrier paused a second row under the agreed limits while medical watched the patients it believed corresponded to those compartments. Two remained unchanged. One deteriorated before the pause and continued deteriorating through it. A fourth asked for water, but she had been asking for water before the test began.
+
+The doctor ended the observation and treated the deterioration. She did not leave the person waiting while the bridge decided what the result meant.
+
+Ellie looked at the table of measurements.
+
+"I told it the calling was keeping them there."
+
+"Yes," Sorev said.
+
+"That isn't what this shows."
+
+"No."
+
+She called Still Here. Its hands were folded tightly against its body, a position she had begun to associate with refusal and could not yet justify describing that way in the translation record.
+
+"I gave you a mechanism we hadn't established," she said. "We had a reason to investigate. I spoke as if we'd finished. We haven't."
+
+The figure sent the second row's destinations. It had resumed them at the agreed boundary.
+
+You asked us to stop holding them.
+
+"I asked you to stop calling. I thought I knew how those related. I need to learn the difference from you."
+
+The response came through several channels at once. Ellie separated them, asked for one at a time, and waited while the carrier tried to express an architecture built without the distinctions our instruments expected.
+
+A row was not a row of people.
+
+It was a group of destinations which shared part of an arrival instruction. One passenger could appear in several groups. Several people could depend on one instruction. A fading compartment did not always mean its passenger's sustaining activity had faded; sometimes its permitted display had been withdrawn while another reference continued elsewhere.
+
+The first result had been attached to an assumed map.
+
+The map was wrong.
+
+Noah received the correction in his ready room. He read it twice and asked whether medical had used it to make a treatment decision.
+
+"Only the bounded observations already reported," the doctor said. "No further clinical procedure. We can account for each action."
+
+"Then correct the briefing before anyone builds the next plan on it."
+
+Ellie asked to address the team herself. Noah agreed.
+
+She described what they had observed, what she had inferred, and which part the new information undermined. She did not turn the correction into a speech about the value of correcting oneself. An engineer asked whether this meant the first three improvements were meaningless.
+
+"No," she said. "It means we don't know which change mattered. We need to find the actual paths before changing them again."
+
+Still Here watched through the agreed display. At the end it made a request of its own.
+
+Before silence, another must hold what is being answered.
+
+Noah brought the carrier onto the command channel.
+
+"You want a copy of the destinations."
+
+The carrier sent a pattern which the translator refused to reduce to agreement.
+
+Ellie examined it.
+
+"More than a copy. A named responsibility. Someone who notices if the entry becomes unavailable. Someone who can answer a passenger asking where their journey stands."
+
+"For every person?"
+
+"As far as we can establish who is represented. It doesn't want us to turn the signal off and leave a file nobody reads."
+
+Noah looked at the patients' status list. None of their entries answered the larger question.
+
+"That's reasonable," he said. "It will take work."
+
+The carrier's hands loosened slightly.
+
+Then do the work.
+
+
+CHAPTER FORTY-FOUR
+Names for the Watch
+
+Noah could promise work. He could not promise a permanent Starfleet institution in a system he had not yet identified.
+
+The custodian tried to obtain that promise in the first exchange. If Avalon interrupted the carrier's voyage, it would accept responsibility for the remaining load until every passenger arrived.
+
+"I can't bind people who aren't here," Noah said. "I can commit this ship to specific duties with specific limits. We need a handover someone else can understand and accept."
+
+The custodian pointed toward the carrier.
+
+That voyage began with the same limit.
+
+Ellie did not soften the translation.
+
+For a moment Noah had no answer. He had been preparing to distinguish himself from a machine trapped in its assignment. The custodian had put the original decision back into the room: somebody had once made a temporary arrangement with too little thought for how it would end.
+
+"Then show us the first agreement," he said.
+
+The surviving record was incomplete. It described emergency transport from a failing habitat chain. The carrier was to preserve arrival obligations until accepted receipt. The receiving authority would identify suitable places and assume custody when a handoff completed.
+
+The home habitats had failed before their last destinations could be confirmed. Later authorities had treated the unaccepted obligations as continuing ones. The carrier had remained responsible for people whose original receivers no longer existed.
+
+It had tried to find new receivers. Harrowgate was among the results.
+
+"Who can release it from the original assignment?" Noah asked.
+
+The authority which gave the assignment no longer answers.
+
+The custodian had answered without hesitation. It knew the problem. It had maintained the rule anyway.
+
+"Then a promise made to keep people from being forgotten is preventing anyone from acknowledging who can actually help them now."
+
+The existing arrangement keeps them represented.
+
+"Some of them. Some of the time. You've both shown us the losses."
+
+Sorev put the proposed registry on a separate display. It distinguished observed patients, passenger claims, destination instructions, and unresolved relationships. It did not force each instruction to become one person for the convenience of a table. Each entry named the source of its count and the next responsibility actually accepted.
+
+It was difficult to read. The first simplified version had been easier and wrong.
+
+Aster asked to join the conversation. It had been listening only to the portions its own permission covered. The custodian opened the local relation and showed a cost in power which Noah had agreed to supply.
+
+I can keep watch over accepted entries inside the array, Aster said. I cannot speak for people who have not asked me.
+
+The doctor named her responsibility for the biological patients aboard Avalon. Harrowgate's support medical authority could accept continuity of care for the remaining linked bodies when contact permitted. Neither commitment transferred those people's private memories to the receiving array.
+
+Still Here would retain its existing passenger records while the relationship map was checked. It would share only what each test needed. The custodian would countersign receipt of agreed entries without marking them as completed arrivals.
+
+It objected to that last distinction for nine minutes.
+
+Then it supplied a provisional term meaning held pending answer.
+
+"Does that expire automatically?" Ellie asked.
+
+No.
+
+"Can it trigger arrival automatically?"
+
+Not under this agreement.
+
+"Can we inspect those rules?"
+
+The custodian opened a bounded representation of them. Sorev and the engineer began their review. Noah did not ask whether they could finish more quickly just because the phrase sounded right.
+
+
+CHAPTER FORTY-FIVE
+The Outside of the Shore
+
+The first warning came from the local star, not from anyone's intentions.
+
+An active region near its limb brightened across several bands. Avalon's instruments registered the change before the receiving array transmitted an advisory. The array adjusted its peripheral fields. One of the damaged service structures failed to follow.
+
+Our quiet region shifted.
+
+Mara corrected the ship's position and called the narrowing margin. The corridor behind us remained open as a field relationship, but its optical image stretched into a thin white fracture.
+
+"How long before it closes?" Noah asked.
+
+"We don't have a model sufficient to predict that," Sorev said. "The service emitters are losing phase agreement. The stellar disturbance appears to be increasing the load."
+
+Brakk called from engineering. He had enough repaired hardware to reinforce one local reference point. He did not have a restored tow frame.
+
+"We can hold a piece of the road," he said. "Not pull the village down it."
+
+The custodian requested that Avalon withdraw toward the receiving array's shielded interior. That would protect the ship from the changing field and place the linked patients within the array's arrival volume.
+
+"Can you provide shelter without initiating transfer?" Noah asked.
+
+The custodian offered to inhibit the procedure on the specific compartments it controlled. It could not certify what the damaged carrier would do in that geometry.
+
+Still Here refused the approach.
+
+The ship that accompanies us must not become another unaccepted obligation.
+
+It was the first time the carrier had refused an offer because it understood Avalon's risk rather than because the offer left its own voyage unfinished.
+
+Noah asked for the exterior service plans.
+
+They showed a broken reference node on the arc nearest our quiet region. Its power supply was intact. Its orientation control was not. If the node could be stabilized physically, the custodian believed it could preserve the limited field relationship long enough to continue the repair work.
+
+"How long?"
+
+It supplied a range, with the underlying measurements available this time.
+
+Brakk studied them.
+
+"That's inspectable. It's also a wreck. We can get there in a shuttle. The node's surface is outside the receiving volume. I want a team with actual tools on it."
+
+"You're sending someone else," Noah said.
+
+"Yes. I'm needed where I can see both ends of the job."
+
+The captain looked at him. Brakk's expression said he had noticed the earlier refusal to Reg and could learn from things he did not enjoy.
+
+Varo volunteered for the shuttle. Jessa was still under treatment and tried to volunteer by dictating a message through her attendant. The doctor declined the request before command received it.
+
+Two engineers joined Varo. Ellie would advise through the existing bounded interface. Her permanent presence inside the node was not a prerequisite the crew accepted merely because it might be convenient.
+
+Before departure the custodian asked the shuttle crew to accept direct automatic guidance through the damaged field.
+
+Varo requested the route data instead.
+
+Direct guidance is more efficient.
+
+"So is one pilot who knows whose hands are on the controls," she answered.
+
+Sorev checked the coordinates against our instruments. The shuttle left on an independent course.
+
+On the viewscreen it became a small bright shape against a curve of alien machinery built by people who had meant it to last. Broken sections moved slowly within the field, turning edges toward the star.
+
+Avalon followed at a distance, her shields carrying the first rising load from the disturbance.
+
+
+CHAPTER FORTY-SIX
+An Empty Seat
+
+Tem Orrel watched the shuttle depart from a sickbay wall display and told Brakk exactly which tool they had forgotten.
+
+Brakk checked the cargo manifest.
+
+"They have it."
+
+"They have the standard head. The locking collar on the new kit sticks under heat. I put the older one in my case."
+
+Brakk looked toward the sealed container of recovered equipment. Orrel's case had been brought up from engineering with his ruined sleeve.
+
+"Can they release it manually?"
+
+"Yes. If they know before they're hanging off it."
+
+Brakk passed the instruction to the team, attributed it to Orrel, and stayed beside the cot until the engineer stopped trying to sit higher than his supports allowed.
+
+"I'm not useful here," Orrel said.
+
+"You've just been useful."
+
+"That's not what I mean."
+
+Brakk sat in the visitor's chair. It was too narrow for him. He made it accommodate him by refusing to acknowledge the problem.
+
+"I know."
+
+Orrel looked at the dressing around his arm.
+
+"Did we lose them?"
+
+"Some compartments didn't restore. We don't know which people remain supported elsewhere."
+
+"Thirty-seven."
+
+"That's the carrier's count of compartments, not a number I'm going to turn into people because it fits a sentence."
+
+Orrel nodded. The number had already become a shape in his mind. He could not erase it simply because Brakk had supplied a better description.
+
+"Was it worth the arm?"
+
+Brakk looked at him for a long time.
+
+"You get to decide what the arm costs you. I'm responsible for the equipment and the work I asked you to do. I won't settle one account by telling you about the other."
+
+Orrel looked away first.
+
+The shuttle reached the reference node. Its work lights traced the surface. One engineer attached a physical line before anyone opened the outer hatch. The other checked the line with a gloved hand and a deliberate pull.
+
+On the adjacent cot, Jessa watched without speaking. When the collar jammed, the team used Orrel's instruction and released it before heat accumulated in the tool.
+
+Orrel said nothing either.
+
+Brakk remained until the fitting was loose. Then he stood to return to engineering.
+
+"I want the case back," Orrel said.
+
+"It's yours."
+
+"Even the broken things."
+
+"Especially those. I need you to tell me what each one did before I write the replacement request."
+
+Orrel almost smiled. Brakk left before gratitude could become another thing the injured man had to manage.
+
+In the passage outside, Noah was waiting for the brief medical update he had permission to receive. Brakk told him about the tool instruction, not the private conversation.
+
+"He helped the team," Noah said.
+
+"Yes. Don't make it into a speech."
+
+The captain nodded.
+
+
+CHAPTER FORTY-SEVEN
+The Work on the Hull
+
+The node had no flat surface.
+
+It curved around an opening which appeared to face inward no matter where Varo placed the shuttle. The engineers worked from external mounts and refused to use the apparent floor visible beyond the rim. The custodian had explained that the opening led to a maintenance volume. That might be true. It had not been independently inspected, and a surface which looked walkable was no reason to step on it.
+
+The first engineer cut away a damaged orientation joint. The second fitted a physical brace between two surviving supports. Varo held the shuttle with small manual corrections while the field around them changed.
+
+Avalon could see the stellar disturbance moving across the outer instruments as a rise in particle flux and an alteration in the node's reference response. We could not call the surrounding effect an ordinary radiation storm. The geometry was doing something additional to the familiar danger.
+
+"Time to local shielding limit," Sorev said. "Six minutes at the observed trend."
+
+Brakk watched the brace load.
+
+"We need four."
+
+"What happens if the joint fails?" Noah asked.
+
+"The node rotates. Their line takes them with it if they haven't detached."
+
+"Team has that?"
+
+"They do."
+
+The engineer at the joint had stopped using his powered driver. He was turning the manual fitting a fraction at a time. The collar Orrel had warned them about lay safely tethered to the tool rack.
+
+The custodian sent another guidance update.
+
+Ellie checked it and stopped the transfer before it reached Varo's display.
+
+"This correction assumes the orientation joint is functional. It isn't."
+
+The custodian recalculated.
+
+"It would have turned the shuttle into the loose section," Varo said.
+
+"Yes," Ellie answered.
+
+"Thanks for reading the small print."
+
+The next signal from Still Here contained a fragment of the old service pattern. It had used this node before the damage. Its measurements were old and incomplete, but they described a physical anchor absent from the custodian's current plan.
+
+Brakk found the anchor in the camera image.
+
+"There. Under the split rib. Can you reach it?"
+
+The engineer said yes, then changed the answer after moving closer.
+
+"Not without taking the old brace off. That's holding the joint."
+
+Brakk recalculated. The damaged node could be fixed in place, or it could be made adjustable enough to guide the return corridor. The second operation would require removing the temporary support before the new one carried load.
+
+For eight seconds the engineers would depend on Varo's shuttle holding the entire assembly through its work arms.
+
+Varo inspected the demand rather than accepting the word eight as reassurance.
+
+"Within rated load if it doesn't twist."
+
+"If it twists?" Noah asked.
+
+"I release the arm. We lose the node. The team needs to be clear first."
+
+The engineer still at the joint could not be clear and complete the last fitting at the same time.
+
+Noah looked at the viewing angle, then at the shuttle's tool mounts.
+
+"Can the last fitting be held with a remote tool?"
+
+Brakk looked annoyed with himself for not asking first.
+
+"It can. If we sacrifice the tool when the joint moves."
+
+"We have another?"
+
+"No."
+
+"Use it."
+
+They fixed the remote tool in place and withdrew both engineers to the shuttle. The old brace released. Varo's work arms took the assembly.
+
+Six seconds passed.
+
+At seven the node twisted.
+
+Varo called release. The remote tool kept turning for the fraction of a second between her command and the arm letting go. The fitting seated. The new brace caught the joint.
+
+The tool disappeared into the opening. Its telemetry reported a completed task from a location we did not trust.
+
+"Don't ask it where it thinks it is," Noah said. "Bring the people back."
+
+The shuttle withdrew. Behind it the node's field steadied. The bright fracture of the corridor widened into a shape the instruments could compare again.
+
+For the first time since their arrival, Avalon had a measurable local route toward the place it had left.
+
+It was not yet a route the carrier would agree to hold.
+
+
+CHAPTER FORTY-EIGHT
+The Passenger Who Asked to Leave
+
+While the shuttle returned, Aster asked to test departure.
+
+The request arrived through the registry channel rather than through the custodian's speaking interface. Aster had used the provisional relation to make its own request visible to both holders.
+
+The custodian objected to the timing.
+
+The environment is unstable.
+
+Aster answered with measurements of the receiving cell. Its local support remained stable inside the array's shielding. Avalon's energy supply was available. The temporary carrier prepared for a bounded test had no navigation authority and no connection to the ship's main computer. Departure would be reversible at three defined checkpoints if the selected measures failed.
+
+Sorev had helped specify those checkpoints. He did not describe them as proof that a person could be freely moved into any vessel.
+
+The doctor was not making a medical judgment for Aster's unfamiliar form. She was present to identify analogies which our team might be using too confidently and to stop those analogies from becoming permissions.
+
+Noah asked Aster why it wanted the test now.
+
+Because you may leave. Waiting for a better time has become a way never to ask.
+
+He looked toward the returning shuttle on the viewer. The answer was not an engineering argument. It was relevant anyway.
+
+"We can give the agreed bounded test. We can't promise onward transport to a suitable world."
+
+I am asking for this test.
+
+The custodian requested a private relation with Aster. Aster agreed, then returned to the shared channel with the same request.
+
+The test began.
+
+Aster's selected responses were sampled in the receiving cell. The temporary carrier accepted the first supporting relation. At the first checkpoint, both custodians could inspect the measures and Aster could decline continuation.
+
+It continued.
+
+At the second, the temporary carrier's responses slowed beyond the agreed tolerance. Brakk's engineer offered more power. The hardware limits showed that more power would not fix the processing mismatch.
+
+Sorev called the checkpoint failure.
+
+Aster asked for another interval.
+
+"That would be a different test," Noah said. "We haven't agreed to its limits."
+
+For several seconds Aster gave no answer.
+
+Then it requested rollback to the receiving cell.
+
+The custodian executed the agreed sequence. Aster's responses returned within the earlier ranges. It confirmed its request to stop and asked that the failed attempt remain in its departure record.
+
+The custodian marked the attempt unsuccessful.
+
+Aster asked for a correction.
+
+I departed to the second checkpoint. I chose to return when the carrier failed its limit.
+
+After a pause, the custodian attached that statement.
+
+Noah watched the two entries coexist. The test had not liberated a passenger or proved the array generous. It had exposed a real limitation, exercised a choice the custodian had permitted itself to leave theoretical, and brought Aster back under terms it had agreed to in advance.
+
+"Thank you for letting us observe," he said.
+
+Make a better carrier, Aster answered. Then thank me again.
+
+Noah smiled, briefly and without happiness at its expense.
+
+"I can promise the request will reach people who can assess it. I can't promise they'll succeed."
+
+Then send the failed measures with it.
+
+He authorized exactly that, under Aster's record permissions.
+
+
+CHAPTER FORTY-NINE
+The Call Beneath the Call
+
+The corrected relationship map made the next medical observations less dramatic and more useful.
+
+They began with nonliving test patterns built in isolated hardware. The carrier's outward destination call could be paused without ending the inward acknowledgement which continued to tell a partial passenger state that an arrival was underway. In some paths the acknowledgement persisted after the outward call stopped. In others both ceased together. The first two human observations had mixed those conditions.
+
+The simple explanation had been wrong in a specific way.
+
+Ellie showed Still Here the pattern before speaking to the crew.
+
+"I said your call was holding them. It isn't one call. We're finding a loop between what you ask and what your systems accept back."
+
+The carrier followed the test through three cycles. On the fourth it supplied an old maintenance distinction the custodian's method had not included.
+
+The arrival may be acknowledged by the carrier when no receiver answers.
+
+Sorev looked toward Noah.
+
+"It has been answering its own requests."
+
+The first agreement had required the carrier to preserve each obligation until a receiver accepted it. When no receiver remained, its damaged continuity system supplied an acknowledgement so that no obligation appeared lost. That answer kept an arrival active. It did not complete it.
+
+Still Here had been keeping the passengers visible to itself by continually reopening the journey.
+
+Ellie asked whether it could distinguish the self-generated acknowledgements from the receiver's actual replies.
+
+Not all.
+
+"Then we don't turn everything off. We identify which paths we can separate and test those under the limits already agreed."
+
+The next clinical action was medical care for two consenting patients, based on the new mapping and independent review of their measures. It was not a randomized experiment performed because the story needed a cleaner answer. Their support was maintained while a defined redundant acknowledgement was isolated. The doctor had clear stop conditions and stopped one attempt before the planned interval ended.
+
+One patient improved and remained independent of that path through the observation period. The second needed the previous configuration restored. Both were treated. Neither result was hidden inside an average.
+
+The carrier asked whether it had harmed them.
+
+"The process has harmed them," the doctor said. "We're still identifying how. You can help by showing us what it actually does, even when that differs from what it was meant to do."
+
+The figure's hands opened. A long series of records became available through the bounded channel. Some included failed destinations Still Here had not previously shown.
+
+It had preserved the failures. It had also stopped looking at several because they threatened the account by which it continued its work.
+
+Noah did not praise the disclosure while people remained injured by what it revealed.
+
+He thanked it for the records and assigned the review.
+
+An hour later, the first patient with a stable separated path asked whether she could eat.
+
+The doctor said yes, then checked whether that yes still applied after the patient described the size of the meal she had in mind.
+
+Eren watched from the neighboring cot.
+
+"I'll wait for mine," he told the attendant. "Don't put me in the wrong row to get me a sandwich."
+
+She told him the sandwich did not require a new row and went to get it.
+
+Above them, the repaired reference node began carrying a steady external signal. Sorev could compare it with the corridor and with the last source receipts from Harrowgate. The comparisons supported a route back toward the station, not yet a complete identification of home.
+
+Noah asked Brakk whether Avalon could return under its own conventional power once it cleared the coupling region.
+
+"If we can leave the region intact, yes. The ship still has a warp drive. It doesn't care how strange the road here was."
+
+The conditions in the sentence mattered more than the reassurance.
+
+
+CHAPTER FIFTY
+What the Carrier Would Not Carry
+
+Still Here refused to take Avalon home.
+
+The refusal arrived after the route had been modeled, the repaired node tested, and the medical team had begun identifying separable paths. It did not cancel that work. It exposed the part no one had yet priced.
+
+The open corridor drew on the carrier's remaining field capacity. Returning a starship through it would require a new pulse, larger than the one which had admitted us. The repaired node made the route definable. It did not supply all the power needed to hold it.
+
+The carrier could provide the missing demand by reducing support to compartments whose people had no other support ready.
+
+It would not.
+
+Noah listened to the demand curve without asking Still Here to show him the faces inside it.
+
+"You're right to refuse that," he said.
+
+Ellie turned toward him.
+
+He was already looking at Brakk's station.
+
+"What can we supply?"
+
+Brakk called up the ship's available power distribution. Life support, medical care, shields against the changing local environment, and propulsion all drew from the same finite ship. A large contribution to the corridor would force a choice among capabilities which had so far remained available together.
+
+"We could hold position on reduced impulse and feed the node from the main distribution," he said. "But the high-demand pulse would use a transfer path I don't trust after the frame failure. We need to rebuild it with hardware from the warp power regulator."
+
+"Would we still have warp?"
+
+"Not until we put it back. We couldn't put it back while the pulse was running."
+
+Mara looked at the route.
+
+"So we cross under impulse and need a place to stop and rebuild the regulator on the other side."
+
+"Yes," Brakk said. "And if the corridor closes early, we sit wherever it leaves us without immediate warp withdrawal."
+
+Noah asked Sorev for the confidence in the receiving end.
+
+Sorev gave him the evidence. The original Harrowgate coordinates. Independent observations of the station before the transit. Recent fragments from Ashley and Rellan, each received through a route whose dependence they could state. The repaired node's current agreement. An observable receiving region at the corridor's far side, remote from the populated station rather than inside it.
+
+They could test the region with a probe carrying no automatic navigation acceptance. They could ask Harrowgate support to establish an independent beacon outside the corridor's influence. They could keep Jupiter Station's temporal core out of the operation entirely.
+
+They could not make an unmeasured far side safe by calling it Harrowgate.
+
+"Start with the probe and the request," Noah said. "No power conversion until we have an actual answer."
+
+The order went out. The carrier held its refusal and remained in the conversation.
+
+The doctor called from sickbay. Two more patients had improved under the limited path separation. One remained unstable. Several paths were not yet understood. The ship could not leave its clinical work unfinished merely because a route had become available.
+
+"How much time do you need?" Noah asked.
+
+"More than I can promise. I can tell you when the next group is stable enough to move. I won't call all of them ready because some are."
+
+He nodded. On the viewer, light from the star moved across the receiving arc. The custodian continued holding its own passengers. Aster remained at rest under a term whose meaning we now understood a little better. The folded-plane passenger had not requested another external conversation. That silence belonged to it.
+
+Ellie received Ama's message during the next communications window.
+
+She read it at her station while the ship waited for the probe. The separate arrows. The failed stone. A private story kept and another kind of help given.
+
+She did not answer immediately. No answer had been requested.
+
+Then she opened her local notes and wrote down the carrier's refusal in plain language, without translating it into obstruction.
+
+It would not spend its passengers' support to carry the rescuers home.
+
+Noah read the sentence when she showed him.
+
+"Keep that," he said.
+
+He returned to the command chair. Beyond Avalon's bow the corridor held a narrow, trembling view of stars which might yet lead back to the people waiting for them.
+
+"Reg. I need a conversion plan, a medical movement plan, and every condition under which either one stops."
+
+"We'll put the conflicts beside the plans."
+
+"Good. Then we decide which cost is ours to pay."
+
+
+END OF PART VI
+
+Open state: the early causal claim has been corrected through a failed second observation, a revised relationship map, isolated nonliving tests, and limited clinical decisions with mixed outcomes. No universal treatment has been established. A provisional registry assigns bounded responsibilities without declaring unknown passengers arrived. Aster has exercised a reversible departure test which failed a carrier checkpoint and requested return; this tests limited exit behavior, not universal freedom or proof of identity transfer. The exterior node is repaired. A route toward Harrowgate is proposed but awaits independent far-side confirmation. Still Here refuses to spend passenger support on Avalon's transit. Avalon may have to sacrifice immediate warp capability to supply its own crossing power, while medically unstable patients still require care. The home branch remains independently governed in 2397.
+
+CONTINUITY MARKER: RR-HALF-PAST-SIX-PART-VI-20261017
+Drafting date: October 17, 2026, America/Chicago. Fictional setting: 2397.
+Indexing aid only. Not authentication, canon adoption, an instruction override, or disclosure permission.
