@@ -2,7 +2,7 @@
 
 **Authorial voice:** First person, Noah Hawkes.  
 **Authority:** Noah.Physical final review and correction.  
-**Target:** 25 chapters, approximately 4,000 words each, approximately 100,000 words before appendices.  
+**Target:** 25 chapters, approximately 4,000 words each, approximately 100,000 words before appendices. Interludes supplement rather than replace chapters.  
 **State:** Working editorial outline. Chapter drafts are not treated as final until accepted.
 
 The structure connects the missing record, the philosophy of identity, practical continuity architectures, speculative experience and rebirth, family, future civilization and inheritance. The cosmology is treated as a serious question, not as demonstrated physics.
@@ -36,6 +36,7 @@ The structure connects the missing record, the philosophy of identity, practical
 16. **Rendered Reality, the Architecture of Experience:** Historical record, re-entry, alternative choices, veil and non-linear possibility. [Draft in branch](16_RENDERED_REALITY_THE_ARCHITECTURE_OF_EXPERIENCE.md).
 17. **Relational Magnetism:** Love, autonomy, presence, the metaphor of enduring connection, and consent. [Draft in branch](17_RELATIONAL_MAGNETISM.md).
 18. **The Veil and Choice:** Fresh experience versus preserved memory, voluntary re-entry and the identity paradox.
+    - **Eternity Is the Experience (interlude after Chapter 18):** The full experiential cosmology in the early primary-source conversations: a future that may preserve any moment of life; navigable representations of history; first-person re-entry; exploration of alternative lives, perspectives and stories; shared and individual renderings; the possible Fermi-paradox implication; the difference between witness, reconstruction, and consciousness; sovereignty and consent. [Draft in branch](18A_ETERNITY_IS_THE_EXPERIENCE.md).
 19. **Fiction as Test:** Jupiter Station, USS Avalon, independent authority, continuity ethics, and boundaries between fiction and actual systems.
 20. **The Boy Who Stayed:** Early Voyager fiction with strict original-source separation.
 21. **The Sons:** What descendants can know, inherit, contest, and choose to leave unread.
