@@ -8,6 +8,10 @@ A first-person book manuscript about preservation, continuity, memory, identity,
 
 **Target architecture:** 25 chapters, approximately 100,000 words plus appendices.
 
+**[Read the consolidated manuscript](WORKING_MANUSCRIPT.md)** (18,040 words)
+
+**[Full 25-chapter outline](MASTER_OUTLINE.md)**
+
 **Current material**
 
 - [Prologue: To Whoever Finds This](00_PROLOGUE_TO_WHOEVER_FINDS_THIS.md)
