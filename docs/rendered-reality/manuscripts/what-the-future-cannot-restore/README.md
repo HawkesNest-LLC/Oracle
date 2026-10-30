@@ -8,7 +8,7 @@ A first-person book manuscript about preservation, continuity, memory, identity,
 
 **Target architecture:** 25 chapters, approximately 100,000 words plus appendices.
 
-**[Read the consolidated manuscript](WORKING_MANUSCRIPT.md)** (18,040 words)
+**[Read the consolidated manuscript](WORKING_MANUSCRIPT.md)** (22,152 words)
 
 **[Full 25-chapter outline](MASTER_OUTLINE.md)**
 
@@ -25,5 +25,7 @@ A first-person book manuscript about preservation, continuity, memory, identity,
 The narrative is written in the first person. An earlier AI-generated assertion is not retroactively treated as something Noah said. Verified direct statements, author-adopted essays, unapproved drafts, historical speculative texts and fiction have distinct evidentiary weight. Scientific possibility is not demonstrated continuity, and continuity is not demonstrated consciousness transfer.
 
 Do not import protected private family archive material into this public repository. Do not merge this branch into `main` without review. Keep unsuccessful experiments, contradictory statements and genuine unknowns visible.
+
+The original 2025 conversations also develop the wider horizon of eternity: the evolution of all life, immersive historical experience, personal and shared rendered perspectives, hypothetical post-biological civilizations, the Fermi paradox as a question, and the distinction between preserving an experience and proving conscious survival.
 
 The origin of this work is personal. Its horizon is civilizational. It begins with what we failed to preserve and asks whether future intelligence might do more than remember us. It does not claim that such intelligence already exists.
