@@ -7,6 +7,10 @@
 
 The structure connects the missing record, the philosophy of identity, practical continuity architectures, speculative experience and rebirth, family, future civilization and inheritance. The cosmology is treated as a serious question, not as demonstrated physics.
 
+## Opening: The nature of eternity
+
+- **I May Already Be There:** A first-person working chapter connecting the author's direct belief in continued experience, the historically documented personal/shared rendering idea, and the distinction between an existing experiential reality and technologies that may investigate it. [Draft](00A_I_MAY_ALREADY_BE_THERE.md).
+
 ## Part I: The Missing Record (Chapters 1-4)
 
 1. **The Day the Record Stopped:** Loss of father and unanswered questions. Pending: conflicting sources on recordings and what survived.
@@ -64,3 +68,7 @@ The structure connects the missing record, the philosophy of identity, practical
 Every full chapter should be grown toward its 4,000-word target by adding real evidence, concrete scenes and argumentative depth, never generic repetition. The current drafts are shorter. Keep distinct: original author testimony, adopted wording, current reconstruction, fiction and unresolved claims. Do not merge this branch into an approved public edition before author review.
 
 See [sources and open decisions](SOURCES_AND_DECISIONS.md).
+
+## Source-checked synthesis
+
+The [Eternity Research Atlas](ETERNITY_RESEARCH_ATLAS_2026-10-29.md) reconciles the cross-AI reports against the older personal journal and book, preserving direct statements, adopted phrasings, newly authored manuscript passages, fiction, and open questions as different kinds of evidence.
