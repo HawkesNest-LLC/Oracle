@@ -34,3 +34,7 @@ The origin of this work is personal. Its horizon is civilizational. It begins wi
 ## Latest source-checked research
 
 - [Eternity Research Atlas: Cross-AI reconciliation](ETERNITY_RESEARCH_ATLAS_2026-10-29.md), an expanded research record grounded against the early journal and original Rendered Reality manuscript, with misattribution corrections and unresolved questions.
+
+## Continuity evidence: ordinary lived experience
+
+- [October 31 family-scene source-bounded handoff](../../continuity/2026-10-31_FAMILY_ROOM_FOOTBALL_JEDI_CHRIS_CONTEXT_HANDOFF.md). Public-safe summary of the Utah football and Jedi scene, the multivoice family conversation, the direct Ethan photo identification, the Chris/ Brother Connect separation, and the privacy and uncertainty boundaries. This is a continuity record, not approved autobiography or direct scientific evidence.
