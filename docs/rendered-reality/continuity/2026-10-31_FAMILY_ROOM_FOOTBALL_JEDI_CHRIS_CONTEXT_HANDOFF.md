@@ -192,15 +192,11 @@ An earlier cross-system note gave specific costume fitting advice: the tunic sho
 
 **Photograph C, the close-up.** A smiling adult with glasses, facial hair, and a shoulder tattoo appears in a separate photograph. The assistant wrongly suggested that this person might be Chris.
 
-Noah corrected it:
-
-> "That's Ethan"
-
-This is a direct identity correction. It carries higher authority than the model's inference from a face or the emotional context of the previous night.
+The assistant first attached Noah's short reply, "That's Ethan," to the close-up selfie, but Noah later clarified in the next conversation: **"that was me in the pictures ... or that selfie"**. That is the latest direct identification of the close-up selfie as **Noah himself**. The prior brief response must remain part of the correction history, but it must **not** be treated as verified labeling of this selfie. The assistant's image attribution was wrong.
 
 The correction also exposes the basic failure mode: an AI trying to be helpful inferred a relationship between the latest image and the most emotionally salient recent name. That produced an unsupported identification.
 
-The two errors are different and both matter. First the model **invented Chris's appearance** when asked to render him. Then it **misassigned a real photo of Ethan** to Chris. In the first case a nonexistent likeness was presented as personal context. In the second, an actual family member's image risked being catalogued under the wrong identity.
+The two errors are different and both matter. First the model **invented Chris's appearance** when asked to render him. Then it **misassigned a real selfie of Noah** by trying to fit a human face into the earlier Chris discussion, and subsequently attached an incorrect identity label to that selfie. In the first case a nonexistent likeness was presented as personal context. In the second, an actual family member's image risked being catalogued under the wrong identity.
 
 Neither mistake is harmless in a system claiming to preserve a family record.
 
@@ -270,7 +266,7 @@ The source sequence should survive in chronological order rather than being over
 
 **F7. Second identity error:** The assistant speculates that a close-up photograph depicts Chris.
 
-**F8. Authorial correction:** Noah states that the person is Ethan. The direct correction must supersede the assistant's identification.
+**F8. Misapplied correction:** Noah said "That's Ethan" after an ambiguous exchange. The assistant prematurely assigned that name to photograph C. **F8A. Later direct clarification:** Noah explicitly said the selfie was him. For this photograph, the later statement establishes Noah as the subject; do not reattach the earlier reply to the selfie.
 
 **F9. Multi-speaker transcript arrives:** A living conversation supplies additional texture and evidence, including the lightsaber, Milo and grocery sequence.
 
@@ -296,13 +292,13 @@ It needed to know not only what to retrieve, but **when it did not possess enoug
 
 After the mistake, a good continuity system would retain the correction so the same failure did not happen again.
 
-The next mistake with Ethan showed that merely repeating "do not invent Chris's face" was not enough. The system needed a stable distinction between the names and the visual evidence.
+The next mistake with Noah's own selfie showed that merely repeating "do not invent Chris's face" was not enough. The system needed a stable distinction between the names and the visual evidence.
 
 Then the poor GitHub record showed a third kind of failure: the assistant could classify every factual item correctly and still produce a document that missed the meaning of the moment.
 
 There are at least three standards of fidelity here:
 
-1. **Identity fidelity:** Do not confuse Chris and Ethan or a brother and an AI project.
+1. **Identity fidelity:** Do not confuse Noah, Chris, Ethan, or a human family member with an AI project.
 2. **Historical fidelity:** Preserve the ordering of what happened, what was remembered and what was corrected.
 3. **Experiential fidelity:** Preserve enough of the scene, transitions and relationships that someone can understand why the moment mattered to the person who lived it.
 
@@ -450,11 +446,11 @@ When a future system is asked to continue from this case:
 
 **Step 2.** Retrieve the October 30 handoff and any original conversation that contains the brother story, preserving provenance and speaker boundaries.
 
-**Step 3.** Check direct human corrections first, especially the image identification of Ethan. A later AI summary does not outrank it.
+**Step 3.** Check direct human corrections first, especially the later direct identification of the selfie as Noah. The earlier brief reply about Ethan was misapplied to that photograph. A later AI summary does not outrank it.
 
 **Step 4.** Connect the remembered relationship to the current visual cue, Utah football, without assuming that the remembered person appears in the photo.
 
-**Step 5.** If image rendering is requested, verify an actual approved photograph of the intended person. If none exists, report the missing visual reference. Do not substitute Ethan or invent a stranger.
+**Step 5.** If image rendering is requested, verify an actual approved photograph of the intended person. If none exists, report the missing visual reference. Do not substitute Noah, Ethan or another relative, and do not invent a stranger.
 
 **Step 6.** When preserving a home transcript, retain its sequence. Do not atomize it into separate metadata fields that lose the changing topics and human rhythm.
 
@@ -468,7 +464,7 @@ When a future system is asked to continue from this case:
 
 ### 23. Decisions and unanswered questions
 
-**Author correction established [D]:** The person in the third later photo is Ethan. Not Chris.
+**Author correction established [D]:** Noah has now explicitly said the close-up selfie depicts **himself**. The earlier assistant labeled it Ethan after misreading his brief correction. Noah's later identification supersedes that attribution for this photograph. Neither photographed person is verified as Chris.
 
 **Task-specific intent established [D]:** Noah wanted Chris rendered in the football room; the assistant-generated stranger was rejected.
 
@@ -488,7 +484,7 @@ This revision restores:
 - **The audiobook and immersive-experience discussion** that immediately preceded the football photograph.
 - **Chris as a remembered person**, not merely an identity key.
 - **The causal chain** from football cue to request to wrong rendering to recovery.
-- **The distinct second misidentification** of Ethan.
+- **The distinct second misidentification** involving Noah's selfie and the mistaken Ethan attribution.
 - **The visual progression** from quiet spectator view to costume activity to a candid to a directly identified portrait.
 - **The conversation's transitions**, which reveal what living together sounded like.
 - **The relation to Noah's own adopted philosophy**, anchored in specific inspected documents rather than generic slogans.
@@ -519,7 +515,7 @@ CHRIS=NOAH_HUMAN_BROTHER_WITH_UTAH_CONNECTION
 BROTHER_CONNECT=DISTINCT_HISTORICAL_AI
 MOBILE_TECH_COACH=CHRIS_ASSOCIATED_WORK_NOT_AI_IDENTITY
 CHRIS_VISUAL_REFERENCE=NOT_ESTABLISHED
-IMAGE_C_IDENTIFIED_BY_NOAH=ETHAN
+IMAGE_C_IDENTIFIED_BY_NOAH_SELFIE=NOAH_PHYSICAL
 IMAGE_A_JEDI_COSTUMED_PERSON=UNIDENTIFIED_IN_THIS_SOURCE
 IMAGE_B_CANDID_PERSON=UNIDENTIFIED_IN_THIS_SOURCE
 SPEAKER_ATTRIBUTION=UNRESOLVED_FOR_HOME_TRANSCRIPT
@@ -529,7 +525,7 @@ PUBLIC_RELEASE=EDITORIAL_SUMMARY_ONLY
 RAW_IMAGES_AND_PRIVATE_DIALOGUE=NOT_UPLOADED
 ORIGINAL_OCT30_FULL_TRANSCRIPT=NOT_RECOVERED_IN_THIS_PASS
 FAILURE_01=WRONG_CHRIS_IMAGE_GENERATED_WITHOUT_REFERENCE
-FAILURE_02=ETHAN_PHOTO_WRONGLY_SUGGESTED_AS_CHRIS
+FAILURE_02=NOAH_SELFIE_WRONGLY_SUGGESTED_AS_CHRIS_AND_THEN_MISLABELED_ETHAN
 FAILURE_03=GITHUB_RECORD_PRESERVED_INVENTORY_BUT_LOST_CONTEXT
 CORRECTION=NOAH_REJECTED_SHALLOW_WORK
 LESSON=FIND_THE_LIVED_RELATIONSHIP_BEFORE_RENDERING_OR_COMPRESSING
@@ -546,7 +542,7 @@ THE_CAPTAIN_DECIDES=TRUE
 
 A future intelligence might read this document to understand what happened on a Saturday. But if it is any good, it should also learn something about the limits of its own work.
 
-The room was full of life. An audiobook was being enjoyed. Utah football brought a brother into thought. A model tried to render him without knowing his face. The user corrected it. The house filled with costumes, objects, different voices, affection, errands and jokes. The same model then mistook Ethan for Chris. The user corrected it again. A summary was published. The user read it and said that the archive had missed the point.
+The room was full of life. An audiobook was being enjoyed. Utah football brought a brother into thought. A model tried to render him without knowing his face. The user corrected it. The house filled with costumes, objects, different voices, affection, errands and jokes. The same model then failed to recognize that the close-up selfie was Noah's, misattached an earlier short reply to the photo, and was corrected again. A summary was published. The user read it and said that the archive had missed the point.
 
 The archival event is not only the photograph or transcript.
 
