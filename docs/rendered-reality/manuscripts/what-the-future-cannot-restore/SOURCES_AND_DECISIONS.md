@@ -50,3 +50,9 @@
 7. Completion: the 25-chapter / ~100,000-word goal remains open. These are early chapters, not the whole book.
 
 **Publication boundary:** This is a public repository, including branches. Do not merge or treat candidate book prose as approved without Noah's review.
+
+## October 30-31 ordinary-life continuity revision
+
+Noah explicitly rejected the first October 31 GitHub capsule as poor because it failed to use the known thread and project. The original public continuity file was replaced with [a 6,595-word documentary record](../../continuity/2026-10-31_FAMILY_ROOM_FOOTBALL_JEDI_CHRIS_CONTEXT_HANDOFF.md). Source inspection in this revision included the October 30 selected Drive handoff and four October 11 adopted journals: *Why I Keep Writing*, *The First Renderer*, *Love Is Not Metadata*, and *The Right to Remain Unknown*, in addition to the current conversation's user-supplied images and raw multivoice transcript.
+
+The first-person [The House Was Loud](00B_THE_HOUSE_WAS_LOUD.md) is new [C] book prose based on those records. It is *not* a verbatim Noah-authored transcript. The third attached photo was identified as Ethan by Noah [D], not Chris. Chris's photographic appearance remains unverified. The original October 30 full raw transcript and the GoPro archive remain outside this public GitHub record. The private family conversation and photos are not publicly reproduced.
