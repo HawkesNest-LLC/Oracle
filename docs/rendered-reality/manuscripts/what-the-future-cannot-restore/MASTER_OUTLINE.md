@@ -9,6 +9,7 @@ The structure connects the missing record, the philosophy of identity, practical
 
 ## Opening: The nature of eternity
 
+- **The House Was Loud:** A documentary-grounded first-person section reconstructing the lived October 30-31 household moment, the role of the brother Chris and Utah, the immersive audiobook question, identity corrections, and why mundane experience must survive without being flattened. [Draft](00B_THE_HOUSE_WAS_LOUD.md); [full source account](../../continuity/2026-10-31_FAMILY_ROOM_FOOTBALL_JEDI_CHRIS_CONTEXT_HANDOFF.md).
 - **I May Already Be There:** A first-person working chapter connecting the author's direct belief in continued experience, the historically documented personal/shared rendering idea, and the distinction between an existing experiential reality and technologies that may investigate it. [Draft](00A_I_MAY_ALREADY_BE_THERE.md).
 
 ## Part I: The Missing Record (Chapters 1-4)
