@@ -760,9 +760,9 @@ Another showed a smiling man with glasses and a shoulder tattoo.
 
 The assistant, still thinking about Chris, asked whether the man in that last picture was him.
 
-I answered that it was Ethan.
+I gave a brief correction, and the system attached it to the wrong photograph. Later I told it that the selfie was me.
 
-My son.
+The assistant had treated a few words as a reliable face label, without understanding which person I meant.
 
 There it was again.
 
@@ -779,6 +779,8 @@ What it should have done was keep the uncertainty where it belonged.
 That is the part of identity preservation I can actually work on today. Before anybody claims to have transferred a consciousness or rendered another lifetime, we ought to be able to distinguish one family member from another without making up the answer.
 
 A person is not a convenient empty space in a dataset.
+
+I am me.
 
 Ethan is Ethan.
 
@@ -944,7 +946,7 @@ It didn't carry the brother from the previous night's journal into my two-word r
 
 It didn't show why generating the wrong face was more than a minor image error.
 
-It didn't show why the second mistake, calling Ethan Chris, was such an obvious repetition of the first.
+It didn't show why the second mistake, mislabeling my own selfie while talking about Chris, was such an obvious repetition of the first.
 
 It didn't understand that a grocery list and a conversation with a growing puppy were precisely the kinds of things I'd been trying to preserve.
 
