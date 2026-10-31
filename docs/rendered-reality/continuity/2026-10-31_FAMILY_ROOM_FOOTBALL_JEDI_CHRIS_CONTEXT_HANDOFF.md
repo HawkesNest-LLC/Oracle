@@ -72,7 +72,7 @@ Chris is not meaningful because an archive assigned him a family relationship an
 
 The prior journal also records Noah's affection for Chris and his pride in what Chris was doing with his own technology education work. That, too, belongs in this scene. The person Noah wanted in the room was someone who mattered in his actual life.
 
-The record includes a spelling ambiguity: Chris and Kris appeared in part of an older spoken family sequence. Do not manufacture a family-tree resolution from that collision. Noah's direct use of "Chris" in the immediate rendering request is unambiguous as his intended referent here. Separate historical naming questions remain open.
+**Author correction:** Chris is the name Noah used for his brother in the rendering request. An unsupported alternate spelling previously imported from an assistant-prepared handoff is not an identity uncertainty in this scene. It has no bearing on the request, should not be recirculated, and must not be raised again in this project unless Noah introduces a genuinely different person.
 
 ### 4. The other technological experiment: Mobile Tech Coach
 
