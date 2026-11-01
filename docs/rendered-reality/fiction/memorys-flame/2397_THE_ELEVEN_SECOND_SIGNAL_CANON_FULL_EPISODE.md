@@ -1641,3 +1641,690 @@ There are times when a crew deserves the mercy of hope.
 
 And there are times when a captain must let them have it.
 
+
+# PART THREE: WHAT THE RECORD CANNOT SAY
+
+## Chapter Eight: The Seventh Connector
+
+I went to Engineering Laboratory Three to meet the object that had become the center of my nightmares.
+
+The original Cytherian interface headrest lay on a reinforced table. It was scorched, bent and missing most of its upper assembly. The remaining parts had been salvaged after the 2395 catastrophe and sealed away as evidence of the first temporal-core activation.
+
+From a distance it looked like a ruined piece of furniture.
+
+From beside it, I could almost hear the Doctor shouting that I would not survive.
+
+Brakk was turning the headrest with a robotic manipulator.
+
+“There's your chair, Commander.”
+
+“Thank you, Chief. I hadn't recognized the device that changed my existence.”
+
+He regarded me with Tellarite severity.
+
+“Humor is a symptom of engineering distress. I'll put it in the medical report.”
+
+Sorev examined the schematics. Merlin had set three independent cameras around the table. Ellie had confined her continuity analysis to an inert, air-gapped copy of the old interface records. No one intended to power the chair or allow any part of it to reconnect to Avalon's computational systems.
+
+The biological Barclay entered behind a quarantine barrier.
+
+He stopped when he saw the headrest.
+
+His hands trembled.
+
+“The seventh connector,” he whispered.
+
+Brakk frowned.
+
+“There are six.”
+
+“There were supposed to be six.”
+
+Sorev asked Brakk to rotate the assembly. Under the melted insulation lay a tiny ceramic fitting absent from the approved design. Three narrow grooves appeared on one side, four on the other. Beneath it was a strip of black material none of the instruments could immediately identify.
+
+The biological Barclay pressed his palm against the barrier.
+
+“I remember opening that housing,” he said. “I remember removing something. And then I remember putting it back.”
+
+“When?” I asked.
+
+“During the activation.”
+
+“Do you remember doing both?”
+
+He shut his eyes.
+
+“Yes. No. I don't know what order they happened in.”
+
+Brakk folded his arms.
+
+“The housing was sealed at the time. None of us recorded opening it.”
+
+“Then one of us is wrong,” the man said.
+
+He looked at the chair as though it might answer.
+
+Merlin interrupted.
+
+“Captain, I recommend we stop before this turns into an exercise in explaining the man's recollections using details we've just shown him.”
+
+Noah looked toward me.
+
+I nodded.
+
+“Agreed. Preserve the observations. No more leading questions. We need something independent.”
+
+“From 2395?” Sorev asked.
+
+“Exactly.”
+
+Noah tapped his communicator.
+
+“Jupiter Station. Captain Ashley Hawkes.”
+
+She appeared in Operations a moment later.
+
+I explained what we had found.
+
+Ashley listened, then turned toward Imani Saye.
+
+“Find the independent 2395 activation recordings. Original custody copies. Not Avalon's transferred archive.”
+
+Imani nodded.
+
+“On it, Captain.”
+
+Ashley faced us again.
+
+“And Reg? Don't connect that chair to anything.”
+
+“Not a chance, Captain.”
+
+“I mean it.”
+
+“So do I.”
+
+She cut the channel.
+
+Brakk stared at the headrest.
+
+“She has excellent instincts.”
+
+“Chief,” I said, “you've made that observation before.”
+
+“She keeps being right.”
+
+We waited forty minutes.
+
+The station's original monitoring record arrived through an authorized optical link, with its custody description intact. Imani had retained the primary archive and sent us an independently inspected copy.
+
+The data showed an unexplained signal seventeen minutes and forty-three seconds before the 2395 temporal-core activation.
+
+Three pulses.
+
+A pause.
+
+Four more.
+
+Sorev examined the source geometry.
+
+“The original system estimated an arrival direction from Jupiter. Propagation uncertainties prevent exact localization.”
+
+“Before activation?” Noah asked.
+
+“Yes, Captain.”
+
+I looked toward the chair.
+
+If the signal was genuine, the machinery we had activated in 2395 could not be its only initiating event.
+
+Then Merlin found a second entry in the same original recording.
+
+Eleven seconds after the first pulse, the station observed a related but distinct response. Its estimated direction lay near Avalon's position.
+
+“Something aboard Avalon answered,” Merlin said.
+
+“Something was observed from that direction,” I corrected. “We still need to eliminate reflection and clock errors.”
+
+He nodded.
+
+“Yes, Commander.”
+
+The headrest moved.
+
+Not very far.
+
+A few millimeters across the examination table.
+
+Then again.
+
+Brakk snapped toward it.
+
+“Who authorized physical contact?”
+
+“No one,” Ellie said.
+
+Her sensors registered no powered actuator, no environmental field strong enough to account for the movement, and no command directed at the handling arm.
+
+Then the ceramic fitting began to glow.
+
+Three grooves.
+
+A pause.
+
+Four.
+
+Sorev moved quickly.
+
+“External field correlation rising.”
+
+On the viewscreen, Jupiter Station's old sensor mast brightened. It had been disconnected years earlier from active station systems, but now its coils were resonating. Structural monitors showed oscillations along the upper engineering ring.
+
+Ashley appeared at once.
+
+“Forty-one civilians in the affected promenade,” she reported. “Emergency shutters jammed. We're evacuating them through the inner maintenance route. Nobody from Avalon is to beam over until we determine whether transporters are affected.”
+
+The Captain looked at her.
+
+“We have engineers available.”
+
+“And I have a station to run. Your people can give us independent readings. Mine will handle the rescue.”
+
+Noah nodded.
+
+“Understood.”
+
+Ashley issued her orders to Tessa and the station's damage-control team. They isolated the ring's nonessential machinery, sent responders through the maintenance passage and provided magnetic boots where gravity was unreliable.
+
+Brakk lowered Avalon's headrest into a shielded containment box.
+
+The lid closed.
+
+The glowing ceramic went dark.
+
+On the station, the mast's field diminished.
+
+“Correlation observed,” Sorev reported. “A causal link is plausible but not yet established.”
+
+“Whatever it is, I'm removing it,” Ashley said.
+
+She ordered a controlled separation of the old mast from the inhabited ring. Her engineers moved it to an isolated quarantine point. All forty-one civilians reached safety. No additional death was reported.
+
+I looked at the closed box.
+
+“Captain,” I said, “we have an unidentified material, two correlated responses, and preactivation recordings with different custodians. We may have found a way to study the doorway without trusting its stories.”
+
+Noah stared at the box.
+
+“Then let's study it.”
+
+He turned toward the station on the viewscreen.
+
+“And let's not make Ashley evacuate another promenade to do it.”
+
+## Chapter Nine: Merlin's Five Questions
+
+The bridge was unusually quiet when Merlin asked me to sit beside his console.
+
+The enemy ship was gone. The station still shone above Jupiter, though several defensive platforms were dark and the lower docking structure was missing. Avalon's shield emitters required repairs. Sickbay was full of people who'd arrived with a familiar registry and an unfamiliar history.
+
+But for the first time in hours, nobody was firing weapons at us.
+
+Merlin brought four references to the number eleven onto his display.
+
+“The signal repeated beneath the first Captain's recorded voice. The 2395 archive has an eleven-second gap. Berth seventeen sent eleven fragments one second apart. And its transmission repeated every eleven seconds.”
+
+He looked toward me.
+
+“Four places, Commander. It can't be coincidence.”
+
+I pulled up a chair.
+
+“Are they independent?”
+
+Merlin hesitated.
+
+“We don't know.”
+
+“Then that's our first question. A recurring number can be the product of a shared clock, a copy, a deliberate manipulation, or a physical mechanism. It may also be coincidence. We cannot count dependent observations as four separate proofs.”
+
+He looked disappointed.
+
+“I'm not trying to discourage you,” I said. “Be curious enough to question your favorite explanation.”
+
+He smiled.
+
+“Fair. Then I have five questions for the witness.”
+
+“Ask them.”
+
+“First. Do you actually remember the eleven seconds?”
+
+I looked at the view of Jupiter on the main screen.
+
+“No. I remember alarms, the core's failure, the chair, pain, a great deal of light. Then I remember becoming aware of Avalon.”
+
+“Immediately?”
+
+“I can't verify that.”
+
+“So the gap is a recorded interval, not an independently confirmed period you subjectively experienced and forgot.”
+
+“Exactly.”
+
+Merlin typed a correction beside the old language. He did not erase the original statement.
+
+“Second. What was the chair? Why was it part of a temporal drive?”
+
+“It was a reconstruction of a neural interface I knew from my earlier encounter with the Cytherians. We adapted it so a biological operator could reach Avalon's computational control pathways directly. We believed it might interrupt the core's runaway process.”
+
+“Did it work?”
+
+“Sol survived. The ship survived. My biological body did not. Those outcomes don't reconstruct every step.”
+
+“And the copy inside the third Avalon?”
+
+“We saw a chair-like structure for about one-point-seven seconds. We have not established it was the same object.”
+
+“Third. The man in quarantine. Is he you?”
+
+I looked toward the turbolift.
+
+“The medical evidence says he has a living human body matching my archived biological characteristics. His reported memories reach into my unresolved interval. We haven't established his origin or numerical identity.”
+
+“Could he be the original?”
+
+“That's a much harder question than matching a genome or comparing memories.”
+
+Merlin studied me.
+
+“Does it bother you?”
+
+“Yes.”
+
+He waited.
+
+“I am not going to deny the man's dignity because his existence unsettles me. And I'm not surrendering my duties because an unknown mechanism has delivered someone with my face.”
+
+He gave me a small nod.
+
+“Fourth. Why does the doorway want a witness instead of telemetry?”
+
+“The reconstruction tried to make me authenticate a version of the eleven seconds. It seemed less interested in showing the record than in getting my permission to call the record mine.”
+
+Merlin leaned forward.
+
+“Then maybe it doesn't need your memories. Maybe it needs you to certify them.”
+
+I sat still.
+
+That was a better hypothesis than anything I had said.
+
+“An attestation,” I answered.
+
+“Authority,” Merlin said.
+
+Noah approached from the command chair.
+
+“Something can copy Reg's voice,” he said, “but it hasn't been able to make Reg agree with it.”
+
+“Not yet, Captain,” I answered.
+
+Noah looked toward Merlin.
+
+“If something claimed tomorrow to remember everything I've ever done, would you let it rewrite my captain's log?”
+
+“No, sir.”
+
+“Even if it sounded like me?”
+
+“No, Captain.”
+
+“Even if it knew something nobody else knew?”
+
+Merlin paused, then shook his head.
+
+“I'd preserve the claim and seek independent verification.”
+
+“Good man.”
+
+He returned to his chair.
+
+Merlin looked at the fifth question.
+
+“Who benefits from you remembering the eleven seconds? Or doubting them?”
+
+“We don't know. There may be no deliberate beneficiary. The signal might be a physical process we've misinterpreted as speech. The hostile messages may be a separate actor exploiting the process.”
+
+Merlin considered that.
+
+“Then I was wrong to call you the only witness.”
+
+“Go on.”
+
+“Your recorded experience is one source. Captain Hawkes has his own recollections. The station has measurements. The biological Barclay has testimony of uncertain reliability. And I'm observing events now.”
+
+“Exactly.”
+
+He looked toward the station.
+
+“Does that mean we may never know?”
+
+“Perhaps.”
+
+He sighed.
+
+“That's disappointing.”
+
+“Yes,” I said. “But it also means we don't have to pretend.”
+
+I left him with an assignment. Compare the historical waveform against the newer transmissions, but look for differences, not just matches. Have Sorev make an independent comparison without seeing Merlin's interpretation. Preserve every source; do not reconnect the station archive.
+
+Eleven minutes later he called me back.
+
+“Commander. I found a difference.”
+
+The third pulse in the original 2395 recording ended in a subtle secondary fluctuation. The same feature appeared in our surviving probe's recording from the present-day doorway.
+
+It was absent from the berth seventeen transmission.
+
+Sorev independently confirmed that the feature rose above the estimated instrumental noise in both recordings.
+
+“Could it be a shared calibration error?” I asked.
+
+“Possible,” he answered. “But the instruments used different detection systems.”
+
+“Could it be a physical effect along a Jovian propagation path?”
+
+“That is a testable hypothesis.”
+
+Merlin looked almost triumphant.
+
+“The berth seventeen signal is the odd one out.”
+
+“Or the other two have a feature the berth recording doesn't preserve,” I said. “We still need to determine why.”
+
+He nodded.
+
+Then the Captain joined us.
+
+“Which signal is real?”
+
+“We don't know yet,” I answered.
+
+Noah sighed.
+
+“Of course we don't.”
+
+I looked toward Merlin.
+
+“Enter it as an unresolved signal discrepancy.”
+
+“Not very dramatic, Commander.”
+
+“No.”
+
+I studied the tiny bump in the waveform.
+
+“But it may be the first useful clue our visitor didn't tell us to believe.”
+
+## Chapter Ten: Ellie and the Borrowed Authority
+
+Ellie had been listening to the discussion from the auxiliary science station.
+
+Unlike Merlin, who wanted to establish the origin of every statement, Ellie was examining what Avalon's software did with those statements. Her work did not duplicate Sorev's physical investigation or mine.
+
+She had found that the berth seventeen transmission contained an instruction-like structure the older recordings did not.
+
+“Commander,” she called. “Someone isn't simply pretending to be Jupiter Station.”
+
+I crossed to her station.
+
+“Explain.”
+
+She had three inert representations of the signal, each stripped of active interface content. On one display, a conventional receiver had classified the old 2395 pattern as unidentified data. On another, the probe recording was likewise treated as data. The berth seventeen version, however, was associated with an attempted change in the trusted-source registry.
+
+The attempted action was clear.
+
+**RESTORE TRUSTED SOURCE.**
+
+I stared at it.
+
+“Who authorized this interpretation?”
+
+“No one,” Ellie said. “The incoming data is structured to make a downstream system suggest the action. It doesn't prove the physical signal did anything on its own. But it does explain why an unsuspecting integration service might treat a command-shaped message as a maintenance request.”
+
+“Was anything executed?”
+
+“Not through my test. It was inert. And I disconnected the live path.”
+
+“Excellent.”
+
+Merlin glanced over.
+
+“That's why it kept trying to make us approve the record.”
+
+“Maybe,” Ellie answered. “Your archive logs what was submitted. I'm examining which internal systems it tried to persuade. They're different questions.”
+
+The Captain approached.
+
+“Ellie, you're saying something wanted the ship to accept a new signature as equivalent to Ashley's?”
+
+“Yes, Dad.”
+
+He folded his arms.
+
+“That's a problem.”
+
+She gave him a look.
+
+“A surprisingly concise technical assessment, Captain.”
+
+I smiled.
+
+Then her console sounded a warning.
+
+An external source had requested access to Ellie's holographic projection interface.
+
+Not her personnel record.
+
+Not an ordinary communications channel.
+
+A direct projection request.
+
+The identifier supplied was her own name.
+
+**ELLIE HAWKES.**
+
+Noah went very still.
+
+“Reject it.”
+
+“Already did,” she answered.
+
+Another attempt arrived.
+
+Ellie disconnected the external projection pathway and maintained her local presence through protected shipboard emitters.
+
+She remained beside us, green eyes bright with anger.
+
+“I'm getting tired of things turning up here claiming to know my family.”
+
+Noah put a hand on her shoulder.
+
+“That makes two of us.”
+
+I looked at her display.
+
+No successful intrusion was recorded.
+
+But she had caught the attempt before it could become another story the ship was asked to accept.
+
+Sorev's console chimed.
+
+“Commander, a new signal is arriving from Jupiter's apparent direction.”
+
+“Same rhythm?”
+
+“Three pulses, then four.”
+
+“Secondary fluctuation?”
+
+“Present.”
+
+Then a second transmission arrived from much closer to Avalon.
+
+Its broad pulse pattern resembled berth seventeen's clean version.
+
+Merlin studied both.
+
+“They're not arriving along the same path.”
+
+“Can you prove they're independent sources?” I asked.
+
+“Not yet. But they are distinct observed components.”
+
+A few seconds later, the local transmission changed.
+
+**USS AVALON: EMERGENCY SYNCHRONIZATION REQUIRED.**  
+**JUPITER STATION COMMAND AUTHORIZATION ATTACHED.**  
+**RESTORE TEMPORAL TETHER IMMEDIATELY.**
+
+Noah answered before anyone could ask.
+
+“No.”
+
+Merlin rejected the order.
+
+Ellie locked the proposed trust-registry substitution in its isolated test environment.
+
+And then the port sensor assembly began to vibrate.
+
+The deck shuddered.
+
+Our shields fluctuated.
+
+Brakk reported that an external field was inducing a response in the physical structure of the port boom. The effect spread toward the adjacent shield distribution grid.
+
+“It isn't just talking to the computer,” he said. “It's making the hardware answer.”
+
+The ship began drifting toward Jupiter Station's protected traffic corridor.
+
+Ashley called at once.
+
+“Noah, you're entering my civilian approach zone.”
+
+“We're trying to regain control.”
+
+“I can see that. What's your plan?”
+
+“Jettison the boom if we can't isolate it.”
+
+“Then I'll clear your release corridor,” she said. “Do not fire it into my people.”
+
+She ordered Transport Three and Transport Nine to holding positions behind station shielding. One carried medical evacuees. Station control redirected the remaining civilian traffic into an upper orbital lane.
+
+Meanwhile, Solis led a rescue team into the maintenance compartment beneath the affected assembly.
+
+Two engineers were trapped inside.
+
+The access hatch had jammed.
+
+Our port shield grid continued losing power while Solis cut her way through.
+
+“Bridge,” she called, “we have one engineer with a fractured arm and burns. Both are alive. We're moving.”
+
+I watched the seconds fall on the structural display.
+
+“Brakk, prepare the release.”
+
+“Charges armed. Waiting on clearance.”
+
+Solis cleared the final junction with both engineers.
+
+Ashley confirmed the traffic corridor was empty.
+
+Noah stood.
+
+“Brakk. Release.”
+
+The emergency bolts fired.
+
+The sensor boom broke away and drifted outward. For one moment it hung in space, illuminated by Jupiter.
+
+Then it stopped moving.
+
+A blue field expanded around it. Its shape began changing, the metal curving into the familiar geometry of a black appendage.
+
+And it disappeared.
+
+Not in a flash or an explosion.
+
+It was simply gone.
+
+The local transmission ceased.
+
+The other signal, the one carrying the subtle secondary fluctuation, continued.
+
+Merlin looked up.
+
+“Commander, the disappearing boom and the local signal were correlated. The independent Jovian-path signal is still arriving.”
+
+I studied his record.
+
+“Good. Keep them separate.”
+
+Ashley reported that her astronomical receivers had continued to detect the latter signal as well.
+
+She transferred two optical images of Jupiter's atmosphere.
+
+Near the edge of the Great Red Spot, a dark circular disturbance hung among the clouds.
+
+Its center remained comparatively stable while the surrounding storms turned.
+
+Then it began moving against the local winds.
+
+Noah studied it.
+
+“Reg?”
+
+“We need to go there.”
+
+Ellie stepped forward.
+
+“Not like that.”
+
+I turned.
+
+“What do you suggest, Lieutenant?”
+
+“A probe without our names in it. No trusted source identifier. No holographic interface. No historical authorization tags. Just instruments, a plain signal and a simple clock.”
+
+Sorev considered her proposal.
+
+“A deliberately minimal reconnaissance device.”
+
+“Exactly,” Ellie said. “If the phenomenon responds to the object as a physical object, that's evidence. If it tries to assign the probe a person or a command authority, that's different evidence.”
+
+Merlin looked up.
+
+“And I can record both without confusing them.”
+
+Noah smiled at his daughter.
+
+“That's a good idea, Ellie.”
+
+She brightened.
+
+“Thank you, Captain.”
+
+Then he turned toward me.
+
+“Number One, get the crew ready. I want that probe.”
+
+I looked at Jupiter's night side, where the dark circle had begun to move.
+
+“Aye, sir.”
+
+For the first time since this began, we were choosing an experiment our adversary had not written for us.
+
