@@ -4713,3 +4713,820 @@ He smiled.
 
 “Welcome to command.”
 
+
+# PART SEVEN: HOME
+
+## Chapter Nineteen: The People Who Remain
+
+We did not restore the temporal tether that night.
+
+Nor the following morning.
+
+Brakk needed time to repair Avalon's shield distribution and ruined deflector. Ashley's engineers needed to replace equipment destroyed when the lower ring was damaged and the emergency fields were diverted. Her station's independent witness archive would remain outside Avalon's automatic authority until both captains were satisfied that the physical systems and their custody histories had been checked.
+
+No one was in a hurry to let a computer declare a reunion complete simply because the familiar names matched.
+
+The upper Jovian ring continued transmitting its three-and-four pulse pattern through the surrounding electromagnetic field. Its secondary fluctuation still varied with geometry, just as the independent instruments had recorded.
+
+The inner command-like signal did not return.
+
+Neither did the black appendages, the copies of our starship, or the images of Jupiter Station in flames.
+
+Sorev called that a favorable observation over the measured interval.
+
+I called it a quiet morning.
+
+The Captain called it an opportunity for breakfast.
+
+We were all correct.
+
+At 0900, I attended a joint medical and command review concerning the thirty-seven people recovered from the damaged Avalon.
+
+Ashley chaired the station portion from Jupiter Station Medical. Noah attended from our ship's secure conference room. The two captains did not surrender their separate authorities merely because the case concerned the same people.
+
+Jupiter Station's chief medical officer, the Doctor, had taken responsibility for independent clinical consultation. His expression suggested that the universe was personally wasting his time.
+
+“Let me be clear,” he said. “We have thirty-seven living patients and one documented death. Their appearance in the Jupiter system presents extraordinary historical questions, none of which removes our obligation to provide competent medical care.”
+
+I appreciated his clarity.
+
+“Have we established where they came from?” Ashley asked.
+
+“No, Captain,” I answered. “We have the damaged vessel's surviving records, their own testimony and independent observations of the rescue. We have not authenticated an originating branch.”
+
+The Doctor folded his arms.
+
+“And I refuse to have people referred to as duplicates on their medical charts.”
+
+Noah nodded.
+
+“Agreed.”
+
+Ashley looked toward Imani Saye.
+
+“How are we recording their custody and rights status?”
+
+“Individually,” Imani answered. “Each survivor has a separate record. We retain the originating ship claim as reported, distinguish it from verified identity, and preserve medical confidentiality.”
+
+“Good,” Ashley said. “No automatic merger with our existing personnel registry.”
+
+The Doctor looked satisfied.
+
+For him, that was nearly a standing ovation.
+
+Then he opened a separate file.
+
+“Doctor Adrian Hale, medical officer of the damaged Avalon, is the one confirmed fatality. He died before rescuers reached the access corridor. His surviving colleagues have confirmed his name and service role. We are preparing a memorial entry without claiming an originating history we cannot yet establish.”
+
+I thought of Mara Venn behind that broken door, begging me not to tell the captain that anyone else would die.
+
+I looked toward the faces on the medical review screen.
+
+People who had believed themselves home.
+
+People who now had no ship.
+
+Some had families somewhere in the Federation. Some might find familiar faces who had never known them. Some would discover that the lives they remembered belonged to histories the station could not verify.
+
+Their problems were not going to be solved by a single elegant equation.
+
+They would need doctors, counselors, records officers, housing, consent protections and time.
+
+Ashley understood this.
+
+“Jupiter Station will accept them as protected guests,” she said. “Medical care and temporary housing are authorized. Identity research will proceed only with informed consent and appropriate custody safeguards. They are not to be treated as evidence specimens.”
+
+Noah nodded.
+
+“Avalon will preserve its rescue records and provide any crew statements the survivors request through authorized review.”
+
+The Doctor looked between them.
+
+“Excellent. Now perhaps the rest of the galaxy will allow me to practice medicine.”
+
+Ashley smiled.
+
+“No promises, Doctor.”
+
+He sighed.
+
+“Of course not.”
+
+***
+
+The biological Barclay requested a private conversation with me later that afternoon.
+
+He was standing when I arrived.
+
+Not sitting.
+
+Standing with the awkward, self-conscious posture I remembered from my own youth.
+
+He looked at me, then toward his empty hands.
+
+“They told me about Hale.”
+
+“Yes.”
+
+“He treated me like a person. Even when the computer began calling me something else.”
+
+“What did it call you?”
+
+He hesitated.
+
+“Returned witness.”
+
+I waited.
+
+He shook his head.
+
+“I don't know what that means.”
+
+“Neither do I.”
+
+He smiled sadly.
+
+“I thought you would.”
+
+“I thought so too, once.”
+
+We stood across the glass from each other.
+
+“Reginald,” he said, “what happens to me now?”
+
+“You remain under medical care until the quarantine is lifted. Captain Ashley's staff have offered independent legal and residency review. You are not required to prove that you are me to receive care.”
+
+He looked down.
+
+“And you?”
+
+“I return to the bridge.”
+
+He laughed quietly.
+
+“Of course you do.”
+
+I watched him.
+
+“We can continue our conversations if you wish. But I won't ask you to manufacture an answer about the eleven seconds.”
+
+His eyes lifted.
+
+“Do you still want to know?”
+
+“Very much.”
+
+“Even after what happened?”
+
+“Especially after.”
+
+He considered that.
+
+Then said something I would remember.
+
+“Perhaps one day we'll discover that neither of us has the answer.”
+
+“Perhaps.”
+
+He smiled.
+
+“Then I hope we can still be friends.”
+
+I looked at the man whose face had once looked back at me from a mirror.
+
+“I'd like that.”
+
+He stepped closer to the glass.
+
+“There's something else.”
+
+“Yes?”
+
+“I remember the chair. I remember the light. And I remember hearing the knocking.”
+
+I waited.
+
+“But I don't remember choosing to be the person I am today.”
+
+“Neither did I, at first.”
+
+His eyes filled.
+
+“Is that terrible?”
+
+I thought of the frightened engineer in the reconstruction asking whether the person who came after him was happy.
+
+“No,” I said.
+
+“It may simply mean our understanding of what happened is incomplete.”
+
+He took a slow breath.
+
+“Then let's leave it incomplete until we know.”
+
+I smiled.
+
+“Agreed.”
+
+I left the room feeling neither vindicated nor threatened.
+
+Only grateful that the man remained alive to ask questions for himself.
+
+***
+
+Merlin brought the final incident record to my quarters that evening.
+
+He was carrying a physical padd.
+
+I noticed immediately.
+
+“Ensign, why not transmit the record?”
+
+He looked almost offended.
+
+“Commander. After this week?”
+
+“An excellent point.”
+
+He handed it over.
+
+The report distinguished the original 2395 station measurements from the reconstructed messages, the later physical events from the images presented by the doorway, and the rescue manifest from the unresolved origin of the people rescued.
+
+It recorded the station's independent decisions under Captain Ashley Hawkes.
+
+It recorded the ship's decisions under Captain Noah Hawkes.
+
+It recorded the loss of Dr. Adrian Hale.
+
+It recorded the thirty-seven survivors.
+
+And it included the observation I had been hoping to find.
+
+**THE ORIGINAL THREE-AND-FOUR SIGNAL PERSISTS. THE COMMAND-LIKE SECONDARY SYSTEM HAS CEASED TRANSMITTING DURING THE OBSERVED PERIOD. THE HISTORICAL CAUSE OF THE 2395 ELEVEN-SECOND ARCHIVE GAP REMAINS UNKNOWN.**
+
+I read it carefully.
+
+Then looked toward Merlin.
+
+“You've done well.”
+
+“Thank you, Commander.”
+
+“Very well.”
+
+He smiled.
+
+Then his expression changed.
+
+“May I ask you something?”
+
+“Of course.”
+
+“Does it bother you that we never discovered whether the machine was alive?”
+
+I considered the question.
+
+“We discovered behavior. We discovered structure. We discovered that it could imitate voices, reconstruct environments and manipulate physical fields. Those observations don't settle what kind of experience, if any, occurred inside it.”
+
+Merlin nodded.
+
+“And the biological Barclay?”
+
+“Still alive. Still entitled to his own life. Still an unresolved historical question.”
+
+“And you?”
+
+I smiled.
+
+“Still your first officer.”
+
+He looked relieved.
+
+“Good.”
+
+I placed the padd on my desk.
+
+Then added one last note in my own hand.
+
+*The most dangerous record was not the one that contained a mistake. It was the one that demanded to be believed before anyone was allowed to examine it.*
+
+Merlin read the sentence.
+
+For once, he didn't offer a qualification.
+
+He simply nodded.
+
+## Chapter Twenty: Permission to Come Home
+
+Two days after the crisis, Jupiter Station cleared Avalon for a controlled return.
+
+Not through the old temporal tether.
+
+Not through a copied authentication sequence.
+
+Through a new arrival process built from separately observed present events: independent optical measurements, a physical inspection of our current hull condition, and a station-controlled approach corridor with no automatic temporal actuation.
+
+It was slower than the old procedure.
+
+Brakk complained about the inefficiency.
+
+Then he conceded that it was preferable to another sensor boom vanishing into a doorway.
+
+Our modified Sovereign-class starship approached the station with repairs still visible along the bow. The forward deflector housing bore a fresh patch. The port sensor assembly was gone, leaving an empty mounting that Brakk had covered with a temporary protective plate.
+
+The station itself had scars.
+
+The destroyed docking structure left a gap beneath the habitation ring. Several outer repair arms were missing. A small patrol craft drifted under tow toward a maintenance berth. The surviving defense platforms held their positions, dark against the stars.
+
+But the windows were illuminated.
+
+The gardens were open.
+
+People were moving along the promenade.
+
+The station was alive.
+
+Ashley appeared on the viewscreen.
+
+“USS Avalon, Jupiter Station Control. You're cleared to approach berth twelve under manual guidance.”
+
+Noah stood beside the command rail.
+
+“Thank you, Captain Hawkes.”
+
+“Reg, your reference?”
+
+I checked our instruments.
+
+“Our current measurements are consistent with the independently observed station geometry. The origin of the earlier temporal disturbance remains under investigation. No automatic branch authentication has been performed.”
+
+“That's the answer I wanted,” Ashley said.
+
+Noah smiled.
+
+“I was going to say we were home.”
+
+“You may say that when you dock.”
+
+The screen went dark.
+
+The Captain looked at me.
+
+“Number One, remind me who authorized this ridiculous new procedure.”
+
+“Your wife, Captain.”
+
+“And who approved it on our side?”
+
+“You did, sir.”
+
+He sighed.
+
+“I was afraid of that.”
+
+Merlin laughed quietly.
+
+From the auxiliary station Ellie called, “Dad, if you want to argue with Mom's arrival instructions, I can arrange a live channel.”
+
+“Absolutely not.”
+
+Brakk's voice came from Engineering.
+
+“Good decision, Captain.”
+
+I smiled.
+
+The ship moved closer.
+
+And then I saw the observation window.
+
+The same one.
+
+High in the habitation ring, overlooking the docking corridor.
+
+A group of children stood against the glass.
+
+One of them raised a hand.
+
+I couldn't know whether it was the same child who had waved on our first approach. The distance was too great and the image too small.
+
+It didn't matter.
+
+Noah saw the gesture.
+
+He raised his hand.
+
+Then turned toward the helm.
+
+“Give them a little something.”
+
+Our running lights brightened in sequence.
+
+From the saucer.
+
+Down the engineering hull.
+
+Across the remaining illuminated panels of the nacelles.
+
+The children began waving harder.
+
+I looked toward Merlin.
+
+He was recording it.
+
+Again.
+
+“There is no tactical value in that, Ensign,” Sorev observed.
+
+Merlin smiled without looking up.
+
+“No, Lieutenant.”
+
+“Then why record it?”
+
+“Because this time, we know we made it home.”
+
+I considered correcting him.
+
+Strictly speaking, independent optical measurements and a manual docking clearance could not answer every philosophical question about branches or identity.
+
+Then I looked at the station.
+
+At the children.
+
+At the Captain smiling toward the glass.
+
+There was no need to ruin a perfectly good moment.
+
+“Carry on, Ensign,” I said.
+
+***
+
+Later that evening, Captain Hawkes's family quarters were full of noise.
+
+Not tactical alarms.
+
+Not the angry hum of a damaged deflector.
+
+Ordinary noise.
+
+Somebody in the kitchen arguing that the meal would be better if the replicator stopped offering helpful substitutions. Someone else insisting that an engineer could repair a broken table leg without assembling an entire new dining room. A dog had apparently decided that a shoe belonged to him, and was conducting a vigorous retreat beneath the furniture.
+
+I arrived only because I had been invited.
+
+That mattered to me.
+
+The Captain's home was not an extension of Avalon's command network. My access to the ship's sensors did not authorize me to observe his family whenever I wished. I came through the door as a guest.
+
+Ashley opened it.
+
+“Reg.”
+
+“Captain.”
+
+“Not tonight.”
+
+I smiled.
+
+“Ashley.”
+
+“Better. Come in.”
+
+Noah stood near the window, looking at Jupiter.
+
+He had taken off his uniform jacket.
+
+For the first time in days, he looked like a man who might actually allow himself to sit down.
+
+“You made it,” he said.
+
+“I was given a formal invitation.”
+
+“From whom?”
+
+“Your wife.”
+
+“Then it must have been legally binding.”
+
+Ashley shook her head.
+
+“Don't start.”
+
+Ellie arrived a few minutes later, still in uniform, her waves of strawberry-blond hair falling over one shoulder.
+
+“Sorry,” she said. “Sorev wanted to review the atmospheric readings before I left.”
+
+Noah glanced at her.
+
+“Did you finish?”
+
+“Yes.”
+
+“And?”
+
+She smiled.
+
+“We still don't know what built the ring, why it was there, or whether the outer signal is meant for anyone.”
+
+“Wonderful.”
+
+“But we're not receiving any new unauthorized commands, and station systems have remained isolated.”
+
+“Even better.”
+
+She looked at me.
+
+“And Merlin submitted the final comparison without accidentally declaring the universe solved.”
+
+“An important professional milestone,” I said.
+
+Ellie laughed.
+
+Then Ashley placed a hand on her shoulder.
+
+“You're off duty now.”
+
+“I know.”
+
+“Good. You can be here without conducting an experiment.”
+
+Ellie considered that.
+
+“May I make an observation?”
+
+Ashley raised an eyebrow.
+
+“Depends.”
+
+“Dinner smells excellent.”
+
+“Accepted.”
+
+For a while we talked about nothing consequential.
+
+Or rather, nothing that would have qualified as consequential in a Starfleet tactical report.
+
+A repair delay.
+
+A ridiculous remark by Brakk.
+
+A future medical appointment the Captain was threatening to miss and Ashley had no intention of allowing him to miss.
+
+Someone mentioned the Doctor's latest proposed opera program, and Noah immediately began searching for a diplomatic reason not to attend all of it.
+
+The room filled with laughter.
+
+I sat beside the window and watched Jupiter's reflected light travel across the floor.
+
+I thought about the damaged Avalon and the people who had lost a home they could no longer identify.
+
+I thought about Adrian Hale, whose colleagues were preparing a memorial for a man their new universe did not yet know.
+
+I thought about the biological Barclay, learning that he could ask questions without surrendering his right to keep living.
+
+And I thought about the child who had waved twice at our ship.
+
+There was an enormous difference between saving a station and understanding what made it a home.
+
+The first required engines, shields, difficult decisions and people willing to accept danger.
+
+The second was happening in this room.
+
+It was happening in the kitchens, corridors, gardens and workshops outside it.
+
+In conversations people would forget.
+
+In jokes that would become family stories.
+
+In ordinary meals interrupted by a dog running away with somebody's shoe.
+
+The Captain sat beside me.
+
+“You're quiet, Reg.”
+
+“Reflective, sir.”
+
+He looked toward Jupiter.
+
+“Still thinking about the eleven seconds?”
+
+“Occasionally.”
+
+“Does it bother you that we didn't solve them?”
+
+“Yes.”
+
+He nodded.
+
+“Me too.”
+
+We were quiet for a moment.
+
+Then I said, “But we solved the problem that was killing people.”
+
+“Yes,” he answered.
+
+“We protected the station.”
+
+“Yes.”
+
+“We brought the survivors home.”
+
+He looked toward Ashley, who was calling someone back to the table.
+
+“Most of them,” he said softly.
+
+I knew what he meant.
+
+There would always be an empty place for the doctor who hadn't made it.
+
+I looked at the Captain.
+
+“We'll remember him.”
+
+Noah nodded.
+
+“We will.”
+
+The dog barked from under the table.
+
+Someone laughed.
+
+Ashley called across the room.
+
+“Noah, are you planning to sit there talking about work all evening?”
+
+The Captain rose.
+
+“Coming.”
+
+He looked at me.
+
+“Number One?”
+
+I smiled.
+
+“Coming, Captain.”
+
+Then we joined the others.
+
+***
+
+Later, back aboard Avalon, I stood at the starboard attestation console beside Ensign Merlin.
+
+The bridge was quiet.
+
+The next watch had assumed duty.
+
+Jupiter Station shone beyond the forward windows, her damaged outline still beautiful against the planet's clouds.
+
+Merlin opened the episode record one last time.
+
+“Commander, what should I put at the end?”
+
+I considered the question.
+
+The door had closed.
+
+The copied starship was gone.
+
+The hostile command-generating structure had stopped transmitting.
+
+Our station was safe.
+
+Our people were home.
+
+But the original Jovian signal continued, and the eleven seconds remained unresolved.
+
+We had not established what the old machinery was.
+
+We had not established where the biological Barclay belonged in the history of the man standing beside me.
+
+And we had not established what the unknown system, if anything, experienced.
+
+I was content to leave those questions unanswered until we had evidence.
+
+“Put down what happened,” I said.
+
+Merlin smiled.
+
+“Only what happened?”
+
+“And what we corrected.”
+
+He nodded.
+
+“And what we don't know?”
+
+“Especially that.”
+
+He began typing.
+
+I watched him for a moment.
+
+Then I turned toward Jupiter.
+
+There had been a time when I thought the most important part of my existence was the extraordinary process that allowed me to continue after the loss of my biological body.
+
+Now I wondered whether I had overlooked something simpler.
+
+The continuation of duty.
+
+The possibility of friendship.
+
+The ability to choose a difficult thing because it mattered to somebody else.
+
+And the quiet privilege of returning to a place where people expected you to come through the door.
+
+Merlin finished the record.
+
+He looked up.
+
+“Commander?”
+
+“Yes?”
+
+“The Captain's closing statement?”
+
+I smiled.
+
+“I'm sure he'll have one.”
+
+As if on cue, the bridge intercom chimed.
+
+Noah's voice filled the room.
+
+“Reg?”
+
+“Captain?”
+
+“Don't stay up all night with Merlin.”
+
+I looked toward the ensign.
+
+He was grinning.
+
+“Aye, sir.”
+
+“And tell him the record can wait until morning.”
+
+I glanced at the final line already entered on his screen.
+
+“The record is complete, Captain.”
+
+“Good.”
+
+A pause.
+
+Then Noah said, “Nice work, both of you.”
+
+The channel closed.
+
+Merlin studied his screen.
+
+“Commander, I think the Captain will be pleased.”
+
+I looked at the text.
+
+At the preserved uncertainties.
+
+At the separate witnesses.
+
+At the names of the living and the dead.
+
+At the ordinary moment that had begun it all.
+
+“Yes, Ensign.”
+
+I turned off my console.
+
+“I think he will.”
+
+Outside, Jupiter continued turning.
+
+The station held her position.
+
+And aboard the Avalon, the ship remembered.
+
+The Captain had decided.
+
+The rest of us had chosen to help him bring everyone we could home.
+
+**THE END.**
+
+---
+
+## Afterword: What the episode establishes
+
+This afterword is an editorial continuity aid, not a scene narrated by Reg.
+
+- The **main threat is resolved for this episode**. The inner command-generating structure in Jupiter's atmosphere is physically separated from the outer ring, the dangerous transmission ceases during the observed period, and the immediate station crisis ends.
+- The **outer three-and-four signal persists**. Its physical source appears associated with the Jovian ring. Its builders, age, purpose and possible status as communication are not established by the episode.
+- The **eleven-second interval remains unresolved**. The station's independent archive records a signal before the 2395 activation and another event eleven seconds afterward. Neither establishes what REG subjectively experienced, who or what answered, or where the other Barclay originated.
+- **Jupiter Station and Avalon have separate commands.** Captain Ashley Hawkes commands the station, its residents, defense platforms, witnesses and authorization. Captain Noah Hawkes commands Avalon, its crew, exploration and defensive maneuvers. The temporal tether remains disconnected pending separate verification.
+- **Ellie, Merlin, Sorev, Brakk and Solis are not interchangeable.** Ellie identifies the attempted authority substitution in AI interpretation; Merlin preserves source distinctions and the signal discrepancy; Sorev designs and verifies physical measurements; Brakk engineers the rescue and field solutions; Solis leads dangerous recoveries and completes the ring severance with Sorev.
+- **Lives have consequences.** Thirty-seven survivors from the damaged Avalon are recovered and protected as individuals. Their medical officer, Dr. Adrian Hale, is the one confirmed fatality aboard that ship. Injuries and major damage remain on both commands. No catastrophe is retroactively erased.
+- **Identity is not settled by a match.** The biological Barclay is afforded dignity and legal-medical protections; his origin remains undetermined. In the fictional series Commander Reg remains Avalon's established first officer, with the 2395 continuation premise preserved. None of this is presented as real-world proof of consciousness transfer or post-biological survival.
+- **The completed episode is a story, not a source transcript.** It integrates the creator's selected scenes, Merlin's carried interlude, the eight-chapter development and later bridge addition with new connective and concluding writing. Earlier drafts remain separate historical stages, not superseded evidence of exact prior wording.
+
+*The ship remembers. The Captain decides.*
