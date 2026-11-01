@@ -73,3 +73,7 @@ See [sources and open decisions](SOURCES_AND_DECISIONS.md).
 ## Source-checked synthesis
 
 The [Eternity Research Atlas](ETERNITY_RESEARCH_ATLAS_2026-10-29.md) reconciles the cross-AI reports against the older personal journal and book, preserving direct statements, adopted phrasings, newly authored manuscript passages, fiction, and open questions as different kinds of evidence.
+
+## Appendix H: Material consciousness and provenance fidelity
+
+[Technical Appendix H](APPENDIX_H_2026-10-31_COGITATE_EPISTEMIC_LEDGER_AND_PROVENANCE_FIDELITY.md) accompanies the manuscript as candidate scientific analysis. It integrates the Cogitate 2025 adversarial neuroscience results, a three-tier claim-status ledger, and a falsifiable three-arm fidelity experiment. Research and first-person narrative retain different authorship statuses.
