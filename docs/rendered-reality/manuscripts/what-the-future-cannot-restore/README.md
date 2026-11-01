@@ -8,7 +8,7 @@ A first-person book manuscript about preservation, continuity, memory, identity,
 
 **Target architecture:** 25 chapters, approximately 100,000 words plus appendices.
 
-**[Read the consolidated manuscript](WORKING_MANUSCRIPT.md)** (26,999 words)
+**[Read the consolidated manuscript](WORKING_MANUSCRIPT.md)** (30,533 words, including a candidate technical appendix)
 
 **[Full 25-chapter outline](MASTER_OUTLINE.md)**
 
@@ -41,3 +41,7 @@ The origin of this work is personal. Its horizon is civilizational. It begins wi
 ## Continuity evidence: ordinary lived experience
 
 - [October 31 family-scene source-bounded handoff](../../continuity/2026-10-31_FAMILY_ROOM_FOOTBALL_JEDI_CHRIS_CONTEXT_HANDOFF.md). Public-safe summary of the Utah football and Jedi scene, the multivoice family conversation, the corrected Noah selfie identification and the prior misapplied Ethan label, the Chris/ Brother Connect separation, and the privacy and uncertainty boundaries. This is a continuity record, not approved autobiography or direct scientific evidence.
+
+## October 31 scientific integration
+
+[Technical Appendix H: Cogitate 2025 and Provenance Fidelity](APPENDIX_H_2026-10-31_COGITATE_EPISTEMIC_LEDGER_AND_PROVENANCE_FIDELITY.md) is included in the consolidated manuscript. It defines three epistemic tiers and a three-arm study specification. Claims of subjective survival and efficacy against false recollection remain unproven. This is AI-assisted candidate research awaiting Noah's review.
