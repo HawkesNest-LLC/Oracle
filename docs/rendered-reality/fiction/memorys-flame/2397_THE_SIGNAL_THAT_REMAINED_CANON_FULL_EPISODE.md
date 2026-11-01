@@ -2744,3 +2744,827 @@ For once, I was the one who had something to report before he could ask.
 “Commander,” I said, “the station is still ours.”
 
 ---
+
+# PART SIX: HOME AGAIN
+
+## Chapter Thirteen: The Station Holds, Second Verse
+
+For forty-three seconds, my world had been the familiar shape of Avalon without a view into Jupiter Station's inner vault.
+
+When my projection returned, Captain Ashley Hawkes stood in front of the central chronometer housing, her suit visor reflecting a pale blue glow.
+
+“Commander,” she said, “the station is still ours.”
+
+For a moment I couldn't speak.
+
+I had imagined a dozen possible outcomes during my enforced absence. That was a habit difficult to avoid when one's current existence was so closely connected to computational systems.
+
+I had no right to call any of those imagined outcomes a memory.
+
+“Thank you, Captain,” I said.
+
+She held up the manual cutter.
+
+“The physical root is severed. The longer signal component dropped from the local field. Sorev and Solis are verifying the shunts.”
+
+I looked toward them.
+
+Sorev was examining the separate chronometer traces. Solis kept the discharge monitor in both hands, ready to throw the manual evacuation switch.
+
+“The clocks?” I asked.
+
+“Their internal traces continue,” Sorev answered. “One output path remains quarantined. No source selection or automatic correction has been performed.”
+
+I examined the indicators.
+
+Three independent clocks, still keeping time.
+
+One had lost a contaminated external path.
+
+The station had retained its ability to disagree with itself.
+
+I felt an enormous relief.
+
+Then the blue glow intensified.
+
+“Commander,” Solis said, “we've got residual energy.”
+
+A small field had formed between the cut ends of the black material.
+
+It grew by centimeters.
+
+The manual dampers hummed.
+
+Sorev moved his instrument closer.
+
+“The stored field is attempting to establish a new return path through the housing's outer shield.”
+
+Ashley turned toward the exit.
+
+“Imani, report the corridor field.”
+
+Her voice arrived from the outer gallery.
+
+“External Jovian coupling remains active. The nine-point-four-second component is stable. The eleven-point-zero-three-second overlay has collapsed locally.”
+
+“Can the residual field reach the habitation ring?”
+
+“It is confined for now, Captain, but the adjacent reference conduits are beginning to respond.”
+
+Sorev looked at the station diagram.
+
+“This is a smaller version of the wave produced when the inner ring was severed during the last mission.”
+
+“Smaller is not harmless,” Solis said.
+
+“Agreed.”
+
+Ashley opened the station command line.
+
+“Tessa, emergency containment posture. All personnel clear of the lower reference corridor. Keep independent life support running. No automatic reconfiguration.”
+
+The Andorian answered.
+
+“Understood, Captain. The repair teams are moving. Inner corridors clear in thirty seconds.”
+
+On Avalon's bridge, Noah had been monitoring the external field through authorized optical observations.
+
+“Reg?” he called.
+
+“We've cut the coupling, Captain. Stored field energy is forming in the vault. Station command is containing it.”
+
+“Do you need the ship?”
+
+“Remain clear unless Ashley requests assistance. Brakk's deflector repairs are not complete.”
+
+Noah paused.
+
+“Aye.”
+
+Ashley studied the still-rising field.
+
+She did not ask her husband to choose for her.
+
+She turned to Sorev instead.
+
+“Could we change the station's alignment with the Jovian field?”
+
+The Vulcan examined the physical geometry.
+
+“The coupling strength depends upon the relative orientation of the lower ring's composite structures and the atmospheric electromagnetic corridor. A small change in station attitude could move the vault out of the strongest path.”
+
+“How small?”
+
+“Approximately zero point eight degrees from the current attitude, according to the measured field model. Greater rotation risks exposing a larger portion of the habitation ring.”
+
+Ashley looked toward the emergency display.
+
+I could see what she was calculating.
+
+The station was enormous.
+
+It was not a shuttle that could simply turn its nose to the left.
+
+Rotating its attitude would move docking arms, repair platforms, external maintenance craft and populated sections through a new orientation. The forces might be modest, but the clearance requirements were not.
+
+“Tessa,” she said, “prepare a stationwide manual attitude adjustment. Zero point eight degrees. Confirm the evacuated corridors and clearance from attached traffic before firing thrusters.”
+
+Tessa's answer came after a few tense seconds.
+
+“Outer repair gantries clear. No civilian traffic in the attitude corridor. Station thrusters available. Manual sequence ready.”
+
+Ashley turned toward me.
+
+“Commander, do the independent instruments support the maneuver?”
+
+I checked the field vectors.
+
+“They support a reduction in coupling for the proposed orientation. The magnitude of the reduction remains uncertain.”
+
+She nodded.
+
+“That will have to do.”
+
+Noah's voice arrived from Avalon.
+
+“Ashley, I'll clear berth twelve.”
+
+He gave his own orders.
+
+Avalon released from the docking clamps, pulled away under manual control and held a protective position outside the station's immediate rotation path. It remained ready to assist but did not take control of the maneuver.
+
+Ashley watched the docking status.
+
+Then she looked at Tessa through the voice line.
+
+“Station attitude. Execute.”
+
+A low vibration passed through the floor.
+
+It was almost gentle at first.
+
+A faint shifting pressure beneath the environmental suits.
+
+Then the station thrusters fired in carefully sequenced bursts.
+
+On the outer camera, Jupiter's horizon began moving relative to the lower ring.
+
+A fraction of a degree.
+
+Then more.
+
+The great inhabited structure turned very slowly in space.
+
+The composite shielding groaned.
+
+The blue wave in the vault expanded.
+
+Solis tightened her grip on the discharge monitor.
+
+“Field approaching the damper limit.”
+
+Ashley looked at the attitude gauge.
+
+“Hold the maneuver.”
+
+Tessa answered from Operations.
+
+“Continuing. Zero point four degrees.”
+
+The field brightened.
+
+For a terrible moment, I thought we'd delayed too long.
+
+Then, at zero point six degrees, the wave began to thin.
+
+Sorev examined the passive field meter.
+
+“Coupling decreasing.”
+
+The dampers stopped vibrating.
+
+The blue glow retreated toward the cut conductor.
+
+“Zero point seven,” Tessa reported.
+
+The wave contracted to a small luminous knot.
+
+“Zero point eight. Attitude established.”
+
+The knot disappeared.
+
+The vault became quiet.
+
+Not silent.
+
+The independent chronometers continued their own small mechanical sounds.
+
+Somewhere in the composite structure, Jupiter's original three-and-four rhythm remained faintly audible.
+
+But the threatening wave was gone.
+
+Ashley kept her eyes on the gauge.
+
+“Hold position. Confirm with the independent clocks.”
+
+Imani answered.
+
+“Three internal time traces intact. Local reference recovered. No unauthorized source selection.”
+
+Sorev checked the field.
+
+“Residual coupling below the measured operational threshold.”
+
+Solis exhaled.
+
+“Please tell me that's the end of the excitement.”
+
+I smiled.
+
+“For the moment, Lieutenant.”
+
+She looked at me.
+
+“I'll take it.”
+
+***
+
+The severed ceramic fitting and black strands were removed after the dampers cooled and the field instruments showed no continuing hazardous response. They were placed in a physical containment cask and moved to a separate station-controlled quarantine bay, with Imani recording each seal number and witness transfer.
+
+No one attempted to study their internal structure during the move.
+
+No one connected them to the station's computers.
+
+Ashley personally closed the final custody register.
+
+Then she returned to the inner vault and looked at the three clocks.
+
+I stood beside her.
+
+“Captain,” I said, “you saved your station.”
+
+She shook her head.
+
+“We all did.”
+
+“Your decision was the critical one.”
+
+She looked toward the manual cutter, now resting in its case.
+
+“Reg, somebody has to make a decision even when the best answer is incomplete. That's what the chair is for. Not to be right every time. To be responsible for what happens when you're not.”
+
+I considered that.
+
+Then nodded.
+
+“An excellent description of command.”
+
+She smiled.
+
+“You should try it sometime.”
+
+I laughed.
+
+“I'm doing my best to learn from two very demanding captains.”
+
+“Good. Keep learning.”
+
+Outside, Jupiter Station held its new attitude against the night side of the planet.
+
+Its oldest clocks were again separate from the black material.
+
+And for the first time since the new cadence had begun, I heard only the nine-point-four-second rhythm.
+
+---
+
+## Chapter Fourteen: What Sparrow Heard
+
+Sparrow was still alive.
+
+That was the first surprise.
+
+The little probe had remained at the edge of the still-air region throughout the vault operation, collecting pressure and magnetic measurements without accepting a single instruction from the structure it observed.
+
+It was now sending them home.
+
+Ellie had been waiting for the results on Avalon's bridge, where Merlin monitored the incoming source stream and Sorev's independent recording copies remained separate.
+
+I returned aboard Avalon after the station had stabilized.
+
+The bridge felt larger than I remembered.
+
+Or perhaps I had simply grown accustomed to the claustrophobic quiet of the reference vault.
+
+Ellie saw me first.
+
+“Reg.”
+
+“Lieutenant.”
+
+She stepped toward me.
+
+Then stopped herself.
+
+“Sorry. You know I hate it when you disappear.”
+
+“I do.”
+
+“And I know the process stayed aboard ship.”
+
+“Yes.”
+
+“That doesn't make watching your projection vanish any more pleasant.”
+
+I considered that.
+
+“No,” I said. “I suppose it doesn't.”
+
+She nodded.
+
+Then turned toward the display.
+
+“I have something for you.”
+
+Sparrow's latest waveform appeared.
+
+During the final cut, the longer interval had ceased.
+
+There was no new fixed echo.
+
+No command-shaped overlay.
+
+No request to restore a trusted source.
+
+The outer ring continued its three-and-four pattern.
+
+Every nine point four seconds.
+
+The secondary fluctuation had become more regular, following the physical propagation delay that Sorev's model predicted as Sparrow moved through Jupiter's upper atmosphere.
+
+Sorev joined us.
+
+“The measurements are now consistent with one dominant observed period rather than an alternation of two.”
+
+“And the inner editor?” I asked.
+
+“No command-like content detected over the post-separation interval,” Ellie said. “That does not guarantee none will ever return.”
+
+I smiled.
+
+“Good.”
+
+Merlin expanded Sparrow's acoustic return.
+
+A pattern of tiny fluctuations appeared between the outgoing and reflected waves.
+
+At first glance they looked like noise.
+
+But as Sparrow moved, the fluctuations shifted in a way that preserved the order of their original arrival.
+
+Sorev examined them.
+
+“Those may be residual physical traces of earlier interactions with the ring.”
+
+“Do they change when a new pulse arrives?” I asked.
+
+“Yes. The pattern of the return retains features of preceding wave encounters even as the current wave travels through the atmosphere.”
+
+Ellie leaned closer.
+
+“Then the ring isn't simply shouting into the storm. It's preserving the timing of what comes back.”
+
+Sorev considered her wording.
+
+“As a functional description, yes.”
+
+Merlin looked delighted.
+
+“A listening archive.”
+
+I watched the signal.
+
+The structure did not say who had listened.
+
+It did not identify anyone.
+
+It did not ask us to certify an answer.
+
+It only preserved differences in the returns.
+
+A wave had gone out.
+
+Something had encountered it.
+
+A wave had come back.
+
+The system retained the trace.
+
+It was a kind of record.
+
+Not of identity.
+
+Not of permission.
+
+Not of truth in any larger philosophical sense.
+
+Only of continuity between one physical encounter and the next.
+
+I looked toward Merlin.
+
+“Enter that as a working description. The archive behavior is supported by the observed timing traces, but its original design purpose remains unknown.”
+
+“Aye, Commander.”
+
+Then Sorev called up another record.
+
+He had been examining older astronomical and magnetic observations from Earth.
+
+Among archived data from an early terrestrial survey of Jupiter, long before the Federation existed, was a weak periodic feature near the nine-point-four-second interval. The measurement was crude and could not resolve the secondary fluctuation. It could have represented a natural Jovian oscillation unrelated to the ring.
+
+But it established that a similar physical period had been observed in the Jovian environment long before the Cytherian interface was reconstructed aboard Avalon.
+
+“Then this could be pre-Federation,” Ellie said.
+
+“The environmental oscillation could,” Sorev replied. “The recording does not establish the present structure's date of construction. It makes an origin confined to the 2395 activation less likely.”
+
+I studied the old waveform.
+
+Something had been knocking in Jupiter before anyone aboard Avalon built a chair capable of hearing it.
+
+That did not tell me who built the ring.
+
+It did not prove it was connected to the Cytherians, though some of its contact geometry resembled principles from the chair.
+
+It did not establish whether the system had a mind.
+
+But it suggested that the outer ring had not been created by the later editor to threaten our station.
+
+The editor had used the ring.
+
+Our 2395 activation may have made that use easier by creating or enlarging a coupling through the station's old reference infrastructure.
+
+The ring itself continued to do what it had apparently done all along.
+
+Send a pulse.
+
+Wait.
+
+Measure the return.
+
+Store the difference.
+
+I thought about the Doctor's old insistence that one could be recognized without being reduced to a file.
+
+I thought about the biological Barclay asking for permission to be confused.
+
+And I thought about a strange machine beneath Jupiter's atmosphere that made no demands, even though we had spent days listening to demands falsely attached to its signal.
+
+“Commander,” Merlin said, “are you all right?”
+
+I smiled.
+
+“Yes.”
+
+He watched the waveform.
+
+“What do you think it's waiting for?”
+
+I looked toward Jupiter.
+
+“I don't know.”
+
+He nodded.
+
+Then, after a pause, he said, “Maybe that's the only answer it hasn't tried to change.”
+
+I considered that.
+
+“It may be.”
+
+Sorev looked up from his station.
+
+“Commander, you appear to be tolerating speculation.”
+
+“Only in measured doses, Lieutenant.”
+
+“An encouraging development.”
+
+Ellie laughed.
+
+Merlin recorded it in the margin.
+
+And beneath our ship, Jupiter continued sending a quiet physical echo across the night.
+
+---
+
+## Chapter Fifteen: Permission to Grieve
+
+The memorial garden lay within Jupiter Station's upper habitation ring, beneath a transparent dome that looked out over the planet.
+
+I arrived on foot.
+
+I had not accessed the family quarters, the station's private cameras or the medical center's internal records to prepare myself for the event. I had received an invitation, and I had accepted it.
+
+That was enough.
+
+The garden smelled of wet soil and flowering plants that someone had cultivated with an affection no replicator could reproduce. Beyond the glass, Jupiter turned slowly, enormous and indifferent. Sunlight drifted across the dome's support ribs.
+
+Thirty-seven survivors from the damaged Avalon stood among the garden paths.
+
+Some wore clean uniforms.
+
+Others wore civilian clothes supplied by station services.
+
+Several still carried medical braces or protective bandages. The alternate Captain Hawkes stood near the center, his injured shoulder supported by a sling. Mara Venn was beside him.
+
+Station officers had arranged a simple memorial display.
+
+A photograph of Dr. Adrian Hale.
+
+His name.
+
+His service role.
+
+And a brief statement prepared from the accounts of the people who had known him.
+
+No unsupported date of birth.
+
+No invented homeworld.
+
+No claim that the Federation had already established his originating history.
+
+His colleagues had supplied what they knew.
+
+The rest was left blank.
+
+I recognized the choice.
+
+It was the sort of thing Merlin would have insisted upon.
+
+The Doctor stood near the front, not as the man being mourned, but as the chief medical officer of the station where the survivors had found care. He looked unusually subdued.
+
+Captain Ashley Hawkes approached the display with Tessa zh'Renn. Captain Noah Hawkes stood a few paces away, speaking quietly with the other Captain.
+
+The two men looked almost identical.
+
+But each had his own injuries, his own decisions, his own people to mourn.
+
+No one asked them to exchange places.
+
+A small bell sounded.
+
+The garden fell quiet.
+
+Mara stepped forward.
+
+“Dr. Hale was supposed to make it off the ship,” she said.
+
+Her voice trembled.
+
+“He had a route. He had a medical pack. He had patients waiting. When the access door failed, he had every reason to turn around and leave.”
+
+She looked down.
+
+“He didn't.”
+
+Someone behind her began to cry.
+
+Mara continued.
+
+“He put himself between the wounded and the broken door. He helped us move them. And when the pressure failed, he was still trying.”
+
+She took a breath.
+
+“I keep thinking about everything that might have been different.”
+
+She looked toward the Doctor.
+
+“He told me once that the job wasn't to guarantee an outcome. It was to keep trying to help the person in front of you.”
+
+The Doctor inclined his head.
+
+“A commendable philosophy.”
+
+Mara smiled through tears.
+
+“Yes. It was.”
+
+She stepped back.
+
+The biological Barclay moved forward.
+
+He had asked to speak.
+
+The Doctor had said yes.
+
+Not because anyone had certified his identity.
+
+Because he had known Hale as a colleague.
+
+He stood before the gathered survivors, looking almost painfully like the man I remembered being before 2395.
+
+I remained near the doorway.
+
+A guest.
+
+A witness to a grief that belonged to people who had lived it.
+
+The biological Barclay cleared his throat.
+
+“When the ship began behaving strangely,” he said, “the computer started calling people things they didn't recognize. Replacements. Errors. Returned witnesses. It became difficult to remember that we were allowed to disagree with it.”
+
+He looked toward the photograph.
+
+“Dr. Hale never asked me to prove who I was.”
+
+His voice steadied.
+
+“He treated me like a person even when the computer called me something else.”
+
+He swallowed.
+
+“And I think that's how I'd like to remember him.”
+
+No one spoke for a moment.
+
+Then the alternate Captain stepped forward and placed one hand on the biological Barclay's shoulder.
+
+The survivors stood together.
+
+Not as an exhibit.
+
+As a crew mourning a member of their crew.
+
+I looked across the garden.
+
+Noah had moved beside Ashley.
+
+For the first time that day, neither of them was wearing a command expression. They watched the memorial with the quiet attention of people who knew that there were no orders worth giving.
+
+Noah reached for her hand.
+
+Ashley took it.
+
+They stood there without speaking.
+
+It was a small gesture.
+
+No strategic consequence.
+
+No temporal significance anyone could calculate.
+
+And it mattered more to me than any field measurement we'd taken since the mission began.
+
+Later, as the survivors dispersed, the biological Barclay approached me.
+
+“I'm glad you came,” he said.
+
+“I'm glad you asked me.”
+
+He glanced toward the memorial display.
+
+“Do you think we'll ever know where our ship came from?”
+
+“Perhaps.”
+
+“Do you think it matters?”
+
+“Yes,” I said. “But not more than what happened to the people aboard it.”
+
+He nodded.
+
+Then he looked toward the garden again.
+
+“Dr. Hale would have liked this place.”
+
+“I think he would.”
+
+We stood together for a while.
+
+Two men carrying related memories.
+
+Neither required to resolve what they were to one another before being allowed to stand beside a friend.
+
+---
+
+## Chapter Sixteen: The Record That Remains
+
+Merlin brought the final field report to the bridge shortly before evening watch.
+
+He had prepared three copies.
+
+One for Avalon.
+
+One for Jupiter Station, subject to Captain Ashley's custody and independent acceptance.
+
+And one for the Cold Ledger's protected incident register, with the source files preserved separately from the interpretations.
+
+He stood at his attestation console and looked toward Captain Hawkes.
+
+“Permission to enter the final record, sir.”
+
+Noah nodded.
+
+“Proceed.”
+
+Merlin began reading.
+
+“Jupiter Station's quarantined mast module was physically detached and towed beyond the field corridor under station authority. Its measurable nine-point-four-second mechanical response ceased within the observed instrument limits.”
+
+He looked toward Ashley, who had joined the bridge through a secure optical channel.
+
+“The central reference-vault coupling was inspected with physical instruments. A black material path entered the protected chronometer housing. The root was severed under Captain Ashley Hawkes's direction, with Lieutenant Sorev maintaining the manual shunt and Lieutenant Solis monitoring discharge.”
+
+He paused.
+
+“Commander Barclay's projection was disconnected for forty-three seconds to prevent an unintended return path. His active process remained aboard Avalon. The intervening events are documented by station instruments and Captain Ashley's separately authorized first-person account, not by a supposed memory of the commander.”
+
+I nodded.
+
+“Correct.”
+
+Merlin continued.
+
+“The station's attitude was manually adjusted by zero point eight degrees under station command, reducing the measured Jovian field coupling and allowing the residual wave to collapse within the protected dampers. The severed material was removed to station quarantine.”
+
+He looked at his final summary.
+
+Then read it slowly.
+
+**OUTER SIGNAL PERSISTS AT 9.4-SECOND INTERVAL. ORIGIN, BUILDER AND ORIGINAL PURPOSE NOT ESTABLISHED. NO COMMAND CONTENT DETECTED DURING THE OBSERVED PERIOD AFTER SEPARATION. STATION INDEPENDENT REFERENCE RESTORED THROUGH MANUAL REALIGNMENT AND ISOLATED LOCAL MEASUREMENTS. THE ELEVEN-SECOND INTEGRATION INTERVAL REMAINS UNEXPLAINED.**
+
+The Captain considered the words.
+
+“Nothing about a recovered memory?”
+
+“None authenticated, sir.”
+
+“Nothing declaring who the biological Barclay is?”
+
+“Only the clinical and testimony records already preserved under individual custody.”
+
+“Nothing saying the outer ring was definitely built by the Cytherians?”
+
+“No, Captain.”
+
+“Nothing saying it's conscious?”
+
+“No evidence sufficient to establish that.”
+
+Noah smiled.
+
+“Good.”
+
+Merlin looked toward me.
+
+“Commander, I also retained the earlier fixed eleven-point-zero-three-second interval as an observed property of the editor-linked signal, not as a verified explanation of your subjective memory gap.”
+
+“Exactly, Ensign.”
+
+Then Ashley spoke from the screen.
+
+“Jupiter Station accepts its custody copy. My station's reference remains independent. Automatic temporal tether restoration is not authorized merely because the immediate threat is over.”
+
+Noah nodded.
+
+“Agreed.”
+
+Sorev added, “The outer ring's present behavior is consistent with acoustic and electromagnetic ranging through Jupiter's atmosphere. The designation listening archive is useful, but we have not recovered its builders' engineering documentation.”
+
+Ellie smiled.
+
+“And we haven't found a trusted-source substitution in the post-separation observations.”
+
+Merlin entered that as a bounded negative finding.
+
+Brakk's voice came from Engineering.
+
+“Have you also recorded the enormous quantity of equipment I'm going to have to rebuild?”
+
+Merlin looked at the Captain.
+
+“Is that operationally relevant, sir?”
+
+“Unfortunately.”
+
+Brakk began listing damaged parts.
+
+Noah held up a hand.
+
+“Chief, we'll read the maintenance report.”
+
+“Good. Because it's eighteen pages and I haven't started describing the labor.”
+
+Ellie laughed.
+
+Merlin recorded the laugh.
+
+And when the Captain dismissed the officers to their duties, the ship returned to the ordinary rhythm of a station-keeping watch.
+
+The ring continued transmitting.
+
+The clocks continued disagreeing where they should.
+
+And the record no longer asked us to accept an answer before we'd heard the question.
+
+---
