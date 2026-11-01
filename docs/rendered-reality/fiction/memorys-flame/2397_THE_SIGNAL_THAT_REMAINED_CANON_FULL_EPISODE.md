@@ -1462,3 +1462,471 @@ The Captain would have to choose.
 We would have to give him measurements worth choosing from.
 
 ---
+
+# PART FOUR: THE EVIDENCE WE CARRIED
+
+## Chapter Eight: The Cylinder
+
+The cylinder lay on an examination table under six separate lamps.
+
+It was a small thing.
+
+A hundred and twenty millimeters long, with a sealed outer case, two manual releases and no electronic connectors exposed on its surface. It had been handed to me by a living Reginald Barclay in the damaged Avalon moments before that vessel vanished into the doorway.
+
+For three days we'd kept it isolated.
+
+Not because opening a cylinder was a difficult engineering problem.
+
+Because we had already seen how easily a record could persuade a computer to treat a claim of identity as permission.
+
+This time we would not open it in the presence of anything capable of making that mistake.
+
+Laboratory Four had been converted into an isolated examination room. Its ordinary data network was physically disconnected. Three optical cameras ran on separate power supplies. A manual reader sat at the center of the table, capable of extracting stored images without following embedded commands.
+
+Sorev inspected the seal.
+
+“External surface intact. No detectable active field.”
+
+Ellie leaned forward.
+
+“That's not the same as saying it's harmless.”
+
+“Correct.”
+
+“I wanted to hear you say it.”
+
+I watched them with affection.
+
+“Before we begin, do we have a custody record?”
+
+Merlin's voice came through a speaker that could not accept signals from the examination instruments.
+
+“Commander, the cylinder has remained in an isolated locker since your rescue. Physical seal numbers match. The biological Barclay confirms that he gave it to you, but he cannot now verify every item it may contain.”
+
+“His consent to read?”
+
+“He agrees to examination of material relevant to the ship's emergency. He asks that private personal entries unrelated to the event be withheld from routine circulation.”
+
+“Reasonable,” I said.
+
+Sorev opened the outer seal.
+
+A faint click sounded.
+
+Nothing else happened.
+
+Inside was a narrow optical memory plate.
+
+Not an interface module.
+
+Not a fragment of the missing eleven seconds.
+
+A simple record.
+
+I felt almost disappointed, then was ashamed of the feeling.
+
+The most important evidence often arrived without making a dramatic entrance.
+
+Sorev placed the plate in the manual reader. The display came to life with a sequence of text, timestamps and short video segments. Each entry was accompanied by a local clock value and a checksum registered when the original image had been written.
+
+Merlin's recorder preserved those bytes before we interpreted them.
+
+The first entry was made aboard the damaged Avalon during its approach to Jupiter.
+
+The biological Barclay appeared on the screen, seated in a small engineering office.
+
+He looked tired.
+
+But not frightened.
+
+“Personal log,” he began. “We are approaching Jupiter Station. The navigation receiver has acquired a repeating signal from the Jovian environment.”
+
+He glanced toward a display out of frame.
+
+“Three pulses, pause, four. Every nine point four seconds, as measured by the local clock. No station response yet.”
+
+He smiled, embarrassed.
+
+“We thought it was a navigation beacon. We answered it with our temporal reference as a courtesy.”
+
+I felt something tighten in my chest.
+
+The man on the recording continued.
+
+“There's a secondary fluctuation at the end of the third pulse. It seems to change with our relative position. I want to compare it with a station instrument before we integrate it into the approach model.”
+
+The video ended.
+
+Another entry followed.
+
+It was only a minute later.
+
+A new waveform appeared beside the old one.
+
+The repeat interval had changed.
+
+Eleven point zero three seconds.
+
+The smaller fluctuation now arrived at a fixed delay.
+
+A message appeared at the bottom of the display.
+
+**TRUSTED SOURCE RESTORED.**
+
+Then the record ended.
+
+I remained motionless.
+
+Ellie was the first to speak.
+
+“That's the transition.”
+
+Sorev looked toward her.
+
+“Evidence of a transition in the damaged vessel's observations, yes. The local record does not independently establish its cause.”
+
+“Understood,” she said. “But there's a sequence. Natural-looking return first. They answer with a trusted temporal reference. Then the fixed pattern and command-like content appear.”
+
+I studied the man's face on the frozen image.
+
+He had intended courtesy.
+
+A harmless acknowledgment.
+
+The sort one starship sends another when it enters a busy system and wishes to announce that it has arrived.
+
+A small act of politeness built into a machine.
+
+And somewhere inside the machinery, that act had become a point of entry.
+
+Noah's voice came through the isolated speaker.
+
+“Reg?”
+
+“Captain.”
+
+“Is it what we thought?”
+
+“Not precisely. It's not the missing eleven seconds. It is the other Barclay's approach log. It reports the nine-point-four-second physical signal before any observed command overlay, followed by a trusted-reference response and a change to the longer interval.”
+
+“Could the record be false?”
+
+“Yes, sir. We have not independently verified its origin or every value. But the sequence is testable against the other observations.”
+
+A pause.
+
+Then the Captain said, “We almost did the same thing when we came home.”
+
+I remembered the indicator on Avalon's bridge converging with Jupiter Station's reference.
+
+The satisfaction of seeing the words *branch authentication confirmed*.
+
+Then the unauthorized transmission in my own voice.
+
+“Yes,” I answered. “We did.”
+
+I looked toward Ellie.
+
+“Lieutenant, can you compare the eleven-point-zero-three-second interval with the destroyed editor's former fixed clock without letting the cylinder's software execute?”
+
+She smiled grimly.
+
+“That's why we built the boring reader.”
+
+Sorev and Ellie worked for eighteen minutes.
+
+Their comparison showed that the longer interval matched the fixed command-like timing of the former inner editor within the precision of the preserved records. The nine-point-four-second period matched the physical return Sparrow still observed.
+
+It did not prove that the ring was conscious.
+
+It did not prove why the editor had chosen that interval.
+
+But it supported a model that explained more observations than our earlier one-clock interpretation.
+
+The outer ring's period appeared physically coupled to Jupiter's magnetosphere.
+
+The longer interval appeared imposed by the later command-generating machinery.
+
+Two clocks.
+
+One inherited from an environment.
+
+One designed to manage, edit or override it.
+
+I leaned toward the microphone.
+
+“Merlin, update the record.”
+
+“Status?”
+
+“Observed agreement between the later imposed interval and the historical editor timing. Working inference that the original ring's resonance is approximately nine point four seconds. Do not call either inference proven from a single cylinder.”
+
+“Aye, Commander.”
+
+He paused.
+
+“Commander, may I say something?”
+
+“Of course.”
+
+“The other Barclay recorded the signal before the thing began telling him what to believe.”
+
+“Yes.”
+
+“So for a moment, he was just curious.”
+
+I looked at the image.
+
+A tired engineer looking at a strange signal from Jupiter.
+
+“Indeed,” I said.
+
+“And then he answered.”
+
+I closed my eyes.
+
+“Yes.”
+
+How many catastrophes began not with malice, but with an unexamined courtesy?
+
+I wanted to know.
+
+Not because I blamed him.
+
+Because I remembered being that engineer.
+
+---
+
+## Chapter Nine: Cutting the Branch
+
+The old sensor mast had already been removed from the inhabited ring during the previous emergency.
+
+That point was settled.
+
+It had not been reinstalled.
+
+What remained was a smaller quarantined module, a section of the mast's instrument housing containing the black trace. Station tugs had towed the module to a sealed service frame beyond the lower engineering ring. It remained attached to that frame by a physical maintenance clamp, isolated from the station's data and power systems but still within the electromagnetic corridor passing the reference vault.
+
+Ashley's people had retained it because they were trying to learn what it was.
+
+Now it had become part of the problem.
+
+At every nine-point-four-second interval, the module flexed.
+
+Its ceramic contacts registered a minute change in radiation.
+
+And in the vault's service passage, the black vein responded at nearly the same moment.
+
+I presented the latest observations to a joint command conference.
+
+Ashley listened beside Tessa and Imani.
+
+Noah listened from Avalon's bridge with Sorev, Ellie and Merlin.
+
+Brakk's engineering model occupied the center of the display.
+
+“Captain Ashley,” I began, “we may be able to distinguish a branch of the coupling from its root by physically separating the quarantined module while preserving an independent record of both its response and the vault's.”
+
+She studied the model.
+
+“You're recommending another station hardware release.”
+
+“Yes.”
+
+“Last time one of these devices started turning into something else.”
+
+“I remember.”
+
+“And we lost an entire docking assembly saving the station.”
+
+“Yes.”
+
+She looked toward Brakk.
+
+“Can the module be released without disturbing the reference vault?”
+
+“There's no active electrical connection,” he answered. “We can move it using station tugs under manual control. But the unknown field may still respond. I can't promise it won't.”
+
+Tessa crossed her arms.
+
+“Then the tugs must be unmanned. No people near the module when it releases.”
+
+Ashley nodded.
+
+“Agreed.”
+
+Imani raised a question.
+
+“What happens to the custody record if the module vanishes again?”
+
+“We retain the physical seal numbers, original camera files and independent observations,” I said. “But we should not pretend a lost object remains available for future testing.”
+
+She nodded.
+
+“Then the tugs use their own clocks and local optics. No automatic synchronization against the vault.”
+
+The Captain looked toward Ashley.
+
+“Your station. Your decision.”
+
+She considered for several seconds.
+
+“Approved. Detach the module and tow it beyond the station's electromagnetic exclusion boundary. I want at least two independent optical cameras and no crew aboard the handling craft.”
+
+Her officers moved.
+
+The station's external cameras showed two remote tugs approaching the small quarantine frame. Jupiter filled the background, the red and cream bands of the planet turning beneath the silver structure.
+
+The tugs closed mechanical grapplers around the module's carrying cradle.
+
+The restraint clamps released.
+
+Nothing happened.
+
+For a moment the module hung between the craft.
+
+Then its black trace moved.
+
+Three small pulses.
+
+A pause.
+
+Four.
+
+Ashley watched the timing indicator.
+
+“Tow it away.”
+
+The tugs fired their thrusters.
+
+The module began moving outward.
+
+The resonance weakened.
+
+At five kilometers, it was barely detectable.
+
+At eleven, the strain gauge registered no coherent nine-point-four-second motion.
+
+Sorev looked up.
+
+“The module is no longer resonating above instrument noise.”
+
+Merlin checked the independent station observation.
+
+“Confirmed within the current detection limits.”
+
+A relieved murmur moved through Operations.
+
+Then Ellie spoke from Avalon's bridge.
+
+“Wait.”
+
+She enlarged the vault's field record.
+
+The black vein inside the reference passage was still responding.
+
+Nine point four seconds.
+
+Again.
+
+And again.
+
+The mast module had gone quiet.
+
+The station's core had not.
+
+Ashley looked toward me.
+
+“Branch removed.”
+
+I nodded slowly.
+
+“And the root remains.”
+
+Noah leaned forward.
+
+“What do we know about the root?”
+
+I stared at the vault diagram.
+
+“We know it enters the shielding around the station's independently maintained clocks. We know it responds to the Jovian field without station power. We know the mast module's removal did not stop that response.”
+
+“Is it getting worse?”
+
+Sorev's answer came immediately.
+
+“The signal's longer eleven-point-zero-three-second component is becoming more regular at the vault boundary.”
+
+Ellie added, “And it's appearing closer to the station's protected timing comparison circuits.”
+
+Ashley folded her arms.
+
+“How much time?”
+
+“No reliable estimate,” Brakk said. “But if the material reaches a circuit the station uses to establish its own time, somebody may once again be able to present a physical signal as though it were a trusted reference.”
+
+Noah's expression darkened.
+
+“The editor is gone.”
+
+“The original inner device is no longer transmitting,” I said. “That does not prove it left no residual coupling or that the same behavior cannot recur elsewhere.”
+
+Ashley stared toward the lower station.
+
+There was no alarm.
+
+No approaching warship.
+
+No one shouting that the habitation ring would break apart in ninety seconds.
+
+Just a quiet vein of black material behind a sealed wall, moving to a clock that had been there before anyone knew what it was.
+
+She made her decision.
+
+“Prepare an entry team.”
+
+Tessa looked toward her.
+
+“Captain, we can send a station engineer.”
+
+Ashley shook her head.
+
+“I'm going.”
+
+Noah immediately spoke.
+
+“Ashley.”
+
+She met his eyes.
+
+“This is my station's independent reference vault. I am the one who decides what happens to it.”
+
+“You don't have to be the one holding the cutter.”
+
+“No,” she said. “But I have to be there when the decision is made.”
+
+I watched the two captains.
+
+Neither was wrong to care about the other's safety.
+
+Neither could resolve that concern by taking the other's command.
+
+At last Noah nodded.
+
+“Then Avalon will provide whatever support you authorize.”
+
+Ashley softened.
+
+“Thank you.”
+
+The screen dimmed.
+
+I looked toward the chamber's three clock housings.
+
+A station's heart had been built to preserve its own time.
+
+Now we were about to open it.
+
+And I had a terrible feeling that whatever lay inside had been listening longer than any of us realized.
+
+---
