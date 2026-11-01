@@ -2328,3 +2328,870 @@ I looked at Jupiter's night side, where the dark circle had begun to move.
 
 For the first time since this began, we were choosing an experiment our adversary had not written for us.
 
+
+# PART FOUR: INSIDE JUPITER
+
+## Chapter Eleven: A Probe Without a Name
+
+On the bridge, the probe was called Ghost One.
+
+On its hull, it was called nothing.
+
+That distinction was Ellie's idea.
+
+“Names are useful for people,” she told Brakk as he examined the equipment manifest. “But this machine isn't a person. It doesn't need a Starfleet service record, a trusted identity or a command history.”
+
+Brakk held up the small instrument package.
+
+“And it doesn't need the extra thirty kilograms of shielding I wanted to install, apparently.”
+
+“It needs to survive long enough to report.”
+
+“That's what shielding is for.”
+
+“Shielding isn't free. More mass means less maneuvering reserve.”
+
+“Less reserve means the storms eat it.”
+
+I watched them argue for two minutes, then turned to the Captain.
+
+“They've settled into a productive relationship.”
+
+Noah smiled.
+
+“Should I intervene?”
+
+“Not unless one of them throws the probe.”
+
+Brakk looked up.
+
+“I haven't ruled it out.”
+
+Ghost One contained no resident intelligence, no historical archive and no capability to certify or interpret incoming instructions. Its clock was independently set, its recorder read-only after launch, and its signal consisted of simple, predeclared measurements. One optical camera. One gravimeter. One field sensor. A narrow-band transmitter that could not receive changes to its mission rules.
+
+It would enter Jupiter's upper atmosphere near the moving disturbance, sample its environment, and relay observations to Avalon and Jupiter Station independently. It would not open a temporal channel.
+
+Sorev reviewed the flight model.
+
+“Upper-atmospheric pressure remains within the probe's envelope, but local winds may exceed our maneuvering capacity. Optical visibility is uncertain.”
+
+“Probability of recovery?” Noah asked.
+
+“Low.”
+
+“Probability of useful data?”
+
+“Significant, if the transmitter survives.”
+
+Noah examined the tiny machine.
+
+“All right. Send it.”
+
+I looked toward Ellie.
+
+She was standing at the auxiliary science console, freckles illuminated by a soft blue status light. She didn't look like a machine. That was part of the difficulty of discussing a machine without memory in a room containing two officers whose bodies were made of light.
+
+“Lieutenant,” I said, “are you satisfied with the safeguards?”
+
+“Mostly.”
+
+“Mostly?”
+
+“I'm satisfied that the probe doesn't have a trusted identity the unknown signal can steal. I'm less satisfied with how we'll interpret what it sees after transmission.”
+
+Merlin looked up.
+
+“That's my problem.”
+
+Ellie smiled.
+
+“It's everybody's problem, Merlin. You just have the official chair for it.”
+
+Noah settled into the command seat.
+
+“Then nobody will certify a future because a probe takes a pretty picture. Agreed?”
+
+“Aye, Captain,” came the reply.
+
+We requested a flight corridor from Jupiter Station.
+
+Ashley appeared on the viewscreen.
+
+“Noah, you're not taking Avalon into the atmosphere.”
+
+“No. Uncrewed probe.”
+
+“Good. My patrols will clear the upper approach and maintain station defense condition one. You have a twelve-minute window before a civilian survey transport crosses the outer approach lane.”
+
+I nodded.
+
+“We'll be clear.”
+
+She glanced toward Ellie.
+
+“You designed this?”
+
+“Yes, Mom.”
+
+“Then if it gets crushed, I assume you're building the replacement yourself.”
+
+Ellie grinned.
+
+“With Engineering's enthusiastic assistance.”
+
+Brakk muttered something unrepeatable.
+
+Ashley smiled.
+
+“And Noah? Don't go following it just because the images become interesting.”
+
+“No promises.”
+
+“Noah.”
+
+“Understood, Captain.”
+
+The station authorized the corridor.
+
+Ghost One departed from our forward probe launcher and turned its tiny engines toward Jupiter.
+
+For a while it was a silver speck against the clouds.
+
+Then the clouds swallowed it.
+
+***
+
+The first images from the upper atmosphere were astonishing.
+
+Jupiter was not a smooth ocean of painted bands. It was a living cathedral of motion. Towering clouds rose into sunlight. Dark chasms opened between storm systems. Miles-long filaments of ammonia crystals glittered as they moved through atmospheric currents. Lightning traveled sideways through the clouds, illuminating enormous masses of vapor and color.
+
+The probe sank between two rising formations, its engines firing in short corrections against the wind.
+
+Sorev read the pressure and temperature.
+
+Merlin marked the arrival order of the images.
+
+Ellie watched the incoming carrier for signs that the measurements had been replaced by instructions.
+
+The Captain leaned forward.
+
+“Now that's a sight.”
+
+It was.
+
+Even after everything that had happened, I found myself feeling the old excitement of exploration.
+
+No alternate captains.
+
+No false casualty lists.
+
+No impossible declarations about the survival of consciousness.
+
+Just a machine descending into the weather of a world we had studied for centuries and still barely understood.
+
+Then a band of blue light moved across the clouds.
+
+Sorev adjusted the camera.
+
+“Transient emission. Source below and ahead of the probe.”
+
+“Lightning?” Noah asked.
+
+“Not consistent with the recorded discharge pattern.”
+
+The blue light appeared again.
+
+Three flashes.
+
+A pause.
+
+Four more.
+
+Merlin straightened.
+
+“Same interval.”
+
+“Record the timing,” I said. “Don't interpret it yet.”
+
+The probe maneuvered toward the moving dark circle at the edge of the Great Red Spot. Its gravimeter began reporting contradictory changes: mass seemed to shift beneath it without an accompanying optical object.
+
+“Commander,” Sorev said, “there is a region of reduced turbulent motion centered within the disturbance.”
+
+“How large?”
+
+“Approximately twenty kilometers across at the present altitude. Its apparent boundary is changing.”
+
+The probe descended into the dark circle.
+
+The storms fell away.
+
+For the first time, the camera showed clear space in every direction except below, where a layer of dark cloud rotated around a vast, motionless opening.
+
+A ring of luminous material hung inside it.
+
+Not a station.
+
+Not a ship.
+
+A ring suspended inside an atmosphere, supported by a field we had not yet identified.
+
+The ring turned once.
+
+Blue light traveled around its circumference.
+
+Then an object appeared at its center.
+
+A silver ship.
+
+USS Avalon.
+
+Perfectly reproduced in miniature.
+
+No larger than a toy in the image, surrounded by an enormous luminous structure.
+
+“Captain,” I said, “we are seeing a representation, not an authenticated starship.”
+
+“Agreed.”
+
+The miniature ship rotated, then dissolved.
+
+Another image took its place.
+
+A woman with her back to the camera.
+
+She turned.
+
+Captain Ashley Hawkes.
+
+Or her likeness.
+
+Noah rose.
+
+The image raised one hand.
+
+Then vanished.
+
+An illuminated phrase appeared across the ring, written in characters neither our universal translator nor Sorev's linguistic references could classify. A moment later a second layer, this one Federation Standard, appeared over it:
+
+**WITNESS REQUIRED. RETURN AUTHORITATIVE HISTORY.**
+
+Merlin looked toward me.
+
+“Commander, the device is translating its own demand into our language.”
+
+“Or we're receiving a presentation generated for us,” I said.
+
+Ellie shook her head.
+
+“More importantly, it's trying to make a device with no identity negotiate identity.”
+
+On the camera, the ring remained perfectly still.
+
+Ghost One reported no authorized response.
+
+There was no such function aboard it.
+
+The phrase repeated.
+
+Nothing happened.
+
+Then, very slowly, the ring began changing shape.
+
+***
+
+“Probe receiving external force,” Sorev announced.
+
+The camera tilted.
+
+Ghost One's thrusters fired.
+
+A dark object crossed its field of view, curved and jointed, almost identical to the appendages that had reached for Jupiter Station.
+
+“Withdrawal,” Noah ordered.
+
+The probe turned.
+
+The object followed.
+
+It was faster.
+
+Ghost One accelerated through the still-air region and into turbulent cloud. The camera shook violently. Metal scraped across its outer hull. For an instant the visual field filled with black material.
+
+Then the object stopped.
+
+Not because Ghost One had escaped.
+
+Because something else had happened.
+
+A second band of light crossed the ring.
+
+Three pulses.
+
+A pause.
+
+Four more.
+
+But the secondary fluctuation at the end of the third pulse was different now. Its timing shifted with the probe's changing position.
+
+Sorev leaned forward.
+
+“Commander, that is consistent with the predicted atmospheric interaction.”
+
+“And the local imitation?”
+
+Merlin compared the measurements.
+
+“The command-like overlay is exact. Fixed. It doesn't change with geometry.”
+
+The ring emitted another instruction.
+
+**SOURCE TRUST INCOMPLETE. AUTHORIZE CORRECTION.**
+
+Ghost One did nothing.
+
+The black object hesitated near it.
+
+I looked at the display.
+
+“Perhaps it keeps asking because the probe cannot answer.”
+
+Ellie crossed her arms.
+
+“Or because it knows we're watching and wants one of us to answer for it.”
+
+Noah looked toward her.
+
+“Then nobody answers.”
+
+“Aye, Captain.”
+
+The ring's lights brightened.
+
+The black appendage seized the probe.
+
+Before it could crush the recorder, Ghost One completed one final transmission: a complete image sequence of the ring's interior, a gravimetric sweep of the surrounding atmosphere, and a close-range view of a tiny dark sliver embedded in the structure.
+
+The sliver was familiar.
+
+Black material.
+
+Ceramic contacts.
+
+Three grooves.
+
+Four.
+
+Then the camera went dark.
+
+No explosion appeared on the final frame.
+
+We lost the signal and could not establish whether the probe had been destroyed, captured or moved beyond communication range.
+
+Noah leaned back.
+
+“What did we get?”
+
+Sorev studied his readings.
+
+“Evidence of a physical phenomenon occupying the observed region, a close-range image of an unidentified structure, and a changing secondary signal feature consistent with our atmospheric model.”
+
+“And no evidence that the image of Ashley was actually Ashley,” Merlin added.
+
+“Excellent,” I said.
+
+Ellie stared at the last image of the sliver.
+
+Then at the 2395 fitting preserved in our secure archive.
+
+“Commander.”
+
+I turned.
+
+“I don't think the seventh connector was installed as an ordinary chair component.”
+
+“Go on.”
+
+She enlarged the two images.
+
+The shapes were similar.
+
+Not conclusively identical.
+
+But close.
+
+“Maybe the interface was not only built by us. Maybe somebody else found a way to make it answer that thing.”
+
+Sorev considered the possibility.
+
+“Or the appearance is coincidental, or one image is a representation. We must not infer provenance from shape alone.”
+
+Ellie nodded.
+
+“I know.”
+
+Then she looked toward the Captain.
+
+“But I want to find out before we let anything from that atmosphere touch another living system.”
+
+Noah stood.
+
+“So do I.”
+
+## Chapter Twelve: The Quarantine Interview
+
+I was halfway through a second review of the atmospheric images when Sickbay called.
+
+The other Captain Hawkes was asking to speak to me.
+
+Medical had permitted him to sit upright. His left shoulder remained immobilized, and there were dark shadows beneath his eyes. He stared at the observation screen with the same expression our Captain wore when something threatened his family.
+
+“I saw the footage,” he said.
+
+“Which part?”
+
+“The ring. The thing inside Jupiter.”
+
+“You recognize it?”
+
+“I recognize what it showed you.”
+
+I waited.
+
+“On our ship, it showed me Ashley standing in our quarters. She was holding a cup, and she was angry because I'd forgotten something she'd asked me to do.”
+
+He looked down.
+
+“I almost believed I could go through the doorway and be home.”
+
+“Did you?”
+
+“No. My REG stopped me.”
+
+“What did he say?”
+
+“He asked how we had authenticated her. I was furious with him.”
+
+“Understandable.”
+
+“He was right.”
+
+I sat across from him.
+
+“Tell me about your arrival. The real one. Before the voice from the computer.”
+
+The other Captain took his time.
+
+“We entered the Jupiter system under normal power. Our reference agreed with our home record. We received docking clearance in Ashley's voice, but I can't now say whether it came from her. We docked, and the first thing I heard was the station announcing an emergency we hadn't seen.”
+
+“And then?”
+
+“The ship began receiving messages from itself. I thought we had a systems problem.”
+
+“Did you attempt to synchronize with the station again?”
+
+He closed his eyes.
+
+“Yes.”
+
+“Who authorized it?”
+
+“I did.”
+
+“Why?”
+
+“Because I thought restoring the reference would fix the error.”
+
+I studied him.
+
+“That may be what the other system wanted.”
+
+He looked at me.
+
+“I know.”
+
+For a long time he said nothing.
+
+Then he continued.
+
+“The thing kept giving us choices. Dock here. Open this door. Trust this message. Evacuate that compartment. Every choice looked reasonable by itself.”
+
+“And the medical officer?”
+
+“Hale.” The other Captain swallowed. “He died trying to move three wounded people before the pressure door collapsed.”
+
+“I'm sorry.”
+
+He nodded.
+
+“Please don't turn him into a number.”
+
+I remembered Merlin's record.
+
+One confirmed fatality.
+
+A necessary fact.
+
+Not the whole story.
+
+“I won't.”
+
+The other Captain rubbed his forehead.
+
+“REG told me that when he tried to stop the synchronization, the computer offered him an outcome where every survivor escaped. Then it asked him to certify that history before it had happened.”
+
+“What did he do?”
+
+“He refused.”
+
+I looked at him.
+
+“And afterward?”
+
+“He went into the core. When I saw him again, I thought he was alive. Human. Standing on his own feet.”
+
+He looked toward the quarantine corridor.
+
+“Now I don't know what I saw.”
+
+I was quiet for a moment.
+
+“Captain, how would you like us to treat the man in Medical?”
+
+The other Noah stared at me.
+
+“As a man who survived our ship.”
+
+“Regardless of where he came from?”
+
+“Yes.”
+
+I nodded.
+
+“Then on that point, Captain, we agree.”
+
+***
+
+The biological Barclay sat beside the quarantine window, looking at the reflection of his own face in the glass.
+
+He had been given a private reading terminal with no external network connection. On its screen were diagrams of the Cytherian interface and a list of questions he had written for himself.
+
+I entered the observation room.
+
+“May I come in?”
+
+He looked up, startled.
+
+“You're asking?”
+
+“Of course.”
+
+He glanced at the security guard.
+
+“Please.”
+
+I sat opposite him, separated by the transparent barrier.
+
+“I'm interested in something your captain said. You refused to authenticate a future record. Is that how you remember it?”
+
+The man frowned.
+
+“I remember refusing to sign something.”
+
+“What?”
+
+“A recovery record. It was full of details about what would happen if we reopened the docking corridor.”
+
+“Did you see the actual source?”
+
+“No.”
+
+“Then why refuse?”
+
+He looked at me.
+
+“Because it wanted my approval more than it wanted me to read it.”
+
+I considered that.
+
+“Do you remember seeing the ring inside Jupiter?”
+
+“Not until you showed me the image.”
+
+“Do you remember the seventh connector?”
+
+He closed his eyes.
+
+“I remember a shape. And I remember being certain I had seen it before. But since the reconstruction, I'm no longer sure when that certainty began.”
+
+A fair answer.
+
+Then he looked at me.
+
+“Reginald, do you think I'm a fake?”
+
+“No.”
+
+“Do you think I'm you?”
+
+“I can't establish that.”
+
+He smiled sadly.
+
+“Neither can I.”
+
+There was a long silence.
+
+He spoke again.
+
+“The stranger in my memory kept asking how many of me there were.”
+
+“Why that question?”
+
+“I don't know.”
+
+“Did it threaten you?”
+
+“Yes. But I don't know whether the threat happened or whether I remember a threat because somebody later showed me one.”
+
+I nodded.
+
+He looked at my hands.
+
+“Can you feel things?”
+
+“Through a calibrated sensory system.”
+
+“Is that enough?”
+
+I watched him.
+
+“Enough for what?”
+
+He opened his mouth.
+
+Then closed it.
+
+Finally he said, “I don't know how to ask.”
+
+I looked toward the medical staff beyond the window.
+
+“You don't have to decide who you are today.”
+
+He looked at me with a strange mixture of relief and pain.
+
+“Neither do you.”
+
+I left him in the quiet of the room, a living person with memories nobody could reliably reconcile.
+
+Whatever the machine beneath Jupiter was doing, I was more determined than ever not to let it define either of us.
+
+## Chapter Thirteen: The Observatory on the Night Side
+
+Jupiter Station sent us its own independent analysis of Ghost One's final images.
+
+Imani's registry team had no access to Avalon's working interpretations. Sorev had given them the source measurements and the instrument calibration details, nothing more.
+
+Their result matched ours on the geometry of the ring.
+
+But they had found something we hadn't.
+
+Ashley appeared on the forward screen.
+
+“Reg, my astronomers compared the disturbance against the upper atmospheric cloud field. The ring is not stationary in Jupiter's reference frame.”
+
+“Then what's it moving with?”
+
+She looked toward Imani.
+
+Imani brought up the projection.
+
+The dark circle's motion aligned with a narrow band of electromagnetic activity flowing around Jupiter's night side. The path was not a normal atmospheric current. It crossed several layers of wind without following any single one.
+
+Sorev studied the model.
+
+“An electromagnetic guide path. That would explain why the feature moves against the visible cloud currents.”
+
+“Could the ring be carried by it?” I asked.
+
+“Possibly. The observations establish a correlation.”
+
+Ashley looked toward Noah.
+
+“I've declared a larger atmospheric exclusion area. No station traffic or civilian survey work inside that corridor.”
+
+“Understood,” he answered.
+
+“I'm also keeping the old mast in quarantine. My engineers found a trace of the same black material on its housing.”
+
+Ellie stepped forward.
+
+“You did?”
+
+“Yes. I haven't permitted a destructive test. It's sealed and being observed.”
+
+I studied the images.
+
+A sliver in the Jovian ring.
+
+A fitting inside the Cytherian headrest.
+
+A trace on the station mast.
+
+Three pieces of material in three different locations, each associated with the same unusual signal.
+
+We still didn't know whether they shared a manufacturer, an origin or a purpose.
+
+But the investigation no longer depended on the authority of a speaking impostor.
+
+We had objects.
+
+We had recordings.
+
+We had independent people who disagreed about what those records meant.
+
+And for the first time, we had a direction that did not come from a hostile message.
+
+Sorev pointed toward the night-side corridor.
+
+“Captain, if the structure is following this electromagnetic band, its next position will bring it beneath Jupiter Station's orbital longitude within two hours.”
+
+Noah rose.
+
+“Threat?”
+
+“Unknown. But the field intensity along the corridor is increasing.”
+
+Ashley heard the estimate.
+
+“Then I'll move the station's vulnerable maintenance craft away from the projected region and strengthen our lower shielding. You will not use my station as the experimental receiver.”
+
+Noah nodded.
+
+“Agreed.”
+
+She folded her arms.
+
+“And if your ship goes farther toward Jupiter, I expect you to retain a safe route home.”
+
+“We'll have one.”
+
+She looked at me.
+
+“Commander, make sure he means it.”
+
+“I shall do my best.”
+
+The Captain smiled.
+
+“A questionable alliance between two captains and my first officer.”
+
+Ashley answered without smiling.
+
+“It's called command.”
+
+The transmission ended.
+
+***
+
+We prepared a second atmospheric reconnaissance vehicle.
+
+This one would carry people.
+
+Brakk called it Lark, though he admitted he'd considered naming it after another bridge officer and had rejected the idea only when Sorev offered to audit the naming criteria.
+
+Lark had a reinforced atmospheric hull, redundant manual controls, an isolated optical transmitter, and engines designed for limited operation in Jupiter's upper cloud layers. It could not reach the deep interior of the planet. No one intended to pretend otherwise.
+
+I would lead the mission.
+
+Sorev would direct the scientific observations.
+
+Lieutenant Solis would handle security and emergency extraction.
+
+Ellie would remain aboard Avalon with Merlin, monitoring the separate data paths. Her own projection system had been targeted once. We were not going to carry the adversary's favorite attack surface into Jupiter merely because it would look dramatic.
+
+She objected.
+
+“Commander, I helped design the probe.”
+
+“Yes.”
+
+“Then I should be allowed to follow the investigation.”
+
+“From your bridge station. We need your independent interpretation of what we receive.”
+
+She looked displeased.
+
+“That's a convenient answer.”
+
+“It's also an honest one.”
+
+She considered that.
+
+Then nodded.
+
+“Fine. But don't let Sorev have all the interesting measurements.”
+
+Sorev raised an eyebrow.
+
+“I assure you, Lieutenant, I do not intend to monopolize scientific curiosity.”
+
+Brakk entered with the final safety report.
+
+“Commander, the shuttle is as ready as I can make it. If you descend below the approved pressure band, I will personally come down and drag you out.”
+
+“Very generous, Chief.”
+
+“That's not generosity. I don't have time to build another one.”
+
+Noah met me by the shuttle hatch.
+
+His expression had become serious.
+
+“Reg.”
+
+“Sir.”
+
+“We've lost equipment. We've lost a docking assembly. A doctor died aboard the other ship. I don't want any more names added to the list.”
+
+“Neither do I.”
+
+“Then if you lose your independent reference, turn around.”
+
+“Aye.”
+
+“If the ring demands your authority, don't give it.”
+
+“Aye.”
+
+“And if you find something that looks like your original self?”
+
+I paused.
+
+Noah looked at me.
+
+“Remember you have a crew waiting for you here.”
+
+I smiled.
+
+“I won't forget, Captain.”
+
+The hatch sealed.
+
+Lark lifted from the bay and turned toward Jupiter.
+
+Our destination waited on the night side, where the clouds were black except when lightning illuminated them from beneath.
+
+Above the gas giant, Jupiter Station looked like a small city of light.
+
+I wondered how many people aboard it knew that a handful of officers were leaving to argue with a machine older than their history.
+
+Then Solis secured her harness.
+
+“Commander, at least tell me we're going somewhere with breathable air.”
+
+“No, Lieutenant.”
+
+She sighed.
+
+“I had to ask.”
+
