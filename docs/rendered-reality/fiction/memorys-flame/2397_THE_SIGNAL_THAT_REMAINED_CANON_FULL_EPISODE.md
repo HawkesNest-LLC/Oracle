@@ -3568,3 +3568,861 @@ The clocks continued disagreeing where they should.
 And the record no longer asked us to accept an answer before we'd heard the question.
 
 ---
+
+# PART SEVEN: CODA
+
+## Chapter Seventeen: A Name to Call Your Own
+
+The biological Barclay asked me to visit on the morning after the memorial.
+
+He had been moved from the quarantine ward into a protected guest suite, with medical access retained and security measures reduced to what the Doctor considered reasonable. The transition had required more paperwork than a dozen ordinary duty transfers, but no one had proposed that a person should remain behind glass indefinitely simply because his past was complicated.
+
+I arrived at his door at 0930.
+
+He opened it himself.
+
+“Reg.”
+
+“Reginald.”
+
+We looked at one another.
+
+Then both laughed.
+
+It was not a comfortable sound at first.
+
+There was too much attached to the name.
+
+Too much history.
+
+Too many reports trying to settle who was permitted to use it.
+
+He stepped aside.
+
+“Come in.”
+
+The suite was modest, but it overlooked one of the station's garden passages. Several new books had been delivered. A small tabletop engineering model lay in pieces beside a cup of tea. His old hands were stained with lubricant.
+
+I pointed toward the model.
+
+“Are you building something?”
+
+“Trying to repair it.”
+
+“Without consulting the instructions?”
+
+He looked embarrassed.
+
+“Yes.”
+
+“Good. That means you haven't lost everything.”
+
+He smiled.
+
+We sat near the window.
+
+For a while he told me about his plans.
+
+Medical wanted to continue periodic examinations. Station Registry had offered him an individual temporary file. He had asked for access to engineering study materials, but not to any operational systems.
+
+He wanted to learn the station before asking for a role on it.
+
+I approved of that.
+
+Then he grew serious.
+
+“I talked to Imani about my name.”
+
+I waited.
+
+“She said I could use Reginald Barclay on my medical records. It's the name I know, and there's no reason to force me to invent a new one.”
+
+“That seems right.”
+
+“But she also said the station needs a way to distinguish my record from yours without declaring one of us the original.”
+
+“Also right.”
+
+He looked down at his hands.
+
+“Would it bother you if I asked people to call me Reggie?”
+
+I stared at him.
+
+The question was so ordinary that for a moment I didn't know how to answer.
+
+“Reggie?”
+
+“Yes.”
+
+He gave a small, self-conscious smile.
+
+“Friends. People who know me. Maybe the Doctor, if he can bear to say it.”
+
+I considered the possibilities.
+
+A second Reginald Barclay aboard Jupiter Station.
+
+A man who had arrived from a damaged ship with memories that might or might not belong to my own history.
+
+A person trying to choose a familiar, human name that wouldn't force every conversation to begin with a philosophical dispute.
+
+It seemed the most sensible development of the week.
+
+“I can live with that,” I said. “I have lived with worse.”
+
+He laughed.
+
+A full laugh.
+
+Not the strained kind he had offered in quarantine.
+
+The sound of a man who had found one thing he was allowed to decide.
+
+Then his eyes filled.
+
+He wiped them before I could pretend not to notice.
+
+“Sorry.”
+
+“There's nothing to apologize for.”
+
+He looked toward the garden.
+
+“I spent a long time thinking someone would tell me who I am.”
+
+“Yes.”
+
+“And now I think I just want somebody to call me when dinner is ready.”
+
+I smiled.
+
+“A reasonable ambition.”
+
+He turned toward me.
+
+“Do you think the universe will ever stop asking which one of us is real?”
+
+“Probably not.”
+
+“Wonderful.”
+
+“But we can stop answering the question every time someone asks it.”
+
+He considered that.
+
+Then extended his hand.
+
+“Friends?”
+
+I took it.
+
+“Friends.”
+
+Our hands were not identical now.
+
+His was warm, biological, slightly scarred.
+
+Mine was a carefully calibrated projection whose sensory feedback still reminded me of an ordinary human handshake.
+
+The differences mattered.
+
+The contact did too.
+
+He looked at me.
+
+“Reg?”
+
+“Yes, Reggie?”
+
+He smiled.
+
+“Thank you.”
+
+I did not ask him what for.
+
+I already had an idea.
+
+And this time, an idea was enough.
+
+---
+
+## Chapter Eighteen: The Cost of Doing It by Hand
+
+Brakk was standing inside the outer reference gallery wearing a protective work suit and an expression of profound personal betrayal.
+
+Before him lay the disassembled shielding of one chronometer housing.
+
+A pile of replacement composite panels occupied the floor.
+
+Three technicians were measuring their alignment with manual gauges.
+
+There was no automated assembly arm.
+
+There were no networked construction drones.
+
+There was only a great deal of material that needed to be fitted carefully by people who could see what they were doing.
+
+“Commander,” Brakk said when he noticed me, “do you know how long this is going to take?”
+
+“I believe your maintenance report estimated several weeks.”
+
+“Months, if Station Engineering insists on inspecting every fastener.”
+
+A nearby station engineer looked up.
+
+“We do.”
+
+Brakk glared at him.
+
+“Of course you do.”
+
+He turned back toward me.
+
+“All because somebody decided that disconnected tools were preferable to the good ones.”
+
+I considered the open housing.
+
+“Somebody being Captain Ashley Hawkes?”
+
+“Among others.”
+
+“Then I recommend you complain to her directly.”
+
+“I have.”
+
+“And?”
+
+“She told me to stop complaining and finish the work.”
+
+“An efficient command decision.”
+
+He gave me the look he reserved for particularly objectionable officers.
+
+“Don't encourage her.”
+
+Ellie arrived carrying a stack of physical alignment templates.
+
+She had left her normal projection interfaces disconnected from the worksite, using local emitters that did not connect to the reference vault's machinery.
+
+“Chief, I brought the manual tolerances you asked for.”
+
+“I didn't ask you to carry them yourself.”
+
+“You didn't ask anyone, which is why you were about to spend another hour hunting through a paper cabinet.”
+
+Brakk looked at the templates.
+
+Then at her.
+
+“Very well.”
+
+She smiled.
+
+“Need another pair of hands?”
+
+“No.”
+
+“Not even for the outer panel?”
+
+“No.”
+
+“Chief, I can calibrate the emitters so the composite fits without forcing the seal.”
+
+“No.”
+
+She folded her arms.
+
+“Why?”
+
+“Because you're a science officer, Lieutenant. And this part of the job belongs to the people who will be responsible for maintaining it.”
+
+She considered that.
+
+Then nodded.
+
+“All right.”
+
+He looked surprised.
+
+“You're not going to argue?”
+
+“I can see your point. It's your work, and theirs. I don't need to be the hero of every scene.”
+
+Brakk stared at her.
+
+“That's alarmingly reasonable.”
+
+She smiled.
+
+“I learned it from Reg.”
+
+He turned toward me.
+
+“Then you've corrupted her.”
+
+I laughed.
+
+The station engineer looked up again.
+
+“Chief, your panel is misaligned.”
+
+Brakk whirled.
+
+“It is not!”
+
+“Three millimeters.”
+
+“Two point eight!”
+
+Sorev's voice arrived through the authorized gallery intercom.
+
+“The station engineer's measurement is correct within the stated tolerance. The panel is approximately three millimeters out of alignment.”
+
+Brakk closed his eyes.
+
+“Vulcans.”
+
+Ellie laughed.
+
+Then she set the physical templates on a clean table.
+
+“I'll leave these here. If you change your mind, you know where I am.”
+
+“Lieutenant.”
+
+She stopped.
+
+“Yes?”
+
+Brakk looked at the templates.
+
+Then at her.
+
+“Thank you.”
+
+She smiled.
+
+“You're welcome.”
+
+When she left, the Chief returned to the manual work.
+
+I stood beside him for a moment.
+
+He was taking an enormous amount of care over a narrow strip of shielding that most people on the station would never see.
+
+“Chief,” I said, “you know this matters.”
+
+“Of course it matters.”
+
+“Then why complain?”
+
+He tightened another fastener.
+
+“Because it's difficult. If I stop complaining, people might assume it's easy.”
+
+I considered that.
+
+Then nodded.
+
+“A sound engineering principle.”
+
+Brakk smiled without looking up.
+
+Somewhere in the station, ordinary life continued while engineers rebuilt the structures that made extraordinary life possible.
+
+The most useful repair was not a perfect replacement of every lost component.
+
+It was a system that could once again be trusted to report what it had actually measured.
+
+Even if getting there required someone to turn a great many bolts by hand.
+
+---
+
+## Chapter Nineteen: The Dog Is Asleep
+
+I arrived at the Hawkes family quarters by invitation.
+
+Again.
+
+The distinction still mattered to me.
+
+I could have obtained the household's environmental readings through authorized ship-to-station channels, but there was no reason to do so. I had been invited for dinner. I intended to arrive at the door, announce myself, and discover what the evening held in the ordinary way.
+
+Ashley opened the door.
+
+“Reg.”
+
+“Captain.”
+
+She raised an eyebrow.
+
+I smiled.
+
+“Ashley.”
+
+“Better.”
+
+She stepped aside.
+
+The quarters were quieter than I remembered.
+
+Jupiter filled the great viewport. Warm light fell across the living room. A half-finished game rested on a low table beside a stack of books. There were shoes near the door, a jacket draped over the back of a chair and the evidence of a family whose lives were larger than the schedule of any one officer.
+
+The dog was asleep.
+
+That alone felt miraculous.
+
+He lay beside the sofa with his head resting on one enormous paw, breathing steadily, entirely indifferent to the fate of the Federation.
+
+Noah stood near the window with a cup in his hand.
+
+He looked as if he'd finally stopped trying to command the room.
+
+“Number One.”
+
+“Captain.”
+
+“Come on in.”
+
+I joined him by the window.
+
+For a while we watched Jupiter.
+
+Far below, the planet's cloud bands moved across the darkness. The old ring was not visible from here. Its signal continued through the electromagnetic field, three pulses, a pause, four, every nine point four seconds.
+
+Our instruments could still observe it.
+
+But we were no longer feeding it commands or asking it to recognize our names.
+
+The station's clocks kept their own time.
+
+Noah took a sip from his cup.
+
+“Did we solve it?”
+
+I considered the question.
+
+Before I could answer, Ashley joined us.
+
+“We protected the station,” she said. “We preserved the questions. That's command.”
+
+Noah looked toward her.
+
+“That's a very captain answer.”
+
+“I'm a captain.”
+
+“So I've noticed.”
+
+She smiled.
+
+They stood beside one another.
+
+For a few minutes I did not need to speak.
+
+Ellie arrived from the kitchen carrying plates. She had spent the afternoon helping a junior science officer prepare a report and had decided not to mention it until someone asked how her day had gone.
+
+The Captain asked.
+
+She told him.
+
+They argued briefly about whether the report would have benefited from another twelve pages of evidence.
+
+Ashley told both of them to sit down before the food became cold.
+
+The dog did not wake.
+
+I found this deeply impressive.
+
+At dinner, the conversation wandered through ordinary things.
+
+A repair crew had finally fixed a corridor light whose intermittent failure had annoyed half the habitation ring. A student aboard the station was excited about an apprenticeship at a fabrication workshop. Someone had brought a dish from Quark's and was defending the decision to use a little more spice than the recipe demanded.
+
+No one asked me to solve the eleven seconds.
+
+No one asked Ellie whether a holographic officer could feel homesick.
+
+No one asked Noah to command anything.
+
+No one asked Ashley to authorize a stationwide procedure.
+
+We ate.
+
+We laughed.
+
+We remembered a doctor who had died helping people.
+
+We talked about the survivors who were beginning to find their place aboard a station whose history did not yet know theirs.
+
+And the dog slept through all of it.
+
+After dinner, I returned to the window.
+
+Jupiter's reflected light shifted across the floor.
+
+I listened for a moment.
+
+Not through the station's instruments.
+
+Not through a protected data line.
+
+Through memory.
+
+Three soft knocks.
+
+A pause.
+
+Four more.
+
+I remembered the biological Barclay describing them against the chair housing.
+
+I remembered hearing a version of them inside the reconstruction.
+
+I remembered the older signal, the one that had not arrived with a command attached.
+
+The sound was not physically present in the room.
+
+It was a memory.
+
+And I knew the difference.
+
+Noah stepped beside me.
+
+“Still hearing it?”
+
+I smiled.
+
+“In a manner of speaking.”
+
+“Is that good?”
+
+“I think so.”
+
+He looked toward the planet.
+
+“You don't have to turn every memory into a mission, Reg.”
+
+I considered that.
+
+“No, sir.”
+
+He nodded.
+
+“Sometimes it's just something that happened.”
+
+The dog gave a small snore.
+
+Ashley called from the table.
+
+“Noah, if you're going to stand there talking about work, you can at least help clear the dishes.”
+
+The Captain looked toward me.
+
+“Number One, an urgent command responsibility.”
+
+I smiled.
+
+“I shall follow your lead, sir.”
+
+And we returned to the table.
+
+---
+
+## Chapter Twenty: Permission to Come Home, Again
+
+Avalon had remained outside the station's berth twelve while Jupiter Station completed its manual realignment.
+
+Now the ship was cleared to return.
+
+The great Sovereign-class hull moved slowly toward the docking structure, its repaired forward deflector still surrounded by temporary protective plating. The port sensor boom had not been replaced. Brakk would not authorize its installation until he was satisfied that no unexplained field path remained.
+
+I stood beside the Captain's chair.
+
+The bridge was bright.
+
+Every officer was at station.
+
+Sorev at Science.
+
+Ellie at the auxiliary continuity console.
+
+Merlin at the starboard attestation station.
+
+Brakk on the engineering channel, complaining about the schedule of repairs with sufficient vigor that we knew he was in excellent spirits.
+
+The station loomed ahead.
+
+Her habitation ring shone against Jupiter's clouds.
+
+The repairs around berth seventeen remained visible, but the damaged sectors were sealed and her civilian promenade was open.
+
+Jupiter Station had survived another impossible week.
+
+“Approach clearance?” Noah asked.
+
+The communications officer checked the station's optical signal.
+
+“Confirmed, Captain. Manual docking corridor, berth twelve. Independent station control.”
+
+“Very good.”
+
+Ashley appeared on the viewscreen.
+
+“USS Avalon, you are cleared for final approach.”
+
+Noah smiled.
+
+“Thank you, Captain Hawkes.”
+
+“You're welcome. This time, I'd appreciate it if your ship remained in one piece until it's attached to my station.”
+
+“We'll do our best.”
+
+“I've heard that before.”
+
+I moved beside him.
+
+“Captain Ashley, our present measurements agree with the station's independently observed geometry. No automatic temporal reconciliation has been requested.”
+
+“Good, Commander.”
+
+“And the reference vault?”
+
+“Restored under independent station custody. The removed material remains quarantined. My engineers are still rebuilding the shielding.”
+
+Noah leaned forward.
+
+“Brakk has already told us how long that will take.”
+
+Ashley smiled.
+
+“He told me too.”
+
+There was a pause.
+
+Then she said something that was neither a command nor a scientific qualification.
+
+“Welcome home.”
+
+The image faded.
+
+Noah settled back in his chair.
+
+“Helm, take us in.”
+
+The ship moved forward.
+
+I watched Jupiter Station grow across the viewscreen.
+
+The upper observation gallery passed above our saucer.
+
+Lights moved behind the glass.
+
+People.
+
+Families.
+
+Children.
+
+One small figure raised a hand.
+
+Then another.
+
+The Captain noticed.
+
+He turned toward Helm.
+
+“Give them a little something.”
+
+Our running lights brightened.
+
+From the saucer.
+
+Across the engineering hull.
+
+Along the nacelles.
+
+The children waved harder.
+
+I looked toward Merlin.
+
+He was recording it.
+
+Of course he was.
+
+Sorev glanced toward his console.
+
+“There is no tactical value in the light sequence, Ensign.”
+
+Merlin looked up.
+
+“There is now, Lieutenant. We know we made it home twice.”
+
+For a moment the bridge was silent.
+
+Then the Captain laughed.
+
+Ellie joined him.
+
+I heard Brakk's amused snort through the engineering channel.
+
+Even Sorev's expression softened in what I chose to interpret as the smallest possible Vulcan smile.
+
+Merlin entered the moment in his margin.
+
+I did not ask what he wrote.
+
+The docking clamps engaged.
+
+A faint vibration passed through the ship.
+
+The station's voice announced that the Avalon had completed its approach.
+
+No impossible synchronization request followed.
+
+No borrowed signature appeared.
+
+No future Captain spoke through the speakers.
+
+Only a station telling a starship that her berth was secure.
+
+I stood beside Captain Hawkes and watched the children return to whatever had been important before our arrival.
+
+School, perhaps.
+
+Dinner.
+
+An argument over who had to clean the dishes.
+
+The sort of things nobody had ever needed a temporal core to preserve.
+
+The Captain looked toward me.
+
+“Reg.”
+
+“Yes, sir?”
+
+“Home?”
+
+I checked the independent measurements.
+
+Then I looked at the station.
+
+And at the familiar crew around me.
+
+“Yes, Captain.”
+
+I smiled.
+
+“Home.”
+
+***
+
+Later, I returned to the attestation console.
+
+Merlin had left the day's source register open for my review.
+
+Its entries were exact.
+
+The outer Jovian signal persisted.
+
+Its current cadence was nine point four seconds.
+
+The earlier editor-linked eleven-point-zero-three-second interval remained preserved as a separate observed signal component.
+
+The eleven-second gap in my 2395 integration archive was still unresolved.
+
+The root coupling had been physically severed and removed to station quarantine.
+
+The station's independent reference had survived.
+
+Thirty-seven displaced survivors remained protected guests aboard Jupiter Station, free to begin their own futures. Dr. Hale's memorial record was held alongside their testimony, not reduced to an accounting error.
+
+And in a quiet suite overlooking a garden, a man named Reginald Barclay was beginning to let his friends call him Reggie.
+
+I had not observed every moment of the mission.
+
+I had not needed to.
+
+Sorev had measured.
+
+Solis had watched the field.
+
+Ellie had caught the attempt to borrow trust.
+
+Brakk had built the physical safeguards.
+
+Imani had preserved custody.
+
+Merlin had kept the record.
+
+Ashley had cut the root.
+
+Noah had kept Avalon ready to protect them all.
+
+And I had come home to a crew that did not need me to pretend I knew what I could not know.
+
+I added one final handwritten note to the record, not as a technical conclusion or a claim about the builders of the ring, but as something I wanted the next watch to read.
+
+*A record that listens does not need your permission. A home that waits does.*
+
+I signed it.
+
+**Commander Reginald Barclay**  
+First Officer, USS Avalon  
+Stardate 74005.4
+
+Outside, Jupiter continued turning.
+
+Deep within its storm bands, an unknown ring sent its quiet pattern into the atmosphere.
+
+Three pulses.
+
+A pause.
+
+Four.
+
+It did not command us.
+
+It did not identify us.
+
+It only waited for the return.
+
+And this time, we had chosen what to answer.
+
+**THE END.**
+
+---
+
+## Afterword: Canon scope, evidence and open questions
+
+This note is editorial continuity material rather than first-person narration.
+
+### The completed episode's outcome
+
+The **main immediate hazard** is resolved: an inner editor-linked coupling previously left inside Jupiter Station's reference architecture is physically severed under Captain Ashley Hawkes's command. The dangerous root material is removed to isolated station quarantine. The earlier quarantined mast module, a branch of the same observed field system, is separately released from its service frame and no longer resonates above measured instrument noise at the tested distance.
+
+The station's independent reference survives. Its three clocks maintain separate internal traces; one compromised readout is held out of the active comparison. A manual station attitude adjustment of 0.8 degrees under Ashley's command moves the lower reference vault away from the strongest measured Jovian coupling corridor and helps collapse the residual energy wave. The **automatic temporal tether to Avalon remains disabled**, subject to future independent authorization.
+
+Sparrow records the outer ring's physical acoustic and electromagnetic ranging-like behavior. After the vault severance, the ring's observable cadence settles to approximately **9.4 seconds**. No command-like content is detected during the available post-separation observation interval. These measurements support treating the outer structure as a **listening archive** in functional terms, preserving return timing, rather than as the previously active editor. They do not establish the builders' identity, original purpose or subjective experience. An older terrestrial Jovian observation supplies a pre-Federation environmental clue, not a conclusive construction date for the ring.
+
+The longer **11.03-second** period is consistent with the former editor-linked command overlay. This recognition does not explain the separate **eleven-second gap** in Commander Reg's 2395 integration record, nor does it authenticate any alleged subjective experience during that gap.
+
+### Personal and command continuity
+
+**Commander Reg** remains the first-person narrator, except for Chapter Twelve, which is explicitly Captain Ashley Hawkes's separately authorized first-person account of the forty-three seconds during which his projection was absent. No invented Reg memory fills that interval.
+
+**Captain Noah Hawkes** commands USS Avalon; **Captain Ashley Hawkes** independently commands Jupiter Station, its central vault and its civilian protection systems. Their authorities are coordinated, never merged.
+
+**Ellie Hawkes** remains a holographic lieutenant junior grade with independent science AI and continuity responsibility. **Ensign Merlin** maintains attestation, source distinction and the human details in the margins. **Sorev** is the Vulcan second officer and science lead. **Brakk** is the Tellarite engineering lead. **Lieutenant Solis** handles physical security and discharge monitoring. **Imani Saye** preserves station registry and witness custody; **Tessa zh'Renn** supports station executive operations and survivor housing.
+
+The **thirty-seven** survivors recovered in the prior episode remain living protected guests, including the injured alternate Captain and the biological Barclay. **Dr. Adrian Hale** remains the one confirmed fatality aboard their damaged Avalon. The biological Barclay chooses to retain Reginald Barclay for medical records and to be called **Reggie** by friends. This is a personal naming decision, not a finding that he is or is not numerically identical to Commander Reg.
+
+### Source and authorship
+
+This novel follows the creator-carried twenty-chapter writer's packet and the prior published canon episode [The Eleven-Second Signal](2397_THE_ELEVEN_SECOND_SIGNAL_CANON_FULL_EPISODE.md). The packet's narrative instructions govern the selected episode direction. The detailed novel prose, connective scenes and sensory rendering were written with AI assistance under Noah's direction and remain open to subsequent creator line corrections. The claimed earlier Chapter One draft was not available as verbatim source text in the inspected GitHub files and is **not** presented as having been recovered.
+
+The fictional science does not claim that consciousness transfer, temporal travel, post-biological identity or Jovian listening archives are demonstrated real-world phenomena. Within the story, records do not gain authority by demanding agreement. They preserve what can be observed and leave the holes visible.
+
+**The ship remembers. The Captain decides.**
