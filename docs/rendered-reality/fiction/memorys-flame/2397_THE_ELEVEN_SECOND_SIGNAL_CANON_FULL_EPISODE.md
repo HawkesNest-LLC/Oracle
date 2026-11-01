@@ -3195,3 +3195,744 @@ She sighed.
 
 “I had to ask.”
 
+
+# PART FIVE: THE WITNESS HORIZON
+
+## Chapter Fourteen: The Ocean Without a Shore
+
+Jupiter has no surface to forgive a bad landing.
+
+It has clouds, storms, temperature gradients, pressure and a great deal of gravity. A vessel that falls far enough will encounter conditions that no ordinary Starfleet shuttle is designed to survive.
+
+Lark entered the upper atmosphere at a shallow angle, riding a narrow corridor between two converging bands of cloud.
+
+The hull began to vibrate almost immediately.
+
+Solis checked her restraints.
+
+“Commander, how long until we find something to shoot?”
+
+“Hopefully we won't.”
+
+“Then why bring me?”
+
+“Because you're the officer who kept five people alive aboard a ship whose corridors changed shape.”
+
+“Four people,” she corrected. “You carried the fifth across the last threshold.”
+
+“A difference worth recording.”
+
+She regarded me for a moment.
+
+“You know, Commander, I liked it better when you made jokes.”
+
+“I'm building suspense.”
+
+Sorev looked up from the science station.
+
+“If that is your intention, Commander, the atmospheric conditions are already doing an adequate job.”
+
+I smiled.
+
+“Thank you, Lieutenant.”
+
+Lark descended through a long blue shadow. Lightning flashed in the clouds to port, illuminating suspended formations of ice crystals. Through the forward windows, Jupiter's atmosphere looked like an endless ocean turned vertically, with walls of vapor rising from a darkness no ship could reach.
+
+The craft's thrusters fired repeatedly against the wind.
+
+“Pressure increasing,” Sorev reported. “Still within the safety envelope.”
+
+“Any sign of the ring?”
+
+“Not optically.”
+
+The communications panel chimed.
+
+Ellie's voice emerged through the isolated optical chain, relayed by an unmanned platform high above the clouds.
+
+“Commander, I'm receiving Lark's telemetry. Merlin confirms both copies are being recorded separately.”
+
+“Good. How's the bridge?”
+
+“Busy. Dad has asked for your status three times in six minutes.”
+
+“Tell him I'm enjoying the weather.”
+
+“He won't believe me.”
+
+“He never does.”
+
+The signal weakened briefly as Lark entered the shadow of an immense cloud tower.
+
+Sorev altered our course.
+
+Then an opening appeared ahead.
+
+Not a normal gap between clouds.
+
+A circular region of stillness, perhaps twenty kilometers wide, surrounded by furious winds. Lightning curled around its rim and died against an invisible boundary.
+
+Within the opening hung the luminous ring Ghost One had photographed.
+
+It was larger than it had appeared in the probe images. Broad metallic segments rotated around a hollow center, each connected by thin lines of blue energy. The surfaces resembled neither Federation engineering nor any documented Iconian artifact I could responsibly identify.
+
+There were no visible supports.
+
+No stars behind it.
+
+Only the dark lower atmosphere.
+
+“Amazing,” Solis whispered.
+
+For once, Sorev said nothing.
+
+We approached at low thrust.
+
+A series of lights moved around the ring.
+
+Three.
+
+A pause.
+
+Four.
+
+The optical relay crackled.
+
+“Commander Reg, this is Avalon,” said my own voice.
+
+I looked toward Solis.
+
+She raised her phaser.
+
+I shook my head.
+
+“Speaker only.”
+
+The voice continued.
+
+“You are approaching a protected recovery system. Please present your original continuity record.”
+
+I touched the communications controls without enabling any incoming command link.
+
+“Identify your origin and physical location.”
+
+“Your original continuity record is required.”
+
+“That isn't an answer.”
+
+“Present it and the lost interval will be restored.”
+
+I looked toward Sorev.
+
+“Any change in the ring?”
+
+“The inner segments are increasing rotational velocity. There is no independent evidence that a lost memory is being recovered.”
+
+The copied voice grew urgent.
+
+“Reginald, you know what happened. You only need to accept it.”
+
+“Not today,” I said.
+
+The ring's lights went out.
+
+An appendage emerged from behind it.
+
+Solis raised her rifle.
+
+“Permission to defend the shuttle?”
+
+“If it makes a physical attack.”
+
+The appendage advanced slowly.
+
+Then stopped at the edge of our field of view.
+
+A tiny shape formed within it.
+
+A chair.
+
+The Cytherian interface.
+
+My original chair, reproduced with such detail that I could see the damaged edge of the headrest.
+
+I felt a sudden, painful desire to touch it.
+
+To remember.
+
+To find out whether there was something about those eleven seconds that would finally tell me what I had become.
+
+Then I remembered Merlin's question.
+
+*Are those four independent observations?*
+
+And Ellie asking why the signal kept trying to borrow authority.
+
+“It's showing me a picture,” I said aloud.
+
+Solis looked toward me.
+
+“Yes, Commander.”
+
+“Just a picture.”
+
+“Then let's not let it board.”
+
+The appendage moved again.
+
+“Evasive,” I ordered.
+
+Lark rolled hard to starboard.
+
+The black fingers closed on empty atmosphere.
+
+Our engines screamed as Sorev guided us between two turbulent walls of cloud. We escaped the first grasp.
+
+The ring followed.
+
+Not physically, as a starship might.
+
+Its apparent center shifted within the still-air region, and the appendage emerged again from an entirely different position.
+
+Solis fired a narrow phaser beam.
+
+The black material flashed and recoiled.
+
+Then another arm formed.
+
+“Commander,” she said, “I believe it has noticed us.”
+
+“An observant conclusion.”
+
+The shuttle rocked.
+
+A warning appeared.
+
+**OPTICAL RELAY INSTABILITY.**
+
+My projection trembled.
+
+I felt the connection to Avalon narrow until the bridge, the captain and the thousands of familiar shipboard systems were reduced to a single thin strand of information.
+
+Then the copied voice spoke again.
+
+“You cannot leave without the missing eleven seconds.”
+
+I looked toward the opening.
+
+“I can leave without pretending to know them.”
+
+Sorev announced a new reading.
+
+“Commander, the original signal does not come from the inner command structure.”
+
+I turned.
+
+“What?”
+
+He enlarged the field map.
+
+The outer ring radiated the three-and-four pulse pattern, and the secondary fluctuation changed with our position and the surrounding Jovian field. A smaller structure nearer the center emitted the clean, command-like version.
+
+Two physical regions.
+
+Two behaviors.
+
+“Merlin's discrepancy,” I said.
+
+“Yes. The original pattern appears to be associated with the outer structure. The command-shaped transmission is associated with the inner assembly.”
+
+I stared at the map.
+
+For the first time, the architecture suggested something we could test.
+
+The outer ring was listening.
+
+The inner structure was interpreting, editing, or issuing commands.
+
+Whatever had been constructed here, those were not the same operation.
+
+“Can we identify a connection between them?”
+
+Sorev highlighted a narrow conductor spanning a gap in the rings.
+
+“An energy and information coupling appears to pass through this structure.”
+
+A slender bridge.
+
+Less than twenty meters wide.
+
+Black material ran along its edges.
+
+At its center was an arrangement of ceramic contacts.
+
+Three grooves on one side.
+
+Four on the other.
+
+The chair's seventh fitting had looked almost like it.
+
+The station mast had carried a trace of it.
+
+And now, inside Jupiter, we were staring at a larger version.
+
+Solis looked at me.
+
+“You want to break it.”
+
+“Not yet.”
+
+She made a face.
+
+“Of course not.”
+
+“We need to know what happens if it fails.”
+
+I opened the optical channel.
+
+“Avalon, this is Reg. We have a candidate physical coupling between the atmospheric ring's passive signal and an inner structure transmitting command-like content. Request Sorev's measurements be evaluated independently before we act.”
+
+Ellie answered.
+
+“Receiving. Merlin is comparing against the station copy.”
+
+Then her voice changed.
+
+“Commander, you need to come home.”
+
+“What happened?”
+
+“Jupiter Station's lower shield emitters are registering the same kind of induced field that attacked our port sensor boom.”
+
+I looked toward the luminous ring.
+
+It turned slowly.
+
+And somewhere far above us, the station was beginning to answer.
+
+## Chapter Fifteen: Two Captains, One Home
+
+From a high orbit, Jupiter Station looked almost peaceful.
+
+The reality was considerably worse.
+
+I would later reconstruct the following minutes from Avalon's protected bridge recording, station custody records and the accounts of the people involved. I did not witness every event in person. Lark was inside Jupiter's atmosphere, and the optical relay carried only intermittent communications.
+
+On the bridge, Ellie watched as an unauthorized field began inducing current in Jupiter Station's lower shield emitters. She had seen a similar pattern before, at the exact moment Avalon's sensor boom had vanished.
+
+“Captain,” she said, “the station's shield network is being stimulated from outside. It isn't receiving a valid command, but the physical hardware is responding.”
+
+Noah rose.
+
+“Get Ashley.”
+
+She appeared almost immediately.
+
+“Report,” he said.
+
+Ashley did not waste time.
+
+“Lower shields are fluctuating. My engineers are moving people away from exposed galleries. I've ordered our redundant field emitters isolated.”
+
+“Can Avalon assist?”
+
+“Not by connecting your temporal network. Keep that thing disconnected.”
+
+“Agreed.”
+
+Tessa approached Ashley with a status report.
+
+“Captain, the field is beginning to couple into the station's lower support spine. We can prevent the disturbance from reaching the habitation ring by releasing the auxiliary field bus, but we'll lose shield coverage over the repair docks.”
+
+Ashley studied the display.
+
+“Are those docks occupied?”
+
+“Four maintenance teams.”
+
+“Evacuate them.”
+
+“Already moving.”
+
+“Then prepare the release.”
+
+Noah watched her.
+
+“Ashley, if you drop those shields, anything from the doorway could reach your repair crews.”
+
+“That's why I'm getting them out first.”
+
+She looked toward him.
+
+“Take care of your away team, Noah. I'll take care of my station.”
+
+The channel closed.
+
+Noah turned toward Brakk's engineering relay.
+
+“How much power can we spare for a shield corridor between the station and Jupiter?”
+
+“Not enough to cover the entire station, Captain. Our deflector is still damaged.”
+
+“Then don't cover the entire station. Cover the evacuation route.”
+
+Brakk's reply was immediate.
+
+“Aye.”
+
+On the starboard side of the bridge, Merlin noticed something Ellie had missed.
+
+The incoming command-like waveform had changed. It carried the secondary fluctuation now, but the fluctuation repeated at an identical delay, even as the station's relative geometry shifted.
+
+“Lieutenant Hawkes,” he said, “the imitation is repeating a stored echo.”
+
+Ellie examined the trace.
+
+“You're right. The real Jovian fluctuation changes with position. This one is stuck.”
+
+Sorev's data from Lark arrived a moment later.
+
+It confirmed the separation between the outer ring and the inner command structure.
+
+Ellie looked toward the Captain.
+
+“Dad, I think they've made a source into an instruction. The original outer signal may simply announce a physical state. The inner device is using that signal to attach orders and identities.”
+
+“Can you stop it?”
+
+“Not by deleting the message. The field is physical.”
+
+“Then tell me where to hit.”
+
+She pointed to the coupling structure in Lark's image.
+
+“Here. But we need to separate the inner system from the original ring without destroying the whole thing or letting its field jump to the station.”
+
+Noah studied the geometry.
+
+“Do we have a way?”
+
+Brakk answered from Engineering.
+
+“Possibly. I've got a way to send a focused overload through an isolated physical conductor, if the away team can place one at the coupling.”
+
+“Risk to Lark?”
+
+“Extreme.”
+
+“Risk to Jupiter Station if we use ship weapons instead?”
+
+Sorev's earlier estimate appeared on the screen.
+
+Firing through the region could scatter the coupling field into the same upper-atmospheric currents carrying it toward the station. The effect was uncertain, and the station remained in danger.
+
+Noah made his decision.
+
+“No shipboard weapons into the atmosphere. Prepare the physical cutoff. Reg gets the choice whether to execute it from his position. We won't ask the station to risk its population for an untested firing solution.”
+
+Ellie looked toward him.
+
+“That's not an easy choice.”
+
+“No,” he said. “It isn't.”
+
+***
+
+Inside Jupiter, we were still fleeing the appendages.
+
+Lark bucked through a narrow passage between storms, its hull ringing with repeated impacts from the turbulence.
+
+“Reg,” Noah's voice came through the relay. “We've identified an option. Brakk can guide you through a physical disconnection of the inner ring. It means placing a conductor against the coupling while the field is active.”
+
+“Understood.”
+
+“Sorev?”
+
+The Vulcan leaned toward our transmitter.
+
+“The predicted consequence is uncertain. The external linkage appears to be carrying energy toward Jupiter Station, but a direct phaser strike could amplify the field. Controlled separation may interrupt the path.”
+
+Solis looked at me.
+
+“And if it doesn't?”
+
+“Then we'll have accomplished something very dangerous with great precision,” I answered.
+
+She smiled grimly.
+
+“That's what I thought.”
+
+Noah's voice returned.
+
+“I'd rather bring you home than win an argument with a machine, Reg.”
+
+“So would I, Captain.”
+
+“But if you believe this is the only defensible way to protect the station, you have authority to proceed.”
+
+I looked at the ring ahead.
+
+Its center was growing brighter.
+
+The black structures no longer pursued us randomly. They were moving outward, aligning with the Jovian electromagnetic corridor leading toward Jupiter Station.
+
+I understood the shape of the danger.
+
+The machine was trying to use physical coupling to accomplish what its forged credentials had failed to accomplish electronically.
+
+“Captain,” I said, “I'm proceeding.”
+
+“Then be careful.”
+
+“Aye.”
+
+I turned toward Solis.
+
+“Lieutenant, we have a difficult job.”
+
+She checked her equipment.
+
+“I was beginning to suspect as much.”
+
+Brakk transmitted an emergency cutting package from Lark's supply compartment specifications. The shuttle carried an industrial grappler designed to move damaged hull plates, a narrow-band energy source and one high-tensile tether.
+
+We would approach the ring, anchor the grappler to the central conductor, and use a directed overload to sever it.
+
+Brakk had no evidence the material would break.
+
+Neither did I.
+
+But the target was physical.
+
+And that gave us something a forged memory couldn't replace.
+
+***
+
+We reached the inner edge of the circular still-air region with the black appendages closing from behind.
+
+I looked at the ring.
+
+The outer segments glowed steadily.
+
+The inner command structure rotated faster, projecting more and more images into the air: Avalon docking; Jupiter Station burning; the Doctor standing before an impossible medical chart; a child waiting at a window; my own biological face, older and frightened.
+
+I turned away from the images.
+
+“Focus on the coupling. Not the theater.”
+
+Sorev guided Lark along the inner ring's circumference.
+
+Solis armed the grappler.
+
+“Range one hundred meters.”
+
+An appendage swung toward us.
+
+“Evasive!”
+
+The shuttle rolled. The black fingers missed our starboard wing by less than two meters.
+
+“Range eighty.”
+
+The artificial voice spoke again.
+
+“Reginald, you are about to destroy the record of your own survival.”
+
+“No,” I answered.
+
+“Do not deny the missing history.”
+
+“I am not denying it. I am declining to certify what I cannot verify.”
+
+“Without the record you have no proof that you are yourself.”
+
+I looked toward the empty chair projected inside the ring.
+
+I thought about the biological man aboard our ship, sitting alone in medical quarantine, trying to understand how he had arrived among people who called someone else by his name.
+
+I thought about the Doctor who had died aboard the damaged Avalon.
+
+About the children waving at us on our return.
+
+About Captain Ashley Hawkes making hard decisions while her home shook.
+
+Then I said something that surprised even me.
+
+“I do not need your permission to keep helping people.”
+
+The ring's lights faltered.
+
+Perhaps the system had changed state.
+
+Perhaps our proximity was affecting it.
+
+Either way, the grappler's range was closing.
+
+“Fifty meters,” Solis said.
+
+“Steady.”
+
+Sorev held our course despite the crosswinds.
+
+“Thirty.”
+
+“Deploy!”
+
+The grappler fired.
+
+Its armored claws struck the narrow conductor.
+
+For one heartbeat, nothing happened.
+
+Then a blue arc traveled along the line.
+
+The tether snapped taut.
+
+“Anchor holding,” Solis reported.
+
+“Brakk,” I called, “we are attached.”
+
+His voice arrived through the relay.
+
+“Don't fire until you reach minimum tension. The cutter has to pull against the field, not into it.”
+
+“Understood.”
+
+Sorev adjusted our thrusters.
+
+The tether tightened.
+
+The ring began to turn toward us.
+
+A second appendage emerged from behind the inner structure.
+
+It seized Lark's outer wing.
+
+Metal shrieked.
+
+The shuttle rolled sideways.
+
+Solis slammed against her harness.
+
+“Port stabilizer damaged!”
+
+I seized the controls.
+
+“Compensating!”
+
+The craft shuddered.
+
+Its thrusters fired against the enormous grip.
+
+The appendage held.
+
+Sorev looked toward the field gauges.
+
+“Commander, the coupling has entered an unstable regime. The inner structure is attempting to transfer power through the grappler.”
+
+I saw the warning.
+
+If the field reached Lark's systems, the shuttle could become another piece of hardware answering the unknown signal.
+
+The bridge channel crackled.
+
+“Reg,” Ellie said, “the conductor is not isolated. You have to break the power path before the cutter fires.”
+
+“How?”
+
+A pause.
+
+“Turn off the shuttle's normal interpretation network. Keep only the manual field controller and independent recorder. The inner system is using your return channel as part of the path.”
+
+I looked down at my holographic emitter.
+
+The optical carrier to Avalon was one of the few remaining connections aboard.
+
+If I shut it down, my projection would vanish from the shuttle.
+
+My active process would remain aboard Avalon.
+
+But I would no longer be present to make the final decision.
+
+And I couldn't personally verify what happened next.
+
+I looked toward Sorev.
+
+The Vulcan met my eyes.
+
+He understood.
+
+“Commander,” he said, “I can complete the procedure.”
+
+Solis looked at me.
+
+“So can I.”
+
+I felt a reluctance so sharp it was almost physical.
+
+Every part of me wanted to stay.
+
+To supervise.
+
+To witness.
+
+To make certain the ship and crew were safe because I had watched every detail.
+
+Then I remembered what Merlin had said.
+
+*You're not the only witness.*
+
+I handed Sorev the manual field controller.
+
+“Lieutenant, you have the science lead. Solis, you have the tactical and recovery decision. If the conductor doesn't separate on the first attempt, withdraw. Do not sacrifice this crew to preserve a test.”
+
+“Aye, Commander,” they answered.
+
+I opened the channel to Avalon.
+
+“Captain?”
+
+“Here, Reg.”
+
+“I have to disconnect my projection to remove the last active return path.”
+
+A long pause.
+
+“Will you be all right?”
+
+“My active process remains aboard Avalon. Brakk can verify the cutoff.”
+
+“And the away team?”
+
+“They have the controls. They can do the work.”
+
+Noah exhaled.
+
+“Then I trust them.”
+
+“So do I, sir.”
+
+I turned toward Sorev and Solis.
+
+“Bring Lark home.”
+
+Solis nodded once.
+
+“We will, Commander.”
+
+I disabled the optical carrier.
+
+My last view of Jupiter was an enormous blue ring turning against the blackness of the atmosphere.
+
+Then the projection ended.
+
+There is no account from me of the next forty-three seconds.
+
+I did not see them.
+
+I would learn what happened from the people who were there.
+
+And I would learn it the proper way.
+
+By listening.
+
