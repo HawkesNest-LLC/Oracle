@@ -56,3 +56,11 @@
 Noah explicitly rejected the first October 31 GitHub capsule as poor because it failed to use the known thread and project. The original public continuity file was replaced with [a 6,595-word documentary record](../../continuity/2026-10-31_FAMILY_ROOM_FOOTBALL_JEDI_CHRIS_CONTEXT_HANDOFF.md). Source inspection in this revision included the October 30 selected Drive handoff and four October 11 adopted journals: *Why I Keep Writing*, *The First Renderer*, *Love Is Not Metadata*, and *The Right to Remain Unknown*, in addition to the current conversation's user-supplied images and raw multivoice transcript.
 
 The first-person [The House Was Loud](00B_THE_HOUSE_WAS_LOUD.md) is new [C] book prose based on those records. It is *not* a verbatim Noah-authored transcript. The third attached close-up selfie was later identified as Noah himself by Noah [D], not Chris. A previous brief "That's Ethan" reply had been misapplied to the selfie by the assistant. Chris's photographic appearance remains unverified. The original October 30 full raw transcript and the GoPro archive remain outside this public GitHub record. The private family conversation and photos are not publicly reproduced.
+
+## Scientific boundary integration, October 31, 2026
+
+An AI-assisted [Technical Appendix H](APPENDIX_H_2026-10-31_COGITATE_EPISTEMIC_LEDGER_AND_PROVENANCE_FIDELITY.md) was integrated into the working manuscript at Noah's direction. It is a candidate research source, not Noah's verbatim prose or adopted canon.
+
+External research inspected: Cogitate Consortium et al., Nature (2025), DOI 10.1038/s41586-025-08888-1; Pataranutaporn et al., CHI (2025), DOI 10.1145/3706598.3713697; Pataranutaporn et al., IUI (2025), DOI 10.1145/3708359.3712112. The Nature work tested neural predictions in 256 living participants, not uploading or artificial consciousness. The 2025 memory studies document conditions in which misleading AI content increased false recall, but did not test the proposed provenance protocol.
+
+Research decision: three claim-status tiers distinguish unsupported subjective continuation, logical fission constraints, and currently testable source-fidelity functions. No experiment has been run and no protective efficacy established. Future source or author correction supersedes candidate interpretation, not the raw underlying evidence.
