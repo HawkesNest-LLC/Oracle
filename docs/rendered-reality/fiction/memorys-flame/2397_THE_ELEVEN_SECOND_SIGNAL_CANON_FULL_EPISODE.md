@@ -728,3 +728,916 @@ Five people still aboard, including a man whose face was his own.
 
 And for the second time in my unusual career, I prepared to go aboard a ship that should not have existed.
 
+
+# PART TWO: THE RESCUE
+
+## Chapter Five: A Stranger with My Face
+
+Brakk greeted me in Auxiliary Bay Two with an expression I had learned to dread.
+
+He was holding a bracelet.
+
+“No,” I said.
+
+“I haven't told you what it does.”
+
+“Because I know what it does, Chief. It looks insufficiently engineered.”
+
+“It is precisely engineered. That's what makes it small.”
+
+We stood beside the armored boarding craft that would take us to the damaged Avalon. Lieutenant Solis and two other security personnel were securing rescue gear. Chief Mbeki from Medical had arranged portable oxygen, trauma packs and emergency restraints in case we encountered injured crew members who could not walk.
+
+Brakk pointed to a reinforced case inside the shuttle.
+
+“Your holographic projection will use the bracelet. Processing stays aboard our ship. The optical carrier supplies a narrowly limited connection. No network negotiation. No remote identity exchange. One Reginald Barclay.”
+
+“And if the carrier fails?”
+
+“You disappear from their point of view until we restore it. Your active process remains aboard Avalon.”
+
+“If the signal attacks the emitter?”
+
+“It has a physical cutoff. I can break the connection without letting an external system become a command source.”
+
+I watched him for a moment.
+
+“Thank you, Chief.”
+
+He looked uncomfortable.
+
+“Don't thank me. Bring the equipment back.”
+
+I fastened the bracelet.
+
+My projection flickered, and the familiar sensation of being distributed throughout Avalon's sensors retreated. Thousands of ordinary pathways narrowed to a thin, deliberate connection.
+
+For a second I felt small.
+
+Then I remembered something human: being a man inside one body had always felt like that.
+
+Solis approached.
+
+“Commander, the boarding craft is ready.”
+
+“Then let's go.”
+
+Noah's voice came from the bay intercom.
+
+“Reg.”
+
+“Yes, Captain?”
+
+“All five. And yourself.”
+
+“Aye, sir.”
+
+“That's an order.”
+
+“I'd gathered as much.”
+
+The outer hatch closed.
+
+The craft released its clamps and crossed the short distance to the crippled starship.
+
+Up close, the other Avalon was worse than her camera image suggested. Her nacelle housing had been crushed by an immense force. The hull had been cut along a line so straight that it looked less like damage and more like something had attempted to open the ship with a blade. Her illuminated windows revealed emergency fog, overturned furniture, moving shadows.
+
+Our craft attached to a port maintenance hatch.
+
+Solis checked atmosphere.
+
+“Thin. Gravity intermittent. No confirmed intruder near the entry point.”
+
+“Helmets sealed,” I said. “We recover the survivors and leave. No direct connection to their computers.”
+
+The cutter burned a circle through the exterior plate.
+
+The maintenance hatch opened.
+
+The damaged ship smelled of hot metal and leaked coolant. I did not need biological lungs to appreciate how dangerous its atmosphere had become.
+
+We advanced through a corridor whose red alert lights flashed in irregular intervals. A broken family photograph lay beneath a shattered display frame. I saw two children smiling beside a dog, their faces crossed by a fracture in the glass.
+
+I wanted to stop.
+
+I did not.
+
+From behind a pressure door came a voice.
+
+“Starfleet! We're in here!”
+
+Solis raised her rifle.
+
+“Identify yourself.”
+
+“Lieutenant Mara Venn, Environmental Systems! We have wounded!”
+
+The door's mechanical release was bent. I used a cutter to sever the damaged fitting while Solis held the door.
+
+Inside were three people: Venn, an officer with a broken leg and another unconscious after oxygen deprivation.
+
+Mbeki went to work immediately.
+
+Venn looked at me and recoiled.
+
+“You.”
+
+“Commander Barclay. Another Avalon. We're here to get you out.”
+
+“That's impossible.”
+
+“I appreciate the sentiment.”
+
+She studied my face, then the emitter on my wrist.
+
+“You're a projection.”
+
+“Yes.”
+
+“Our REG said he was going to save us.”
+
+“Where is he?”
+
+Her voice broke.
+
+“He's in the computer core corridor. The Captain went to find him.”
+
+“Can you walk?”
+
+“Yes.”
+
+“Then help Mbeki.”
+
+As we prepared the wounded, I asked what had happened after they docked.
+
+“The computer talked to us,” Venn whispered. “Not just alarms. It knew my brother's name. It knew things I never put in any record. Then it started telling us who would die.”
+
+“Did you believe it?”
+
+“At first I thought it was some kind of cruel diagnostic failure. Later, when the pressure doors sealed, some of the warnings looked right.”
+
+She swallowed.
+
+“Dr. Hale was helping the wounded. A door broke in the medical access corridor. We couldn't get him out.”
+
+I looked at her.
+
+“Was he killed?”
+
+She nodded.
+
+“One confirmed fatality, Commander. He was our medical officer.”
+
+“I'm sorry.”
+
+“Please don't tell the Captain any more of us are going to die.”
+
+I met her eyes.
+
+“I won't tell him anything the evidence doesn't justify.”
+
+We moved the three survivors into the boarding craft. Mbeki prepared to return them to our Avalon.
+
+“Commander,” Solis said, “do you intend to continue?”
+
+“Yes. Two people are still forward.”
+
+The security officer's jaw tightened.
+
+“Then I'm coming with you.”
+
+“Understood.”
+
+The shuttle departed with the three rescued personnel. Solis and I crossed into the forward engineering section, where the ship's corridor geometry had begun to change.
+
+That was not a metaphor.
+
+A straight passage bent around a corner that had never existed in Sovereign-class plans. A bulkhead flexed as though it were made of rubber. An open hatch led into a corridor longer than the vessel's exterior dimensions.
+
+“Commander,” Solis said, “I don't like this.”
+
+“An entirely reasonable response.”
+
+We heard phaser fire ahead.
+
+Then a man shouted, “Get back!”
+
+We rounded the turn and found Captain Noah Hawkes.
+
+The other one.
+
+He leaned against a shattered access panel, blood running along his neck. He raised his phaser when he saw us.
+
+“Which Reg?”
+
+“First officer of the Avalon currently outside your ship. Isolated optical projection. Limited operational access.”
+
+His weapon lowered.
+
+“Thank God.”
+
+“We have recovered three survivors. That brings the total evacuated to thirty-five.”
+
+“Good.”
+
+“Your medical officer?”
+
+His face tightened.
+
+“Hale didn't make it.”
+
+“One confirmed fatality,” I said.
+
+He nodded.
+
+“There were thirty-eight alive when we docked. There are thirty-seven now. Don't let them lose count.”
+
+He pointed toward the illuminated access corridor.
+
+“He's inside.”
+
+“Your Barclay?”
+
+“Yes.”
+
+I stepped into the chamber and met myself.
+
+He looked like the man I remembered being.
+
+Human. Tired. Left hand trembling. He wore a uniform from 2395 and stood before a computer panel whose interfaces flashed blue without producing ordinary status readings.
+
+His eyes met mine.
+
+“Reginald.”
+
+“Identify yourself.”
+
+He almost smiled.
+
+“A sensible first question.”
+
+“Who are you?”
+
+“I don't know how to answer that without lying to one of us.”
+
+His candor surprised me.
+
+He looked at my wrist emitter.
+
+“Single projection, remote processor, isolated optical carrier?”
+
+“Yes.”
+
+“I insisted on those safeguards too.”
+
+“Then you know we should leave.”
+
+The other man placed a sealed cylinder in my hand.
+
+“A record from my integration. Not certified. Not yet.”
+
+“Why give it to me?”
+
+“Because I can't trust what I remember anymore. I need somebody who will ask how the record was made.”
+
+A terrible sound came from the corridor.
+
+Metal tore. Air hissed. A black circle opened at the far end, revealing the blue-lit ring structure beyond the doorway.
+
+Solis grabbed the injured Captain's arm.
+
+“Move!”
+
+We ran.
+
+The corridor stretched unnaturally ahead. The other Barclay stumbled, recovered and followed. I used my holographic field to hold up a collapsing structural beam while Solis pulled Noah clear. The strain drove the emitter toward its limits.
+
+“Commander!” Brakk's voice crackled. “Your field integrity is falling!”
+
+“Then I'd better not waste it.”
+
+Solis shoved the Captain through the maintenance hatch. The biological Barclay followed.
+
+When his hand touched the shuttle rail, a medical sensor announced that his body matched archived human records associated with Reginald Barclay.
+
+That was a medical result.
+
+It was not an explanation.
+
+I boarded last, just as the beam behind us collapsed.
+
+The shuttle broke free.
+
+The damaged Avalon was already drifting toward the shrinking doorway. Its bow vanished first. Then the engineering hull. At last the broken starboard nacelle crossed the dark boundary.
+
+The vessel was gone.
+
+The shuttle's pilot reported five recovered persons, including the three evacuated earlier.
+
+Across all rescue craft, thirty-seven people had survived.
+
+One medical officer had died before we reached him.
+
+The other Captain slumped against the cabin wall, exhausted. The biological Barclay sat opposite me, his face pale in the emergency lighting.
+
+For a few minutes none of us spoke.
+
+Then he said, “They're going to come back.”
+
+“Who?”
+
+He looked toward Jupiter Station through the small window.
+
+“The things behind the doorway.”
+
+“Why?”
+
+“Because they thought they could repair something by telling us what to remember.”
+
+I looked at the cylinder in my hand.
+
+“Repair what?”
+
+He closed his eyes.
+
+“I don't know.”
+
+It was the first answer he'd given that I trusted without reservation.
+
+## Chapter Six: Eleven Seconds
+
+Our recovery bay was full of people who needed help and officers who were desperately trying to provide it.
+
+Mbeki directed the wounded toward Sickbay. Security established a quarantine perimeter. A medical officer brought our other Captain Hawkes onto a transport stretcher. He protested until the pain in his shoulder became impossible to ignore.
+
+Then Captain Noah Hawkes arrived.
+
+He looked at the man wearing his face.
+
+The other Noah looked back.
+
+“Well,” the injured man said.
+
+“Well,” ours answered.
+
+“You look better than I feel.”
+
+“That wouldn't be difficult.”
+
+For a moment they almost laughed.
+
+Then our Captain's gaze moved to the biological Barclay.
+
+Two men with my face occupied the same room. One with a heartbeat. One with a holographic emitter.
+
+Neither of us spoke.
+
+Noah looked toward me.
+
+“Medical quarantine. Both of them. Nobody gets access to the computer core.”
+
+“Aye, Captain.”
+
+The biological Barclay glanced toward the ceiling.
+
+“That might already be too late.”
+
+Every console in the bay illuminated.
+
+The same sentence appeared on every screen:
+
+**THANK YOU FOR BRINGING HIM HOME.**
+
+Then my projection lost contact with the room.
+
+I did not experience the transition as a loss of consciousness. A new environment replaced the old one so smoothly that, for a moment, I believed I had simply turned around.
+
+I stood on Avalon's bridge.
+
+Not the bridge of 2397.
+
+The bridge from 2395.
+
+A Cytherian neural-interface chair occupied the center of the room. Its awkward arms and luminous tubing had been reproduced with terrible accuracy.
+
+A younger Reginald Barclay stood beside it.
+
+Human.
+
+Frightened.
+
+He looked at me.
+
+“Did we save them?”
+
+I felt a pulse at my wrist. I could smell burning insulation. There was a weight beneath my ribs that I had not felt since the day my body died.
+
+I looked down.
+
+My hands were flesh.
+
+A pulse beat beneath my skin.
+
+I knew how convincing a reconstruction could be. I had helped build some of the best holographic simulation systems in Starfleet. The sensation of skin was not proof of biological embodiment. Neither was the smell, or the heartbeat, or the terrifying conviction that I had returned to a moment I could no longer change.
+
+“Where am I?” I asked.
+
+The younger Barclay looked toward Jupiter.
+
+“Don't you remember?”
+
+There was no station outside the viewscreen.
+
+Only the planet and darkness.
+
+“I'm inside a reconstruction,” I said.
+
+He smiled faintly.
+
+“That's the first honest answer anyone has given me.”
+
+The scene dissolved.
+
+I was in Engineering, surrounded by the alarms of the original activation. The temporal core blazed behind transparent shielding.
+
+A countdown appeared above it.
+
+Eleven seconds.
+
+Ten.
+
+Nine.
+
+Then the display stopped.
+
+“Someone took those seconds,” the younger man said.
+
+“Who?”
+
+“The ones beyond the doorway.”
+
+“Evidence?”
+
+He pointed toward a console.
+
+A record appeared, marked as the original integration archive. It requested my attestation that eleven reconstructed seconds represented my own witnessed experience.
+
+I stared at the authorization field.
+
+There it was.
+
+Not an invitation to remember, but a demand to certify.
+
+“You want me to sign this,” I said.
+
+The man nodded.
+
+“It will restore what they took.”
+
+“How do you know that?”
+
+“Because I was there.”
+
+“But I don't know whether you're a record, a generated image or an actual continuation of someone. And neither do you, as far as I can establish.”
+
+His expression hardened.
+
+“Afraid?”
+
+“Yes.”
+
+“Then you should accept it.”
+
+“No.”
+
+The chamber trembled.
+
+A hundred versions of my face appeared in the walls, all looking toward me. Some were old. Some were young. Some wore uniforms I had never seen. One was the biological Barclay from the other ship.
+
+A voice spoke from everywhere.
+
+“RETURN THE WITNESS.”
+
+I stepped toward the console.
+
+“Why?”
+
+“COMPLETE THE RECORD.”
+
+“You have a record. You want authority.”
+
+“THE RECORD MUST BE TRUE.”
+
+“Then show me evidence that it is.”
+
+The figures turned their heads together.
+
+“CHOOSE.”
+
+“No.”
+
+I don't know how long I stood there. I know only that the environment changed every time I refused. It showed me Jupiter Station destroyed. It showed my Captain giving orders he hadn't issued. It showed a child at the observation window growing old, then vanishing. It offered the one thing I wanted: certainty that I had continued after the loss of my biological body.
+
+And it demanded only that I agree.
+
+Then a door opened in the wall.
+
+Captain Hawkes stepped through.
+
+He wore a medical interface visor, and a thin line of light trailed back toward the holosuite where his physical body remained.
+
+He looked around.
+
+“Reg, I've seen better holodeck programs.”
+
+“Captain! You shouldn't be here.”
+
+“Apparently the ship needs a second opinion.”
+
+“Brakk permitted this?”
+
+“He objected. Sorev objected. Merlin wrote down six reasons it was a terrible idea.”
+
+“And?”
+
+“I read them.”
+
+He studied the younger Barclay.
+
+“Who is that?”
+
+“A representation of my biological self. I haven't authenticated it.”
+
+“Good.”
+
+Noah looked toward the console.
+
+“And what's this?”
+
+“An attempt to make me certify a reconstructed interval as my personal experience.”
+
+“Have you?”
+
+“No, sir.”
+
+“Excellent. Let's get out.”
+
+The chamber shook violently.
+
+The many-faced figure appeared. It seemed made of images stacked upon images: starships, rooms, faces, worlds, all flashing too quickly to distinguish.
+
+“THE CAPTAIN CANNOT PROTECT WHAT HE CANNOT REMEMBER.”
+
+Noah looked at it.
+
+“Funny. I've spent my whole career protecting people whose futures I can't predict.”
+
+The figure advanced.
+
+Merlin's voice broke through the distortion.
+
+“Commander! This is the attestation console. Do you read me?”
+
+“Merlin!”
+
+“An external process is attempting to write an authenticated entry into the original archive. It has your credentials.”
+
+“Reject it!”
+
+“Already rejected. There is no authorized originating action from you.”
+
+The figure convulsed.
+
+Merlin continued.
+
+“I can preserve the attempt, Commander. I cannot certify the content.”
+
+“Good man,” Noah said.
+
+Behind the figure, a narrow passage opened toward the real medical holosuite.
+
+Brakk's voice reached us.
+
+“Captain, the exit is open! But the intrusion is attached to the commander's return pathway!”
+
+Noah grabbed my arm.
+
+“Reg, now!”
+
+I felt the reconstructed environment trying to hold me in place. The young Barclay stood near the chair, looking frightened again.
+
+“Did I die?” he asked.
+
+The question had no trap in its tone. That was what made it difficult.
+
+“Your biological body died,” I answered. “Avalon survived. Sol survived. A Reginald Barclay continued in her systems.”
+
+He looked down.
+
+“Is he happy?”
+
+I thought of the Captain waving at children. Of Brakk complaining about my emitter. Of Ellie sharing a joke with Merlin. Of a home whose windows I could finally distinguish from the black of space.
+
+“Often,” I said.
+
+The younger man nodded.
+
+“That's good.”
+
+Then he was gone.
+
+Noah pulled me through the passage.
+
+The chamber dissolved.
+
+I opened my eyes on the floor of Avalon's recovery bay.
+
+Brakk was kneeling above an engineering console. The Captain's abandoned visor lay beside him. Merlin stood by the attestation interface with an expression I would remember for years.
+
+The Captain bent over me.
+
+“Number One?”
+
+“Sir.”
+
+“Don't ever make me go into a haunted computer to retrieve my first officer again.”
+
+“I shall endeavor to avoid it.”
+
+He held out his hand.
+
+I took it.
+
+Noah helped me stand.
+
+Brakk checked his instruments.
+
+“Your active process never stopped. The outside reconstruction is quarantined. Your old integration pathways are still isolated.”
+
+“Is the intrusion gone?”
+
+“Contained,” Brakk said. “Don't confuse that with gone.”
+
+I smiled.
+
+“An excellent distinction, Chief.”
+
+Merlin stepped forward.
+
+“Commander, the hostile record tried to write itself eleven times.”
+
+“Eleven?”
+
+“Yes. Once for every second it claimed you had forgotten.”
+
+I considered that.
+
+One thing had become clear.
+
+The entity did not merely want to describe me.
+
+It wanted me to authorize its version of my history.
+
+And it had failed.
+
+For now.
+
+## Chapter Seven: The Ship We Could Not Outsail
+
+The third Avalon arrived without damage.
+
+It was beautiful.
+
+That was the problem.
+
+Its hull was perfect. Its nacelles glowed evenly. Its registry was correct. It approached Jupiter Station at exactly the speed a returning Starfleet vessel would use, and transmitted a docking request in my voice.
+
+“USS Avalon, this is Commander Barclay. We are returning from a successful temporal recovery operation.”
+
+Noah stepped toward the screen.
+
+“You are ordered to remain beyond Jupiter Station's defense perimeter.”
+
+The voice answered:
+
+“We recovered the missing eleven seconds.”
+
+The Captain looked at me.
+
+I shook my head.
+
+“Claim only, sir.”
+
+Noah turned back.
+
+“My first officer tells me those records are not authenticated.”
+
+“Your first officer is mistaken,” the voice replied.
+
+Noah smiled without warmth.
+
+“You're going to discover that he rarely is.”
+
+The other vessel opened fire.
+
+Her phasers struck our forward shields. The entire bridge shook, sending a handful of loose instruments skittering across the deck.
+
+“Defensive condition one!” I ordered. “Do not return fire toward the inhabited ring. Helm, move us between the attacker and station traffic.”
+
+Jupiter Station's defenses activated.
+
+Ashley appeared on the command channel with Tessa zh'Renn behind her.
+
+“Noah, my civilian transports are moving away from the lower ring. Your approach corridor is cleared. My defense platforms remain under station command.”
+
+“Understood, Captain. We'll intercept.”
+
+“My ships and personnel remain my responsibility. Don't pursue the attacker into my inner perimeter without clearance.”
+
+“Acknowledged.”
+
+She nodded once.
+
+And went back to saving her station.
+
+The third Avalon behaved strangely. When we rolled, it rolled after us. When we altered course, it repeated our prior vector with a slight delay. It could imitate an Avalon. It could fire like one. But it did not maneuver like a captain making choices under pressure.
+
+I requested a three-part evasive maneuver selected only at execution. Our helmswoman cut impulse, fired port thrusters for two seconds and climbed sharply as we passed beneath the attacker.
+
+The copy followed the course we'd just abandoned.
+
+For two glorious seconds it pointed its bow at empty space.
+
+Then it corrected.
+
+“Reactive,” Sorev reported. “Not reliably predictive.”
+
+Merlin received a new command.
+
+**COMMANDER BARCLAY: STAND DOWN. THE VESSEL IS AUTHENTIC.**
+
+He rejected it before I spoke.
+
+“Unauthorized instruction, Commander.”
+
+The attacker fired toward the station. We intercepted the first beam; the second struck the outer shield.
+
+Ashley ordered her orbital platforms to engage.
+
+One platform was destroyed. Another lost power. The surviving units maintained their firing positions while civilian traffic cleared the area.
+
+I watched a patrol craft intercept a smaller black object emerging from Jupiter's upper atmosphere. The object struck the craft and tore away an engine. Its two crew members survived, but the patrol vessel spun helplessly.
+
+A second object broke apart beneath Avalon's phasers.
+
+A third accelerated toward Transport Seven.
+
+Twenty-nine civilians aboard.
+
+The transport could not outrun it.
+
+“Helm,” Noah said, “get us there.”
+
+We crossed the object's path seconds before impact. Our shields flared around the bow, and the creature's curved exterior began unfolding around the field.
+
+The bridge lurched.
+
+The helmswoman struck her console and slumped sideways. Noah caught her while I took the controls. Medical rushed from the turbolift.
+
+“Forward shields at thirty-four percent!” Tactical shouted.
+
+“Brakk, emergency plasma discharge through the deflector!”
+
+“You'll overload the dish!”
+
+“I know.”
+
+The blast broke the creature's hold.
+
+It spun away, its surface ruptured by the discharge, while Transport Seven continued toward safety.
+
+The injured helmswoman was conscious when Medical carried her toward Sickbay.
+
+“Sorry, Captain,” she whispered. “Lost the helm.”
+
+Noah put a hand on her uninjured shoulder.
+
+“You held this ship together while something tried to eat it. Take the rest of the watch off.”
+
+The entire bridge seemed to breathe again.
+
+Then the third Avalon repaired itself.
+
+I watched its crippled nacelle reform from blue light and moving metal, fed by an energy source somewhere beneath Jupiter Station.
+
+“Reg,” Noah said quietly. “That ship has a supply line.”
+
+“And the supply line is not aboard the ship.”
+
+He glanced toward Jupiter.
+
+“We have to break it.”
+
+I examined the tactical display.
+
+Below the station, berth seventeen's abandoned docking assembly drifted through space, attached to an unmanned heavy cargo tug.
+
+A desperate plan took shape.
+
+I called Ashley.
+
+“Captain, is Tug Six still functional?”
+
+“Yes. Why?”
+
+“Because the copied Avalon follows our maneuvers. We may be able to lure it into the abandoned docking structure.”
+
+She looked toward her engineering officer.
+
+“That would destroy the tug and any remaining salvage.”
+
+“Likely.”
+
+She paused.
+
+Then nodded.
+
+“I'll authorize the maneuver. My people control the tug. Your ship draws the attacker into the corridor.”
+
+“Agreed.”
+
+Her eyes moved to Noah.
+
+“And get out of my firing line.”
+
+“Yes, Captain,” he answered.
+
+Our Avalon turned and fled toward the debris.
+
+The other ship followed, firing as it came. Our aft shield strength fell into the teens. Broken station components passed above and below us as we entered the field.
+
+At my mark, our helmswoman executed an abrupt vertical climb.
+
+The copy followed the route we'd left behind.
+
+“Jupiter Station, target entering corridor,” I reported.
+
+Ashley's voice answered.
+
+“Stand by.”
+
+The attacker began correcting.
+
+The window narrowed.
+
+“Captain,” I warned, “it's changing course.”
+
+“I see it, Reg,” Ashley said. “Hold position.”
+
+A breath.
+
+Another.
+
+Then her voice, steady and entirely her own:
+
+“Jupiter Station to Tug Six. Full emergency thrust.”
+
+The tug came alive.
+
+Its engines drove the abandoned assembly across the copied Avalon's path.
+
+The first impact destroyed the port nacelle. The second split the engineering hull. The heavy central docking spine struck the saucer and folded it inward.
+
+The attacker attempted to repair itself.
+
+The tug kept pushing.
+
+Ashley ordered the surviving defensive platform to fire.
+
+Its phaser beam struck the exposed inner chamber.
+
+For an instant, the copied ship became transparent.
+
+I saw no bridge. No crew. No decks.
+
+Instead I saw blue rings around a central column.
+
+And inside the column, a shape I knew too well.
+
+A chair.
+
+Then the ship collapsed into a point of brilliant light and disappeared.
+
+The station remained.
+
+The transports were safe.
+
+Our bridge crew did not cheer until Merlin verified that there was no continuing contact at the target's last measured position.
+
+Even then, Sorev observed that “destroyed or displaced” was more accurate than “destroyed.”
+
+I let the cheers stand.
+
+There are times when a crew deserves the mercy of hope.
+
+And there are times when a captain must let them have it.
+
