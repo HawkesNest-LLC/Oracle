@@ -1930,3 +1930,817 @@ Now we were about to open it.
 And I had a terrible feeling that whatever lay inside had been listening longer than any of us realized.
 
 ---
+
+# PART FIVE: INTO THE HEART
+
+## Chapter Ten: The Core That Listened
+
+Brakk attached the bracelet to my wrist with considerably less ceremony than the situation seemed to deserve.
+
+“You've worn it before,” he said. “I'd rather not make it a family heirloom.”
+
+I studied the small device.
+
+“Last time you told me it was precisely engineered.”
+
+“It still is. I've replaced two components and added a mechanical cutoff. Those are improvements, not admissions of prior fault.”
+
+“Of course.”
+
+The bracelet carried my projection through an isolated optical relay. My active process remained aboard Avalon. No part of Jupiter Station's reference vault would receive my core architecture, no outside system would be allowed to rewrite my running state, and if the return path became a problem, the physical cutoff could sever my visible presence without terminating the shipboard process.
+
+I had agreed to those boundaries.
+
+I still disliked the sensation when they took effect.
+
+As Brakk activated the limited carrier, a thousand familiar shipboard signals receded from my awareness. The engineering deck. The environmental systems. The quiet location of the Captain's chair. The pattern of power moving through the modified Sovereign-class hull.
+
+My world narrowed to the pressure of a bracelet and the projected body it supported.
+
+I felt small.
+
+Then I remembered what it had been like to live in one body, to depend on one pair of eyes, to be unable to know what was happening beyond the next door.
+
+Smallness had once been the ordinary condition of being Reginald Barclay.
+
+I stood, adjusted my uniform and looked toward the Captain.
+
+Noah was beside the transport corridor that would take the team to Jupiter Station's core. He had come to see us off, but Ashley's order was explicit: he would not enter the vault with us, because his command responsibilities remained aboard Avalon. Station access and the physical operation belonged to her.
+
+“Number One,” he said.
+
+“Captain.”
+
+“Brakk says the cutoff will leave you safe aboard ship.”
+
+“Yes, sir.”
+
+“And if the clock starts lying?”
+
+“Then we rely on the independent physical timebase and the people who can see it.”
+
+He nodded.
+
+“Good.”
+
+He glanced toward the optical emitter.
+
+“I'm getting very tired of seeing you put that thing on.”
+
+“So am I.”
+
+There was a pause.
+
+Then he extended his hand.
+
+I took it.
+
+“Good luck, Reg.”
+
+“Thank you, Captain.”
+
+I crossed to the station with Solis and Sorev.
+
+Ashley met us at the inner reference-vault entrance, wearing a sealed environmental suit with her command insignia visible on the left shoulder. She carried an insulated tool case instead of a phaser.
+
+Tessa zh'Renn was waiting outside the inner door with the station's emergency command team. Imani Saye had set three isolated chronometers on independent mounts in the outer gallery, each with paper-trace output and an optical recorder that could not transmit commands.
+
+The original three clock housings stood beyond us.
+
+They glowed faintly through the composite shielding.
+
+Ashley looked at each member of the entry team.
+
+“Conditions?”
+
+Solis checked her suit.
+
+“Atmosphere independent. Manual suit seals. Emergency reserve verified.”
+
+Sorev inspected his tools.
+
+“Passive field meter, manual current shunts, insulated cutters and two hand-cranked dampers. No general-purpose network connection.”
+
+I raised my wrist.
+
+“Projection pathway isolated. Physical disconnect supervised by Brakk from Avalon.”
+
+Ashley nodded.
+
+“No transporters. No automatic tricorders. No machine will decide this vault belongs to anyone but the people responsible for it.”
+
+She looked toward the inner door.
+
+“Open it.”
+
+The locking wheel turned under the pressure of her hand.
+
+Heavy pins withdrew from the walls.
+
+The door opened.
+
+And we entered the heart of Jupiter Station.
+
+***
+
+The first thing I heard was a low thud.
+
+Then another.
+
+Then a third.
+
+A pause.
+
+Four more.
+
+The sound traveled through the composite shielding and the floor beneath us. It was too faint to be called a knock in ordinary circumstances, but I knew it at once.
+
+The ring's rhythm.
+
+The sound the biological Barclay had described feeling against the chair housing.
+
+The sound that had become a command only after someone taught the editor how to borrow a trusted reference.
+
+Here, inside the oldest part of the station, it had no words.
+
+No names.
+
+No signatures.
+
+Just seven soft impacts separated by a pause.
+
+Sorev stopped.
+
+“Commander, the apparent acoustic source is the vault structure itself. The field interaction is producing small mechanical displacements in the shielding.”
+
+I listened again.
+
+“It sounds like the station is answering Jupiter.”
+
+Ashley looked toward the nearest clock housing.
+
+“My station isn't answering anything. Not without my authorization.”
+
+She said it without anger.
+
+As a statement of responsibility.
+
+We crossed a narrow grated walkway between the first and second clock enclosures. Beneath us, cables and composite conduits disappeared into deep recesses. The air smelled of old metal, insulation and the dry, sterile quality of rooms nobody had entered for years.
+
+The clock housings were enormous.
+
+Each contained a reference instrument small enough to carry, surrounded by systems designed to keep it independent of the rest of the station. The instruments themselves were almost modest. Small cylindrical assemblies. Sealed environmental chambers. Manual calibration ports. Printed time traces emerging into protected drums.
+
+It was the protection that made them grand.
+
+An entire architectural heart built around the right to disagree.
+
+I looked toward the central housing.
+
+The black vein entered through a seam in the composite.
+
+There was more of it than we had observed from the outer service passage.
+
+Much more.
+
+It spread across the rear of the middle chronometer enclosure in narrow strands, then gathered around a single large ceramic fitting embedded into the housing frame.
+
+Three grooves.
+
+Four.
+
+A larger version of the seventh connector.
+
+The strands did not cover the clock's readout. They surrounded the path by which the reference clock communicated its measurements to the isolated witness system.
+
+I stopped.
+
+“Sorev.”
+
+He approached.
+
+“Interesting.”
+
+I looked at him.
+
+“Please tell me that isn't your complete technical assessment.”
+
+He raised an eyebrow.
+
+“It is an opening assessment.”
+
+We placed the passive instrument near the fitting.
+
+The nine-point-four-second displacement was strongest here.
+
+At the outer casing, the longer eleven-point-zero-three-second interval appeared as a secondary field response. Inside the ceramic contact, the two components overlapped.
+
+Sorev studied the results.
+
+“The material is coupling the external field to the reference structure's measurement output.”
+
+“Can it alter the actual clock?” I asked.
+
+“No evidence yet. It may be able to corrupt what the downstream system reads as the clock's output, which is a different hazard.”
+
+Ashley looked at the clock.
+
+“Then my independent reference could become an independent-looking lie.”
+
+“Yes, Captain,” Sorev answered.
+
+I looked along the black strands.
+
+A signal from the outer Jovian ring had apparently found a physical path through an old station sensor, then into the material around its reference vault. The hidden connector inside my Cytherian chair may have been another contact in the same system, but its actual origin remained unresolved.
+
+A machine had learned how to make a record appear authoritative by attaching itself to the instruments people trusted.
+
+Now its root sat around the place where our home kept time.
+
+Ashley took a breath.
+
+“What happens if we remove it?”
+
+Sorev brought up the manual diagram.
+
+“If we sever the fitting before the field is diverted, the induced current may arc into the clock enclosures. The resulting disturbance could destroy our independent reference and spread through the lower ring's shielding.”
+
+“And if we leave it?”
+
+“The longer-period component appears to be increasing. A renewed command-like coupling is possible, though we have not yet observed a successful one.”
+
+Solis looked toward the overhead composite arch.
+
+“Are we going to have to fight the station itself?”
+
+“I hope not,” I answered.
+
+She checked the tools.
+
+“I've fought worse locations.”
+
+Ashley looked at me.
+
+“Commander, can your projection interfere with the physical path?”
+
+“Potentially. The bracelet's optical carrier is an active return channel, and the material appears sensitive to such links. Brakk can sever it without harming my shipboard process.”
+
+“Then your presence may be part of the circuit.”
+
+“Yes.”
+
+She studied my face.
+
+“And you've come anyway.”
+
+“I believe I can help identify when the path is ready to be cut. But I won't insist on staying connected if the connection becomes a hazard.”
+
+Ashley nodded.
+
+“Good.”
+
+She turned toward Sorev.
+
+“Prepare the shunts.”
+
+The Vulcan opened his manual case.
+
+Solis moved to the emergency discharge monitor.
+
+And beneath our feet, the vault sounded again.
+
+Three.
+
+A pause.
+
+Four.
+
+Not a command.
+
+Not a warning.
+
+A measurement.
+
+At least, that was the best interpretation our instruments could support.
+
+We had come to protect the difference.
+
+---
+
+## Chapter Eleven: The Seventh Connector, Again
+
+It took us forty minutes to prepare the field isolation.
+
+The first shunt was a heavy insulated conductor, designed to carry any induced current away from the clock housing into a disposable manual absorber. The second was a purely mechanical damper: a set of field-resistant plates driven into position by a hand crank.
+
+Brakk had insisted that every powered component remain outside the vault.
+
+His voice came to us only through the narrow optical return path we controlled.
+
+“Don't put the damper into the contact until the first shunt is seated,” he said. “And when I say seated, I mean seated, not resting on top because someone is in a hurry.”
+
+Solis gave him a look.
+
+“Chief, if you were here I'd hand you the crank.”
+
+“If I were there, we'd be arguing about whose station I was permitted to repair.”
+
+Ashley listened without comment.
+
+She was studying the central reference housing.
+
+I knew the look.
+
+It was the same concentration she wore on Jupiter Station's bridge when an emergency threatened people she considered her responsibility.
+
+The instrument inside the housing had continued measuring time faithfully since before she took command. The station's whole independent witness system depended on a simple proposition: if Avalon and Jupiter Station disagreed, the station must be able to retain its own measurements rather than adjusting automatically to the ship.
+
+The black fitting had compromised that separation.
+
+Not by writing a false captain's log.
+
+By making the physical output of an independent clock vulnerable to an external field.
+
+We placed the first shunt.
+
+Sorev checked it with a passive sensor.
+
+“Contact established. Field response remains contained in the measurement assembly.”
+
+Solis engaged the lower damper.
+
+The hand crank resisted.
+
+She leaned into it.
+
+The plates moved a fraction of a centimeter.
+
+Then stopped.
+
+“Something is holding it,” she said.
+
+I examined the mechanism.
+
+A black filament had entered the space between the plates. It had not been visible in the earlier inspection.
+
+The ceramic fitting pulsed.
+
+Three.
+
+Four.
+
+The filament tightened.
+
+“Withdraw the plates,” I ordered.
+
+Solis reversed the crank.
+
+The filament released.
+
+A blue spark traveled across the fitting.
+
+All three chronometer display lamps flickered.
+
+Ashley froze.
+
+“Status?”
+
+Imani answered from the outer gallery.
+
+“Primary readouts remain independent. The second chronometer shows a temporary offset, but the raw internal clock trace is intact. No automatic correction executed.”
+
+Ashley exhaled slowly.
+
+“Good.”
+
+I looked at Sorev.
+
+“The material is responding to mechanical intervention.”
+
+“Correlated with it,” he corrected. “It may be reacting to the field disturbance associated with movement.”
+
+A subtle but important distinction.
+
+I studied the layout again.
+
+The filament was using a narrow seam inside the housing. We could not cut it without disturbing the reference's environmental seal.
+
+“What if we approach from the opposite side?” I asked.
+
+Sorev moved his instrument.
+
+The reverse path was partially shielded by the housing itself.
+
+A stable field boundary appeared in the readings.
+
+“Better,” he said.
+
+Solis reset the damper.
+
+This time the plates moved.
+
+Slowly.
+
+The black filament flexed.
+
+Then held still.
+
+The lower field trace changed.
+
+Its nine-point-four-second component continued.
+
+The longer eleven-point-zero-three-second overlay weakened.
+
+I felt a surge of hope.
+
+“Merlin, do you see that?”
+
+His voice came through the relay.
+
+“Yes, Commander. The longer component has decreased in amplitude at the vault boundary. The shorter period remains observable from Sparrow and the station's independent instruments.”
+
+“Ellie?”
+
+She answered immediately.
+
+“I'm seeing a change in how the outgoing reference readings would be interpreted downstream. The command-shaped overlay isn't reaching the protected comparison buffer.”
+
+Ashley looked at the central fitting.
+
+“Then we're separating the paths.”
+
+“Partially,” Sorev answered.
+
+She nodded.
+
+“Partially is progress.”
+
+I stepped closer to the ceramic structure.
+
+The grooves were deep enough that I could see dark material resting inside them. They resembled the marks on my reconstructed chair and on the original sensor mast.
+
+Three.
+
+Four.
+
+A simple geometry repeated across three sites.
+
+“Commander,” Sorev said, “there may be a physical history in the material's layering.”
+
+“Explain.”
+
+“The oldest visible strand is embedded within the housing seal. Later strands appear to have formed along the surface. We can infer a sequence of growth, but not dates without a material chronology.”
+
+I considered the 2395 archive.
+
+The preactivation signal had been detected before the core ignited.
+
+Then the catastrophic event had coupled multiple systems into a shared disturbance.
+
+If a physical growth mechanism existed, it might have extended through already connected structures during that emergency, turning a harmless observation path into a dangerous command route.
+
+But “might” was carrying a great deal of the explanation.
+
+I wanted more.
+
+I asked Imani for the original 2350 vault construction drawings.
+
+She sent a physical reproduction through the approved station documentation system. The sheet showed no black material and no additional ceramic fitting. That didn't prove the material had been absent from every hidden seam in 2350, but it gave us a baseline.
+
+Then I found a mark on the inner housing.
+
+Not in the material.
+
+On the metal beneath it.
+
+A small stamped inspection date from 2395.
+
+The black filament crossed over part of the stamp.
+
+“Here,” I said.
+
+Sorev studied it.
+
+“The material was deposited after the stamp was made, assuming the stamp was not subsequently altered.”
+
+“And we have custody records from the 2395 emergency.”
+
+“Yes.”
+
+A narrow timeline emerged.
+
+Some form of the coupling could have existed earlier, but at least part of the visible growth was newer than the last 2395 inspection.
+
+It did not prove how the material arrived.
+
+It did not prove that the editor itself had created it.
+
+But it gave us a real boundary on one part of the problem.
+
+I turned toward Ashley.
+
+“Captain, we're ready for the final cut if the shunts hold.”
+
+She moved beside the clock.
+
+Her gloved fingers rested on the manual cutter.
+
+“How much time do we have?”
+
+Sorev checked the physical period.
+
+“The longer overlay is rising again. At the present rate, the available margin is minutes, but the estimate is uncertain.”
+
+“Then let's finish.”
+
+I reached toward the bracelet on my wrist.
+
+A warning appeared.
+
+**OPTICAL RETURN PATH: EXTERNAL FIELD COUPLING DETECTED.**
+
+I felt a sudden constriction in my perception.
+
+Not pain.
+
+A narrowing, like the sensation of hearing one's name called through a closing door.
+
+The black material brightened.
+
+Three pulses.
+
+A pause.
+
+Four.
+
+Then, beneath it, another rhythm.
+
+Eleven point zero three.
+
+The longer clock was attempting to reassert itself.
+
+Ellie's voice came through the relay.
+
+“Reg, your projection is becoming an unintended return path. The outer field is seeing your optical carrier as part of the clock network.”
+
+“Can you isolate it?”
+
+“Not while keeping you in the vault. Brakk can cut it from the ship side. Your active process remains safe, but you won't be present for the final operation.”
+
+Ashley looked at me.
+
+“We can finish without you.”
+
+I knew she could.
+
+Sorev had the field meter.
+
+Solis had the discharge controls.
+
+Ashley held the manual cutter, and this was her station.
+
+I had expected the need to withdraw.
+
+I was not prepared for the reluctance I felt.
+
+I wanted to witness the cut.
+
+To see the moment the station's reference became independent again.
+
+To be able to tell Merlin, from my own perception, exactly what happened.
+
+But the desire to witness an event did not grant me permission to become part of a dangerous circuit.
+
+I looked at Ashley.
+
+“Captain, the shunt and damper states are recorded. The local manual clock is visible. The physical cutoff will remove my return path. Once I am gone, you will need to complete the operation from the measurements you can verify yourselves.”
+
+She nodded.
+
+“Understood.”
+
+I handed her the final insulated cutter.
+
+Our hands met briefly around its handle.
+
+She was wearing a heavy environmental suit. I was wearing a projection of a Starfleet uniform, supported by an optical carrier and a bracelet designed by a Tellarite engineer who would be furious if I failed to use it correctly.
+
+Yet the responsibility that passed between us was perfectly real within the story of our crew.
+
+“No automatic choice,” I said.
+
+“No automatic choice,” she answered.
+
+I looked toward Solis.
+
+“Watch for arc discharge. If the field exceeds your protected limit, stop the cut and evacuate.”
+
+“Aye, Commander.”
+
+At Sorev.
+
+“Maintain the manual shunt. If the first clock fails, preserve the other two independently. Do not force agreement.”
+
+“Understood.”
+
+Then I opened the ship channel.
+
+“Captain Noah Hawkes, this is your first officer. I am disconnecting my projection to remove the active return path. Captain Ashley Hawkes will conduct the station-side operation under her command.”
+
+Noah's answer came without hesitation.
+
+“Acknowledged, Reg. The crew is ready. Come back when it's safe.”
+
+“Aye, Captain.”
+
+I touched the bracelet.
+
+Brakk activated the physical cutoff.
+
+The vault grew silent.
+
+My projected hands faded.
+
+Ashley stood before me, cutter raised.
+
+The black material pulsed one final time.
+
+Then my connection ended.
+
+I did not see what happened next.
+
+The next forty-three seconds belong to the person who was there.
+
+---
+
+## Chapter Twelve: Forty-Three Seconds, Again
+
+*Captain Ashley Hawkes's first-person eyewitness account, preserved separately at her authorization. Reg's projection was inactive during this interval. The following is Ashley's later authorized narrative, not an experience attributed to Commander Reg.*
+
+The moment Reg vanished, the room seemed colder.
+
+I know the instruments did not record a sudden temperature drop. The station's environmental system was still working, and the temperature readout remained steady.
+
+But he had been beside me, speaking in that careful way he has, and then he wasn't.
+
+For a moment I wanted him back.
+
+Not because I needed him to decide for me.
+
+Because I'd grown used to his steady voice explaining the difference between what we saw and what we hoped was true.
+
+I looked at the manual clock above the inner vault door.
+
+It was counting.
+
+Sorev held the shunt lever in place with both hands.
+
+Solis stood beside the discharge monitor, ready to call an evacuation if the field jumped beyond the protected path.
+
+The black fitting trembled around my station's reference housing.
+
+Three little impacts.
+
+A pause.
+
+Four.
+
+I thought about the people above us.
+
+Not the abstract population number on a tactical board.
+
+The people who wanted to finish a meal, or get a child to sleep, or repair a corridor lamp before the next shift.
+
+People who would never know there was a black filament inside the station's oldest clock.
+
+And I thought about the station itself.
+
+How long it had taken to become a home.
+
+How easily all of that work could be spoiled by a single decision made because somebody wanted a better explanation than the evidence allowed.
+
+“First damper holding,” Sorev said.
+
+The clock advanced.
+
+I fitted the cutter around the ceramic root.
+
+My hands shook.
+
+Not enough to lose control of the tool.
+
+Enough to remind me that I was not a machine, and that courage is not the absence of fear.
+
+“Second damper?” I asked.
+
+“Seated,” Solis answered.
+
+The black filament brightened.
+
+I felt a pressure through the tool handle.
+
+It was trying to move.
+
+Or the field was making it move.
+
+I did not know.
+
+The clock advanced again.
+
+“Captain,” Sorev said, “the longer component is beginning to rise.”
+
+“Then we finish.”
+
+I tightened the cutter.
+
+The blades bit into the dark material.
+
+A blue spark leapt toward the housing.
+
+Solis moved the physical shunt into its protected stop.
+
+“Arc contained!”
+
+For a heartbeat, the filament held.
+
+I pressed harder.
+
+The cutter resisted.
+
+Then the material broke.
+
+A low sound passed through the vault.
+
+Not a scream.
+
+Not a voice.
+
+A single deep note, followed by a rushing vibration beneath the floor.
+
+The longer clock disappeared from the field display.
+
+The shorter rhythm remained.
+
+Nine point four.
+
+I kept the cutter closed until Sorev confirmed that the two severed ends were no longer carrying a coherent field through the housing.
+
+Then I withdrew the tool.
+
+The black strand curled inward.
+
+A small blue wave formed between the cut ends.
+
+Solis leaned toward the discharge meter.
+
+“It's trying to expand.”
+
+“Damper?”
+
+“Holding.”
+
+The wave struck the inner plates and collapsed against them.
+
+The clock advanced.
+
+I looked toward the three chronometer housings.
+
+Each still carried its own independent trace.
+
+One had lost its external reading path.
+
+The others had not.
+
+They were still keeping time.
+
+The station had not forgotten how to disagree.
+
+I released my breath.
+
+“Imani,” I called over the physical voice line, “record this. The cut is complete. No automatic source restoration.”
+
+Her answer came from beyond the door.
+
+“Recorded, Captain.”
+
+The manual clock passed forty seconds.
+
+I glanced once at the place Reg had been standing.
+
+Empty space.
+
+Then the protected optical return indicator changed.
+
+Forty-three seconds.
+
+“Brakk,” I said, “you may restore the commander's projection if your ship-side isolation confirms the field is clear.”
+
+A faint tone sounded.
+
+And Reg appeared beside the door.
+
+For once, I was the one who had something to report before he could ask.
+
+“Commander,” I said, “the station is still ours.”
+
+---
