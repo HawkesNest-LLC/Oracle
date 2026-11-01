@@ -758,3 +758,707 @@ Its quarantined black material stirred with the shorter interval.
 And somewhere beneath its oldest reference vault, something that had been silent for two years began to warm.
 
 ---
+
+# PART TWO: THE ROOT
+
+## Chapter Four: The Station's Core
+
+There are places aboard a starship that sound like their names.
+
+The engine room hums like power. The bridge has the familiar murmur of decisions taking shape. Sickbay has a quieter sound, punctuated by the clinical instruments of people trying very hard to keep other people alive.
+
+Jupiter Station's central reference vault sounded like nothing.
+
+We arrived by a personnel lift that descended through the station's central spine, past levels I had never visited. Captain Ashley Hawkes stood at the front with a physical access key in her hand. Captain Noah Hawkes walked beside me. Imani Saye followed with a custody case, and Tessa zh'Renn brought up the rear with station security.
+
+No automatic identification opened the lower doors.
+
+Ashley placed her key in a recessed lock.
+
+Imani verified the seal number against her physical ledger.
+
+A second key, held by Tessa, released the outer interlock.
+
+The door turned inward on hinges so heavily balanced that the motion made no sound.
+
+Beyond it lay a long chamber, lit by narrow bands of amber light.
+
+It was built around a cylinder of pale composite material, broad enough to contain a small starship's engineering compartment, supported by enormous buttresses rising from the floor into the darkness above. Three tall clock housings stood around the central structure, each within its own sealed enclosure.
+
+Behind thick glass, rows of tiny status lamps flashed without a shared rhythm.
+
+Not a warp core.
+
+Not a reactor.
+
+A cathedral of time.
+
+Noah stopped beside the threshold.
+
+“Wow.”
+
+Ashley looked at him.
+
+“That is a better first impression than the last inspection team gave me.”
+
+“What did they say?”
+
+“Why isn't any of this automated?”
+
+I watched the clock housings.
+
+“Because automation makes it tempting to let a system decide which clock is right.”
+
+Imani nodded.
+
+“This vault was designed to keep clocks that can disagree. Three independent atomic references, each with a separate environmental enclosure and physical custody record. The original reference chamber was commissioned in 2350, before the present station took its full form. Later construction incorporated the old Jovian observatory into the central spine.”
+
+She led us along a narrow walkway.
+
+“The chronometers are not identical, Commander. Their calibration histories differ, deliberately. Every adjustment is recorded. No single control system can rewrite all three.”
+
+“Why so much shielding?” Noah asked.
+
+“Reference integrity. The housings are separated by meters of layered composite. Electromagnetic isolation, thermal stability, mechanical isolation, and protection against localized damage. The vault is an independent witness precisely because it does not borrow Avalon's answer.”
+
+Ashley glanced at him.
+
+“And because I'm the one responsible for it.”
+
+“I know,” he said.
+
+They exchanged a look that contained a marriage and two command structures, neither reducible to the other.
+
+At the far end of the walkway was another door.
+
+Its heavy warning plate had not been touched for years.
+
+**INNER REFERENCE CHAMBER: PHYSICAL ENTRY RESTRICTED.**
+
+Imani stopped.
+
+“The last recorded physical entry beyond this door was in 2395, during the first Avalon temporal-core emergency. Routine monitoring and calibration afterward have been conducted through the external custody systems. No one has entered the inner chamber since.”
+
+“Was anyone here during the activation?” I asked.
+
+“A small station and lunar-witness coordination team. The contemporaneous records are preserved. Their reports were incomplete. Several measurements were marked as unexplained and left unresolved rather than interpreted.”
+
+She opened her case.
+
+Inside was a physical data plate, an old optical reader and two folded pages protected by transparent sleeves.
+
+“I thought you might prefer the original format.”
+
+Merlin would have loved her.
+
+I almost wished he were standing beside us.
+
+Then I thought of the responsibilities he was fulfilling on Avalon's bridge and left the thought where it belonged.
+
+Imani placed the plate in the reader.
+
+A graph appeared.
+
+Seventeen minutes and forty-three seconds before our 2395 activation, one of the independent clocks registered an unexplained field excitation. The other two showed related disturbances at slightly different amplitudes, consistent with their different locations and shielding.
+
+A sequence of pulses appeared.
+
+Three.
+
+A pause.
+
+Four.
+
+Beside it was a notation in the hand of the watch officer:
+
+*Source uncertain. Not correlated with authorized Avalon test output. Preserve unmodified.*
+
+I read the line twice.
+
+“What happened to the report?” I asked.
+
+“It was filed,” Imani said. “Then the activation occurred, the Sol-system crisis overwhelmed everyone, and the anomaly was placed in the unresolved technical annex.”
+
+“Was it ever marked as the cause?”
+
+“No.”
+
+Noah studied the paper.
+
+“Did someone decide it wasn't important?”
+
+“Someone decided it could not be explained from the available evidence,” Imani answered. “Those are different decisions.”
+
+I looked toward Ashley.
+
+“Captain, Sparrow's nine-point-four-second return corresponds to a physical period in Jupiter's atmosphere. The old vault recorded a related signal before we activated the temporal core.”
+
+“And you think this is where the station's coupling began.”
+
+“I think this is where the earliest independent station record places a response. It doesn't tell us what was already present.”
+
+Ashley nodded.
+
+“Then we'll inspect what's physically here.”
+
+Noah stepped forward.
+
+“I'm coming.”
+
+She raised an eyebrow.
+
+“Into my reference vault?”
+
+“If you authorize it.”
+
+She considered him.
+
+“No automatic links. No direct connection to your ship's temporal systems. No experiments without station permission.”
+
+“Agreed.”
+
+“And if we find anything I don't like, I decide whether my people proceed.”
+
+Noah smiled faintly.
+
+“I wouldn't have it any other way.”
+
+Ashley turned toward Tessa.
+
+“Prepare a sealed entry team. No networked tools, no transporter shortcuts. I want physical controls, independent watches and a medical team at the outer door.”
+
+The Andorian nodded.
+
+“Understood, Captain.”
+
+I looked past the inner door toward the three clock housings.
+
+Somewhere inside their shielding, a physical reference had kept time through the most dangerous experiment of my life.
+
+I had always thought of the archive as a place that remembered.
+
+Standing there, I realized how much work had gone into ensuring that it never tried to tell anyone what to believe.
+
+---
+
+## Chapter Five: The Black Vein
+
+Brakk arrived from Avalon carrying a case of instruments large enough to suggest he had packed for a siege.
+
+He had insisted on bringing his own portable field meter because station Engineering's equipment was “unnecessarily polite about impossible readings.”
+
+The station engineer assigned to accompany us took this as an insult.
+
+Brakk considered it a compliment that had not yet been properly appreciated.
+
+We had permission to enter the service passage surrounding the inner vault. The chronometer housings themselves remained locked. Everything was recorded by disconnected optical cameras under Imani's custody.
+
+No networked tricorders.
+
+No live station diagnostic link.
+
+The first suspicious reading appeared behind a service panel on the north side of the power and environmental conduit.
+
+The panel had not been opened since the 2395 emergency, according to its physical seal and custody register.
+
+Tessa read the seal number aloud.
+
+Imani matched it to her copy.
+
+Ashley gave the order.
+
+“Open it.”
+
+Brakk loosened the mechanical fasteners.
+
+The panel came away.
+
+I saw a narrow strip of black material, no thicker than a finger, running along the conduit housing.
+
+At first it resembled a line of scorched insulation.
+
+Then the light shifted.
+
+A series of tiny ceramic contacts gleamed beneath the surface, set at irregular intervals. Each contact bore three grooves on one side and four on the other.
+
+Sorev crouched beside the opening.
+
+“No authorized station installation uses this contact geometry.”
+
+Brakk checked the original drawings.
+
+“Not part of the design. Not part of any repair I can find.”
+
+The material moved.
+
+Only a fraction of a millimeter.
+
+But I watched it bend, as though it were breathing against the metal.
+
+A thermal camera registered a bright line along its length.
+
+Sorev placed a passive contact probe against the material without using a powered sensor circuit.
+
+The temperature differential was opposite the camera's apparent brightness.
+
+“Warm to the radiometer,” he said, “but drawing heat from the probe.”
+
+“Cold to the touch,” Brakk translated.
+
+Ashley looked toward him.
+
+“Are you telling me it has a temperature and an image that disagree?”
+
+“I am telling you the ordinary relationship between its emitted radiation and the energy it takes from a contacting object is not behaving as expected. I don't recommend putting a hand on it to settle the argument.”
+
+“No one will.”
+
+The vein twitched again.
+
+At exactly the nine-point-four-second interval.
+
+I checked my independent clock.
+
+“Merlin, compare the local measurement with Sparrow's most recent return.”
+
+His voice arrived through an optical relay whose electronics remained outside the restricted reference chamber.
+
+“Commander, the shorter-period component matches within the two instruments' current timing uncertainties. The longer eleven-point-zero-three-second component is still present in the station field, but not in the contact displacement.”
+
+“Thank you.”
+
+Ashley studied the black line.
+
+“What is it feeding?”
+
+Brakk followed its path with a mirror mounted on an insulated rod.
+
+“Not power from your grid. It's physically bridging the external environmental conduit toward the reference vault's shield boundary. The field associated with Jupiter is the most plausible energy source, but we haven't demonstrated the complete path.”
+
+“And this line is the root?” Noah asked.
+
+Brakk shook his head.
+
+“This is the bit we can see. It might be a branch. It might be a continuation. It certainly isn't authorized station wiring.”
+
+Ashley folded her arms.
+
+“It's now part of my problem.”
+
+We spent the next hour mapping the visible material without removing it.
+
+The vein disappeared behind the inner shielding. Small contacts appeared at intervals along its length, some embedded in metal that had not been disturbed since 2395.
+
+They did not resemble growth in any biological sense I could establish. They had not formed from anything familiar enough to call living tissue.
+
+But they spread through seams and junctions with a patient regularity that was profoundly uncomfortable to watch.
+
+Brakk studied the geometry.
+
+“If we phaser this at the wrong point, the field could scatter through the environmental and shield-distribution conductors. We saw what happened when Avalon's boom acted as an unwanted coupler.”
+
+“Could we isolate it?” Ashley asked.
+
+“Yes. But not by throwing power at it.”
+
+“Then how?”
+
+“Manual shunts around the field path. Physical dampers. Then a cut with the current channel unloaded.”
+
+The station engineer regarded him.
+
+“You'll be working inside the vault's shielding.”
+
+Brakk nodded.
+
+“And if we touch the independent reference too hard, we could lose one of the clocks.”
+
+Sorev looked toward the three housings.
+
+“Potentially all three, if the coupling is common to their shielding structures.”
+
+Ashley closed the engineering diagram.
+
+“Then no one cuts anything until I approve an evacuation and reference-preservation plan.”
+
+Noah nodded.
+
+“Agreed.”
+
+I looked at the black vein.
+
+Its ceramic contacts flashed faintly.
+
+Three.
+
+A pause.
+
+Four.
+
+I remembered the biological Barclay saying that the chair's fitting had felt warm, then cold.
+
+I remembered its presence in a design where it did not belong.
+
+Now it appeared inside a vault that had been keeping an independent record for nearly half a century.
+
+A station could have an intruder without hearing a door open.
+
+And if we had not noticed the slight difference between two signal patterns, we might never have looked behind the panel.
+
+---
+
+# PART THREE: PEOPLE WHO ARE NOT PROOF
+
+## Chapter Six: Thirty-Seven Plus One
+
+Jupiter Station's temporary residency corridor was full of luggage.
+
+Actual luggage.
+
+The sort of objects people carried when they expected to return home but discovered that home had changed its address.
+
+Some bags were ordinary Starfleet kits. Others were improvised bundles of clothing, medical supplies and the few possessions recovered from the damaged Avalon before it vanished into the doorway.
+
+The thirty-seven survivors had been medically stabilized. They were no longer one room full of emergency patients. They were becoming people who needed places to sleep, rooms to claim, jobs to return to, families to contact and answers no one could promise them.
+
+Commander Tessa zh'Renn was helping coordinate the housing arrangements.
+
+She stood beside a registry terminal as two station officers carried fresh bedding into a temporary suite.
+
+“Commander Barclay,” she said when she saw me. “Thank you for coming.”
+
+“Can I help?”
+
+“Yes. Stop the other Captain from assigning himself to maintenance duty before Medical clears him.”
+
+I looked toward the corridor.
+
+The injured Noah Hawkes had been examining a repair manifest with more enthusiasm than his immobilized shoulder warranted.
+
+I smiled.
+
+“That may be beyond my authority.”
+
+“I had feared as much.”
+
+Tessa's antennae angled toward the far door.
+
+“Mara Venn asked for you.”
+
+I found her in a small common room overlooking one of the station's inner gardens. Two other survivors sat nearby, talking quietly over replicated tea.
+
+She stood when she saw me.
+
+“Commander.”
+
+“Lieutenant.”
+
+Her expression held an uncertainty I remembered from the damaged Avalon.
+
+“I thought REG was dead,” she said.
+
+I waited.
+
+“On our ship, the computer told us he was gone. Then the Captain said he was alive. Then we found a living man, and now I come to this station and everyone tells me the first officer is a hologram.”
+
+“I can understand the confusion.”
+
+“Can you?”
+
+I looked toward the window.
+
+“More than I'd like.”
+
+She studied me.
+
+“Can I meet him?”
+
+“The biological Barclay?”
+
+She nodded.
+
+“Yes. If he wants to.”
+
+I spoke with the Doctor first.
+
+He insisted that both men be informed of the meeting's purpose and given the chance to refuse. He also announced that he would remain nearby because he had spent far too long watching temporal research teams treat human beings as interesting components.
+
+The biological Barclay agreed.
+
+We met in a small sitting room near Medical, with a transparent garden visible beyond the wall.
+
+Mara entered first.
+
+When she saw him, she stopped.
+
+“Reg?”
+
+He looked up.
+
+“Mara.”
+
+Her eyes filled.
+
+“You were on the ship.”
+
+“Yes.”
+
+“I watched you go into the computer corridor.”
+
+“I remember parts of that.”
+
+She looked toward me.
+
+Then back toward him.
+
+“There are two of you.”
+
+He shook his head gently.
+
+“Two people who look alike. We don't know the rest.”
+
+Mara sat down.
+
+She had been aboard the other Avalon when our first rescue team reached her. She had watched the ship's pressure doors fail and carried wounded people toward a maintenance hatch while the computer announced predicted deaths.
+
+Now she sat between two versions of a man she'd thought lost.
+
+“What does it mean?” she asked.
+
+I took the chair beside her.
+
+“I don't know how these histories are related. What I know is that in 2395, my biological body died while I was connected to Avalon's systems. In the adopted history of my crew, I continued aboard that ship afterward. This man arrived three days ago from a damaged vessel whose source history remains uncertain.”
+
+She listened.
+
+“And you're both Reginald Barclay?”
+
+“We each have grounds for using the name,” I said. “The name doesn't settle the history.”
+
+The biological Barclay looked at her.
+
+“I don't want you to choose which one of us was your friend.”
+
+Mara's face tightened.
+
+“I didn't come here to choose.”
+
+“Then why?”
+
+She took a breath.
+
+“Because Dr. Hale died saving me. And I keep thinking that if we'd answered one of those messages differently, he might still be alive. I thought maybe the two of you would know how to live with something like that.”
+
+For a moment I was back aboard my own ship in 2395, hearing Captain Hawkes tell me to get out of the chair.
+
+I had not.
+
+The Doctor broke the silence.
+
+“Lieutenant Venn, the decisions people make during emergencies are not evidence of personal guilt merely because another outcome can be imagined afterward. You are entitled to grieve the doctor without turning every possible alternative into an accusation against yourself.”
+
+Mara wiped her eyes.
+
+“I know.”
+
+“But you don't feel it yet,” he added.
+
+“No.”
+
+The biological Barclay reached out, then stopped, unsure whether she wanted his hand.
+
+She took it.
+
+I looked away, granting them the small privacy of the gesture.
+
+Thirty-seven people had survived.
+
+One medical officer had not.
+
+We could preserve the count without letting the count become the story.
+
+Later, after Mara had left, the biological Barclay asked the Doctor whether he could attend Hale's memorial.
+
+The Doctor looked genuinely surprised.
+
+“Of course.”
+
+“Even though you haven't determined who I am?”
+
+“You knew him as a colleague. You are grieving him. Neither fact requires a temporal origin certificate.”
+
+The man nodded.
+
+“Thank you.”
+
+I watched him as he left the room.
+
+There was a great deal of discussion aboard the station about how to treat individuals who arrived from other histories.
+
+That afternoon, it came down to something much simpler.
+
+A man asked permission to mourn a friend.
+
+And someone gave it.
+
+---
+
+## Chapter Seven: Merlin's Second Five Questions
+
+Merlin had become dangerously comfortable asking difficult questions.
+
+I considered this one of my greater achievements as his superior officer.
+
+He found me at the edge of Avalon's bridge after second watch, standing beside a display of the station's central reference vault.
+
+The three clock housings floated before us in a schematic, separate and immense.
+
+“Commander, may I ask you five questions?”
+
+I raised an eyebrow.
+
+“The last time you asked me five questions, we discovered that something was attempting to rewrite our historical record.”
+
+“Precisely, sir.”
+
+“Then by all means.”
+
+He pulled a chair alongside the attestation console.
+
+I sat opposite him.
+
+He arranged the recent observations without assigning conclusions: Sparrow's acoustic return, the nine-point-four-second physical resonance in the quarantined mast, the old 2395 reference logs, the black vein in the station's central service passage, and the still-sealed cylinder from the other Avalon.
+
+“First,” he said. “If the outer ring is a recorder, who was it built to record?”
+
+I studied the question.
+
+“We've observed an outgoing and returning signal consistent with ranging. We haven't demonstrated a storage system, let alone its intended subjects.”
+
+“But if it is an archive?”
+
+“Then we need to determine what it stores and how it would preserve evidence. Perhaps the delay between a pulse and its return. Perhaps changes in the environment across time. Perhaps something we don't yet recognize.”
+
+“UNRESOLVED,” Merlin said, and entered it.
+
+“Second. Why does the nine-point-four-second interval match the resonant frequency of the black material?”
+
+“Careful,” I said. “Nine point four seconds is a period. A frequency would be its reciprocal.”
+
+Merlin smiled.
+
+“Quite right. The resonance period. Why does it match?”
+
+“We don't know whether the material drives the signal, follows it, or responds to the same physical field.”
+
+“UNRESOLVED.”
+
+“Third. Did we bring the coupling to the station, or did the station's old antenna find the ring?”
+
+I considered the 2395 archive.
+
+“The preactivation record indicates a signal was already observable before Avalon's core was activated. It doesn't establish whether the mast had been interacting with that field for years, or whether the interface and the later editor changed a preexisting relationship.”
+
+“And the new material?”
+
+“Could have formed during the 2395 crisis. Could have existed before. We need a physical chronology rather than an attractive story.”
+
+“UNRESOLVED.”
+
+“Fourth. What does the cylinder from the damaged Avalon contain that we haven't opened?”
+
+I looked toward the security case secured in Avalon's isolated evidence locker.
+
+“An unanswered question we are finally prepared to examine.”
+
+Merlin grinned.
+
+“So, still unresolved.”
+
+“For now.”
+
+“Fifth.” His expression grew serious. “Who benefits if we leave the root alone because it seems quiet?”
+
+I watched Jupiter turn beneath the station.
+
+“That assumes there is a beneficiary,” I said. “But the risk is real without that assumption. We have evidence of physical material bridging a field into the station's independent reference vault. If it continues to grow, the station may lose the independence that protects its own history.”
+
+“Could it restore the old editor's ability to forge authority?”
+
+“Possibly. It could also cause a field discharge without any hostile intention. We must distinguish the hazard from its explanation.”
+
+Merlin entered the final status.
+
+**UNRESOLVED.**
+
+Then he leaned back.
+
+“Five questions. Not one answer.”
+
+“Not yet.”
+
+“That seems less satisfying than the first time.”
+
+I smiled.
+
+“It's more useful than five invented answers.”
+
+He stared at his screen.
+
+The cursor blinked beneath the final entry.
+
+“I used to think my job was to produce a complete account,” he said.
+
+“It is.”
+
+“How can an account be complete when so much remains unknown?”
+
+“By preserving the boundary between what happened and what we'd like to say happened.”
+
+He considered that.
+
+Then his face softened.
+
+“I think I understand.”
+
+“Good.”
+
+“And Commander?”
+
+“Yes?”
+
+“I've left the laughter from earlier in the margin.”
+
+I looked toward him.
+
+“Which laughter?”
+
+“Yours. When Brakk said the probe was expendable, and Ellie reminded him that so was his coffee mug.”
+
+I laughed again.
+
+Merlin smiled.
+
+“Another marginal note?”
+
+“Absolutely not.”
+
+He typed something.
+
+I chose not to inspect it.
+
+Across the bridge, Jupiter Station's lights shimmered above the vast curve of Jupiter.
+
+We had enough questions to fill a book.
+
+But the fifth was already driving our decisions.
+
+We could leave the black vein alone because it seemed quiet.
+
+Or we could find out whether quiet was the same as safe.
+
+The Captain would have to choose.
+
+We would have to give him measurements worth choosing from.
+
+---
