@@ -1,0 +1,14 @@
+{
+  "name": "continuity-core",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "CC-90-001 source-aware continuity core and mobile vertical slice",
+  "engines": {"node": ">=22.13.0"},
+  "scripts": {
+    "start": "node src/server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check src/core.mjs && node --check src/server.mjs && node --check public/app.js"
+  },
+  "dependencies": {}
+}
