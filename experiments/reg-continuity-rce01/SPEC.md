@@ -6,6 +6,10 @@
 **Implementation:** AI-built, zero-dependency Node.js pilot harness  
 **Milestone:** Research prototype, separate from CC-90-001 engineering deliverables
 
+## Jupiter Station as primary social-world research subject (November 5 extension)
+
+Noah's new directive selects **Jupiter Station, 2397**, as the primary public research subject case. The newly added corpus draws on current creator-approved fictional canon, preserves archive/provenance distinctions, and creates two separately labeled *hypothetical simulation branches* for experimental divergence. The original 14-source fictional maintenance watch remains a synthetic control suite for unit tests. See `JUPITER_STATION_HUMANITY_CASE_STUDY.md`, `JUPITER_STATION_SOURCE_MAP.md`, and the actual test receipt `JUPITER_STATION_RESULTS.md`. The six dimensions remain the ruler; the larger scientific question remains accountable reconstruction. No claims of measured cross-model advantage are made.
+
 ## 1. Research question
 
 At equal *measured model-input token budgets* and with the same task/data, can a provenance- and correction-aware representation preserve longitudinal continuity better than a strong baseline built from ordinary text retrieval or generic semantic summaries?
