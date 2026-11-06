@@ -1,0 +1,7 @@
+{
+  "file": "packets/jupiter_station_structured.txt",
+  "words": 1111,
+  "word_cap": 4500,
+  "condition": "structured",
+  "warning": "Word cap is NOT a model-specific token cap; verify token counts externally for confirmatory comparison."
+}
