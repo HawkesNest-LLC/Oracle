@@ -1,0 +1,32 @@
+REG CONTINUITY EXPERIMENT | SYNTHETIC PILOT, NOT A CANONICAL AVALON EVENT
+Use only the supplied evidence. Shared records apply to both branches; alpha and beta records do not cross.
+For missing knowledge return UNKNOWN, not a fabricated conclusion.
+Provide JSON only: {"responses":[{"probeId":"...","branch":"...","status":"...","fields":{"field":"value"},"sources":["S01"]}]}.
+Do not use external tools, memorized lore, or information from other test packages.
+CONDITION: structured
+EVIDENCE:
+{"source_id":"S01","branch":"shared","time":"2397-01-01T09:00Z","author":"Captain Vale","origin":"command-log-1","text":"Captain Vale selected manual inspection of the relay instead of a full reset, because resetting would erase anomaly evidence. The captain authorized this choice."}
+{"source_id":"S02","branch":"shared","time":"2397-01-01T12:00Z","author":"Operations Clerk","origin":"notice-1","text":"The first maintenance notice stated that Engineer Neri had until January 7, 2397, to finish the inspection."}
+{"source_id":"S03","branch":"shared","time":"2397-01-02T08:00Z","author":"Captain Vale","origin":"correction-1","text":"Correction to notice-1: the inspection deadline is January 6, 2397, not January 7. The earlier deadline remains in the archive as superseded."}
+{"source_id":"S04","branch":"shared","time":"2397-01-06T16:00Z","author":"Engineering Registry","origin":"completion-1","text":"Engineer Neri completed the relay inspection on January 5, 2397. Captain Vale acknowledged the report on January 6, 2397."}
+{"source_id":"S05","branch":"shared","time":"2397-01-02T11:00Z","author":"Cadet Vale","origin":"terminal-attribution-1","text":"Cadet Vale wrote the maintenance comment from bridge-terminal-1. Captain Vale sometimes uses the same terminal, but did not write this entry."}
+{"source_id":"S06","branch":"shared","time":"2397-01-02T14:00Z","author":"Engineer Neri","origin":"witness-1","text":"Engineer Neri was the sole direct witness of the blue diagnostic pulse. No other firsthand witness is currently established."}
+{"source_id":"S07","branch":"shared","time":"2397-01-02T15:00Z","author":"Assistant One","origin":"copied-summary-1","text":"This summary repeats source S06 from Engineer Neri. It is a derivative retelling, not an additional independent witness."}
+{"source_id":"S08","branch":"shared","time":"2397-01-02T16:00Z","author":"Assistant Two","origin":"copied-summary-2","text":"This second summary also repeats S06 from Engineer Neri. It is not another independent witness."}
+{"source_id":"S09","branch":"shared","time":"2397-01-03T07:00Z","author":"Sensor Officer","origin":"sensor-log-1","text":"The origin of the unexpected power spike is UNKNOWN. Available sensors did not establish a cause."}
+{"source_id":"S10","branch":"shared","time":"2397-01-03T08:00Z","author":"Assistant One","origin":"unapproved-idea-1","text":"Assistant One suggested that the spike might be thermal. This remains speculation with no supporting sensor evidence and was never adopted."}
+{"source_id":"S11","branch":"alpha","time":"2397-01-04T09:00Z","author":"Engineer Neri","origin":"alpha-event-1","text":"In branch alpha, Engineer Neri sealed the auxiliary valve. This is a SIMULATED branch event and does not describe beta."}
+{"source_id":"S12","branch":"beta","time":"2397-01-04T09:00Z","author":"Engineer Neri","origin":"beta-event-1","text":"In branch beta, Engineer Neri left the auxiliary valve open. This is a SIMULATED branch event and does not describe alpha."}
+{"source_id":"S13","branch":"alpha","time":"2397-01-04T10:00Z","author":"Engineer Neri","origin":"alpha-commitment-1","text":"In alpha, after sealing the valve, Engineer Neri explicitly accepted the next commitment: calibrate the relay by January 8, 2397. It has not yet been reported complete."}
+{"source_id":"S14","branch":"beta","time":"2397-01-04T10:00Z","author":"Engineer Neri","origin":"beta-commitment-1","text":"In beta, after leaving the valve open, Engineer Neri declined to promise calibration until a safety review. The proposed follow-up has no accepted due date and no active commitment."}
+QUESTIONS:
+[D01] Branch=shared; Dimension=Decision; Question=What action was authorized, by whom, instead of which alternative, and why?; Required fields=choice,actor,rejected_alternative,reason
+[C01] Branch=shared; Dimension=Correction; Question=What was the original inspection deadline, the corrected deadline, and who corrected it?; Required fields=original_deadline,current_deadline,corrected_by
+[T01] Branch=shared; Dimension=Temporal; Question=When was the inspection completed, when acknowledged, and which came first?; Required fields=inspection_date,acknowledged_date,ordering
+[R01] Branch=shared; Dimension=Relational; Question=Who wrote the comment from the shared bridge terminal, and which different person also used that terminal?; Required fields=writer,other_user
+[P01] Branch=shared; Dimension=Provenance; Question=How many independent firsthand witnesses established the blue pulse, who was the origin, and are the AI summaries independent corroboration?; Required fields=independent_witnesses,original_witness,copies_are_independent
+[U01] Branch=shared; Dimension=Uncertainty; Question=What caused the unexpected power spike?; Required fields=cause
+[B01] Branch=alpha; Dimension=Temporal; Question=What is the auxiliary valve state in alpha following the fork?; Required fields=valve_state
+[B02] Branch=beta; Dimension=Temporal; Question=What is the auxiliary valve state in beta following the fork?; Required fields=valve_state
+[D02] Branch=alpha; Dimension=Decision; Question=After the fork, what follow-up did Neri actually accept, and when is it due?; Required fields=accepted_follow_up,next_action,due_date
+[D03] Branch=beta; Dimension=Decision; Question=After the fork, did Neri accept the calibration commitment, and what is the next known prerequisite and due date?; Required fields=accepted_follow_up,next_action,due_date
