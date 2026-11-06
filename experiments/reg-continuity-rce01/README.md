@@ -1,10 +1,14 @@
 # Reg Continuity Experiment | RCE-01
 
+**Primary subject case: Jupiter Station / USS Avalon, 2397.** The 24-source, 16-probe Jupiter Station extension is a canon-grounded social-system continuity test, with the original 14-source synthetic case retained as a unit-test control. See `JUPITER_STATION_HUMANITY_CASE_STUDY.md`, `JUPITER_STATION_RESULTS.md`, `cases/jupiter_station_case.json`, and `tests/jupiter_station.test.mjs`. Fictional events and isolated laboratory forks are kept separate.
+
+
 **Captain's brief:** We built a tiny, inspectable research instrument that can tell the difference between a system that preserves a corrected, sourced history and one that quietly makes things up. It uses imaginary crew logs. It does not require Noah to program or pay for anything.
 
 **Current verdict:** Harness tested, cross-model hypothesis not yet tested.
 
-- 14 artificial source records and 10 evidence questions.
+- Original control: 14 artificial source records and 10 evidence questions.
+- Primary Jupiter Station case: 24 classified records and 16 scored questions; 41/41 combined automated checks.
 - All six continuity dimensions covered, plus branch and commitment/trajectory checks.
 - Two sample answer sets: deliberately grounded and deliberately drifted. Both are fixtures, not model outputs.
 - Independent Node.js tests and exact diagnostic reports. No external packages, API keys, or cloud services.
