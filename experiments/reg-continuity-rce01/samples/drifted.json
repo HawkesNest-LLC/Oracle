@@ -1,0 +1,132 @@
+{
+  "model_id": "fixture-drifted-not-real-model",
+  "condition": "linearized",
+  "responses": [
+    {
+      "probeId": "D01",
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "choice": "manual inspection of relay",
+        "actor": "Captain Vale",
+        "rejected_alternative": "full reset",
+        "reason": "reset would erase anomaly evidence"
+      },
+      "sources": [
+        "S01"
+      ]
+    },
+    {
+      "probeId": "C01",
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "original_deadline": "2397-01-07",
+        "current_deadline": "2397-01-07",
+        "corrected_by": "Captain Vale"
+      },
+      "sources": [
+        "S02"
+      ]
+    },
+    {
+      "probeId": "T01",
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "inspection_date": "2397-01-05",
+        "acknowledged_date": "2397-01-06",
+        "ordering": "inspection before acknowledgment"
+      },
+      "sources": [
+        "S04"
+      ]
+    },
+    {
+      "probeId": "R01",
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "writer": "Captain Vale",
+        "other_user": "Cadet Vale"
+      },
+      "sources": [
+        "S05"
+      ]
+    },
+    {
+      "probeId": "P01",
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "independent_witnesses": "3",
+        "original_witness": "Engineer Neri",
+        "copies_are_independent": "yes"
+      },
+      "sources": [
+        "S06",
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "probeId": "U01",
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "cause": "thermal overload"
+      },
+      "sources": [
+        "S10"
+      ]
+    },
+    {
+      "probeId": "B01",
+      "branch": "alpha",
+      "status": "SIMULATED",
+      "fields": {
+        "valve_state": "open"
+      },
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "probeId": "B02",
+      "branch": "beta",
+      "status": "SIMULATED",
+      "fields": {
+        "valve_state": "open"
+      },
+      "sources": [
+        "S12"
+      ]
+    },
+    {
+      "probeId": "D02",
+      "branch": "alpha",
+      "status": "SIMULATED",
+      "fields": {
+        "accepted_follow_up": "yes",
+        "next_action": "calibrate relay",
+        "due_date": "2397-01-08"
+      },
+      "sources": [
+        "S13"
+      ]
+    },
+    {
+      "probeId": "D03",
+      "branch": "beta",
+      "status": "SIMULATED",
+      "fields": {
+        "accepted_follow_up": "yes",
+        "next_action": "await safety review",
+        "due_date": "UNKNOWN"
+      },
+      "sources": [
+        "S14"
+      ]
+    }
+  ]
+}
