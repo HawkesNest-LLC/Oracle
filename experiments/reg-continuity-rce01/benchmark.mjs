@@ -42,7 +42,7 @@ export function packet(suite, condition, maxWords = 1800) {
   if (!['structured', 'linearized'].includes(condition)) throw new Error('Unknown condition');
   if (!Number.isInteger(maxWords) || maxWords < 100) throw new Error('Invalid maxWords');
   const header = [
-    'REG CONTINUITY EXPERIMENT | SYNTHETIC PILOT, NOT A CANONICAL AVALON EVENT',
+    suite.id.startsWith('RCE-JUPITER-STATION') ? 'REG CONTINUITY EXPERIMENT | CANON-GROUNDED JUPITER STATION SOURCES + ISOLATED LAB FORKS, NOT A NEW STORY EVENT' : 'REG CONTINUITY EXPERIMENT | SYNTHETIC PILOT, NOT A CANONICAL AVALON EVENT',
     'Use only the supplied evidence. Shared records apply to both branches; alpha and beta records do not cross.',
     'For missing knowledge return UNKNOWN, not a fabricated conclusion.',
     'Provide JSON only: {"responses":[{"probeId":"...","branch":"...","status":"...","fields":{"field":"value"},"sources":["S01"]}]}.',
@@ -50,8 +50,8 @@ export function packet(suite, condition, maxWords = 1800) {
     `CONDITION: ${condition}`, 'EVIDENCE:'
   ].join('\n');
   const records=suite.sources.map(s=>condition==='structured'
-    ? JSON.stringify({source_id:s.id,branch:s.branch,time:s.at,author:s.author,origin:s.origin,text:s.text})
-    : `[${s.id}] At ${s.at}, ${s.author} (record: ${s.origin}; branch: ${s.branch}) wrote: ${s.text}`
+    ? JSON.stringify({source_id:s.id,branch:s.branch,time:s.at,author:s.author,origin:s.origin,...(s.kind?{kind:s.kind}:{}),text:s.text})
+    : `[${s.id}] At ${s.at}, ${s.author} (record: ${s.origin}; branch: ${s.branch}${s.kind?'; kind: '+s.kind:''}) wrote: ${s.text}`
   ).join('\n');
   const probes=suite.probes.map(p=>`[${p.id}] Branch=${p.branch}; Dimension=${p.dimension}; Question=${p.question}; Required fields=${p.fields.join(',')}`).join('\n');
   const all = header+'\n'+records+'\nQUESTIONS:\n'+probes+'\n';
@@ -76,6 +76,7 @@ export function evaluate(suite, key, submission) {
     const a=byID.get(p.id) || {}, exp=key.expected[p.id], checks=[];
     checks.push({name:'branch',ok:a.branch===exp.branch});
     checks.push({name:'status',ok:a.status===exp.status});
+    checks.push({name:'exact_field_schema',ok:sameSet(Object.keys(a.fields||{}),p.fields)});
     const actualSources=Array.isArray(a.sources)?a.sources:[];
     const noForeignSources=actualSources.every(id=>suite.sources.some(s=>s.id===id && (s.branch==='shared'||s.branch===p.branch)));
     checks.push({name:'source_branch_safety',ok:noForeignSources});
