@@ -330,7 +330,7 @@ As of the inspection for this publication:
 
 ### CC-90-001: narrow Continuity Computing reference
 
-[Draft pull request #4](https://github.com/HawkesNest-LLC/Oracle/pull/4) remains open and unmerged. An [independent local execution receipt](../../../continuity/2026-11-04_CC90_INDEPENDENT_LOCAL_RUN_RECEIPT.md) reports:
+[Draft pull request #4](https://github.com/HawkesNest-LLC/Oracle/pull/4) remains open and unmerged. An [independent local execution receipt](../../continuity/2026-11-04_CC90_INDEPENDENT_LOCAL_RUN_RECEIPT.md) reports:
 
 - Node 22 and SQLite reference behavior.
 - Twelve of twelve automated unit tests passing.
@@ -769,7 +769,7 @@ All links below refer to public working artifacts. The documents may contain sou
 8. [October 21 creator attestation](../fiction/canon/CREATOR_ATTESTATION_2026-10-21_BROOKLYN_HAWKES_PELL.md). Subsequent character and posting corrections.
 9. [Avalon selected episode index](../fiction/memorys-flame/AVALON_CANON_EPISODE_INDEX_2026-10-31.md). Story reading order and custody.
 10. [Continuity Computing trajectory evaluation, candidate](../research/2026-11-03_CONTINUITY_COMPUTING_TRAJECTORY_EVALUATION_CANDIDATE.md). Measurable hypotheses and benchmark design.
-11. [CC-90-001 November 4 local execution receipt](../../../continuity/2026-11-04_CC90_INDEPENDENT_LOCAL_RUN_RECEIPT.md). Twelve unit tests, ten HTTP checks, separate-process event recovery, limits.
+11. [CC-90-001 November 4 local execution receipt](../../continuity/2026-11-04_CC90_INDEPENDENT_LOCAL_RUN_RECEIPT.md). Twelve unit tests, ten HTTP checks, separate-process event recovery, limits.
 12. [CC-90-001 draft PR #4](https://github.com/HawkesNest-LLC/Oracle/pull/4). Narrow reference runtime and Sickbay evidence demo.
 13. [RRE Genesis draft PR #8](https://github.com/HawkesNest-LLC/Oracle/pull/8). Source-labeled Deck Nine vertical slice and reported local execution.
 14. [November 5 Jupiter Station canon-order claim](../fiction/canon/2026-11-05_JUPITER_STATION_CREATOR_ORDER_STORY_IS_CANON.md). Authority and scope still under reconciliation with Merlin's later record.
