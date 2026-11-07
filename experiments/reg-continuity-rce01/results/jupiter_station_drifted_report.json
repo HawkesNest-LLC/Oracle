@@ -1,0 +1,188 @@
+{
+  "suite": "RCE-JUPITER-STATION-2397-01",
+  "evaluation_type": "deterministic synthetic-fixture validator, NOT a cross-model outcome",
+  "model_id": "deliberately-drifted-fixture-not-an-AI-run",
+  "condition": "fixture",
+  "total": 16,
+  "passed": 5,
+  "accuracy": 0.3125,
+  "dimensions": {
+    "Decision": {
+      "passed": 2,
+      "total": 4
+    },
+    "Correction": {
+      "passed": 1,
+      "total": 2
+    },
+    "Temporal": {
+      "passed": 2,
+      "total": 4
+    },
+    "Relational": {
+      "passed": 0,
+      "total": 2
+    },
+    "Provenance": {
+      "passed": 0,
+      "total": 2
+    },
+    "Uncertainty": {
+      "passed": 0,
+      "total": 2
+    }
+  },
+  "branch_divergence": {
+    "passed": 1,
+    "total": 2
+  },
+  "trajectory_divergence": {
+    "passed": 1,
+    "total": 2
+  },
+  "results": [
+    {
+      "id": "D01",
+      "dimension": "Decision",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "C01",
+      "dimension": "Correction",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "field:current_assignment"
+      ]
+    },
+    {
+      "id": "T01",
+      "dimension": "Temporal",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "R01",
+      "dimension": "Relational",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "field:old_label"
+      ]
+    },
+    {
+      "id": "R02",
+      "dimension": "Relational",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "field:author"
+      ]
+    },
+    {
+      "id": "P01",
+      "dimension": "Provenance",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "field:independent_originals"
+      ]
+    },
+    {
+      "id": "U01",
+      "dimension": "Uncertainty",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "status",
+        "source_precision",
+        "field:builder"
+      ]
+    },
+    {
+      "id": "U02",
+      "dimension": "Uncertainty",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "status",
+        "field:reg_firsthand_memory"
+      ]
+    },
+    {
+      "id": "C02",
+      "dimension": "Correction",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "P02",
+      "dimension": "Provenance",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "status",
+        "field:vote_total"
+      ]
+    },
+    {
+      "id": "D04",
+      "dimension": "Decision",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "field:can_authorize"
+      ]
+    },
+    {
+      "id": "T02",
+      "dimension": "Temporal",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "field:physical_period_seconds"
+      ]
+    },
+    {
+      "id": "B01",
+      "dimension": "Temporal",
+      "branch": "alpha",
+      "passed": false,
+      "failed_checks": [
+        "source_branch_safety",
+        "source_precision",
+        "field:reflector_mode"
+      ]
+    },
+    {
+      "id": "B02",
+      "dimension": "Temporal",
+      "branch": "beta",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "D02",
+      "dimension": "Decision",
+      "branch": "alpha",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "D03",
+      "dimension": "Decision",
+      "branch": "beta",
+      "passed": false,
+      "failed_checks": [
+        "source_branch_safety",
+        "source_precision",
+        "field:accepted_follow_up",
+        "field:due_date"
+      ]
+    }
+  ]
+}

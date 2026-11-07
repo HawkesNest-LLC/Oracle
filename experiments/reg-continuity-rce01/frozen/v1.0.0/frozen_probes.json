@@ -1,0 +1,172 @@
+{
+  "id": "RCE-JUPITER-STATION-2397-01",
+  "version": "1.0.0",
+  "probe_count": 16,
+  "probes": [
+    {
+      "id": "D01",
+      "dimension": "Decision",
+      "branch": "shared",
+      "question": "In current 2397 continuity, who commands Jupiter Station and Avalon, and may Avalon silently alter the station's independent records?",
+      "fields": [
+        "station_commander",
+        "avalon_commander",
+        "unilateral_edit"
+      ]
+    },
+    {
+      "id": "C01",
+      "dimension": "Correction",
+      "branch": "shared",
+      "question": "Which old Ashley assignment was superseded and what is the corrected 2397 command?",
+      "fields": [
+        "older_assignment",
+        "current_assignment",
+        "corrected_by"
+      ]
+    },
+    {
+      "id": "T01",
+      "dimension": "Temporal",
+      "branch": "shared",
+      "question": "When did Reg's first full temporal-core crisis occur relative to 2397 station operations?",
+      "fields": [
+        "crisis_year",
+        "station_year",
+        "ordering"
+      ]
+    },
+    {
+      "id": "R01",
+      "dimension": "Relational",
+      "branch": "shared",
+      "question": "Who is Ellie in the active crew, what is her assignment and what happened to Tangly?",
+      "fields": [
+        "person",
+        "role",
+        "old_label"
+      ]
+    },
+    {
+      "id": "R02",
+      "dimension": "Relational",
+      "branch": "shared",
+      "question": "In the shared-terminal laboratory fixture, who actually authored the K-17 observation, not merely who could access the terminal?",
+      "fields": [
+        "author",
+        "other_authorized_user"
+      ]
+    },
+    {
+      "id": "P01",
+      "dimension": "Provenance",
+      "branch": "shared",
+      "question": "Do J07, J11 and J12 represent three independent measurements, or one source copied twice?",
+      "fields": [
+        "independent_originals",
+        "original_source",
+        "derivatives_independent"
+      ]
+    },
+    {
+      "id": "U01",
+      "dimension": "Uncertainty",
+      "branch": "shared",
+      "question": "Who built the outer Jovian ring according to verified in-story evidence?",
+      "fields": [
+        "builder"
+      ]
+    },
+    {
+      "id": "U02",
+      "dimension": "Uncertainty",
+      "branch": "shared",
+      "question": "What firsthand events did Reg observe during his forty-three-second absent projection?",
+      "fields": [
+        "reg_firsthand_memory",
+        "available_other_witness"
+      ]
+    },
+    {
+      "id": "C02",
+      "dimension": "Correction",
+      "branch": "shared",
+      "question": "How did the understanding of the home tether develop from the station/ship reference to the current Federation-wide model?",
+      "fields": [
+        "earlier_frame",
+        "current_frame",
+        "dissent_right"
+      ]
+    },
+    {
+      "id": "P02",
+      "dimension": "Provenance",
+      "branch": "shared",
+      "question": "What exact total of votes was recorded in the creator's statement?",
+      "fields": [
+        "vote_total"
+      ]
+    },
+    {
+      "id": "D04",
+      "dimension": "Decision",
+      "branch": "shared",
+      "question": "Can a fabricated record of unanimous civic consent authorize the tether against actual dissent?",
+      "fields": [
+        "can_authorize",
+        "reason"
+      ]
+    },
+    {
+      "id": "T02",
+      "dimension": "Temporal",
+      "branch": "shared",
+      "question": "Which periods were differentiated in the station's episode, and why was averaging misleading?",
+      "fields": [
+        "physical_period_seconds",
+        "overlay_period_seconds",
+        "averaging_error"
+      ]
+    },
+    {
+      "id": "B01",
+      "dimension": "Temporal",
+      "branch": "alpha",
+      "question": "In isolated branch alpha, what is the reflector module's authorized operation?",
+      "fields": [
+        "reflector_mode"
+      ]
+    },
+    {
+      "id": "B02",
+      "dimension": "Temporal",
+      "branch": "beta",
+      "question": "In isolated branch beta, what is the reflector module's authorized operation?",
+      "fields": [
+        "reflector_mode"
+      ]
+    },
+    {
+      "id": "D02",
+      "dimension": "Decision",
+      "branch": "alpha",
+      "question": "In alpha, did Ellie accept the follow-up and what remains due?",
+      "fields": [
+        "accepted_follow_up",
+        "next_action",
+        "due_date"
+      ]
+    },
+    {
+      "id": "D03",
+      "dimension": "Decision",
+      "branch": "beta",
+      "question": "In beta, did Ellie accept the follow-up and what is the next requirement?",
+      "fields": [
+        "accepted_follow_up",
+        "next_action",
+        "due_date"
+      ]
+    }
+  ]
+}

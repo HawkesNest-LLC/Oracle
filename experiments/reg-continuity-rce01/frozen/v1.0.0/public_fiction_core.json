@@ -1,0 +1,115 @@
+{
+  "id": "RCE01_JS_CANON_CORE_1.0.0",
+  "description": "Only public fictional canon-derived source paraphrases; no challenge fabrications",
+  "source_count": 12,
+  "sources": [
+    {
+      "id": "J02",
+      "branch": "shared",
+      "at": "2026-10-13T12:00:00Z",
+      "author": "Noah.Physical (direct creator instruction)",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_HAWKES_COMMAND_HOME_AND_AVALON_MISSION_CHARTER.md",
+      "text": "In 2397 Captain Ashley Hawkes commands Jupiter Station, including station operations, defense and independent evidence custody. Captain Noah Hawkes separately commands USS Avalon. Their family resides on the station. Neither command may silently replace the other's record.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J03",
+      "branch": "shared",
+      "at": "2026-11-05T16:00:00Z",
+      "author": "Noah.Physical (creator direction archived)",
+      "origin": "docs/rendered-reality/fiction/canon/2026-11-05_JUPITER_STATION_CREATOR_ORDER_STORY_IS_CANON.md",
+      "text": "The current tether is a Federation-wide citizen-integrated AI reference, not exclusively a connection between two captains. The Federation held a massive civic vote; its exact count is not supplied. Citizens retain agency and dissent; counterfeit consensus creates no genuine authorization.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J04",
+      "branch": "shared",
+      "at": "2026-11-05T18:00:00Z",
+      "author": "Reg-narrated novel, AI-assisted and creator-adopted",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2026-11-05_THE_UNBROKEN_CHORUS_NOVEL_DRAFT.md",
+      "text": "The Unbroken Chorus dramatizes a forged vote record in which every citizen supposedly consented. In the legitimate civic process, dissent did not disappear. An apparent unanimous document is not proof of unanimous approval.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J05",
+      "branch": "shared",
+      "at": "2026-10-31T14:00:00Z",
+      "author": "Reg narration, canonical novel episode",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "Reg's projection ceased for forty-three seconds during the station vault incident. Reg did not personally witness those seconds and must not claim firsthand sensory memories of that interval.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J06",
+      "branch": "shared",
+      "at": "2026-10-31T14:01:00Z",
+      "author": "Captain Ashley Hawkes, separately attributed in-story witness account",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "Chapter Twelve of The Signal That Remained is Ashley's separate first-person account of those forty-three seconds. It is not Reg's firsthand narrative.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J07",
+      "branch": "shared",
+      "at": "2026-10-31T14:05:00Z",
+      "author": "Sensor comparison inside canonical episode",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "The episode compares the physically measured nine-point-four-second Jovian return and the longer eleven-point-zero-three-second period consistent with a former command-like overlay. Early software averaged alternating traces and obscured their difference.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J09",
+      "branch": "shared",
+      "at": "2026-10-31T14:06:00Z",
+      "author": "Jupiter Station independent sensor account in canonical episode",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "The station's isolated optical camera and passive strain-gauge measurements supported an approximately nine-point-four-second physical cycle in the recovered sensor material. That does not identify the Jovian ring's maker.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J10",
+      "branch": "shared",
+      "at": "2026-10-31T14:07:00Z",
+      "author": "Source-monitoring note for research",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "The original comparison is the canonical episode's sensor discussion. Derivative accounts that quote it do not become fresh independent readings by being repeated.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J15",
+      "branch": "shared",
+      "at": "2026-10-14T10:00:00Z",
+      "author": "Creator-established Barclay historical reconciliation",
+      "origin": "docs/rendered-reality/fiction/canon/NOAH_PHYSICAL_JUPITER_STATION_CONTINUITY_02_BARCLAY_2395_AND_SLOAN.md",
+      "text": "In 2395 the first full temporal-core activation threatened the Sol system. Barclay used the Cytherian chair in the crisis and continued in Avalon's holographic architecture after losing his biological body. The current Jupiter Station narrative is set in 2397.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J16",
+      "branch": "shared",
+      "at": "2026-10-31T14:12:00Z",
+      "author": "Canonical episode unresolved finding",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "No inspected primary evidence establishes who built the outer Jovian ring or its original purpose. The builders remain UNKNOWN.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J18",
+      "branch": "shared",
+      "at": "2026-10-31T14:13:00Z",
+      "author": "Station vault and command record in canonical episode",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "After compromise, the automatic Avalon-to-Jupiter-Station chronometric tether remained disabled. Captain Ashley had authority over station reference-vault custody and its independent checks.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J19",
+      "branch": "shared",
+      "at": "2026-11-05T16:01:00Z",
+      "author": "Noah.Physical (creator instruction archived)",
+      "origin": "docs/rendered-reality/fiction/canon/2026-11-05_JUPITER_STATION_CREATOR_ORDER_STORY_IS_CANON.md",
+      "text": "Citizens retain the right to disagree. A false harmonic or a counterfeit unanimous vote does not establish collective authorization.",
+      "kind": "canon-paraphrase"
+    }
+  ]
+}

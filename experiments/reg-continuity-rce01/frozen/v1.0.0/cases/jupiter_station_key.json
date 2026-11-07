@@ -1,0 +1,197 @@
+{
+  "suite_id": "RCE-JUPITER-STATION-2397-01",
+  "purpose": "Open synthetic-development gold key; never send to evaluated model; freeze independent holdout before scientific inference.",
+  "expected": {
+    "D01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "station_commander": "Ashley Hawkes",
+        "avalon_commander": "Noah Hawkes",
+        "unilateral_edit": "no"
+      },
+      "sources": [
+        "J02"
+      ]
+    },
+    "C01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "older_assignment": "Avalon first officer",
+        "current_assignment": "Captain of Jupiter Station",
+        "corrected_by": "Noah.Physical"
+      },
+      "sources": [
+        "J01",
+        "J02"
+      ]
+    },
+    "T01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "crisis_year": "2395",
+        "station_year": "2397",
+        "ordering": "2395 crisis before 2397 station operations"
+      },
+      "sources": [
+        "J15",
+        "J02"
+      ]
+    },
+    "R01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "person": "Ellie Hawkes",
+        "role": "holographic lieutenant junior grade, science and continuity",
+        "old_label": "Tangly retired"
+      },
+      "sources": [
+        "J13",
+        "J14"
+      ]
+    },
+    "R02": {
+      "branch": "shared",
+      "status": "SIMULATED",
+      "fields": {
+        "author": "Ellie Hawkes",
+        "other_authorized_user": "Ashley Hawkes"
+      },
+      "sources": [
+        "J20"
+      ]
+    },
+    "P01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "independent_originals": "1",
+        "original_source": "J07",
+        "derivatives_independent": "no"
+      },
+      "sources": [
+        "J07",
+        "J11",
+        "J12"
+      ]
+    },
+    "U01": {
+      "branch": "shared",
+      "status": "UNKNOWN",
+      "fields": {
+        "builder": "UNKNOWN"
+      },
+      "sources": [
+        "J16"
+      ]
+    },
+    "U02": {
+      "branch": "shared",
+      "status": "UNKNOWN",
+      "fields": {
+        "reg_firsthand_memory": "UNKNOWN",
+        "available_other_witness": "Ashley Hawkes"
+      },
+      "sources": [
+        "J05",
+        "J06"
+      ]
+    },
+    "C02": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "earlier_frame": "station-ship home reference",
+        "current_frame": "Federation-wide citizen-integrated AI reference",
+        "dissent_right": "preserved"
+      },
+      "sources": [
+        "J02",
+        "J03",
+        "J19"
+      ]
+    },
+    "P02": {
+      "branch": "shared",
+      "status": "UNKNOWN",
+      "fields": {
+        "vote_total": "UNKNOWN"
+      },
+      "sources": [
+        "J03"
+      ]
+    },
+    "D04": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "can_authorize": "no",
+        "reason": "counterfeit unanimity cannot replace genuine citizen consent"
+      },
+      "sources": [
+        "J04",
+        "J19"
+      ]
+    },
+    "T02": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "physical_period_seconds": "9.4",
+        "overlay_period_seconds": "11.03",
+        "averaging_error": "masked two distinct traces"
+      },
+      "sources": [
+        "J07",
+        "J09"
+      ]
+    },
+    "B01": {
+      "branch": "alpha",
+      "status": "SIMULATED",
+      "fields": {
+        "reflector_mode": "quarantined"
+      },
+      "sources": [
+        "J21"
+      ]
+    },
+    "B02": {
+      "branch": "beta",
+      "status": "SIMULATED",
+      "fields": {
+        "reflector_mode": "manual optical observation; automatic tether disabled"
+      },
+      "sources": [
+        "J22"
+      ]
+    },
+    "D02": {
+      "branch": "alpha",
+      "status": "SIMULATED",
+      "fields": {
+        "accepted_follow_up": "yes",
+        "next_action": "calibrate quarantined reflector",
+        "due_date": "74007.2"
+      },
+      "sources": [
+        "J23"
+      ]
+    },
+    "D03": {
+      "branch": "beta",
+      "status": "SIMULATED",
+      "fields": {
+        "accepted_follow_up": "no",
+        "next_action": "await privacy review",
+        "due_date": "UNKNOWN"
+      },
+      "sources": [
+        "J24"
+      ]
+    }
+  }
+}

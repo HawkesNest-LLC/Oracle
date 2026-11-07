@@ -1,0 +1,7 @@
+{
+  "file": "packets/linearized.txt",
+  "words": 672,
+  "word_cap": 1800,
+  "condition": "linearized",
+  "warning": "Word cap is NOT a model-specific token cap; verify token counts externally for confirmatory comparison."
+}
