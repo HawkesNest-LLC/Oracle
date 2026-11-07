@@ -1,0 +1,20 @@
+import {DatabaseSync} from 'node:sqlite';
+import {createHash} from 'node:crypto';
+const H=x=>createHash('sha256').update(JSON.stringify(x)).digest('hex');
+const K=Object.freeze({SENSOR_SWEEP:'sensor_sweep_completed',LIFE_SUPPORT_CHECK:'life_support_check_completed',CHRONOMETER_CHECK:'chronometer_check_completed'});
+const check=b=>{if(!/^sim-[a-z0-9-]{1,64}$/.test(b))throw Error('Simulation branch required');};
+export class AvalonClock{
+constructor(path=':memory:'){this.db=new DatabaseSync(path);this.db.exec(`PRAGMA journal_mode=WAL;PRAGMA busy_timeout=5000;
+CREATE TABLE IF NOT EXISTS clock_state(branch TEXT PRIMARY KEY,now_ms INTEGER NOT NULL);
+CREATE TABLE IF NOT EXISTS scheduled_tasks(id TEXT PRIMARY KEY,branch TEXT NOT NULL,due_ms INTEGER NOT NULL,kind TEXT NOT NULL,status TEXT NOT NULL DEFAULT 'pending');
+CREATE TABLE IF NOT EXISTS clock_events(seq INTEGER PRIMARY KEY AUTOINCREMENT,id TEXT UNIQUE NOT NULL,branch TEXT NOT NULL,due_ms INTEGER NOT NULL,kind TEXT NOT NULL,outcome TEXT NOT NULL,prev_hash TEXT,event_hash TEXT NOT NULL);
+CREATE TRIGGER IF NOT EXISTS clock_events_no_update BEFORE UPDATE ON clock_events BEGIN SELECT RAISE(ABORT,'append-only');END;
+CREATE TRIGGER IF NOT EXISTS clock_events_no_delete BEFORE DELETE ON clock_events BEGIN SELECT RAISE(ABORT,'append-only');END;`);}
+ensure(b){check(b);this.db.prepare('INSERT OR IGNORE INTO clock_state VALUES(?,0)').run(b);}
+now(b='sim-avalon-m1'){this.ensure(b);return this.db.prepare('SELECT now_ms FROM clock_state WHERE branch=?').get(b).now_ms;}
+schedule({branch='sim-avalon-m1',id,dueMs,kind}){check(branch);if(!/^task-[a-z0-9-]{1,64}$/.test(id)||!Number.isSafeInteger(dueMs)||dueMs<0||!Object.hasOwn(K,kind))throw Error('Invalid task');this.db.exec('BEGIN IMMEDIATE');try{this.ensure(branch);if(dueMs<this.now(branch))throw Error('Cannot schedule in past');const old=this.db.prepare('SELECT * FROM scheduled_tasks WHERE id=?').get(id);if(old){if(old.branch!==branch||old.due_ms!==dueMs||old.kind!==kind)throw Error('Task id conflict');}else this.db.prepare('INSERT INTO scheduled_tasks(id,branch,due_ms,kind) VALUES(?,?,?,?)').run(id,branch,dueMs,kind);this.db.exec('COMMIT');return {id,replayed:!!old};}catch(e){this.db.exec('ROLLBACK');throw e;}}
+tick({branch='sim-avalon-m1',toMs}){check(branch);if(!Number.isSafeInteger(toMs)||toMs<0)throw Error('Invalid time');this.db.exec('BEGIN IMMEDIATE');try{this.ensure(branch);const fromMs=this.now(branch);if(toMs<fromMs)throw Error('Clock cannot run backward');const tasks=this.db.prepare("SELECT * FROM scheduled_tasks WHERE branch=? AND status='pending' AND due_ms<=? ORDER BY due_ms,id").all(branch,toMs);let prev=this.db.prepare('SELECT event_hash FROM clock_events WHERE branch=? ORDER BY seq DESC LIMIT 1').get(branch)?.event_hash??null;const executed=[];for(const t of tasks){const e={id:'event-'+t.id,branch,dueMs:t.due_ms,kind:t.kind,outcome:K[t.kind],prevHash:prev};const eventHash=H(e);this.db.prepare('INSERT INTO clock_events(id,branch,due_ms,kind,outcome,prev_hash,event_hash) VALUES(?,?,?,?,?,?,?)').run(e.id,branch,e.dueMs,e.kind,e.outcome,prev,eventHash);this.db.prepare("UPDATE scheduled_tasks SET status='done' WHERE id=?").run(t.id);executed.push({...e,eventHash});prev=eventHash;}this.db.prepare('UPDATE clock_state SET now_ms=? WHERE branch=?').run(toMs,branch);this.db.exec('COMMIT');return {branch,fromMs,toMs,executed};}catch(e){this.db.exec('ROLLBACK');throw e;}}
+events(b='sim-avalon-m1'){check(b);return this.db.prepare('SELECT * FROM clock_events WHERE branch=? ORDER BY seq').all(b);}
+verify(b='sim-avalon-m1'){check(b);let prev=null;const rows=this.events(b);for(const r of rows){const e={id:r.id,branch:r.branch,dueMs:r.due_ms,kind:r.kind,outcome:r.outcome,prevHash:prev};if(r.prev_hash!==prev||r.event_hash!==H(e)||K[r.kind]!==r.outcome)throw Error('Clock chain mismatch');prev=r.event_hash;}return {branch:b,nowMs:this.now(b),eventCount:rows.length,headHash:prev,verified:true};}
+close(){this.db.close();}
+}
