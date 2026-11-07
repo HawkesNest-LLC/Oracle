@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {mkdtempSync,rmSync} from 'node:fs';
+import {tmpdir} from 'node:os';
+import {join} from 'node:path';
+import {BridgeTelemetry} from '../src/bridge-telemetry.mjs';
+const fixture=()=>{const dir=mkdtempSync(join(tmpdir(),'m3-'));return {dir,path:join(dir,'state.db')};};
+test('five-minute background events mutate telemetry and survive restart',()=>{const t=fixture();try{let m=new BridgeTelemetry(t.path);for(const [id,dueMs,kind] of [['task-s',60000,'SENSOR_SWEEP'],['task-l',180000,'LIFE_SUPPORT_CHECK'],['task-c',300000,'CHRONOMETER_CHECK']])m.schedule({id,dueMs,kind});m.close();m=new BridgeTelemetry(t.path);const a=m.advance({toMs:300000});assert.equal(a.applied.length,3);assert.deepEqual(a.state,{sensor:'nominal',lifeSupport:'nominal',chronometer:'synchronized'});m.close();m=new BridgeTelemetry(t.path);assert.equal(m.verify().events,3);assert.equal(m.advance({toMs:300000}).applied.length,0);m.close();}finally{rmSync(t.dir,{recursive:true,force:true});}});
+test('interrupted projection recovers without duplicate writes',()=>{const m=new BridgeTelemetry();m.schedule({id:'task-a',dueMs:100,kind:'SENSOR_SWEEP'});m.clock.tick({toMs:100});assert.throws(()=>m.verify(),/Unreconciled/);assert.equal(m.reconcile().length,1);assert.equal(m.reconcile().length,0);assert.equal(m.verify().state.sensor,'nominal');m.close();});
+test('unapproved event kinds cannot change telemetry',()=>{const m=new BridgeTelemetry();assert.throws(()=>m.schedule({id:'task-x',dueMs:1,kind:'INVENT'}),/Invalid task/);assert.deepEqual(m.verify().state,{sensor:'unknown',lifeSupport:'unknown',chronometer:'unknown'});m.close();});
+test('branch isolation and source-chain tampering detected',()=>{const m=new BridgeTelemetry();m.schedule({branch:'sim-a',id:'task-a',dueMs:10,kind:'SENSOR_SWEEP'});m.advance({branch:'sim-a',toMs:10});assert.equal(m.verify('sim-b').state.sensor,'unknown');assert.throws(()=>m.db.exec("UPDATE bridge_telemetry_events SET effect='{}'"),/append-only/);assert.throws(()=>m.db.exec('DELETE FROM bridge_telemetry_events'),/append-only/);m.close();});
+test('deterministic ordering of simultaneous events',()=>{const m=new BridgeTelemetry();m.schedule({id:'task-z',dueMs:10,kind:'SENSOR_SWEEP'});m.schedule({id:'task-a',dueMs:10,kind:'LIFE_SUPPORT_CHECK'});assert.deepEqual(m.advance({toMs:10}).applied,['telemetry-event-task-a','telemetry-event-task-z']);m.close();});
