@@ -39,9 +39,9 @@ The source hierarchy is explicit:
 
 **Temporal Drive / temporal navigation, Avalon:** a distinct fictional capability for *physical temporal displacement* requiring a validated route, home-reference tether, field constraints, rights, independent records and command authorization.
 
-This distinction is directly stated in [Jupiter Station Temporal Core, creator-approved canon](../../JUPITER_STATION_TEMPORAL_CORE_CANON_2397.md) and maintained in [How Time Travel Works for Jupiter Station](../fiction/memorys-flame/HOW_TIME_TRAVEL_WORKS_JUPITER_STATION_2397_CANON_2026-10-16.md).
+This distinction is directly stated in [Jupiter Station Temporal Core, creator-approved canon](../JUPITER_STATION_TEMPORAL_CORE_CANON_2397.md) and maintained in [How Time Travel Works for Jupiter Station](../fiction/memorys-flame/HOW_TIME_TRAVEL_WORKS_JUPITER_STATION_2397_CANON_2026-10-16.md).
 
-The original [Temporal Core origin manuscript](../../JUPITER_STATION_TEMPORAL_CORE_ORIGIN.md) is **candidate** in its wider invented explanatory details. The October 11 approval adopts the Core's operation and governance, not every unverified proposed explanation, mission, or hardware parameter from the candidate source.
+The original [Temporal Core origin manuscript](../JUPITER_STATION_TEMPORAL_CORE_ORIGIN.md) is **candidate** in its wider invented explanatory details. The October 11 approval adopts the Core's operation and governance, not every unverified proposed explanation, mission, or hardware parameter from the candidate source.
 
 We must not weaken the canon by calling every chronometric device the same thing.
 
@@ -71,7 +71,7 @@ The authority chain remains divided:
 - Jake Sisko is an independent witness in the adopted conceptual structure, not a subordinate stamp of approval.
 - SloanAI may recommend but does not become the final human command authority.
 
-See [Chronometric Tether Standing Order](../fiction/memorys-flame/JUPITER_STATION_CHRONOMETRIC_TETHER_STANDING_ORDER_2026-10-13.md) and [Temporal Core creator-approved canon](../../JUPITER_STATION_TEMPORAL_CORE_CANON_2397.md).
+See [Chronometric Tether Standing Order](../fiction/memorys-flame/JUPITER_STATION_CHRONOMETRIC_TETHER_STANDING_ORDER_2026-10-13.md) and [Temporal Core creator-approved canon](../JUPITER_STATION_TEMPORAL_CORE_CANON_2397.md).
 
 ### Three distinct fictional locks
 
@@ -328,8 +328,8 @@ The ship remembers. The witness preserves. The Captain decides.
 
 ## Primary source receipt index
 
-1. [Approved Temporal Core canon, 2026-10-11](../../JUPITER_STATION_TEMPORAL_CORE_CANON_2397.md): Core vs Drive, branch observation, archives, oversight.
-2. [Temporal Core origin, broader candidate narrative](../../JUPITER_STATION_TEMPORAL_CORE_ORIGIN.md): causal-addressing origin, and its explicitly candidate scope.
+1. [Approved Temporal Core canon, 2026-10-11](../JUPITER_STATION_TEMPORAL_CORE_CANON_2397.md): Core vs Drive, branch observation, archives, oversight.
+2. [Temporal Core origin, broader candidate narrative](../JUPITER_STATION_TEMPORAL_CORE_ORIGIN.md): causal-addressing origin, and its explicitly candidate scope.
 3. [Chronometric Tether standing order, 2026-10-13](../fiction/memorys-flame/JUPITER_STATION_CHRONOMETRIC_TETHER_STANDING_ORDER_2026-10-13.md): creator's home-branch and independent custody directive.
 4. [Noah.Physical continuity volume III](../fiction/canon/NOAH_PHYSICAL_JUPITER_STATION_CONTINUITY_03_TEMPORAL_CORE_AND_THE_ARCHIVE.md): creator-directed reconciliation and scope.
 5. [Hawkes–SOV fictional physics codex, adopted 2026-10-12](../fiction/memorys-flame/HAWKES_SOV_TEMPORAL_INFORMATION_PHYSICS_2397_CANON.md): Light Compression of Temporal Evidence and Witness Horizon, with source/formula status.
