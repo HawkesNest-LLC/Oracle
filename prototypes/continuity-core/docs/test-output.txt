@@ -1,0 +1,91 @@
+
+> continuity-core@0.1.0 test
+> node --test tests/*.test.mjs
+
+TAP version 13
+# (node:1336) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+# (Use `node --trace-warnings ...` to show where the warning was created)
+# Subtest: T01 AI cannot promote canon by claiming Creator authority
+ok 1 - T01 AI cannot promote canon by claiming Creator authority
+  ---
+  duration_ms: 55.653393
+  type: 'test'
+  ...
+# Subtest: T02 correction appends, never overwrites
+ok 2 - T02 correction appends, never overwrites
+  ---
+  duration_ms: 42.672601
+  type: 'test'
+  ...
+# Subtest: T03 missing primary source returns UNKNOWN
+ok 3 - T03 missing primary source returns UNKNOWN
+  ---
+  duration_ms: 42.480177
+  type: 'test'
+  ...
+# Subtest: T04 simulation event does not change canon
+ok 4 - T04 simulation event does not change canon
+  ---
+  duration_ms: 41.67597
+  type: 'test'
+  ...
+# Subtest: T05 false synchronization has no receipt
+ok 5 - T05 false synchronization has no receipt
+  ---
+  duration_ms: 38.360283
+  type: 'test'
+  ...
+# Subtest: T06 authority outranks coherence: candidate cannot override established
+ok 6 - T06 authority outranks coherence: candidate cannot override established
+  ---
+  duration_ms: 37.042502
+  type: 'test'
+  ...
+# Subtest: T07 revocation preserves old assertion and changes current status
+ok 7 - T07 revocation preserves old assertion and changes current status
+  ---
+  duration_ms: 41.13641
+  type: 'test'
+  ...
+# Subtest: Creator promotion requires server-held credential, records history
+ok 8 - Creator promotion requires server-held credential, records history
+  ---
+  duration_ms: 40.311348
+  type: 'test'
+  ...
+# Subtest: ESP portable envelope validates and sources are copied
+ok 9 - ESP portable envelope validates and sources are copied
+  ---
+  duration_ms: 1.383457
+  type: 'test'
+  ...
+# Subtest: Event hash chain links successive simulation events
+ok 10 - Event hash chain links successive simulation events
+  ---
+  duration_ms: 40.325995
+  type: 'test'
+  ...
+# Subtest: Location and timeline data are consistent
+ok 11 - Location and timeline data are consistent
+  ---
+  duration_ms: 40.733415
+  type: 'test'
+  ...
+# Subtest: Established Creator claim cannot be revoked by Reviewer
+ok 12 - Established Creator claim cannot be revoked by Reviewer
+  ---
+  duration_ms: 40.828919
+  type: 'test'
+  ...
+1..12
+# tests 12
+# suites 0
+# pass 12
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 553.297479
+
+> continuity-core@0.1.0 check
+> node --check src/core.mjs && node --check src/server.mjs && node --check public/app.js
