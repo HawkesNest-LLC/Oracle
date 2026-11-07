@@ -1,0 +1,35 @@
+name: Avalon continuity-core tests
+on:
+  pull_request:
+    paths:
+      - 'prototypes/continuity-core/**'
+      - '.github/workflows/avalon-continuity-core.yml'
+  push:
+    branches:
+      - 'cc-90-001/avalon-bridge-milestone-one'
+    paths:
+      - 'prototypes/continuity-core/**'
+      - '.github/workflows/avalon-continuity-core.yml'
+permissions:
+  contents: read
+jobs:
+  continuity-core:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node: ['22.16.0', '24']
+    defaults:
+      run:
+        working-directory: prototypes/continuity-core
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Runtime
+        run: node --version
+      - name: Source checks
+        run: npm run check
+      - name: Full test suite
+        run: npm test
