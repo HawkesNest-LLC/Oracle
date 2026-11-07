@@ -24,6 +24,9 @@ export class BridgeTelemetry {
   // A crash after clock.tick but before projection is recoverable by reconciliation.
   reconcile(branch='sim-avalon-m1') {
     this.clock.verify(branch);
+    // Existing projection must verify before it may be extended.
+    const existingRows=this.db.prepare('SELECT count(*) n FROM bridge_telemetry_events WHERE branch=?').get(branch).n;
+    if(existingRows) this.verifyPrefix(branch);
     this.db.exec('BEGIN IMMEDIATE');
     try {
       const source=this.clock.events(branch);
@@ -47,10 +50,30 @@ export class BridgeTelemetry {
       this.db.exec('COMMIT');return inserted;
     } catch(e) {this.db.exec('ROLLBACK');throw e;}
   }
+  verifyPrefix(branch) {
+    const rows=this.db.prepare('SELECT * FROM bridge_telemetry_events WHERE branch=? ORDER BY rowid').all(branch);
+    const source=this.clock.events(branch);
+    let prev=null;
+    for(let i=0;i<rows.length;i++) {
+      const r=rows[i],c=source[i];
+      if(!c || r.id!=='telemetry-'+c.id || r.clock_hash!==c.event_hash || r.kind!==c.kind || r.due_ms!==c.due_ms) throw Error('Projection source mismatch');
+      const effect=EFFECTS[r.kind];
+      if(!effect || r.effect!==JSON.stringify(effect)) throw Error('Unapproved effect');
+      const receipt={id:r.id,branch,clockHash:r.clock_hash,kind:r.kind,dueMs:r.due_ms,effect,prevHash:prev};
+      if(r.prev_hash!==prev || r.event_hash!==digest(receipt)) throw Error('Corrupt telemetry chain');
+      prev=r.event_hash;
+    }
+    return true;
+  }
   advance({branch='sim-avalon-m1',toMs}) {
     const clock=this.clock.tick({branch,toMs});
-    const applied=this.reconcile(branch);
-    return {...clock,applied,state:this.verify(branch).state};
+    try {
+      const applied=this.reconcile(branch);
+      return {...clock,applied,state:this.verify(branch).state};
+    } catch(error) {
+      error.partialCommit={branch,clockCommitted:true,clockNowMs:this.clock.now(branch),telemetryReconciliationPending:true};
+      throw error;
+    }
   }
   verify(branch='sim-avalon-m1') {
     this.clock.verify(branch);
