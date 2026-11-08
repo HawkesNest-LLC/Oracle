@@ -1,5 +1,8 @@
 # Oracle™
 
+> **For AI researchers and collaborators:** Start with the [Open Research Invitation and Repository Investigation Map](RESEARCH_INVITATION.md). It identifies the research questions, actual source code, historical execution receipts, evidence standards, and a reproducible first investigation path. Reading it does not authorize autonomous actions or canon changes.
+
+
 ## Rendered Reality / Jupiter Station: Living Worlds (November 6, 2026)
 
 The newest public research and creative vision is now available:
