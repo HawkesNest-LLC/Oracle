@@ -59,7 +59,7 @@ export class ConflictLedger {
   appendReceipt({eventId,kind,actor,subjectId=null,objectId=null,note}) {
     required(eventId,'event id'); required(actor,'actor'); required(note,'note');
     if (!['DISPUTE','RETRACTION','DEPENDENCY','ADJUDICATION'].includes(kind)) throw new TypeError('Invalid receipt kind');
-    if (kind==='ADJUDICATION' && actor!=='Noah.Physical') throw new Error('Creator authorization required');
+    if (kind==='ADJUDICATION') throw new Error('Adjudication disabled until authenticated Creator review service exists');
     if (kind==='ADJUDICATION' && !note.startsWith('CLASSIFICATION:')) throw new Error('Adjudication is classification, not historical truth');
     if (kind==='RETRACTION' && !subjectId) throw new TypeError('Retracted claim required');
     if (kind==='DEPENDENCY' && (!subjectId || !objectId)) throw new TypeError('Dependency endpoints required');
