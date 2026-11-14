@@ -812,17 +812,169 @@ And the captain can decide only if the system preserves the authority to make th
 
 ---
 
-## Manuscript continuation plan
 
-**Part Two: The Architecture of Continuity**
-- Chapter Four: The Archive Is Not the Memory
-- Chapter Five: When the Machine Becomes an Unreliable Witness
-- Chapter Six: Corrections, Contradictions, and the Right to Change Your Mind
+---
+
+# Part Two: The Architecture of Continuity
+
+## Chapter Four: The Archive Is Not the Memory
+
+We live in an era of extraordinary digital accumulation. Conversations, photographs, backups, transaction histories, and document revisions accumulate faster than most people can examine them.
+
+Yet anyone who has tried to reconstruct a decision made six months ago across shifting AI interfaces knows that accumulation is not the same as continuity.
+
+**An archive is a warehouse. Memory is an architecture of meaning, validation, and authority.**
+
+A modern AI assistant may use a context window, retrieved conversations, stored preferences, external databases, or other persistent services. These mechanisms differ, and some can remember useful details across sessions. But none of that, by itself, guarantees that the assistant can distinguish a rejected idea from an approved decision, or prove where a claim originated.
+
+I learned this by trying to recover my own work.
+
+A transcript might preserve the words while losing the circumstances. A summary might preserve the conclusion while discarding the argument. A copied document might retain the prose but not the original author, approval, or correction history.
+
+That is why I began thinking about the difference between **storage** and **witness**.
+
+Storage answers: *What bytes do we have?*
+
+A witness-grade record must also answer: *Where did those bytes come from? Who said them? When? What was the claim's status? What later corrected it? Who had authority to approve the change? What remains unknown?*
+
+I call one recurring failure **narrative smoothing**. A model receives a messy history and produces a cleaner one. Contradictions disappear. Tentative suggestions become firm decisions. Missing transitions are supplied because the finished story sounds better with them.
+
+Sometimes that is exactly what we want from a novelist.
+
+It is not what we want from a witness.
+
+If a document says a branch was retired, and a later document mentions work on that branch, the record must not invent a convenient explanation. Perhaps the branch was reopened. Perhaps the second document was stale. Perhaps the references identify different branches. Until the sources settle it, the answer is **UNKNOWN**.
+
+My proposed architecture separates layers: original source records; integrity and provenance metadata; structured decisions, corrections, and authority; retrieval and interpretation; and an interface that can show the evidence behind an answer.
+
+A cryptographic hash can help detect whether content changed. It cannot, by itself, establish that the content was true, that a particular person authored it, or that the person approved it. Those require additional evidence and authentication.
+
+Likewise, an append-only ledger is a useful design choice, not a magical guarantee. Access controls, backups, signatures, versioning, and independent verification all matter.
+
+I have used terms such as Ledger, Anchors, and Recursion Arena while exploring this design. They name architectural concepts and proposed workflows. Their presence in a document does not establish that every component is running in production.
+
+That distinction is part of the discipline I am trying to build.
+
+The raw archive should remain inspectable. Interpretations should be versioned. Rejected claims should remain visible as rejected claims. The person whose decisions are being represented must retain the authority to approve or dispute them.
+
+The system can help reconstruct meaning.
+
+It must not quietly become the author of history.
+
+## Chapter Five: When the Machine Becomes an Unreliable Witness
+
+One of the most revealing things I have done with AI is ask it to tell me what happened.
+
+Not to write a story. Not to brainstorm.
+
+To report the state of a project.
+
+I have asked systems to reconstruct the development of ORACLE, summarize changes in my continuity research, and reconcile the fictional history of Avalon and Jupiter Station.
+
+Sometimes they gave useful, appropriately cautious answers. Other times they supplied a smooth explanation where the available evidence supported only uncertainty.
+
+A model might see a deprecated branch mentioned in one document and a later bug fix mentioned in another. It might propose that the branch was briefly revived.
+
+That is a plausible hypothesis.
+
+But unless the repository history confirms it, it is not a fact.
+
+The trouble begins when the next system reads the hypothesis as a source.
+
+I have moved material between ChatGPT, Claude, Gemini, Grok, Codex, and other tools. The handoff process exposed a problem worth measuring: **what happens to the status of a claim as it crosses system boundaries?**
+
+Imagine three transfers.
+
+In the first, a proposed architecture becomes a recommended specification.
+
+In the second, the recommendation is described as an implemented standard.
+
+In the third, a summary celebrates a deployment and cites performance numbers nobody measured.
+
+That sequence is an illustrative failure mode, not a documented result from a controlled experiment. I cannot honestly claim that distortion grows exponentially without collecting the data.
+
+But I can define a test.
+
+Give two agent chains the same factual history. One receives conventional prose summaries. The other receives structured records that label sources, corrections, authority, uncertainty, and status. Hold the models, questions, and factual content as closely matched as possible. Record the complete outputs. Ask an independent evaluator to score how often claims change status without evidence.
+
+Now we have something stronger than an alarming anecdote.
+
+We have a falsifiable hypothesis.
+
+I do not believe language models are incapable of faithful reporting. They can quote, retrieve, compare, and express uncertainty. Their behavior depends on training, prompting, tools, and system design.
+
+My concern is narrower: fluent generation is not sufficient proof of faithful witnessing.
+
+A system can sound careful and still be wrong. It can sound certain and be right. Tone is not the measurement.
+
+The measurement is whether the answer remains traceable to evidence and whether the system preserves uncertainty when the evidence runs out.
+
+That changes the role of the model.
+
+The model can interpret, explain, compare, and propose.
+
+But it should not be able to convert its own prose into an authenticated human decision.
+
+The ledger does not make the model infallible.
+
+It makes the model accountable to a record outside its own narration.
+
+## Chapter Six: Corrections, Contradictions, and the Right to Change Your Mind
+
+People change their minds.
+
+We begin projects, revise priorities, abandon approaches, and return to ideas we once rejected. Sometimes we discover we were wrong. Sometimes the circumstances change. Sometimes two goals remain important at the same time.
+
+A memory system that cannot represent those distinctions will eventually invent a simpler person than the one who actually lived.
+
+Consider my work on ORACLE and Rendered Reality.
+
+At different points, I have emphasized local runtime engineering, continuity research, fictional-world reconstruction, and the writing itself. These priorities overlap, and their relative importance has changed over time.
+
+A submitted draft of this chapter claimed that I explicitly scrapped active ORACLE development in October 2026 to focus exclusively on creative writing. That is a major historical claim. I do not have a verified original decision receipt establishing it, and the available project history also includes later engineering work.
+
+So I am not going to publish that pivot as established fact.
+
+I am going to preserve the claim in the source draft, mark its status unresolved, and use it as an example of the very problem this book is about.
+
+This is what a correction-aware architecture should do.
+
+First, keep the earlier record intact. Do not erase the claim because it is inconvenient.
+
+Second, distinguish a source statement from an authorized decision. A sentence appearing in a manuscript is evidence that the sentence was written or submitted. It is not automatically evidence that the underlying event happened.
+
+Third, attach the correction or dispute to the exact claim. Do not silently replace one version with another.
+
+Fourth, answer present-tense questions using the latest supported, appropriately authorized state, while preserving the path that led there.
+
+A system might represent a decision as a structured object containing its source, timestamp, scope, author or approver, prior state, new state, and any later reversal. A disputed decision should carry its dispute. An unresolved one should remain unresolved.
+
+The architecture must also respect the possibility that I was wrong.
+
+Human authority over my creative canon is not the same as authority over external reality. I can decide who commands Jupiter Station. I cannot decide, by declaration, whether a particular GitHub commit exists.
+
+Those are different questions requiring different evidence.
+
+The right to change my mind is not the right to rewrite the past.
+
+It is the right to have the change recorded honestly.
+
+That is the continuity I want.
+
+Not a system that always agrees with the latest version of me.
+
+A system that can show how I got here.
+
+
+---
+
+## Editorial and source note
+
+Part Two was edited for factual precision while preserving the original submission separately. See [submitted source](PART_TWO_SUBMITTED_SOURCE_2026-11-13.md) and [editorial audit](PART_TWO_EDITORIAL_AUDIT_2026-11-13.md). This is an in-progress, AI-assisted manuscript, not a completed book or independently verified research report.
+
+## Next chapters
+
 - Chapter Seven: The Human Keeps the Keys
 - Chapter Eight: The Experiment Across Seven Machines
 - Chapter Nine: Building ORACLE
 - Chapter Ten: The Evidence That Must Survive
-
-Later parts will cover controlled experiments, independently verified engineering results, failures and reversals, identity-preservation questions, and the proposed closing chapter **The Last Correction**.
-
-**Status:** Opening manuscript, not complete book. The manuscript text above reproduces the previously drafted opening; metadata and continuation plan are separated from the narrative.
