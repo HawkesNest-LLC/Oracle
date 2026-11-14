@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/continuity/esp-v0.1.schema.json",
+  "title": "Evidentiary Status Protocol v0.1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["claimId", "status", "authority", "confidence", "sources"],
+  "properties": {
+    "claimId": {"type": "string", "minLength": 1},
+    "status": {"enum": ["ESTABLISHED", "RECONSTRUCTED", "PROPOSED", "SIMULATED", "SUPERSEDED", "REJECTED", "UNKNOWN"]},
+    "authority": {"enum": ["Creator", "Editor", "AI", "Reviewer", "Observer"]},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "sources": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+    "revision": {"type": ["string", "null"]},
+    "timestamp": {"type": "string"},
+    "branch": {"type": "string"}
+  }
+}
