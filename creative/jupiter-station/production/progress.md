@@ -1,13 +1,12 @@
 # Production progress
 
 - Branch: `fiction/jupiter-station-novel-2395-2397`
-- Chapter One: exact conversation text not committed; missing from master, pending verbatim recovery
-- Chapter Two: 1354 words including headings
-- Chapter Three: 1735 words including headings
-- Chapter Four: 3698 words including headings
-- Chapter Five: 1819 words including headings
-- New installment: 5517 words including headings
-- Total committed chapter text: 8606 words including headings (narrative count slightly lower)
-- 100,000-word minimum progress: 8.61%
-- Next scene: the station independently audits the future maintenance profile and solar coordinates. Jake interviews Tomas and Lena, Brakk discovers that a seemingly benign future work order can trigger present machinery, and Noah must decide whether the refit is safe to complete. The later 2395 solar catastrophe remains a separate event.
-- Status: incomplete working draft, no canon promotion.
+- Chapter One: exact original text remains uncommitted and missing from master; do not fabricate replacement
+- Chapters Two through Five: 8606 words including headings
+- Chapter Six: 3094 words including headings
+- Chapter Seven: 1803 words including headings
+- This installment: 4897 words including headings (requested 5000; shortfall 103)
+- Total committed chapter text: 13503 words including headings
+- Progress against 100,000-word minimum: 13.50%
+- Next scene: independent witnesses assess whether suspended temporal refit is truly isolated; station resident Tomas notices a new work order apparently dated weeks ahead. Jake's first written account reaches Ashley; Reg and Sorev disagree about a solar observatory observation. Build toward the distinct later 2395 solar catastrophe, not during refit.
+- Status: incomplete candidate working draft, no canon promotion.
