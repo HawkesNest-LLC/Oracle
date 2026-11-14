@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository's research or software, cite the repository and the specific version or commit you examined."
+title: "Oracle: Rendered Reality and Continuity Computing Research"
+type: software
+authors:
+  - family-names: Hawkes
+    given-names: Noah Alexander
+repository-code: "https://github.com/HawkesNest-LLC/Oracle"
+url: "https://github.com/HawkesNest-LLC/Oracle"
+abstract: "Research and bounded reference implementations exploring provenance-aware computation, persistent AI memory, human-governed continuity, and historical accountability. No production deployment or identity-continuation claim is implied."
+keywords:
+  - continuity computing
+  - provenance
+  - persistent AI memory
+  - human-governed AI
+  - temporal knowledge representation
+license: NOASSERTION
