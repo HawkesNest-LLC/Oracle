@@ -1,0 +1,13 @@
+{
+  "name": "reg-continuity-experiment-pilot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Zero-dependency pilot harness for six-dimensional continuity fidelity and branch divergence",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "doctor": "node benchmark.mjs doctor cases/synthetic_case.json cases/demo_key.json",
+    "demo": "node benchmark.mjs demo"
+  },
+  "engines": {"node": ">=22"}
+}
