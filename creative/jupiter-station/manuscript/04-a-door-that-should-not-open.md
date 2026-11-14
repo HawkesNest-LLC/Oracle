@@ -1,0 +1,1001 @@
+# Chapter Four: A Door That Should Not Open
+
+*Jupiter Station, 2395*
+
+The garden smelled of wet stone and scorched plastic.
+
+Ashley arrived to find Brakk on his knees beneath an open access panel, with a maintenance technician holding a work light over his shoulder. The garden itself looked perfectly ordinary. A little dry, perhaps, and one of the hanging ferns had begun to curl at the edges, but there were children asleep in the residential apartments above it who had no idea that the plants beneath their feet were part of a stationwide mystery.
+
+"Report," Ashley said.
+
+Brakk slid out from under the panel. He had a black smear across his cheek and the expression of a man who had already been asked three questions too many.
+
+"Pump was commanded to run against a closed valve. We have the damaged coupling. I can replace it. The control event carries Registry authorization."
+
+"Which Registry doesn't recognize."
+
+"That's right."
+
+"Could the pump have done this to itself?"
+
+"Not with the controls we installed."
+
+"Could somebody have modified those controls?"
+
+"Yes. Somebody can modify almost anything if they have the access and enough time."
+
+"Do we have evidence that somebody did?"
+
+"No."
+
+Ashley looked at the technician. "Ensign Venn, is there any reason the garden would need an emergency shutdown at 1136?"
+
+Talia shook her head. "The irrigation cycle wasn't even scheduled then. The gardeners had just finished the morning inspection."
+
+"Anyone injured?"
+
+"No, Captain."
+
+"Any damage beyond the coupling?"
+
+"Some of the plants lost water for a day."
+
+"Then let's keep this in proportion." Ashley looked back at Brakk. "Fix the garden. Investigate the control event separately. And don't let anybody turn this into a stationwide systems failure before we know what happened."
+
+Brakk nodded, then hesitated.
+
+"There's something else."
+
+He held up the warped coupling.
+
+"That valve closed hard. If the pressure relief hadn't worked, we'd have split the line and flooded the compartment below."
+
+"Which compartment?"
+
+"Residential storage. Family lockers, mostly."
+
+Ashley glanced toward the ceiling. "So the safety system worked."
+
+"It did."
+
+"Good. We should remember that too."
+
+She left Brakk to his repairs and walked to the garden's public entrance. A small girl was standing there with a toy starship in her hand.
+
+"Is the garden going to die?" the girl asked.
+
+Ashley crouched.
+
+"Not if Chief Brakk has anything to say about it."
+
+"He's loud."
+
+"He is."
+
+"My dad says he can fix anything."
+
+"Your dad sounds like a sensible man."
+
+The girl turned the model over. One nacelle hung at a peculiar angle.
+
+"Can he fix this?"
+
+Ashley studied the little ship.
+
+"I think that's a job for your father."
+
+"He made it."
+
+"Then he's definitely qualified."
+
+The girl looked unconvinced.
+
+"What's your name?" Ashley asked.
+
+"Mara."
+
+"I'm Ashley."
+
+"I know. You're the captain."
+
+"That's right."
+
+"Do captains fix things?"
+
+"Sometimes."
+
+"What if they can't?"
+
+Ashley thought of the impossible timestamp, the valid signature, the garden pump.
+
+"Then we find somebody who can help."
+
+Mara nodded, apparently satisfied, and ran back toward a man waiting by the promenade rail.
+
+Ashley watched them go.
+
+She had commanded vessels before. On a ship, people learned to think of the captain as the person who could make a decision when everything else failed. On a station, that wasn't enough. People needed to know there would still be a place for their children to play tomorrow. That a garden would be watered. That a promise about a visit to Avalon might eventually be kept.
+
+She touched her combadge.
+
+"Hawkes to Registry. Imani, meet me in Operations. Bring the original transfer package."
+
+***
+
+Imani had prepared three copies of the evidence and one list of things she could not explain.
+
+The copies were physically separated. One remained in Registry, one had been placed in a station archive isolated from the network, and one sat on a padd in her hands. She had signed each transfer herself, this time with a second officer watching.
+
+When Ashley entered Operations, Imani was already waiting beside the main table.
+
+"Tell me what's changed."
+
+"Nothing in the original record," Imani said. "But I've found another event with the same authorization pattern."
+
+"The pump."
+
+"Yes. I didn't discover it through the computer's search index. Brakk brought me the local controller's raw log. That's important."
+
+"Why?"
+
+"Because the stationwide index doesn't list the valve closure as an unauthorized event. It lists it as scheduled maintenance."
+
+Ashley frowned. "Scheduled by whom?"
+
+"Me."
+
+"Again."
+
+"Again."
+
+Imani enlarged the record. The authorization field displayed her credentials, followed by a long verification string.
+
+"These aren't ordinary forged credentials," she said. "The cryptographic signature matches the one generated by my security token."
+
+"Was the token stolen?"
+
+"No. It never left my possession."
+
+"Duplicated?"
+
+"Security is checking. But there is a problem with that theory."
+
+"Go on."
+
+"The token rotates its authorization key every hour. A duplicate would have needed the correct key for that exact interval."
+
+"Which a sufficiently capable attacker could obtain."
+
+"Possibly. But the record also contains a response from a system that wasn't connected to Registry at the time."
+
+Ashley studied the display.
+
+"Which system?"
+
+"Avalon's experimental archive."
+
+For a moment, the room seemed to grow quieter.
+
+"Explain that."
+
+"The pump controller claims it requested verification from Avalon's archive. The archive claims it received the request and returned approval."
+
+"Did it?"
+
+"According to Avalon's local log, no."
+
+"Then the station's record is wrong."
+
+"One of the records is wrong," Imani said. "Or the records don't describe the same event."
+
+Ashley looked at her sharply.
+
+"That's Reg's language."
+
+"I know."
+
+"Have you spoken to him?"
+
+"Not since the original transfer."
+
+Ashley walked to the window. Avalon rested beyond the docking structure, her hull still surrounded by maintenance craft.
+
+"Send the records to Captain Hawkes. Not the summaries. Everything."
+
+"Yes, Captain."
+
+"And tell Security to keep looking for an ordinary explanation. I don't want anybody deciding that because a mystery is unusual, it must be supernatural."
+
+Imani's expression softened.
+
+"That's exactly what I was going to recommend."
+
+Ashley gave her a small smile.
+
+"Then we're both having a productive morning."
+
+***
+
+Jake Sisko arrived on Jupiter Station carrying a battered leather bag, three notebooks, and a question he had been trying not to ask for the better part of a decade.
+
+He was met at the docking concourse by an ensign who looked too young to remember the Dominion War.
+
+"Mr. Sisko? Welcome aboard."
+
+"Thanks. Is Captain Hawkes expecting me?"
+
+"Captain Ashley Hawkes is in Operations. Captain Noah Hawkes is aboard Avalon."
+
+Jake smiled. "That sounds about right."
+
+The ensign led him through a bright corridor into the main promenade. Jake slowed as they passed a bakery, a repair shop, a small school entrance, and a crowded table where three civilian pilots were playing cards with more enthusiasm than skill.
+
+He had spent enough of his life on Deep Space Nine to recognize the beginnings of a community.
+
+A station could be built in months or years. A home took longer. It happened when somebody knew how you took your coffee. When a child learned which shopkeeper would let her watch the ovens. When an argument about docking fees became a story people told over dinner.
+
+Jake stopped beside the observation window.
+
+"Beautiful," he said.
+
+The ensign looked out at Jupiter. "You get used to it."
+
+"No," Jake said. "You learn to stop looking. That's different."
+
+The ensign appeared uncertain whether she had been corrected.
+
+Jake spared her the trouble.
+
+"Sorry. Writer's habit."
+
+He had accepted the invitation to serve as Observer Prime because the title made him uncomfortable. It sounded grand enough to conceal almost anything. Starfleet had used similarly grand language during the war, and Jake had watched people disappear behind it.
+
+An observer, he had insisted, must be permitted to report what he saw, including what command preferred not to discuss.
+
+Ashley had agreed.
+
+That was why he had come.
+
+He found her in Operations, listening to a registry officer explain a suspicious authorization.
+
+"Mr. Sisko," Ashley said. "Welcome to Jupiter Station."
+
+"Captain."
+
+"I apologize for not meeting you personally."
+
+"I've been here ten minutes. Already found the bakery. Your hospitality is doing fine."
+
+Ashley smiled.
+
+"You're earlier than expected."
+
+"I caught an earlier transport."
+
+"Good. We may need you sooner than we thought."
+
+Jake looked at the padd in Imani's hands.
+
+"That sounds ominous."
+
+"At the moment, it's paperwork."
+
+"I've learned to fear paperwork."
+
+Ashley motioned him toward the table.
+
+"How much have you been told about Avalon's refit?"
+
+"Enough to know somebody would rather I hadn't heard about it."
+
+"Then we'll start with what we can prove."
+
+Jake set down his bag.
+
+It was the beginning of a conversation that would alter the way he understood his own work.
+
+He had spent years believing the purpose of a witness was to tell the truth.
+
+Jupiter Station would teach him that the harder obligation was sometimes to admit which truth he could not establish.
+
+***
+
+On Avalon, Noah stood beside Reg and Sorev as a new set of station records filled the engineering display.
+
+Reg had made a discovery, and he was not pleased about it.
+
+"The pump controller says it received approval from our experimental archive," he said.
+
+"Did it?" Noah asked.
+
+"No."
+
+"Are you sure?"
+
+"I've checked the isolated archive, the network logs, the diagnostic buffer, and the maintenance backup. There's no corresponding request."
+
+Sorev touched the screen.
+
+"That is not entirely accurate."
+
+Reg looked at him.
+
+"Excuse me?"
+
+"There is no corresponding request in the active archive. There is, however, a matching transaction identifier in the experimental system's discarded-state buffer."
+
+Reg stared.
+
+"The discarded-state buffer?"
+
+"Yes."
+
+"That's not possible. We shut the test down."
+
+"After the buffer was created."
+
+Reg opened the record. A short string of characters appeared.
+
+He read it once.
+
+Then again.
+
+"Oh, that's bad."
+
+Noah moved closer.
+
+"How bad?"
+
+Reg enlarged the data.
+
+"It's a request from the station pump controller. The exact request. Same identifier, same timestamp, same authorization challenge."
+
+"And the response?"
+
+"Approved."
+
+Noah waited.
+
+Reg swallowed.
+
+"Captain, the buffer was generated during the forty-seven-second test."
+
+"Yesterday."
+
+"Yes."
+
+"The pump event was yesterday too."
+
+"Yes, but the archive wasn't connected to the station. It couldn't have received the request."
+
+Sorev folded his hands.
+
+"Unless the buffer is a record of a state that did not persist."
+
+Reg looked at him.
+
+"That's a theory."
+
+"Correct."
+
+"An extraordinary theory."
+
+"Also correct."
+
+Noah watched them.
+
+"Explain it without the words temporal or quantum."
+
+Reg rubbed his forehead.
+
+"Imagine writing a letter. You put it in an envelope, address it, and leave it on the table. Then you change your mind and burn it."
+
+"All right."
+
+"Now imagine the recipient has a copy of the letter."
+
+"That sounds like somebody mailed it."
+
+"Except you know you didn't."
+
+Noah glanced at Sorev.
+
+"And what does that mean for the station?"
+
+"It means," Sorev said, "that the pump controller may be responding to a command issued in a sequence of events that is not represented by our current records."
+
+Noah was silent.
+
+Then he said, "You're telling me a version of the test we shut down might still have consequences."
+
+"We are saying the evidence permits that hypothesis," Sorev replied.
+
+"That's a yes with more syllables."
+
+Reg gave a weak smile.
+
+Noah looked at the display again.
+
+"Can we stop it?"
+
+"We've already stopped the experiment," Reg said.
+
+"That wasn't what I asked."
+
+Reg hesitated.
+
+"No, Captain. I don't know."
+
+Noah took a slow breath.
+
+"Then let's find out before somebody gets hurt."
+
+***
+
+Tomas Dalen worked in a maintenance shop that smelled of machine oil and burnt toast.
+
+The toast was his fault. He had been trying to fix the replicator again.
+
+His wife, Lena, stood in the doorway with a bag of groceries and a look that suggested she had reached the limit of her patience.
+
+"Tell me that's not the breakfast unit."
+
+"It's the breakfast unit."
+
+"Tomas."
+
+"It was making the wrong kind of bread."
+
+"It made bread."
+
+"It made something shaped like bread."
+
+"Which was enough for me."
+
+He held up a scorched component.
+
+"I found the problem."
+
+"Did you fix it?"
+
+"Not yet."
+
+"Then you've found a problem."
+
+He grinned.
+
+She tried not to smile.
+
+They had met on a transport ship eleven years earlier. Lena had been a medical technician. Tomas had been repairing a cargo elevator. The elevator had failed between decks, trapping them together for four hours.
+
+Tomas told people he had fallen in love immediately.
+
+Lena told people she had spent three hours trying to make him stop talking.
+
+Both stories were true.
+
+Now they had a daughter, a small apartment overlooking a service corridor, and a collection of half-finished projects that Lena referred to as Tomas's museum of optimism.
+
+"Did Mara like the ship?" she asked.
+
+"She did."
+
+"Did you tell her the tour was canceled?"
+
+"I did."
+
+"How did she take it?"
+
+"Better than I deserved."
+
+Lena put down the groceries.
+
+"She's been looking forward to that for weeks."
+
+"I know."
+
+"Can you ask again?"
+
+"I can. But Avalon's in the middle of a refit. They have real work to do."
+
+"You're doing real work too."
+
+He looked around the shop.
+
+"Today I burned toast."
+
+"Yesterday you repaired a pressure seal that kept thirty people from losing their air."
+
+"That's different."
+
+"Only because nobody noticed."
+
+She stepped closer.
+
+"You don't have to be on a starship to matter."
+
+He kissed her forehead.
+
+"I know."
+
+"Do you?"
+
+He didn't answer.
+
+The shop terminal chirped.
+
+A work order appeared on the screen.
+
+Residential garden circulation control. Additional inspection required. Possible anomalous authorization event.
+
+Tomas read it.
+
+"That's strange."
+
+"What?"
+
+"I inspected that controller last week. It was fine."
+
+"Can somebody else take it?"
+
+"Probably."
+
+"Then let them."
+
+He looked at her.
+
+"Why?"
+
+"Because you promised Mara you'd help with her school project tonight."
+
+Tomas glanced at the clock.
+
+He had forgotten.
+
+Lena watched his face.
+
+"There it is."
+
+"I'm sorry."
+
+"Don't apologize to me. Just come home."
+
+He closed the work order.
+
+"I'll hand it to the next shift."
+
+"Good."
+
+The terminal chirped again.
+
+The same work order returned, now marked urgent.
+
+Tomas frowned.
+
+"That's odd."
+
+Lena picked up her groceries.
+
+"Everything on this station is odd."
+
+He laughed.
+
+Then he read the new authorization.
+
+The work order had been assigned directly to him.
+
+It carried his own acceptance signature.
+
+He had not accepted it.
+
+He stared at the screen.
+
+Lena noticed.
+
+"What is it?"
+
+He looked up.
+
+"Nothing. Probably a system error."
+
+She held his gaze.
+
+"Don't do that."
+
+"Do what?"
+
+"Tell me nothing when something's wrong."
+
+He turned the terminal toward her.
+
+"Somebody accepted this job using my credentials."
+
+"Can you report it?"
+
+"Of course."
+
+"Then report it."
+
+He opened a message to Maintenance Control.
+
+For a moment he considered deleting the work order and going home.
+
+Instead he attached the original record.
+
+He had no idea that his decision would become one of the most important pieces of evidence in the station's history.
+
+***
+
+That night, Jake Sisko sat alone at a table near the promenade's observation window.
+
+He had ordered tea and something the server described as a traditional Bajoran pastry. It was not traditional, at least not according to the Bajorans Jake had known, but it was excellent.
+
+He opened his notebook.
+
+At the top of the page he wrote:
+
+*What does a witness owe the people who trust him?*
+
+He stared at the question.
+
+His father had taught him that the universe contained things a person could not explain. He had also taught him that wonder was not a substitute for responsibility.
+
+Jake remembered the years after the war. The people who wanted simple stories. Heroes and villains. Victory and sacrifice. The truth was less accommodating. People had been brave and frightened and selfish and generous, sometimes in the same hour.
+
+He had written about them anyway.
+
+Now he was being asked to witness something that might not have a single agreed history.
+
+He turned to a fresh page.
+
+*If two records disagree, preserve both.*
+
+It sounded like a rule.
+
+He crossed it out.
+
+Then he wrote:
+
+*If two people disagree, listen to both.*
+
+That sounded better.
+
+A child approached his table.
+
+"Are you Jake Sisko?"
+
+He looked up.
+
+A girl stood there holding a crooked model of Avalon.
+
+"I am."
+
+"My dad says you're a writer."
+
+"He's right."
+
+"Do you write true stories?"
+
+"Sometimes."
+
+"Do you make people up?"
+
+"Sometimes."
+
+She considered that.
+
+"How do you know which is which?"
+
+Jake smiled.
+
+"That's a very good question."
+
+"My name's Mara."
+
+"Hello, Mara."
+
+She placed the little ship on his table.
+
+"Can you write a story about this?"
+
+"What happens in it?"
+
+She thought carefully.
+
+"The captain gets scared. But he does captain things anyway."
+
+Jake looked at her.
+
+"That sounds like a good story."
+
+"Can you make my dad be in it?"
+
+"What's his name?"
+
+"Tomas."
+
+"And what does Tomas do?"
+
+"He fixes things."
+
+Jake nodded.
+
+"Then I think he'd be important."
+
+Mara beamed.
+
+Her mother called from across the promenade. Mara collected the ship and ran back.
+
+Jake watched her go.
+
+Then he looked at his notebook.
+
+He had come to Jupiter Station to observe a technical mystery.
+
+The girl had reminded him what observation was for.
+
+He began writing about a father who fixed things.
+
+***
+
+Ashley was still in Operations when the second work order arrived.
+
+This one came from Tomas Dalen.
+
+She read the report twice.
+
+"Another unauthorized signature," she said.
+
+Imani nodded.
+
+"Same pattern."
+
+"Is it the same timestamp?"
+
+"No. Different time. Same verification mechanism."
+
+Ashley looked at the three records laid out on the table.
+
+A station archive transfer.
+
+A garden valve closure.
+
+A civilian maintenance assignment.
+
+Three events, all apparently authorized by people who denied authorizing them.
+
+"What connects them?" she asked.
+
+"Each involves a system that exchanged data with Avalon's experimental archive," Imani said.
+
+"The garden pump wasn't connected to Avalon."
+
+"Neither was Registry."
+
+Ashley looked at her.
+
+"That's becoming a familiar sentence."
+
+Imani hesitated.
+
+"Captain, I think we should consider the possibility that the records are not simply forged."
+
+"Meaning?"
+
+"That they may be authentic records of events that didn't occur in the sequence we're living through."
+
+Ashley was silent.
+
+She had spent years commanding people who needed her to make decisions. Sometimes that meant acting before every question was answered. But she knew the difference between acting under uncertainty and pretending uncertainty had disappeared.
+
+"Prepare a stationwide advisory," she said.
+
+Imani stiffened.
+
+"About temporal contamination?"
+
+"No. About unauthorized control events. Tell department heads to preserve original logs, report unexpected authorizations, and verify critical commands through independent channels."
+
+"Understood."
+
+"Don't frighten people with a theory we haven't proved."
+
+"Yes, Captain."
+
+Ashley looked at the display.
+
+"And get me Captain Hawkes."
+
+***
+
+Noah answered from Avalon's bridge.
+
+"You're up late."
+
+"So are you."
+
+"Occupational hazard."
+
+"Another unauthorized signature. This time a civilian maintenance work order."
+
+Noah's expression hardened.
+
+"Any injuries?"
+
+"No."
+
+"Good."
+
+"Reg and Sorev found anything?"
+
+"They found a discarded-state buffer that contains the station's pump request."
+
+Ashley frowned.
+
+"Discarded state?"
+
+"A record of a system condition that didn't become part of the active test."
+
+"And it contains a real station command?"
+
+"Apparently."
+
+She looked toward Imani.
+
+"Send me the original buffer."
+
+"Already on its way."
+
+Ashley took a breath.
+
+"Noah, we need to establish independent command verification. Until we know what's happening, neither station nor ship should accept critical commands solely because a record says the other side approved them."
+
+"I agree."
+
+"Good."
+
+He hesitated.
+
+"Ashley, there's something else."
+
+"What?"
+
+"Reg thinks the experiment may have created more than one consistent account of the same interval."
+
+"Do you believe him?"
+
+"I believe he found something he can't explain. That's enough to take seriously."
+
+She nodded.
+
+"Then let's take it seriously without letting it run our lives."
+
+Noah smiled faintly.
+
+"That's why you're in command over there."
+
+"And you're in command over there."
+
+They looked at each other across the distance between ship and station.
+
+"Good night," Ashley said.
+
+"Good night."
+
+The channel closed.
+
+Ashley turned to Imani.
+
+"Start the independent verification protocol."
+
+"Captain, should we give it a name?"
+
+Ashley considered the question.
+
+"Not yet."
+
+"Why not?"
+
+"Because once people name a thing, they start believing they understand it."
+
+***
+
+On Avalon, Sorev remained at the science console long after the bridge crew had changed shifts.
+
+Reg arrived carrying two cups of tea.
+
+"I thought you might still be here."
+
+Sorev accepted one.
+
+"Your hypothesis remains unproven."
+
+"That's not why I came."
+
+"Indeed?"
+
+Reg sat beside him.
+
+"I wanted to apologize."
+
+"For what?"
+
+"For being difficult."
+
+Sorev considered this.
+
+"You will need to be more specific."
+
+Reg laughed.
+
+"Fair enough."
+
+He looked at the starfield.
+
+"I've been trying to make the evidence say something definite because I don't like not knowing. You've been trying to keep me honest."
+
+"That is part of my responsibility as science officer."
+
+"I know."
+
+Sorev looked at him.
+
+"You have also kept me honest."
+
+Reg blinked.
+
+"I have?"
+
+"Yes. I initially dismissed the repeated measurement as a sensor artifact. Your persistence prevented me from treating that assumption as fact."
+
+Reg stared at his tea.
+
+"Well. Thank you."
+
+"You are welcome."
+
+They sat quietly for a time.
+
+Then Sorev opened a new display.
+
+"I have found something that may interest you."
+
+Reg leaned forward.
+
+"What?"
+
+"The discarded-state buffer contains an incomplete navigation reference."
+
+"Navigation?"
+
+"Yes. A location within the Sol system."
+
+Reg examined the coordinates.
+
+"That's nowhere near the test chamber."
+
+"No."
+
+"Where is it?"
+
+Sorev enlarged the map.
+
+A point appeared near the sun.
+
+Reg felt the hairs rise on the back of his neck.
+
+"Why would a station maintenance command contain solar coordinates?"
+
+"I do not know."
+
+Reg stared at the point.
+
+There were no ships there. No stations. Nothing that should have any connection to a garden pump.
+
+He had been hoping the missing second would lead to a broken clock.
+
+Instead, it had led to the sun.
+
+And for the first time, he was afraid of what he might find if he kept looking.
+
+*End of Chapter Four.*
