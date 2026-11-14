@@ -32,3 +32,9 @@ Status: AI-drafted working manuscript. Noah.Physical retains canon approval auth
 
 ## Editorial rule
 Preserve original records and creator corrections. New plot inventions remain working fiction until Noah approves canon promotion. Do not turn a disputed record into established historical truth merely because it has a valid signature.
+
+## New draft inventions, not promoted canon
+- Chapter Four: Mara Dalen, Tomas Dalen, Lena Dalen, and Ensign Talia Venn introduced as candidate civilian characters; Jake arrives as Observer Prime.
+- Chapter Four: experimental discarded-state buffer contains a matching pump request and solar coordinates; speculative plot mechanism, not established historical fact.
+- Chapter Five: Ellie appears in a 2395 family-history scene as a child. **Potential conflict** with later holographic Ellie chronology; requires deliberate reconciliation before canon promotion. Preserve the scene as candidate, not canon.
+- Chapters Four and Five: 5517 words including headings, first 5k-target stint.
