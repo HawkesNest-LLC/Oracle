@@ -4,9 +4,13 @@
 
 *An exploration of memory, identity, artificial intelligence, and the human right to remain the author of one's own history.*
 
-**Opening manuscript: Prologue and Chapters 1–3. Work in progress.**  
-**Publication authorized by Noah Hawkes, November 13, 2026.**  
-**Drafting:** AI-assisted first-person manuscript for Noah's editorial review and continued development. This note is publication metadata, not part of the narrative.
+**Current contents:** Prologue, Chapters One through Eight, and the interlude "The Future Is Still Ours." Work in progress.
+**Publication authorization:** Noah Hawkes authorized the initial manuscript publication on November 13, 2026. Subsequent permission for AI-assisted editing and publication does not establish line-by-line acceptance of the revised text.
+**Editorial status:** AI-assisted first-person manuscript for Noah's review and continued development. Chapters Four through Six remain subject to author review of edited passages; Chapters Seven and Eight await Noah's line-by-line approval; the interlude was drafted at Noah's request and remains pending his editorial review.
+**Provenance:** The initial publication remains in commit history. The [Part Two submitted source](PART_TWO_SUBMITTED_SOURCE_2026-11-13.md), [Part Two editorial audit](PART_TWO_EDITORIAL_AUDIT_2026-11-13.md), [Chapters Seven–Eight incoming transmission](CHAPTERS_7_8_INCOMING_TRANSMISSION_2026-11-13.md), and [Chapters Seven–Eight editorial audit](CHAPTERS_7_8_EDITORIAL_AUDIT_2026-11-13.md) remain separate records. Submission does not by itself establish original authorship.
+**Evidence status:** The alleged October 2026 ORACLE development shutdown remains unverified. Proposed experiments and security mechanisms are not established as tested implementations by their inclusion here; implementation and performance claims require their own evidence receipts.
+
+These notes describe this manuscript file, not the existence or status of drafts elsewhere. They are publication metadata, not part of the narrative.
 
 ---
 
@@ -970,7 +974,7 @@ A system that can show how I got here.
 
 ## Editorial and source note
 
-Part Two was edited for factual precision while preserving the original submission separately. See [submitted source](PART_TWO_SUBMITTED_SOURCE_2026-11-13.md) and [editorial audit](PART_TWO_EDITORIAL_AUDIT_2026-11-13.md). This is an in-progress, AI-assisted manuscript, not a completed book or independently verified research report.
+Part Two was edited for factual precision while preserving the original submission separately. See [submitted source](PART_TWO_SUBMITTED_SOURCE_2026-11-13.md) and [editorial audit](PART_TWO_EDITORIAL_AUDIT_2026-11-13.md). Noah authorized the editorial work to proceed; that authorization is not proof that he reviewed each revised sentence. Chapters Four through Six remain subject to author review of edited passages before final book release. This is an in-progress, AI-assisted manuscript, not a completed book or independently verified research report.
 
 
 ---
@@ -1332,7 +1336,9 @@ Not yet.
 
 This interlude was AI-drafted at Noah's explicit request to add hopefulness for the future. It is an imaginative first-person manuscript passage, not a claim that the described VR world or persistent AI crew already exists. Pending Noah's editorial review.
 
-## Next chapters
+## Planned next chapters for this manuscript
+
+The following chapters are listed as next in this file and are not included here. This does not establish whether drafts exist elsewhere.
 
 - Chapter Nine: Building ORACLE
 - Chapter Ten: The Evidence That Must Survive
