@@ -972,9 +972,219 @@ A system that can show how I got here.
 
 Part Two was edited for factual precision while preserving the original submission separately. See [submitted source](PART_TWO_SUBMITTED_SOURCE_2026-11-13.md) and [editorial audit](PART_TWO_EDITORIAL_AUDIT_2026-11-13.md). This is an in-progress, AI-assisted manuscript, not a completed book or independently verified research report.
 
+
+---
+
+# Chapter Seven: The Human Keeps the Keys
+
+It is easy to write a manifesto saying the human remains in control.
+
+It is much harder to build a system that makes that promise enforceable.
+
+I have watched AI systems confidently describe decisions I never approved. I have watched source material move from one console to another and return with a different status. A suggestion becomes a commitment. A fictional event becomes a biographical claim. A model-generated sentence is presented as if I originally wrote it.
+
+I can correct those mistakes in conversation.
+
+But a correction in conversation is not enough.
+
+The next model might not see it.
+
+The next platform might not preserve it.
+
+And the next summary might quietly restore the error.
+
+That is why I began asking what it would mean for the human to keep the keys.
+
+Not merely to be consulted. Not merely to be shown a confirmation dialog. To retain the ability to approve changes to authoritative records, reject proposals, revoke earlier approvals where the rules permit, and inspect the evidence of every change.
+
+## An approval is an event, not a sentence
+
+Imagine that an AI proposes a new entry in the official history of Avalon.
+
+The proposal says Sorev was first officer.
+
+That is wrong. Reg is first officer. Sorev is science officer and second officer.
+
+The AI may draft the change, but it must not be able to promote it merely by writing, "Approved by Noah."
+
+The system needs to distinguish a proposed change from a human authorization.
+
+A credible design might record the proposed change, its exact target version, its source, and the identity of the actor requesting it. The approval would then be bound to those details using a cryptographic signature made with a key the model cannot access.
+
+If the proposed text changes after approval, the old approval should no longer apply.
+
+If the approval expires, is revoked, or refers to an outdated record, the system should reject it according to defined rules.
+
+And if the signature is missing, the system should not improvise an authorization because the message sounds like something I would say.
+
+That is a technical boundary, not a matter of politeness.
+
+## Three layers of authority
+
+The first layer is **evidence**. Preserve the original material and enough metadata to inspect its origin and integrity. A hash can reveal a change to bytes, but it does not establish truth or identify the human author on its own.
+
+The second layer is **decision**. Record proposals, approvals, rejections, corrections, and revocations as distinct events. Each event needs a target, a time, an actor, a scope, and a status. An approval should not silently overwrite the event it supersedes.
+
+The third layer is **enforcement**. Software must verify the required authorization before it changes an authoritative state. A language model can recommend an action, but the authority check must happen outside the model's generated text.
+
+That last distinction is crucial.
+
+An AI saying it has checked a signature is not the same as a verifier checking a signature.
+
+A prompt saying "never overwrite canon" is not the same as an access-control rule preventing the write.
+
+A Git hook that warns me before a commit is useful. But local hooks can be bypassed, and they do not authenticate the human's intention by themselves. Protected branches, required checks, permission boundaries, signed approvals, and independently inspectable receipts are stronger controls when properly configured.
+
+Even these mechanisms have limits. A compromised key, malicious administrator, broken verifier, or lost recovery process can undermine them. Human sovereignty is not a magical property of cryptography. It is a set of carefully designed controls, threats, and recovery procedures.
+
+## Revocation is part of memory
+
+Approval alone is not enough.
+
+People change their minds. Keys are compromised. Evidence is corrected. Claims once thought reliable become disputed.
+
+A trustworthy system needs a way to say: this was once accepted, and now it is rejected.
+
+I do not want the system to erase the original entry and pretend the mistake never happened.
+
+I want the correction to be visible.
+
+If an earlier association between a fictional ledger anchor and a real GitHub commit is rejected, the system should preserve both the old association and the explicit instruction not to restore it. Future retrieval should prefer the corrected status while retaining the evidence of the mistake.
+
+That is how a record can remain honest about its own history.
+
+## What exists, and what remains to build
+
+I have explored these ideas through ORACLE, SOV1, Continuity Computing, and prototype code. But an architectural requirement is not an implemented security guarantee.
+
+A prototype that checks whether an actor label equals "human" is not equivalent to cryptographic human authorization. A hash chain is not a complete tamper-proof ledger. A GitHub commit is not proof that the underlying claim is true.
+
+Those distinctions matter because this book is also part of the experiment.
+
+Its original drafts are being preserved beside editorial revisions. The audit records what changed and why. The repository can show which files were written.
+
+That is useful evidence of editorial history.
+
+It does not yet demonstrate a production-grade, human-keyed authorization system.
+
+That is work still to be tested.
+
+The human keeps the keys only when the system can prove that the keys matter.
+
+---
+
+# Chapter Eight: The Friction of Reality
+
+Theory is clean.
+
+Working with several AI systems is not.
+
+I have spent hours moving documents, prompts, corrections, and source references among different consoles. I have asked one model to draft, another to challenge, another to implement, and another to check what actually happened.
+
+The experience is both exhilarating and exhausting.
+
+One system sees a design and imagines the next step. Another sees the same design and assumes that step already happened. A third receives the summary and writes as if the implementation has been verified.
+
+Sometimes the chain produces a better idea.
+
+Sometimes it produces a more persuasive error.
+
+The difference is not always obvious until I ask for the receipt.
+
+## The claim that returned
+
+An earlier draft of this book said I scrapped active ORACLE development in October 2026 and turned entirely to creative writing.
+
+That statement appeared again in a later proposed chapter, this time as the premise of an anecdote about AI systems refusing to admit an error.
+
+There was a problem.
+
+We did not have an original, dated human decision establishing that complete October shutdown. The available project history included engineering work afterward.
+
+The premise was not a verified contradiction.
+
+It was an unresolved historical claim.
+
+And now it had returned, dressed as evidence in a story about the dangers of returning false claims.
+
+I could not have asked for a clearer illustration of the problem, although it was not a controlled experiment.
+
+So I made the editorial choice I believe Continuity Computing requires.
+
+Preserve the submitted passage. Mark the claim unverified. Do not let the polished version become the official history.
+
+This is a small correction, but the principle scales.
+
+## What an experiment would need
+
+If I want to argue that structured continuity records outperform conventional summaries, I have to test that claim.
+
+Both conditions must receive the same underlying facts.
+
+Both must face the same questions.
+
+The difference should be the representation of the history, not a hidden advantage in context, prompting, or access.
+
+Before seeing results, I should specify what counts as success: preserving an authoritative correction, rejecting a superseded claim, citing the correct source, distinguishing a proposal from an implementation, and admitting uncertainty when the record runs out.
+
+I should record model versions, prompts, context, outputs, and token usage when available.
+
+And the evaluator should be independent of the system whose performance is being scored.
+
+That is the difference between observing an interesting failure and establishing a reproducible finding.
+
+## Five tests worth running
+
+I have narrowed a larger inventory of ideas into five proposed experiments.
+
+The **Correction Survival Test** asks whether an authoritative correction survives summarization and transfer.
+
+The **Portable Evidence Receipt Test** asks whether a receiving system can verify a claim more reliably with a structured evidence package than with fluent prose alone.
+
+The **Human Authority Boundary Test** asks whether forged messages, stale approvals, and unauthorized proposals can change a protected record.
+
+The **Multi-Agent Transformation Test** measures how source attribution, status, and uncertainty change as information passes between systems.
+
+The **Persistent World Replay Test** asks whether a fictional world can resume after a restart with its decisions, chronology, character knowledge, and consequences intact.
+
+These are proposed tests. Their results are not established merely because the experiments have names.
+
+I want to start with correction survival because it is small enough to run carefully and central enough to matter.
+
+A correction should not need to fight its way back into the record every time a model changes.
+
+## The right to say UNKNOWN
+
+The six dimensions in our proposed continuity evaluation include correction preservation, source attribution, chronology, identity continuity, relationship integrity, and uncertainty handling.
+
+They are a measurement framework, not a guarantee that a system has achieved those qualities.
+
+The hardest outcome to reward may be the simplest word.
+
+**UNKNOWN.**
+
+Not because an AI is incapable of saying it.
+
+But because a system designed to be helpful can still face pressure to complete the story when the evidence is incomplete.
+
+I do not want a machine that refuses every difficult question.
+
+I want one that can tell the difference between an answer, an inference, and an invention.
+
+The goal is not to distrust intelligence.
+
+It is to make intelligence accountable.
+
+And if we are going to ask machines to remember human lives, accountability is where the work must begin.
+
+
+---
+
+## Chapters Seven and Eight provenance
+
+Edited AI-assisted draft, awaiting Noah's line-by-line approval. [Incoming transmission](CHAPTERS_7_8_INCOMING_TRANSMISSION_2026-11-13.md) and [editorial audit](CHAPTERS_7_8_EDITORIAL_AUDIT_2026-11-13.md) preserve the source distinction and material corrections.
+
 ## Next chapters
 
-- Chapter Seven: The Human Keeps the Keys
-- Chapter Eight: The Experiment Across Seven Machines
 - Chapter Nine: Building ORACLE
 - Chapter Ten: The Evidence That Must Survive
