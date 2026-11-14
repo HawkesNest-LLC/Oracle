@@ -38,3 +38,9 @@ Preserve original records and creator corrections. New plot inventions remain wo
 - Chapter Four: experimental discarded-state buffer contains a matching pump request and solar coordinates; speculative plot mechanism, not established historical fact.
 - Chapter Five: Ellie appears in a 2395 family-history scene as a child. **Potential conflict** with later holographic Ellie chronology; requires deliberate reconciliation before canon promotion. Preserve the scene as candidate, not canon.
 - Chapters Four and Five: 5517 words including headings, first 5k-target stint.
+
+## Chapters Six and Seven candidate developments
+- Jake interviews Tomas and Lena; the future version-seven maintenance profile produces a disputed test event, but repeat test fails. Imani preserves both records and witness statements.
+- Reg and Sorev disagree over treating solar coordinates as a prediction; Sorev recounts an earlier transport-warning failure. Noah wins suspension of temporal acceptance tests while conventional refit continues.
+- New chapter events and dialogue are AI-authored working fiction, not verified creator-approved canon.
+- Chapter Five's 2395 Ellie childhood depiction remains unresolved against her established 2397 holographic lieutenant status. No retrospective explanation is adopted.
