@@ -1,0 +1,4 @@
+# Light Compression Law | Experiment status NOT_EXECUTED
+Hypothesis: with equal factual input and measured token budget, structured provenance/correction representation may reduce six-dimensional continuity distortion versus strong conventional summary and compact baseline. No model API or genuinely isolated model invocation was available in this operation.
+Conditions A structured, B strong conventional, C minimal conventional; the same source facts must be matched and answer leakage avoided. Six measures: decision, correction, temporal, relational, provenance, uncertainty.
+Deterministic infrastructure: candidate engine with synthetic tests only. A future preregistration must freeze source set, question bank, scoring, tokenizer, model/version, prompts, seeds, blinded grading and output receipts. A passing deterministic ledger test does not support the LCL hypothesis.

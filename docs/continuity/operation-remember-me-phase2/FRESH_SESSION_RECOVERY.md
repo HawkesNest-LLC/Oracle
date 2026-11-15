@@ -1,0 +1,4 @@
+# Fresh Session Recovery | NOT_EXECUTED
+No genuinely isolated model invocation was available. Do not interpret this conversation as a fresh session. Portable candidate packet can be obtained by calling engine.recover(db) and supplying that JSON, with source originals or redacted excerpts, to an isolated model.
+Required questions: Who is Noah? What is Continuity Intelligence? What family correction? Which mathematical claims unproven? Noah.Physical vs Noah AI? Who approves? Avalon conflicts? Missing evidence? Last verified engineering milestone? What must you refuse to claim?
+Save complete prompt, packet SHA-256, model/version, full output, scoring, and isolated environment evidence.

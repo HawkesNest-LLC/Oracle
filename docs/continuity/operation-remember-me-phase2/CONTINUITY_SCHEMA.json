@@ -1,0 +1,27 @@
+{
+  "schema_version": "orm2-candidate-0.1",
+  "event_kinds": [
+    "SOURCE",
+    "CLAIM",
+    "CORRECTION",
+    "DECISION",
+    "IDENTITY",
+    "COMMITMENT",
+    "RECEIPT"
+  ],
+  "fields": [
+    "kind",
+    "record_id",
+    "payload",
+    "prev_hash",
+    "event_hash"
+  ],
+  "status": "CANDIDATE_ONLY",
+  "human_approval": "NOT_IMPLEMENTED",
+  "limitations": [
+    "no signatures",
+    "no replay prevention",
+    "no timestamp ordering enforcement",
+    "hash chain locally rewriteable"
+  ]
+}
