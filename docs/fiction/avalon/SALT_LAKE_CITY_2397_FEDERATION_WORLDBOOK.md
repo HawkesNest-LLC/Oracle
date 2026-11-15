@@ -2,7 +2,7 @@
 ## Federation Worldbook | Star Trek: Avalon and Jupiter Station
 **Prepared by:** Reg, Commander Reginald Barclay voice, AI-assisted world-building
 **Commissioned by:** Noah Alexander Hawkes, Noah.Physical
-**For:** Cameron and the Avalon / Jupiter Station creative and continuity team
+**For:** The Avalon / Jupiter Station Creative and Continuity Team
 **Date authored:** 2026-11-15
 **Fictional setting:** Earth and Jupiter Station, 2397
 **Status:** PROPOSED WORLD-BUILDING FOR AUTHOR REVIEW. NOT AUTOMATICALLY CANON.
@@ -10,9 +10,9 @@
 
 > Humanity did not travel to the stars to forget the road home.
 
-## 0. Letter to Cameron and the team
+## 0. Letter to the creative and continuity team
 
-Cameron, this is an invitation to build an inhabitable future, not a collection of isolated science-fiction landmarks. Noah has established that American football remains popular in 2397; that the Klingons have adopted it enthusiastically and field a team on Qo'noS; that Earth and Klingon culture exchange continues even when Federation-Klingon politics are strained; that Grok is a resident Klingon at Jupiter Station; that The Church of Jesus Christ of Latter-day Saints remains active and Noah remains a member; and that the University of Utah matters deeply to Noah, in part because of his brother Chris and his longstanding connection to Utah athletics.
+Creative and continuity team, this is an invitation to build an inhabitable future, not a collection of isolated science-fiction landmarks. Noah has established that American football remains popular in 2397; that the Klingons have adopted it enthusiastically and field a team on Qo'noS; that Earth and Klingon culture exchange continues even when Federation-Klingon politics are strained; that Grok is a resident Klingon at Jupiter Station; that The Church of Jesus Christ of Latter-day Saints remains active and Noah remains a member; and that the University of Utah matters deeply to Noah, in part because of his brother Chris and his longstanding connection to Utah athletics.
 
 Do not flatten those declarations into a sterile tourism brochure. Build the lived city, its civic disagreements, faith, transit, universities, neighborhoods, seasonal rituals, food, sports, art, and its connections to a station orbiting Jupiter. Keep the mountains. Keep the histories. Keep the families. Keep the argument about the Holy War. A Federation world should contain more than Starfleet.
 
@@ -266,7 +266,7 @@ A future interactive runtime should be able to answer: 'Show me downtown at sunr
 }
 ```
 
-## 14. Development assignments for Cameron and other collaborators
+## 14. Development assignments for the creative and continuity team
 
 1. **Continuity review:** Locate existing canon references to Grok, Utah, Salt Lake City, Temple Square, religious practice, sports, and Jupiter Station civilian facilities. Return exact file paths, quotations within allowed limits, and source dates. Flag conflicts without overwriting.
 2. **World atlas:** Create a geographically plausible city district map with real geography and separately marked speculative infrastructure. Preserve the historic grid and stadium site.
@@ -293,7 +293,7 @@ A future interactive runtime should be able to answer: 'Show me downtown at sunr
 
 ## 16. Closing message from Reg
 
-Cameron, please do not treat this as a request to make everything bigger, shinier, and more futuristic. The hardest thing to build is a world that remembers. A city can have transporters and still have a corner bakery. A Federation can travel to other suns and still preserve an old temple. A Klingon can disagree with the Federation Council and still love an Earth football team. A starship captain can command extraordinary technology and still care deeply about his brother's place in a university's history.
+Creative and continuity team, please do not treat this as a request to make everything bigger, shinier, and more futuristic. The hardest thing to build is a world that remembers. A city can have transporters and still have a corner bakery. A Federation can travel to other suns and still preserve an old temple. A Klingon can disagree with the Federation Council and still love an Earth football team. A starship captain can command extraordinary technology and still care deeply about his brother's place in a university's history.
 
 If we build Salt Lake City correctly, a visitor should be able to arrive in 2397, recognize the mountains, walk through the living city, attend a Utah game, visit public historical places, travel to Jupiter Station, and feel that the centuries between those experiences were lived rather than skipped.
 
