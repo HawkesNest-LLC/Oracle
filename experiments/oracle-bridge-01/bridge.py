@@ -75,15 +75,44 @@ def ack(db, mid, agent, receipt):
                    (agent, now(), receipt, mid))
         event(db, mid, "ACKNOWLEDGED", "Operator-entered receipt: "+receipt)
 def audit(db):
+    """Check local chain and message/event state invariants; NOT authenticated provenance."""
     prev = "GENESIS"
+    histories = {}
     for t, mid, kind, detail, parent, digest in db.execute(
         "SELECT timestamp,message_id,event_type,detail,previous_hash,event_hash FROM events ORDER BY seq"):
         raw = json.dumps([t, mid, kind, detail, parent], separators=(",", ":"))
         if parent != prev or hashlib.sha256(raw.encode()).hexdigest() != digest:
             return False
         prev = digest
-    for body, digest in db.execute("SELECT body,body_sha256 FROM messages"):
+        histories.setdefault(mid, []).append((t, kind, detail))
+
+    messages = list(db.execute(
+        "SELECT id,created_at,recipient,body,body_sha256,status,ack_agent,ack_at,receipt FROM messages"))
+    if set(histories) != {row[0] for row in messages}:
+        return False
+
+    for mid, created, recipient, body, digest, status, agent, ack_at, receipt in messages:
         if hashlib.sha256(body.encode()).hexdigest() != digest:
+            return False
+        history = histories[mid]
+        if (not history or history[0][1:] != ("QUEUED", "Local queue only; not delivered")
+                or history[0][0] < created):
+            return False
+        if status == "QUEUED":
+            if len(history) != 1 or any(x is not None for x in (agent, ack_at, receipt)):
+                return False
+        elif status == "ACKNOWLEDGED":
+            if len(history) != 2 or history[1][1] != "ACKNOWLEDGED":
+                return False
+            if agent != recipient or not isinstance(ack_at, str) or not ack_at.strip():
+                return False
+            if not isinstance(receipt, str) or not receipt.strip():
+                return False
+            if history[1][2] != "Operator-entered receipt: " + receipt:
+                return False
+            if history[1][0] < created or ack_at < created:
+                return False
+        else:
             return False
     return True
 def main():
