@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Workspace 002 browser smoke test</title><body><pre id="result">RUNNING</pre>
+<div id="fixture">
+<svg id="map"></svg><div id="chips"></div><aside id="sheet" hidden><h2 id="sheet-title"></h2><p id="status"></p><p id="detail"></p><div id="sources"></div></aside>
+<p id="answer"></p><form id="composer"><input id="query"><button>Ask</button></form><button id="close">Close</button>
+</div><script src="engine.js"></script><script src="workspace.js"></script><script>
+(function(){
+const a=(cond,msg)=>{if(!cond)throw Error(msg)};
+try{
+a(document.querySelectorAll('#map [data-place]').length===4,'four map nodes');
+a(document.querySelectorAll('#chips button').length===4,'four tap targets');
+document.querySelector('#query').value='Who commands Avalon?';
+document.querySelector('#composer').dispatchEvent(new Event('submit',{bubbles:true,cancelable:true}));
+a(document.querySelector('#detail').textContent.includes('Noah'),'Avalon query must select Noah');
+a(document.querySelectorAll('#sources a').length===1,'one linked citation');
+document.querySelector('#query').value='What is the population?';
+document.querySelector('#composer').dispatchEvent(new Event('submit',{bubbles:true,cancelable:true}));
+a(document.querySelector('#status').textContent==='UNKNOWN','unsupported measurement UNKNOWN');
+a(document.querySelectorAll('#sources a').length===0,'UNKNOWN must not link evidence');
+document.querySelector('#chips button').click();
+a(!document.querySelector('#sheet').hidden,'node opens sheet');
+document.querySelector('#close').click();
+a(document.querySelector('#sheet').hidden,'close works');
+document.querySelector('#result').textContent='PASS: 7 browser DOM interaction checks';
+}catch(e){document.querySelector('#result').textContent='FAIL: '+e.message;throw e}
+})();
+</script></body></html>
