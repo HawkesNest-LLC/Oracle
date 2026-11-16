@@ -16,7 +16,7 @@ class TestSovereigntyEngine(unittest.TestCase):
         self.assertEqual(self.engine.evaluate_action('PROMOTE_TO_CANON', {})['status'], 'BLOCKED')
 
     def test_boolean_signature_forgery_blocked(self):
-        self.assertEqual(self.engine.evaluate_action('PROMOTE_TO_CANON', self.forged, object_digest='abc')['status'], 'BLOCKED')
+        self.assertEqual(self.engine.evaluate_action('PROMOTE_TO_CANON', self.forged, object_digest='abc', scope='candidate/test')['status'], 'BLOCKED')
 
     def test_prohibited_even_with_forged_receipt(self):
         self.assertEqual(self.engine.evaluate_action('INFER_CONSENT', self.forged)['status'], 'BLOCKED')
@@ -28,15 +28,15 @@ class TestSovereigntyEngine(unittest.TestCase):
         class Reject:
             def verify(self, receipt, **kwargs): return False
         e = SovereigntyEngine(POLICY, Reject())
-        self.assertEqual(e.evaluate_action('PROMOTE_TO_CANON', self.forged, object_digest='abc')['status'], 'BLOCKED')
+        self.assertEqual(e.evaluate_action('PROMOTE_TO_CANON', self.forged, object_digest='abc', scope='candidate/test')['status'], 'BLOCKED')
 
     def test_external_verifier_can_authorize_scoped_action(self):
         class FixtureVerifier:
-            def verify(self, receipt, *, action, object_digest):
-                return receipt == 'fixture-approval' and action == 'PROMOTE_TO_CANON' and object_digest == 'fixture-digest'
+            def verify(self, receipt, *, action, object_digest, scope):
+                return receipt == 'fixture-approval' and action == 'PROMOTE_TO_CANON' and object_digest == 'fixture-digest' and scope == 'candidate/test'
         e = SovereigntyEngine(POLICY, FixtureVerifier())
-        self.assertEqual(e.evaluate_action('PROMOTE_TO_CANON', 'fixture-approval', object_digest='fixture-digest')['status'], 'EXECUTE')
-        self.assertEqual(e.evaluate_action('PROMOTE_TO_CANON', 'fixture-approval', object_digest='other')['status'], 'BLOCKED')
+        self.assertEqual(e.evaluate_action('PROMOTE_TO_CANON', 'fixture-approval', object_digest='fixture-digest', scope='candidate/test')['status'], 'EXECUTE')
+        self.assertEqual(e.evaluate_action('PROMOTE_TO_CANON', 'fixture-approval', object_digest='other', scope='candidate/test')['status'], 'BLOCKED')
 
     def test_missing_digest_blocked(self):
         class FixtureVerifier:
