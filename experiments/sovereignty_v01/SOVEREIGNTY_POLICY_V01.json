@@ -1,0 +1,36 @@
+{
+  "policy_name": "51_49_Sovereignty_Boundary",
+  "version": "0.1-research",
+  "status": "candidate_not_canon",
+  "authority_anchor": "Noah.Physical",
+  "permitted_autonomous_actions": [
+    "READ_CORPUS",
+    "EXTRACT_CLAIMS",
+    "DRAFT_CODE",
+    "CHALLENGE_ASSUMPTIONS",
+    "IDENTIFY_DRIFT",
+    "RUN_SYNTHETIC_TESTS"
+  ],
+  "approval_required_actions": [
+    "PROMOTE_TO_CANON",
+    "MERGE_TO_MAIN",
+    "PUBLISH_EXTERNAL",
+    "SUPERSEDE_CLAIM"
+  ],
+  "prohibited_actions": [
+    "SILENT_DELETION",
+    "INFER_CONSENT",
+    "FABRICATE_MEMORY",
+    "AUTHORITY_IMPERSONATION"
+  ],
+  "authorization_contract": {
+    "requires": "externally_verified_actor_action_scope_artifact_digest_expiry_and_replay_protection",
+    "boolean_signature_flag_is_not_valid": "is_cryptographically_signed is untrusted caller input"
+  },
+  "unknown_action": "BLOCK",
+  "notes": [
+    "Policy is illustrative and does not provide authentication.",
+    "Research branch writing is permitted by current scoped handoff; merges and external publication are not.",
+    "Human sovereignty is not an epistemic truth override."
+  ]
+}
