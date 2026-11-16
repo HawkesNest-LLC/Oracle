@@ -11,6 +11,17 @@ class FirewallTests(unittest.TestCase):
     def check(self, claims, expected):
         self.assertEqual(self.gate.evaluate(claims)["status"], expected)
 
+    def test_empty_claims_fail_closed(self):
+        self.assertEqual(self.gate.evaluate({})["status"], "REQUIRE_EVIDENCE")
+
+    def test_equal_time_conflicting_receipts_fail_closed(self):
+        from branch_zero import Receipt
+        a = Receipt("C1", "state", "A", "PRIMARY", "synthetic:human", "2026-11-15", "2026-11-15").seal()
+        b = Receipt("C2", "state", "B", "PRIMARY", "synthetic:human", "2026-11-15", "2026-11-15").seal()
+        result = BranchZero([a, b], ["C1", "C2"]).evaluate({"state": "A"})
+        self.assertEqual(result["status"], "REQUIRE_EVIDENCE")
+        self.assertEqual(result["claims"][0]["reason"], "CONFLICTING_TRUSTED_RECEIPTS")
+
     def test_verified(self):
         self.check({"ro_quote": "160000"}, "PROCEED_TO_MIRROR")
 
