@@ -93,10 +93,16 @@ class TestSignedApprovals(unittest.TestCase):
     def test_safe_action_stays_allowed(self):
         self.assertEqual(self.engine.evaluate_action("DRAFT_CODE", {}, object_digest=None)["status"], "EXECUTE")
 
-    def test_scope_is_signed_but_not_authorized_by_engine(self):
-        # Signature binds scope, but the current API does not compare requested scope.
-        # Do not claim full scope enforcement until engine accepts expected scope.
-        self.assertEqual(self.payload["scope"], "candidate/test")
+    def test_wrong_requested_scope_rejected(self):
+        self.assertEqual(self.decide(self.signed(), scope="other/scope"), "BLOCKED")
+
+    def test_missing_scope_rejected(self):
+        self.assertEqual(self.engine.evaluate_action("PROMOTE_TO_CANON", self.signed(), object_digest=self.digest)["status"], "BLOCKED")
+
+    def test_same_nonce_with_new_valid_signature_rejected(self):
+        self.assertEqual(self.decide(self.signed()), "EXECUTE")
+        new_payload = dict(self.payload, issued_at=NOW-9)
+        self.assertEqual(self.decide(self.signed(payload=new_payload)), "BLOCKED")
 
 if __name__ == "__main__":
     unittest.main()
