@@ -7,7 +7,7 @@ Code committed to the research branch. **Execution of the committed test suite h
 - `sovereignty_engine.py`: fail-closed policy routing and externally verified approval.
 - `approval_ed25519.py`: actual Ed25519 signature verification, signed action/object/scope, time window, and SQLite nonce uniqueness.
 - `test_approval_ed25519.py`: 15 synthetic tests including forged booleans, wrong key, modified scope, wrong action, wrong digest, expiry, future issue, restart replay.
-- `test_sovereignty_engine.py`: previous 8 tests; **these older tests have not been updated to pass the now-required `scope` argument and are expected to fail until updated.**
+- `test_sovereignty_engine.py`: previous 8 tests; **these older tests were updated to pass the now-required `scope` argument; execution remains unverified.**
 
 ## Run (in an environment with checked-out branch)
 ```bash
