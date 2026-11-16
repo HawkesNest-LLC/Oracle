@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/HawkesNest-LLC/Oracle/tree/research/auditor-v0-reconciliation-2026-11-16/experiments/integration_mission_01/esp_v01.schema.json",
+  "title": "CC-90-001 Evidentiary Status Protocol v0.1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "claimId",
+    "status",
+    "authority",
+    "confidence",
+    "sources"
+  ],
+  "properties": {
+    "claimId": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S"
+    },
+    "status": {
+      "enum": [
+        "ESTABLISHED",
+        "RECONSTRUCTED",
+        "PROPOSED",
+        "SIMULATED",
+        "SUPERSEDED",
+        "REJECTED",
+        "UNKNOWN"
+      ]
+    },
+    "authority": {
+      "enum": [
+        "Creator",
+        "Editor",
+        "AI",
+        "Reviewer",
+        "Observer"
+      ]
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "ESTABLISHED"
+          }
+        },
+        "required": [
+          "status"
+        ]
+      },
+      "then": {
+        "properties": {
+          "sources": {
+            "minItems": 1
+          }
+        }
+      }
+    }
+  ]
+}
