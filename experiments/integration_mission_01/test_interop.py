@@ -1,7 +1,7 @@
 import json, subprocess, unittest, pathlib, tempfile, sys
 from esp_contract import validate, EnvelopeError, missing_claim
 ROOT=pathlib.Path(__file__).resolve().parent
-sys.path.insert(0,str(ROOT.parent.parent.parent/'kernel'))
+sys.path.insert(0,str(ROOT.parent.parent/'docs/continuity/godedge/continuity_kernel_01'))
 from kernel import connect, append, verify
 
 class InteropTests(unittest.TestCase):
