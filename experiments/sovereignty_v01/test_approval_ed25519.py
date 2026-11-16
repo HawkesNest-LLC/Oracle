@@ -33,7 +33,7 @@ class TestSignedApprovals(unittest.TestCase):
         return {"payload": p, "signature": base64.b64encode(signature).decode()}
 
     def decide(self, receipt, **kw):
-        return self.engine.evaluate_action("PROMOTE_TO_CANON", receipt, object_digest=kw.get("digest", self.digest))["status"]
+        return self.engine.evaluate_action("PROMOTE_TO_CANON", receipt, object_digest=kw.get("digest", self.digest), scope=kw.get("scope", "candidate/test"))["status"]
 
     def test_valid_signature_authorizes_once(self):
         receipt = self.signed()
