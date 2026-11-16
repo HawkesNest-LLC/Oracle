@@ -1,0 +1,17 @@
+'use strict';
+const assert=require('node:assert/strict');
+const {calculate,C}=require('./physics');
+const near=(a,b,eps=1e-10)=>assert.ok(Math.abs(a-b)<eps,`${a} != ${b}`);
+near(calculate(0,10).travelerYears,10);
+near(calculate(0.6,10).travelerYears,8);
+near(calculate(0.8,10).travelerYears,6);
+near(calculate(0.99,10).travelerYears,10*Math.sqrt(1-.99*.99));
+near(calculate(0.6,10).gamma,1.25);
+near(calculate(0.5,1).speedMetersPerSecond,C/2);
+near(calculate(0,0).differenceYears,0);
+assert.throws(()=>calculate(1,10),RangeError);
+assert.throws(()=>calculate(-.1,10),RangeError);
+assert.throws(()=>calculate(.5,-1),RangeError);
+assert.throws(()=>calculate(NaN,10),RangeError);
+assert.throws(()=>calculate(.5,Infinity),RangeError);
+console.log('PASS 12 physics assertions');
