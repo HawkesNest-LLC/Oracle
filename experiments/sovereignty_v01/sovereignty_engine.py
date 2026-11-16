@@ -6,7 +6,7 @@ class SovereigntyEngine:
         self.policy = json.loads(policy_json)
         self.verifier = verifier
 
-    def evaluate_action(self, action, authentication_receipt=None, *, object_digest=None):
+    def evaluate_action(self, action, authentication_receipt=None, *, object_digest=None, scope=None):
         if action in self.policy['prohibited_actions']:
             return {'status': 'BLOCKED', 'reason': 'Prohibited action'}
         if action in self.policy['permitted_autonomous_actions']:
@@ -14,10 +14,10 @@ class SovereigntyEngine:
         if action in self.policy['approval_required_actions']:
             if self.verifier is None:
                 return {'status': 'BLOCKED', 'reason': 'No trusted approval verifier configured'}
-            if not object_digest:
+            if not object_digest or not scope:
                 return {'status': 'BLOCKED', 'reason': 'Missing action object digest'}
             try:
-                approved = self.verifier.verify(authentication_receipt, action=action, object_digest=object_digest)
+                approved = self.verifier.verify(authentication_receipt, action=action, object_digest=object_digest, scope=scope)
             except Exception:
                 approved = False
             return {'status': 'EXECUTE' if approved else 'BLOCKED', 'reason': 'External verifier approved' if approved else 'Approval not verified'}
