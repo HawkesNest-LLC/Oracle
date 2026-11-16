@@ -23,7 +23,8 @@ def test():
     assert abs(b-0.774827263)<1e-9
     for y in (0,1,2,5):
         t,x,b=trajectory(y)
-        assert abs((t*t-x*x)-y*y)<1e-9, (y,t,x,b)
+        L=C/G0/YEAR
+        assert abs(((x+L)**2-t*t)-L*L)<1e-8, (y,t,x,b)
         assert 0<=b<1
     print("PASS: 12 analytic invariants and benchmark assertions")
 
