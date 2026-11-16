@@ -3,6 +3,7 @@ Synthetic demonstration only. Source-type flags are not identity authentication.
 """
 import hashlib
 import json
+import copy
 
 def canonical(value):
     return json.dumps(value, sort_keys=True, separators=(",", ":"))
@@ -11,11 +12,13 @@ def sha(value):
     return hashlib.sha256(value.encode()).hexdigest()
 
 class Ledger:
-    def __init__(self):
+    def __init__(self, trusted_source_ids=()):
+        # Caller-supplied custody allowlist; NOT cryptographic authentication.
+        self.trusted_source_ids = frozenset(trusted_source_ids)
         self.events = []
     def append(self, kind, payload):
         previous = self.events[-1]["hash"] if self.events else "GENESIS"
-        event = {"seq": len(self.events) + 1, "kind": kind, "payload": payload, "previous": previous}
+        event = {"seq": len(self.events) + 1, "kind": kind, "payload": copy.deepcopy(payload), "previous": previous}
         event["hash"] = sha(canonical(event))
         self.events.append(event)
         return event["seq"]
@@ -41,14 +44,18 @@ class Ledger:
                 sources[p["id"]] = p
             elif kind == "decision":
                 src = sources.get(p.get("source_id"))
-                if (src and src.get("type") == "human_direct" and src.get("speaker") == p.get("authorizer")
+                if (src and p.get("source_id") in self.trusted_source_ids
+                        and src.get("type") == "human_direct" and src.get("speaker") == p.get("authorizer")
+                        and p.get("scope") == src.get("scope")
                         and p.get("quote") and p["quote"] in src.get("content", "") and p.get("status") == "DECIDED"):
                     decisions[p["id"]] = p
             elif kind == "correction":
                 old = decisions.get(p.get("supersedes"))
                 src = sources.get(p.get("source_id"))
-                if (old and src and src.get("type") == "human_direct"
+                if (old and src and p.get("source_id") in self.trusted_source_ids
+                        and src.get("type") == "human_direct"
                         and src.get("speaker") == old.get("authorizer")
+                        and src.get("scope") == old.get("scope")
                         and p.get("quote") and p["quote"] in src.get("content", "")):
                     superseded.add(p["supersedes"])
             elif kind == "unresolved":
@@ -57,5 +64,6 @@ class Ledger:
         return {"topic": topic, "status": "UNKNOWN" if not active else "CONFLICTED" if len(active) > 1 else "VERIFIED",
                 "decision": active[0]["text"] if len(active) == 1 else None,
                 "source_id": active[0]["source_id"] if len(active) == 1 else None,
+                "evidence_quote": active[0]["quote"] if len(active) == 1 else None,
                 "superseded": sorted(superseded), "unresolved": [p for p in unresolved if p.get("topic") == topic],
                 "ledger_verified": True, "known_at": known_at, "valid_at": valid_at}
