@@ -37,6 +37,10 @@ class BranchZero:
 
     def evaluate(self, claims, at="2026-11-15"):
         results = []
+        if not claims:
+            return {"status": "REQUIRE_EVIDENCE", "claims": [],
+                    "evidence_snapshot": digest([asdict(r) for r in self.receipts]),
+                    "reason": "EMPTY_CLAIM_SET"}
         for key, proposed in claims.items():
             matches = [r for r in self.receipts if r.key == key]
             eligible = [r for r in matches if r.integrity_ok()
@@ -47,7 +51,9 @@ class BranchZero:
                         and (r.valid_until is None or at < r.valid_until)]
             eligible.sort(key=lambda r: (r.valid_from, r.recorded_at, r.receipt_id))
             current = eligible[-1] if eligible else None
-            if current is None:
+            peers = [r for r in eligible if current and (r.valid_from, r.recorded_at) == (current.valid_from, current.recorded_at)]
+            unresolved_conflict = len({r.value for r in peers}) > 1
+            if current is None or unresolved_conflict:
                 state = "UNKNOWN"
             elif current.value == proposed:
                 state = "VERIFIED"
@@ -55,7 +61,8 @@ class BranchZero:
                 state = "CONTRADICTED"
             results.append({"key": key, "proposed": proposed, "state": state,
                             "receipt_id": current.receipt_id if current else None,
-                            "current_value": current.value if current else None})
+                            "current_value": None if unresolved_conflict else current.value if current else None,
+                            "reason": "CONFLICTING_TRUSTED_RECEIPTS" if unresolved_conflict else None})
         status = ("HALT_AND_CORRECT" if any(x["state"] == "CONTRADICTED" for x in results)
                   else "REQUIRE_EVIDENCE" if any(x["state"] == "UNKNOWN" for x in results)
                   else "PROCEED_TO_MIRROR")
