@@ -1,0 +1,12 @@
+const assert=require('node:assert/strict');const {respond,PLACES,EDGES,SOURCES}=require('./engine.js');
+assert.equal(respond('Who commands Jupiter Station?').status,'ESTABLISHED');
+assert.match(respond('Ashley').text,/Ashley/);
+assert.match(respond('Noah').text,/NCC-75154/);
+assert.match(respond('Temporal Core').text,/observational locks/);
+assert.equal(respond('what is the station diameter?').status,'UNKNOWN');
+assert.equal(respond('unsupported astrophysics question').status,'UNKNOWN');
+assert.equal(respond('').status,'UNKNOWN');
+assert.equal(PLACES.length,4);
+assert.equal(EDGES.length,3);
+assert.ok(PLACES.every(p=>SOURCES[p.source].url.startsWith('https://github.com/')));
+console.log('PASS: 10 synthetic retrieval and structural assertions');
