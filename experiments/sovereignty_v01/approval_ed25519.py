@@ -31,7 +31,7 @@ class Ed25519ApprovalVerifier:
     def close(self):
         self.db.close()
 
-    def verify(self, receipt, *, action, object_digest):
+    def verify(self, receipt, *, action, object_digest, scope):
         """Verify and consume a receipt exactly once. Returns False on any validation failure."""
         try:
             if not isinstance(receipt, dict) or set(receipt) != {"payload", "signature"}:
@@ -42,7 +42,7 @@ class Ed25519ApprovalVerifier:
                 return False
             if not all(isinstance(p[k], str) and p[k] for k in ("key_id", "actor", "action", "object_sha256", "scope", "nonce")):
                 return False
-            if p["actor"] != "Noah.Physical" or p["action"] != action or p["object_sha256"] != object_digest:
+            if p["actor"] != "Noah.Physical" or p["action"] != action or p["object_sha256"] != object_digest or p["scope"] != scope:
                 return False
             if not isinstance(object_digest, str) or len(object_digest) != 64 or any(c not in "0123456789abcdef" for c in object_digest):
                 return False
