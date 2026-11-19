@@ -100,13 +100,15 @@
       "id": "S08",
       "path": "docs/rendered-reality/archives/JUPITER_STATION_CANON_RECONCILIATION_2026-10-14.md",
       "url": "https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/archives/JUPITER_STATION_CANON_RECONCILIATION_2026-10-14.md",
-      "kind": "creator_reconciliation_reference",
+      "kind": "creator_reconciliation_primary_document",
       "attribution": "Noah.Physical, per S02",
-      "authority": "Referenced by S02; not directly reopened in this cycle",
-      "scope": "Primary correction source pending direct inspection",
-      "inspected_this_cycle": false,
+      "authority": "Direct October 14 creator reconciliation controlling listed corrections; upstream cross-session audit authorship unspecified",
+      "scope": "Ten numbered corrections, attribution limitations, mathematical provenance boundaries, candidate station ensemble, and unresolved materials",
+      "inspected_this_cycle": true,
       "commit_sha": null,
-      "commit_status": "not_audited"
+      "commit_status": "source_creation_commit_not_audited",
+      "blob_sha": "a2ba8617bbbc054fc7c18c87835b0ef1f683b695",
+      "inspection_date": "2026-11-18"
     }
   ],
   "claims": [
@@ -117,7 +119,8 @@
       "source_ids": [
         "S01",
         "S02",
-        "S07"
+        "S07",
+        "S08"
       ],
       "fictional_event_date": null,
       "writing_date": null,
@@ -143,7 +146,8 @@
       "status": "established_working_anchors_subject_to_original_audit",
       "source_ids": [
         "S01",
-        "S02"
+        "S02",
+        "S08"
       ],
       "fictional_event_date": null,
       "writing_date": null,
@@ -204,7 +208,8 @@
       "statement": "Both maintenance tender crews were recovered aboard Enterprise-B",
       "status": "creator_correction_via_index",
       "source_ids": [
-        "S02"
+        "S02",
+        "S08"
       ],
       "fictional_event_date": null,
       "writing_date": null,
@@ -216,7 +221,8 @@
       "statement": "HAWKES-TC-01 is 1.02 seconds of transporter thought loss, not a 48-hour temporal core event",
       "status": "creator_correction_via_index",
       "source_ids": [
-        "S02"
+        "S02",
+        "S08"
       ],
       "fictional_event_date": null,
       "writing_date": null,
@@ -228,7 +234,8 @@
       "statement": "Buoy displaced temporally; destination and recovery unknown",
       "status": "creator_correction_with_unresolved_outcome",
       "source_ids": [
-        "S02"
+        "S02",
+        "S08"
       ],
       "fictional_event_date": null,
       "writing_date": null,
@@ -240,7 +247,8 @@
       "statement": "Holo Rights Initiative Section 7 exists; exact statutory language unrecovered",
       "status": "partially_established_unresolved",
       "source_ids": [
-        "S02"
+        "S02",
+        "S08"
       ],
       "fictional_event_date": null,
       "writing_date": null,
@@ -365,13 +373,29 @@
         "S05"
       ],
       "status": "UNRESOLVED"
+    },
+    {
+      "id": "U09",
+      "question": "Senna pronouns conflict: quarters prose she vs world bible he; no selection",
+      "sources": [
+        "S08"
+      ],
+      "status": "OPEN"
+    },
+    {
+      "id": "U10",
+      "question": "Original attribution and full text for Ashley station ensemble and candidate family scenes",
+      "sources": [
+        "S08"
+      ],
+      "status": "UNRECOVERED"
     }
   ],
   "validation": {
     "expected_source_count": 8,
-    "expected_inspected_count": 7,
+    "expected_inspected_count": 8,
     "expected_claim_count": 15,
-    "expected_unresolved_count": 8,
-    "method": "structural validation in authoring session; source contents manually inspected, no automated remote URL HEAD checks"
+    "expected_unresolved_count": 10,
+    "method": "Direct GitHub fetch and JSON structural checks; remote source URL availability and original commit chronology not audited"
   }
 }
