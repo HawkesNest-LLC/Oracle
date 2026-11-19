@@ -1,0 +1,377 @@
+{
+  "schema": "avalon_source_manifest_v1",
+  "created": "2026-11-18",
+  "repository": "HawkesNest-LLC/Oracle",
+  "mission_issue": 27,
+  "classification": "RESEARCH_ARTIFACT_NOT_CANON",
+  "approval_authority": "Noah.Physical",
+  "governance": [
+    "candidate_is_not_canon",
+    "witness_must_not_become_author",
+    "original_source_over_summary",
+    "no_private_personal_data"
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "path": "docs/continuity/avalon/OPERATION_LIVING_UNIVERSE_TEAM_DIRECTIVE_2026-11-13.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/continuity/avalon/OPERATION_LIVING_UNIVERSE_TEAM_DIRECTIVE_2026-11-13.md",
+      "kind": "commissioned_direction",
+      "attribution": "Noah.Physical",
+      "authority": "Commissioned directive; proposed additions NOT canon",
+      "scope": "2397 era, crew and faction worldbuilding directives, recovery-first, source governance",
+      "inspected_this_cycle": true,
+      "commit_sha": null,
+      "commit_status": "not_audited"
+    },
+    {
+      "id": "S02",
+      "path": "continuity/jupiter-station/source-priority-v1/CANON_LOCKS.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/main/continuity/jupiter-station/source-priority-v1/CANON_LOCKS.md",
+      "kind": "secondary_evidence_index",
+      "attribution": "AI-assisted compiler at Noah's direction",
+      "authority": "Index only; references direct creator reconciliation",
+      "scope": "Corrections and outstanding provenance",
+      "inspected_this_cycle": true,
+      "commit_sha": null,
+      "commit_status": "not_audited"
+    },
+    {
+      "id": "S03",
+      "path": "docs/rendered-reality/fiction/memorys-flame/AVALON_CANON_EPISODE_INDEX_2026-10-31.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/fiction/memorys-flame/AVALON_CANON_EPISODE_INDEX_2026-10-31.md",
+      "kind": "adoption_index",
+      "attribution": "Noah Alexander Hawkes authority stated in index",
+      "authority": "Index of adopted episodes; inspect originals for plot-level claims",
+      "scope": "Adopted sequence and unresolved episode outcomes",
+      "inspected_this_cycle": true,
+      "commit_sha": null,
+      "commit_status": "not_audited"
+    },
+    {
+      "id": "S04",
+      "path": "docs/rendered-reality/fiction/canon/README_JUPITER_STATION_MY_CONTINUITY_VOLUMES.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/fiction/canon/README_JUPITER_STATION_MY_CONTINUITY_VOLUMES.md",
+      "kind": "consolidated_archive_index",
+      "attribution": "AI-assisted continuity compilation",
+      "authority": "Consolidated witness, not original verbatim transcript",
+      "scope": "Six-volume continuity organization",
+      "inspected_this_cycle": true,
+      "commit_sha": null,
+      "commit_status": "not_audited"
+    },
+    {
+      "id": "S05",
+      "path": "docs/rendered-reality/JUPITER_STATION_TEMPORAL_CORE_CANON_2397.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/JUPITER_STATION_TEMPORAL_CORE_CANON_2397.md",
+      "kind": "creator_approved_specification",
+      "attribution": "Noah.Physical",
+      "authority": "Temporal Core functions approved; listed missions proposed",
+      "scope": "Observation governance and Memory Alpha/Beta",
+      "inspected_this_cycle": true,
+      "commit_sha": null,
+      "commit_status": "not_audited"
+    },
+    {
+      "id": "S06",
+      "path": "docs/rendered-reality/fiction/canon/2026-11-15_FEDERATION_TECHNOLOGIES_2397_SUBSPACE_HOLODECK_CREATOR_LOCK.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/fiction/canon/2026-11-15_FEDERATION_TECHNOLOGIES_2397_SUBSPACE_HOLODECK_CREATOR_LOCK.md",
+      "kind": "creator_approved_world_premise",
+      "attribution": "Noah.Physical, AI-assisted elaboration",
+      "authority": "Approved premise, exact mechanisms and unplayed missions not separately established",
+      "scope": "Live/archive/simulation/hybrid holodeck telepresence and technology register",
+      "inspected_this_cycle": true,
+      "commit_sha": null,
+      "commit_status": "not_audited"
+    },
+    {
+      "id": "S07",
+      "path": "docs/rendered-reality/fiction/memorys-flame/2397_HAWKES_COMMAND_HOME_AND_AVALON_MISSION_CHARTER.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/fiction/memorys-flame/2397_HAWKES_COMMAND_HOME_AND_AVALON_MISSION_CHARTER.md",
+      "kind": "direct_creator_correction",
+      "attribution": "Noah.Physical",
+      "authority": "Standing command/home continuity",
+      "scope": "Ashley station command, Noah Avalon command, family home",
+      "inspected_this_cycle": true,
+      "commit_sha": null,
+      "commit_status": "not_audited"
+    },
+    {
+      "id": "S08",
+      "path": "docs/rendered-reality/archives/JUPITER_STATION_CANON_RECONCILIATION_2026-10-14.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/main/docs/rendered-reality/archives/JUPITER_STATION_CANON_RECONCILIATION_2026-10-14.md",
+      "kind": "creator_reconciliation_reference",
+      "attribution": "Noah.Physical, per S02",
+      "authority": "Referenced by S02; not directly reopened in this cycle",
+      "scope": "Primary correction source pending direct inspection",
+      "inspected_this_cycle": false,
+      "commit_sha": null,
+      "commit_status": "not_audited"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C01",
+      "statement": "Avalon NCC-75154 is a modified Sovereign-class vessel commanded by Captain Noah Hawkes",
+      "status": "established_creator_direction",
+      "source_ids": [
+        "S01",
+        "S02",
+        "S07"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C02",
+      "statement": "Jupiter Station is independently commanded by Captain Ashley Hawkes; Hawkes family lives aboard station",
+      "status": "established_direct_creator_correction",
+      "source_ids": [
+        "S01",
+        "S07"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C03",
+      "statement": "REG is Avalon first officer; Sorev is science officer and second officer; Brakk engineering; Jake Sisko Observer Prime",
+      "status": "established_working_anchors_subject_to_original_audit",
+      "source_ids": [
+        "S01",
+        "S02"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C04",
+      "statement": "Jupiter Station and Avalon are independent temporal witnesses; matching date alone does not prove matching branch",
+      "status": "established_creator_direction",
+      "source_ids": [
+        "S01",
+        "S07"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C05",
+      "statement": "Temporal Core observes resolvable branches and is not a Temporal Drive or omniscient",
+      "status": "approved_specification",
+      "source_ids": [
+        "S05"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C06",
+      "statement": "Temporal Core mission slate including Q and the Index, Venn Appeal and Missing Second consists of proposals, not events",
+      "status": "proposed_only",
+      "source_ids": [
+        "S05"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C07",
+      "statement": "Live authenticated, archive, simulation, hybrid holodeck modes are part of approved 2397 world premise",
+      "status": "approved_world_premise_not_exact_implementation",
+      "source_ids": [
+        "S06"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C08",
+      "statement": "Both maintenance tender crews were recovered aboard Enterprise-B",
+      "status": "creator_correction_via_index",
+      "source_ids": [
+        "S02"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C09",
+      "statement": "HAWKES-TC-01 is 1.02 seconds of transporter thought loss, not a 48-hour temporal core event",
+      "status": "creator_correction_via_index",
+      "source_ids": [
+        "S02"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C10",
+      "statement": "Buoy displaced temporally; destination and recovery unknown",
+      "status": "creator_correction_with_unresolved_outcome",
+      "source_ids": [
+        "S02"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C11",
+      "statement": "Holo Rights Initiative Section 7 exists; exact statutory language unrecovered",
+      "status": "partially_established_unresolved",
+      "source_ids": [
+        "S02"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C12",
+      "statement": "Jupiter Station six-module two-stack architecture, numeric population, deck count and endurance need original-source audit",
+      "status": "source_lead_not_promoted",
+      "source_ids": [
+        "S01"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C13",
+      "statement": "Sol, Romulan and Klingon politics, culture and logistics are explicitly commissioned for development",
+      "status": "commissioned_not_automatically_canon",
+      "source_ids": [
+        "S01"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C14",
+      "statement": "Proposed Season Two 'The Signal That Remains' and 'The Light That Remembers' are not adopted by this manifest",
+      "status": "candidate_only",
+      "source_ids": [
+        "S01"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    },
+    {
+      "id": "C15",
+      "statement": "Noah.Physical has final approval; AI-authored text does not automatically become canon",
+      "status": "governance_lock",
+      "source_ids": [
+        "S01",
+        "S05",
+        "S07"
+      ],
+      "fictional_event_date": null,
+      "writing_date": null,
+      "author_identity": "source_specific",
+      "notes": "Do not treat this manifest as new approval."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "U01",
+      "question": "What exactly occurred in the 2395 gap?",
+      "sources": [
+        "S01",
+        "S05"
+      ],
+      "status": "OPEN"
+    },
+    {
+      "id": "U02",
+      "question": "Origin of remaining outer signal and displaced communications buoy destination?",
+      "sources": [
+        "S02",
+        "S03"
+      ],
+      "status": "OPEN"
+    },
+    {
+      "id": "U03",
+      "question": "Are 2234 Meridian/Venn, proposed Dominion War Venn and the Temporal Core cautionary Venn related?",
+      "sources": [
+        "S05"
+      ],
+      "status": "COLLISION_PENDING_PRIMARY_COMPARISON"
+    },
+    {
+      "id": "U04",
+      "question": "Exact Holo Rights Initiative Section 7 text?",
+      "sources": [
+        "S02"
+      ],
+      "status": "UNRECOVERED"
+    },
+    {
+      "id": "U05",
+      "question": "Station population, decks, six-module geometry, endurance and docks?",
+      "sources": [
+        "S01"
+      ],
+      "status": "SOURCE_AUDIT_REQUIRED"
+    },
+    {
+      "id": "U06",
+      "question": "REG420 and Reggie rights, identities and boundaries?",
+      "sources": [
+        "S01",
+        "S03"
+      ],
+      "status": "SOURCE_AUDIT_REQUIRED"
+    },
+    {
+      "id": "U07",
+      "question": "Sorev name and November 14 personnel exact-date adoption lineage?",
+      "sources": [
+        "S01"
+      ],
+      "status": "SOURCE_AUDIT_REQUIRED"
+    },
+    {
+      "id": "U08",
+      "question": "Eye of the Planet and Borg relationship?",
+      "sources": [
+        "S05"
+      ],
+      "status": "UNRESOLVED"
+    }
+  ],
+  "validation": {
+    "expected_source_count": 8,
+    "expected_inspected_count": 7,
+    "expected_claim_count": 15,
+    "expected_unresolved_count": 8,
+    "method": "structural validation in authoring session; source contents manually inspected, no automated remote URL HEAD checks"
+  }
+}
