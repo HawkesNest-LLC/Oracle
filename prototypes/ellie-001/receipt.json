@@ -1,0 +1,18 @@
+{
+  "experiment": "ELLIE-001",
+  "execution": "local deterministic scheduled ticks (not autonomous LLM)",
+  "simulated_minutes": 60,
+  "event_count": 10,
+  "hash_chain_verified": true,
+  "cold_restart_verified": true,
+  "agent_memory": {
+    "ellie": 8,
+    "reg": 6
+  },
+  "final_hash": "6d90d7d8810edf2efe76bd39240581a48dd009e061394a2ac06430d53891c91a",
+  "speaker": "UNKNOWN",
+  "avalon_operational_effect": "UNKNOWN",
+  "consciousness_claim": false,
+  "canon_promoted": false,
+  "background_wall_clock_execution": false
+}
