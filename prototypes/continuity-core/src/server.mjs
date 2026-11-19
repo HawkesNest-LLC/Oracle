@@ -3,6 +3,7 @@ import { readFile } from 'node:fs/promises';
 import { dirname, join, extname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { ContinuityCore } from './core.mjs';
+import { buildSessionBootstrap } from './session-bootstrap.mjs';
 const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');
 const publicDir=join(root,'public');
 const db=new ContinuityCore(process.env.CC_DB_PATH || join(root,'continuity.sqlite'), {creatorToken:process.env.CC_CREATOR_TOKEN || null});
@@ -13,6 +14,7 @@ export const server=http.createServer(async(req,res)=>{
  try {
   const url=new URL(req.url,'http://localhost');
   if(req.method==='GET'&&url.pathname==='/api/health')return respond(res,200,{ok:true,version:'0.1.0',deployment:'local-reference'});
+  if(req.method==='GET'&&url.pathname==='/api/session/bootstrap')return respond(res,200,buildSessionBootstrap(db,{query:url.searchParams.get('q')||'',limit:Number(url.searchParams.get('limit')||8)}));
   if(req.method==='GET'&&url.pathname==='/api/graph')return respond(res,200,db.graph());
   if(req.method==='GET'&&url.pathname==='/api/answer/arrival')return respond(res,200,db.answerArrival());
   if(req.method==='GET'&&url.pathname.startsWith('/api/claim/')){const c=db.getClaim(decodeURIComponent(url.pathname.slice(11)));return respond(res,c?200:404,c||{error:'Not found'});}
