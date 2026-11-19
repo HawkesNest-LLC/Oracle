@@ -15,7 +15,7 @@ export function buildSessionBootstrap(core, { query = '', limit = 8 } = {}) {
   const sources = graph.sources.filter(source => sourceIds.has(source.id) && source.privacy === 'public');
   const claims = selected.map(({claim}) => ({
     id: claim.id, statement: claim.statement, status: claim.status,
-    authority: claim.authority, era: claim.era, sourceIds: claim.sources,
+    authority: claim.authority, era: claim.era, sourceIds: claim.sources.filter(id => sources.some(source => source.id === id)),
     revisionCount: claim.revisions.length,
     note: claim.status === 'UNKNOWN' ? 'Do not infer missing evidence.' : null
   }));
