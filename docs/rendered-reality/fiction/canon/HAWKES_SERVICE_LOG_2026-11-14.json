@@ -1,0 +1,708 @@
+{
+  "schema_version": "1.0",
+  "record_id": "HAWKES-STARFLEET-2371-2397-2026-11-14",
+  "created_date": "2026-11-14",
+  "authority": "Noah.Physical",
+  "status": "author_directed_fiction_published_on_explicit_request",
+  "provenance": "Recovered anchors and newly commissioned chronology are distinguished per event. Publication is authorized; new dates are AI-authored fiction, not retrieved original testimony.",
+  "active_era": 2397,
+  "events": [
+    {
+      "id": "HS-001",
+      "date": "2371",
+      "time": null,
+      "person": "Noah",
+      "rank": "Civilian",
+      "event": "Arrives aboard Voyager at sixteen",
+      "origin": "recovered_anchor",
+      "sources": [
+        "S01",
+        "S02",
+        "S03"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-002",
+      "date": "2371-09-04",
+      "time": "08:00",
+      "person": "Noah",
+      "rank": "Civilian trainee",
+      "event": "Tuvok begins formal training assessment",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": "local story/shipboard clock; no UTC or stardate conversion"
+    },
+    {
+      "id": "HS-003",
+      "date": "2371-10-02",
+      "time": null,
+      "person": "Noah",
+      "rank": "Civilian trainee",
+      "event": "Begins shipboard Academy-equivalency curriculum",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-004",
+      "date": "2373-07-07",
+      "time": "06:00",
+      "person": "Noah",
+      "rank": "Civilian trainee",
+      "event": "Formal Havoc Squad cycle under Tuvok",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": "local story/shipboard clock; no UTC or stardate conversion"
+    },
+    {
+      "id": "HS-005",
+      "date": "2374",
+      "time": null,
+      "person": "Ashley",
+      "rank": "Cadet",
+      "event": "Enters Starfleet Academy, operations and logistics",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-006",
+      "date": "2375-11-18",
+      "time": null,
+      "person": "Noah",
+      "rank": "Civilian trainee",
+      "event": "Tuvok signs final Havoc field assessment",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-007",
+      "date": "2375-12-06",
+      "time": "09:00",
+      "person": "Noah",
+      "rank": "Provisional ensign",
+      "event": "Janeway grants provisional commission after course completion",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": "local story/shipboard clock; no UTC or stardate conversion"
+    },
+    {
+      "id": "HS-008",
+      "date": "2377-04-15",
+      "time": null,
+      "person": "Noah",
+      "rank": "Provisional lieutenant junior grade",
+      "event": "Voyager promotion",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-009",
+      "date": "2378",
+      "time": null,
+      "person": "Noah",
+      "rank": "Provisional lieutenant junior grade",
+      "event": "Voyager returns to Alpha Quadrant",
+      "origin": "recovered_anchor",
+      "sources": [
+        "S01",
+        "S02"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-010",
+      "date": "2378",
+      "time": null,
+      "person": "Ashley",
+      "rank": "Ensign",
+      "event": "Academy graduation and Earth-orbital support assignment",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-011",
+      "date": "2378-09-12",
+      "time": null,
+      "person": "Noah",
+      "rank": "Lieutenant junior grade",
+      "event": "Starfleet recognizes commission and coursework, requires institutional completion courses",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-012",
+      "date": "2378-10-01",
+      "time": null,
+      "person": "Noah",
+      "rank": "Lieutenant junior grade",
+      "event": "Reports to Admiral Owen Paris; recommends actions, cannot issue admiral's orders",
+      "origin": "new_date_for_recovered_posting",
+      "sources": [
+        "S01",
+        "S02",
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-013",
+      "date": "2379-01",
+      "time": null,
+      "person": "Noah",
+      "rank": "Lieutenant junior grade",
+      "event": "Utah annex institutional courses and doctoral preparation alongside Command work",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T01",
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-014",
+      "date": "2379-02-17",
+      "time": "16:10",
+      "person": "Noah and Ashley",
+      "rank": "Lieutenant junior grade / ensign",
+      "event": "Meet at Academy University of Utah annex",
+      "origin": "new_date_for_creator_established_meeting",
+      "sources": [
+        "T01",
+        "T03",
+        "T04"
+      ],
+      "time_basis": "local story/shipboard clock; no UTC or stardate conversion"
+    },
+    {
+      "id": "HS-015",
+      "date": "2380-08-01",
+      "time": null,
+      "person": "Ashley",
+      "rank": "Lieutenant junior grade",
+      "event": "Promotion in operations and logistics",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-016",
+      "date": "2381-06-21",
+      "time": null,
+      "person": "Noah and Ashley",
+      "rank": null,
+      "event": "Marriage",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-017",
+      "date": "2381-09-01",
+      "time": null,
+      "person": "Noah",
+      "rank": "Lieutenant junior grade",
+      "event": "Starts Nova-class Bozeman-A tour",
+      "origin": "new_date_for_recovered_posting",
+      "sources": [
+        "S01",
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-018",
+      "date": "2383-02-01",
+      "time": null,
+      "person": "Noah",
+      "rank": "Lieutenant",
+      "event": "Promotion aboard Bozeman-A",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-019",
+      "date": "2383",
+      "time": null,
+      "person": "Ashley",
+      "rank": "Lieutenant",
+      "event": "Promotion in fleet-support operations",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-020",
+      "date": "2384-08-31",
+      "time": null,
+      "person": "Noah",
+      "rank": "Lieutenant",
+      "event": "Completes three-year Bozeman-A tour",
+      "origin": "new_date_for_recovered_posting",
+      "sources": [
+        "S01",
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-021",
+      "date": "2384-09-15",
+      "time": null,
+      "person": "Noah",
+      "rank": "Lieutenant",
+      "event": "Joins Avalon under Captain Mara Ellison",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "S01",
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-022",
+      "date": "2384-12-12",
+      "time": null,
+      "person": "Noah",
+      "rank": "Lieutenant",
+      "event": "Defends doctorate in temporal mechanics",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-023",
+      "date": "2387-03-01",
+      "time": null,
+      "person": "Noah",
+      "rank": "Lieutenant commander",
+      "event": "Promotion; investigation and operations leadership",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-024",
+      "date": "2387",
+      "time": null,
+      "person": "Ashley",
+      "rank": "Lieutenant commander",
+      "event": "Promotion; logistics and emergency coordination",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-025",
+      "date": "2390-07-01",
+      "time": null,
+      "person": "Noah",
+      "rank": "Commander",
+      "event": "Appointed Avalon first officer",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-026",
+      "date": "2391",
+      "time": null,
+      "person": "Ashley",
+      "rank": "Commander",
+      "event": "Promotion",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-027",
+      "date": "2392",
+      "time": null,
+      "person": "Ashley",
+      "rank": "Commander",
+      "event": "Senior Jupiter Station operations posting",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-028",
+      "date": "2394",
+      "time": null,
+      "person": "Ashley",
+      "rank": "Commander",
+      "event": "Jupiter Station executive officer",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-029",
+      "date": "2394-09-03",
+      "time": "10:00",
+      "person": "Noah",
+      "rank": "Captain",
+      "event": "Receives Avalon command from Captain Mara Ellison",
+      "origin": "new_author_directed_fiction",
+      "sources": [
+        "T03",
+        "T04"
+      ],
+      "time_basis": "local story/shipboard clock; no UTC or stardate conversion"
+    },
+    {
+      "id": "HS-030",
+      "date": "2395",
+      "time": null,
+      "person": "Noah",
+      "rank": "Captain",
+      "event": "First major temporal refit; separately recorded full-core catastrophe and Barclay continuation",
+      "origin": "recovered_anchor",
+      "sources": [
+        "S05",
+        "S07"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-031",
+      "date": "2396-11-01",
+      "time": "09:00",
+      "person": "Ashley",
+      "rank": "Captain",
+      "event": "Assumes independent Jupiter Station command",
+      "origin": "new_date_for_recovered_command",
+      "sources": [
+        "S02",
+        "S06",
+        "T03",
+        "T04"
+      ],
+      "time_basis": "local story/shipboard clock; no UTC or stardate conversion"
+    },
+    {
+      "id": "HS-032",
+      "date": "2397-01",
+      "time": null,
+      "person": "Hawkes family",
+      "rank": null,
+      "event": "Establishes Deck Nine home in this career chronology",
+      "origin": "new_date_for_recovered_home",
+      "sources": [
+        "S08",
+        "S13",
+        "T03",
+        "T04"
+      ],
+      "time_basis": null
+    },
+    {
+      "id": "HS-033",
+      "date": "2397",
+      "time": null,
+      "person": "Noah and Ashley",
+      "rank": "Captains",
+      "event": "Independent Avalon and Jupiter Station commands",
+      "origin": "recovered_anchor",
+      "sources": [
+        "S02",
+        "S06"
+      ],
+      "time_basis": null
+    }
+  ],
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Recovered career ledger",
+      "path": "docs/rendered-reality/fiction/HAWKES_STARFLEET_CAREER_2371_2397_PROPOSED_CONTINUITY.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/fiction/HAWKES_STARFLEET_CAREER_2371_2397_PROPOSED_CONTINUITY.md",
+      "scope": "Earlier service anchors and explicitly proposed dates; preserve as historical.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S02",
+      "title": "Origin and command",
+      "path": "docs/rendered-reality/fiction/canon/NOAH_PHYSICAL_JUPITER_STATION_CONTINUITY_01_ORIGIN_COMMAND.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/fiction/canon/NOAH_PHYSICAL_JUPITER_STATION_CONTINUITY_01_ORIGIN_COMMAND.md",
+      "scope": "Voyager, Paris, Bozeman-A, earned command, independent Ashley command.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S03",
+      "title": "Original-source audit",
+      "path": "docs/rendered-reality/recovery/2026-10-12_VOYAGER_ORIGIN_PART_ONE_SOURCE_AUDIT.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/recovery/2026-10-12_VOYAGER_ORIGIN_PART_ONE_SOURCE_AUDIT.md",
+      "scope": "Reconstruction versus manuscript; missing page authentication.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S04",
+      "title": "November 14 anomaly handoff",
+      "path": "docs/rendered-reality/fiction/canon-handoffs/2026-11-14_REG_HAWKES_ANOMALY_VOYAGER_ORIGIN_Q_CREW_FULL_CONTEXT.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/fiction/canon-handoffs/2026-11-14_REG_HAWKES_ANOMALY_VOYAGER_ORIGIN_Q_CREW_FULL_CONTEXT.md",
+      "scope": "Origin, Q uncertainty, conflicting appointment proposals, command roster.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S05",
+      "title": "Barclay and Sloan",
+      "path": "docs/rendered-reality/fiction/canon/NOAH_PHYSICAL_JUPITER_STATION_CONTINUITY_02_BARCLAY_2395_AND_SLOAN.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/fiction/canon/NOAH_PHYSICAL_JUPITER_STATION_CONTINUITY_02_BARCLAY_2395_AND_SLOAN.md",
+      "scope": "2395 catastrophe and personal continuation; separate mechanism proposals.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S06",
+      "title": "October 14 reconciliation",
+      "path": "docs/rendered-reality/archives/JUPITER_STATION_CANON_RECONCILIATION_2026-10-14.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/archives/JUPITER_STATION_CANON_RECONCILIATION_2026-10-14.md",
+      "scope": "Independent commands, crew, tender rescue, unresolved buoy.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S07",
+      "title": "2395 refit",
+      "path": "docs/rendered-reality/fiction/AVALON_2395_THE_FIRST_TEMPORAL_REFIT.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/fiction/AVALON_2395_THE_FIRST_TEMPORAL_REFIT.md",
+      "scope": "Refit anchor and bounded discrepancy; 2387/eight-year passage is historical under this update.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S08",
+      "title": "November 3 recovery",
+      "path": "docs/rendered-reality/continuity/2026-11-03_REG_JUPITER_STATION_FULL_RECOVERY.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/continuity/2026-11-03_REG_JUPITER_STATION_FULL_RECOVERY.md",
+      "scope": "Home, crew, Reg, station and ship boundaries.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S09",
+      "title": "November 5 creator order",
+      "path": "docs/rendered-reality/fiction/canon/2026-11-05_JUPITER_STATION_CREATOR_ORDER_STORY_IS_CANON.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/fiction/canon/2026-11-05_JUPITER_STATION_CREATOR_ORDER_STORY_IS_CANON.md",
+      "scope": "Narrative authority and preservation of later corrections.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S10",
+      "title": "The Room That Remembers",
+      "path": "docs/rendered-reality/fiction/memorys-flame/2397_THE_ROOM_THAT_REMEMBERS.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/fiction/memorys-flame/2397_THE_ROOM_THAT_REMEMBERS.md",
+      "scope": "False 2379 biography and non-independent imports; authored narrative, not independent proof.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S11",
+      "title": "Window and family correction",
+      "path": "docs/rendered-reality/fiction/conversation-archives/2026-11-14_REG_WINDOW_CLEANING_FAMILY_AND_TECH_HANDOFF.md",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/fiction/conversation-archives/2026-11-14_REG_WINDOW_CLEANING_FAMILY_AND_TECH_HANDOFF.md",
+      "scope": "Family humor, grades, bounded window assignment; joke quantities are not specifications.",
+      "inspection": "read in this conversation"
+    },
+    {
+      "id": "S12",
+      "title": "The Years That Made the Officer",
+      "url": "https://docs.google.com/document/d/1LluPwsZdkEutxLil8yvMozfhSIz01CtPhDmHIx3Ehqg/edit",
+      "scope": "Earlier career development; not a locked rank chronology.",
+      "inspection": "read in this conversation; private source pointer only"
+    },
+    {
+      "id": "S13",
+      "title": "An Ordinary Order at Jupiter Station",
+      "url": "https://docs.google.com/document/d/13hlf5AA034uxg4PGsrh1lGCobIllU-FrPrXXoOIAh1I/edit",
+      "scope": "Deck Nine texture and contained cloak-controller incident.",
+      "inspection": "read in this conversation; private source pointer only"
+    },
+    {
+      "id": "S14",
+      "title": "Character Bible",
+      "url": "https://docs.google.com/document/d/12P5RgqPELKkO8KAXSUgyV6po9z8xnc6nkm5M5VjYu6o/edit",
+      "scope": "Historical 2379/TASC and other versions; not controlling where corrected.",
+      "inspection": "read in this conversation; private source pointer only"
+    },
+    {
+      "id": "S15",
+      "title": "The Chair That Held the Sun",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/6c9b4342bb41d8b397e9665e31bea6c1fd1bcad8/docs/rendered-reality/fiction/memorys-flame/2395_REG420_THE_CHAIR_THAT_HELD_THE_SUN.md",
+      "scope": "Primary narrative identified through search and inspected consolidations; full text not newly read in this pass.",
+      "inspection": "identified, not full-text inspected"
+    }
+  ],
+  "conversation_sources": {
+    "T01": "Noah directly establishes Academy University of Utah annex meeting during doctoral preparation.",
+    "T02": "Noah corrects Q invitation: join Continuum, unknown variable bringing fresh life, refused.",
+    "T03": "Noah commissions full career chronology, Havoc training, dates, Ashley career and family.",
+    "T04": "Noah explicitly requests story and service-log publication in GitHub.",
+    "T05": "Noah requests all blanks fleshed out during publication work."
+  },
+  "source_excerpt_location": "docs/rendered-reality/fiction/canon/HAWKES_STARFLEET_PERSONAL_PROFILES_AND_SERVICE_LOG_2026-11-14.md",
+  "new_supporting_characters": [
+    {
+      "name": "Mara Chen",
+      "role": "Voyager propulsion technician and training friend",
+      "origin": "new_author_directed_fiction",
+      "authority": [
+        "T03",
+        "T04",
+        "T05"
+      ]
+    },
+    {
+      "name": "Davin Rell",
+      "role": "Bolian maintenance specialist and training friend",
+      "origin": "new_author_directed_fiction",
+      "authority": [
+        "T03",
+        "T04",
+        "T05"
+      ]
+    },
+    {
+      "name": "Sera Nadir",
+      "role": "Civilian laboratory assistant and fellow student",
+      "origin": "new_author_directed_fiction",
+      "authority": [
+        "T03",
+        "T04",
+        "T05"
+      ]
+    },
+    {
+      "name": "Lena Varek",
+      "role": "Ashley's early orbital-service supervisor",
+      "origin": "new_author_directed_fiction",
+      "authority": [
+        "T03",
+        "T04",
+        "T05"
+      ]
+    },
+    {
+      "name": "Rhea Solano",
+      "role": "Bozeman-A captain during 2381–2384 tour",
+      "origin": "new_author_directed_fiction",
+      "authority": [
+        "T03",
+        "T04",
+        "T05"
+      ]
+    },
+    {
+      "name": "Torren Vesh",
+      "role": "Bozeman-A executive officer",
+      "origin": "new_author_directed_fiction",
+      "authority": [
+        "T03",
+        "T04",
+        "T05"
+      ]
+    },
+    {
+      "name": "Amara Vel",
+      "role": "Jupiter Station captain preceding Ashley",
+      "origin": "new_author_directed_fiction",
+      "authority": [
+        "T03",
+        "T04",
+        "T05"
+      ]
+    }
+  ],
+  "unresolved": [
+    "Precise 1999-to-2371 mechanism and arrival day",
+    "Original manuscript authentication",
+    "Retained Year of Hell memories",
+    "Detailed temporal engineering",
+    "Child birth dates and preexisting family biographies",
+    "Complete earlier-posting staff rosters"
+  ],
+  "supersessions": [
+    {
+      "prior": "Noah captain in 2379",
+      "current": "Noah captain 2394-09-03",
+      "basis": "Earlier earned-career correction plus new authored chronology"
+    },
+    {
+      "prior": "2387 captaincy proposed",
+      "current": "2394-09-03 10:00",
+      "basis": "New author-directed reconciliation"
+    },
+    {
+      "prior": "Bozeman-A 2379–2382 proposed",
+      "current": "2381-09-01 through 2384-08-31",
+      "basis": "New authored dates preserving three-year tour"
+    }
+  ]
+}

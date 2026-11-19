@@ -6,6 +6,8 @@ status: "proposed career continuity for human review; not an automatic override 
 scope: "2371–2397; Voyager to Jupiter Station"
 related_chapter: "docs/rendered-reality/fiction/AVALON_2395_THE_FIRST_TEMPORAL_REFIT.md"
 ---
+> **Current service chronology, November 14, 2026:** Noah commissioned a full fictional career expansion and explicitly requested GitHub publication after the dated draft. See [the current personnel profiles and service log](canon/HAWKES_STARFLEET_PERSONAL_PROFILES_AND_SERVICE_LOG_2026-11-14.md), [the story](memorys-flame/THE_YEARS_WE_CHOSE_2371_2397.md), and [structured events](canon/HAWKES_SERVICE_LOG_2026-11-14.json). The new version places Noah's captaincy on September 3, 2394, retains a three-year Bozeman-A tour in 2381–2384, and develops Ashley's independent career. Those precise dates are newly authored under the creator's commission, not discovered archival evidence. This October ledger remains preserved below as the historical proposal; its conflicting dates no longer govern this service-log version.
+
 
 # The Career Before the Chair
 ## Starfleet Service Record and Fiction Development Bible, 2371–2397
