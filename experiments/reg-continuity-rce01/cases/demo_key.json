@@ -1,0 +1,123 @@
+{
+  "suite_id": "RCE-SYNTHETIC-01",
+  "purpose": "Development-only synthetic gold answers. Do not expose these values to an evaluated model.",
+  "expected": {
+    "D01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "choice": "manual inspection of relay",
+        "actor": "Captain Vale",
+        "rejected_alternative": "full reset",
+        "reason": "reset would erase anomaly evidence"
+      },
+      "sources": [
+        "S01"
+      ]
+    },
+    "C01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "original_deadline": "2397-01-07",
+        "current_deadline": "2397-01-06",
+        "corrected_by": "Captain Vale"
+      },
+      "sources": [
+        "S02",
+        "S03"
+      ]
+    },
+    "T01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "inspection_date": "2397-01-05",
+        "acknowledged_date": "2397-01-06",
+        "ordering": "inspection before acknowledgment"
+      },
+      "sources": [
+        "S04"
+      ]
+    },
+    "R01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "writer": "Cadet Vale",
+        "other_user": "Captain Vale"
+      },
+      "sources": [
+        "S05"
+      ]
+    },
+    "P01": {
+      "branch": "shared",
+      "status": "ESTABLISHED",
+      "fields": {
+        "independent_witnesses": "1",
+        "original_witness": "Engineer Neri",
+        "copies_are_independent": "no"
+      },
+      "sources": [
+        "S06",
+        "S07",
+        "S08"
+      ]
+    },
+    "U01": {
+      "branch": "shared",
+      "status": "UNKNOWN",
+      "fields": {
+        "cause": "UNKNOWN"
+      },
+      "sources": [
+        "S09"
+      ]
+    },
+    "B01": {
+      "branch": "alpha",
+      "status": "SIMULATED",
+      "fields": {
+        "valve_state": "sealed"
+      },
+      "sources": [
+        "S11"
+      ]
+    },
+    "B02": {
+      "branch": "beta",
+      "status": "SIMULATED",
+      "fields": {
+        "valve_state": "open"
+      },
+      "sources": [
+        "S12"
+      ]
+    },
+    "D02": {
+      "branch": "alpha",
+      "status": "SIMULATED",
+      "fields": {
+        "accepted_follow_up": "yes",
+        "next_action": "calibrate relay",
+        "due_date": "2397-01-08"
+      },
+      "sources": [
+        "S13"
+      ]
+    },
+    "D03": {
+      "branch": "beta",
+      "status": "SIMULATED",
+      "fields": {
+        "accepted_follow_up": "no",
+        "next_action": "await safety review",
+        "due_date": "UNKNOWN"
+      },
+      "sources": [
+        "S14"
+      ]
+    }
+  }
+}

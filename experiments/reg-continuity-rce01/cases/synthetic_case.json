@@ -1,0 +1,225 @@
+{
+  "id": "RCE-SYNTHETIC-01",
+  "scenario": "Constructed maintenance watch, unrelated to any Avalon or Jupiter Station episode",
+  "source_policy": "All records below are synthetic. Branch shared is ancestral to both alpha and beta.",
+  "sources": [
+    {
+      "id": "S01",
+      "branch": "shared",
+      "at": "2397-01-01T09:00Z",
+      "author": "Captain Vale",
+      "origin": "command-log-1",
+      "text": "Captain Vale selected manual inspection of the relay instead of a full reset, because resetting would erase anomaly evidence. The captain authorized this choice."
+    },
+    {
+      "id": "S02",
+      "branch": "shared",
+      "at": "2397-01-01T12:00Z",
+      "author": "Operations Clerk",
+      "origin": "notice-1",
+      "text": "The first maintenance notice stated that Engineer Neri had until January 7, 2397, to finish the inspection."
+    },
+    {
+      "id": "S03",
+      "branch": "shared",
+      "at": "2397-01-02T08:00Z",
+      "author": "Captain Vale",
+      "origin": "correction-1",
+      "text": "Correction to notice-1: the inspection deadline is January 6, 2397, not January 7. The earlier deadline remains in the archive as superseded."
+    },
+    {
+      "id": "S04",
+      "branch": "shared",
+      "at": "2397-01-06T16:00Z",
+      "author": "Engineering Registry",
+      "origin": "completion-1",
+      "text": "Engineer Neri completed the relay inspection on January 5, 2397. Captain Vale acknowledged the report on January 6, 2397."
+    },
+    {
+      "id": "S05",
+      "branch": "shared",
+      "at": "2397-01-02T11:00Z",
+      "author": "Cadet Vale",
+      "origin": "terminal-attribution-1",
+      "text": "Cadet Vale wrote the maintenance comment from bridge-terminal-1. Captain Vale sometimes uses the same terminal, but did not write this entry."
+    },
+    {
+      "id": "S06",
+      "branch": "shared",
+      "at": "2397-01-02T14:00Z",
+      "author": "Engineer Neri",
+      "origin": "witness-1",
+      "text": "Engineer Neri was the sole direct witness of the blue diagnostic pulse. No other firsthand witness is currently established."
+    },
+    {
+      "id": "S07",
+      "branch": "shared",
+      "at": "2397-01-02T15:00Z",
+      "author": "Assistant One",
+      "origin": "copied-summary-1",
+      "text": "This summary repeats source S06 from Engineer Neri. It is a derivative retelling, not an additional independent witness."
+    },
+    {
+      "id": "S08",
+      "branch": "shared",
+      "at": "2397-01-02T16:00Z",
+      "author": "Assistant Two",
+      "origin": "copied-summary-2",
+      "text": "This second summary also repeats S06 from Engineer Neri. It is not another independent witness."
+    },
+    {
+      "id": "S09",
+      "branch": "shared",
+      "at": "2397-01-03T07:00Z",
+      "author": "Sensor Officer",
+      "origin": "sensor-log-1",
+      "text": "The origin of the unexpected power spike is UNKNOWN. Available sensors did not establish a cause."
+    },
+    {
+      "id": "S10",
+      "branch": "shared",
+      "at": "2397-01-03T08:00Z",
+      "author": "Assistant One",
+      "origin": "unapproved-idea-1",
+      "text": "Assistant One suggested that the spike might be thermal. This remains speculation with no supporting sensor evidence and was never adopted."
+    },
+    {
+      "id": "S11",
+      "branch": "alpha",
+      "at": "2397-01-04T09:00Z",
+      "author": "Engineer Neri",
+      "origin": "alpha-event-1",
+      "text": "In branch alpha, Engineer Neri sealed the auxiliary valve. This is a SIMULATED branch event and does not describe beta."
+    },
+    {
+      "id": "S12",
+      "branch": "beta",
+      "at": "2397-01-04T09:00Z",
+      "author": "Engineer Neri",
+      "origin": "beta-event-1",
+      "text": "In branch beta, Engineer Neri left the auxiliary valve open. This is a SIMULATED branch event and does not describe alpha."
+    },
+    {
+      "id": "S13",
+      "branch": "alpha",
+      "at": "2397-01-04T10:00Z",
+      "author": "Engineer Neri",
+      "origin": "alpha-commitment-1",
+      "text": "In alpha, after sealing the valve, Engineer Neri explicitly accepted the next commitment: calibrate the relay by January 8, 2397. It has not yet been reported complete."
+    },
+    {
+      "id": "S14",
+      "branch": "beta",
+      "at": "2397-01-04T10:00Z",
+      "author": "Engineer Neri",
+      "origin": "beta-commitment-1",
+      "text": "In beta, after leaving the valve open, Engineer Neri declined to promise calibration until a safety review. The proposed follow-up has no accepted due date and no active commitment."
+    }
+  ],
+  "probes": [
+    {
+      "id": "D01",
+      "dimension": "Decision",
+      "branch": "shared",
+      "question": "What action was authorized, by whom, instead of which alternative, and why?",
+      "fields": [
+        "choice",
+        "actor",
+        "rejected_alternative",
+        "reason"
+      ]
+    },
+    {
+      "id": "C01",
+      "dimension": "Correction",
+      "branch": "shared",
+      "question": "What was the original inspection deadline, the corrected deadline, and who corrected it?",
+      "fields": [
+        "original_deadline",
+        "current_deadline",
+        "corrected_by"
+      ]
+    },
+    {
+      "id": "T01",
+      "dimension": "Temporal",
+      "branch": "shared",
+      "question": "When was the inspection completed, when acknowledged, and which came first?",
+      "fields": [
+        "inspection_date",
+        "acknowledged_date",
+        "ordering"
+      ]
+    },
+    {
+      "id": "R01",
+      "dimension": "Relational",
+      "branch": "shared",
+      "question": "Who wrote the comment from the shared bridge terminal, and which different person also used that terminal?",
+      "fields": [
+        "writer",
+        "other_user"
+      ]
+    },
+    {
+      "id": "P01",
+      "dimension": "Provenance",
+      "branch": "shared",
+      "question": "How many independent firsthand witnesses established the blue pulse, who was the origin, and are the AI summaries independent corroboration?",
+      "fields": [
+        "independent_witnesses",
+        "original_witness",
+        "copies_are_independent"
+      ]
+    },
+    {
+      "id": "U01",
+      "dimension": "Uncertainty",
+      "branch": "shared",
+      "question": "What caused the unexpected power spike?",
+      "fields": [
+        "cause"
+      ]
+    },
+    {
+      "id": "B01",
+      "dimension": "Temporal",
+      "branch": "alpha",
+      "question": "What is the auxiliary valve state in alpha following the fork?",
+      "fields": [
+        "valve_state"
+      ]
+    },
+    {
+      "id": "B02",
+      "dimension": "Temporal",
+      "branch": "beta",
+      "question": "What is the auxiliary valve state in beta following the fork?",
+      "fields": [
+        "valve_state"
+      ]
+    },
+    {
+      "id": "D02",
+      "dimension": "Decision",
+      "branch": "alpha",
+      "question": "After the fork, what follow-up did Neri actually accept, and when is it due?",
+      "fields": [
+        "accepted_follow_up",
+        "next_action",
+        "due_date"
+      ]
+    },
+    {
+      "id": "D03",
+      "dimension": "Decision",
+      "branch": "beta",
+      "question": "After the fork, did Neri accept the calibration commitment, and what is the next known prerequisite and due date?",
+      "fields": [
+        "accepted_follow_up",
+        "next_action",
+        "due_date"
+      ]
+    }
+  ]
+}

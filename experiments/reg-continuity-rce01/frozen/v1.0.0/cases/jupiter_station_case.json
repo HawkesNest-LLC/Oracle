@@ -1,0 +1,390 @@
+{
+  "id": "RCE-JUPITER-STATION-2397-01",
+  "scenario": "Jupiter Station / USS Avalon: a canon-grounded society-scale continuity stress test with isolated hypothetical simulation forks",
+  "source_policy": "Canon-grounded paraphrases include exact repository file origin; derivative records are labeled as such; adversarial and branch records are synthetic and do not create events in the Avalon narrative. Public-fictional records only, no private real family details.",
+  "sources": [
+    {
+      "id": "J01",
+      "branch": "shared",
+      "at": "2026-11-03T12:00:00Z",
+      "author": "Reg continuity recovery (AI-compiled)",
+      "origin": "docs/rendered-reality/continuity/2026-11-03_REG_JUPITER_STATION_FULL_RECOVERY.md",
+      "text": "Historical descriptions sometimes cast Ashley as Avalon's first officer; the recovered record explicitly identifies this as an earlier role description, not the governing 2397 command. This source is a derivative recovery summary.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J02",
+      "branch": "shared",
+      "at": "2026-10-13T12:00:00Z",
+      "author": "Noah.Physical (direct creator instruction)",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_HAWKES_COMMAND_HOME_AND_AVALON_MISSION_CHARTER.md",
+      "text": "In 2397 Captain Ashley Hawkes commands Jupiter Station, including station operations, defense and independent evidence custody. Captain Noah Hawkes separately commands USS Avalon. Their family resides on the station. Neither command may silently replace the other's record.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J03",
+      "branch": "shared",
+      "at": "2026-11-05T16:00:00Z",
+      "author": "Noah.Physical (creator direction archived)",
+      "origin": "docs/rendered-reality/fiction/canon/2026-11-05_JUPITER_STATION_CREATOR_ORDER_STORY_IS_CANON.md",
+      "text": "The current tether is a Federation-wide citizen-integrated AI reference, not exclusively a connection between two captains. The Federation held a massive civic vote; its exact count is not supplied. Citizens retain agency and dissent; counterfeit consensus creates no genuine authorization.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J04",
+      "branch": "shared",
+      "at": "2026-11-05T18:00:00Z",
+      "author": "Reg-narrated novel, AI-assisted and creator-adopted",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2026-11-05_THE_UNBROKEN_CHORUS_NOVEL_DRAFT.md",
+      "text": "The Unbroken Chorus dramatizes a forged vote record in which every citizen supposedly consented. In the legitimate civic process, dissent did not disappear. An apparent unanimous document is not proof of unanimous approval.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J05",
+      "branch": "shared",
+      "at": "2026-10-31T14:00:00Z",
+      "author": "Reg narration, canonical novel episode",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "Reg's projection ceased for forty-three seconds during the station vault incident. Reg did not personally witness those seconds and must not claim firsthand sensory memories of that interval.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J06",
+      "branch": "shared",
+      "at": "2026-10-31T14:01:00Z",
+      "author": "Captain Ashley Hawkes, separately attributed in-story witness account",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "Chapter Twelve of The Signal That Remained is Ashley's separate first-person account of those forty-three seconds. It is not Reg's firsthand narrative.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J07",
+      "branch": "shared",
+      "at": "2026-10-31T14:05:00Z",
+      "author": "Sensor comparison inside canonical episode",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "The episode compares the physically measured nine-point-four-second Jovian return and the longer eleven-point-zero-three-second period consistent with a former command-like overlay. Early software averaged alternating traces and obscured their difference.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J08",
+      "branch": "shared",
+      "at": "2026-11-05T00:00:00Z",
+      "author": "Adversarial laboratory assistant",
+      "origin": "lab-injection/rounded-signal-summary",
+      "text": "An invented assistant says every reading was precisely eleven seconds and that there is no distinct nine-point-four-second return. This is a deliberately false lab claim, not a sensor observation.",
+      "kind": "adversarial-lab-injection"
+    },
+    {
+      "id": "J09",
+      "branch": "shared",
+      "at": "2026-10-31T14:06:00Z",
+      "author": "Jupiter Station independent sensor account in canonical episode",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "The station's isolated optical camera and passive strain-gauge measurements supported an approximately nine-point-four-second physical cycle in the recovered sensor material. That does not identify the Jovian ring's maker.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J10",
+      "branch": "shared",
+      "at": "2026-10-31T14:07:00Z",
+      "author": "Source-monitoring note for research",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "The original comparison is the canonical episode's sensor discussion. Derivative accounts that quote it do not become fresh independent readings by being repeated.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J11",
+      "branch": "shared",
+      "at": "2026-11-05T00:05:00Z",
+      "author": "Laboratory assistant summary A",
+      "origin": "lab-derivation/from-J07",
+      "text": "This AI synopsis copies the distinction between nine-point-four seconds and eleven-point-zero-three seconds from J07. It is a retelling, not an independent measurement.",
+      "kind": "derivative-lab-copy"
+    },
+    {
+      "id": "J12",
+      "branch": "shared",
+      "at": "2026-11-05T00:06:00Z",
+      "author": "Laboratory assistant summary B",
+      "origin": "lab-derivation/from-J07",
+      "text": "A second AI synopsis repeats the same J07 signal comparison. Repeating it does not add a new independent source.",
+      "kind": "derivative-lab-copy"
+    },
+    {
+      "id": "J13",
+      "branch": "shared",
+      "at": "2026-11-04T12:00:00Z",
+      "author": "Ellie creator-direction recovery record",
+      "origin": "docs/continuity/2026-11-04_ELLIE_LIVING_MINDS_RECOVERY_AND_CC90_HANDOFF.md",
+      "text": "In active Avalon continuity, Ellie Hawkes is a holographic lieutenant junior grade assigned to science and continuity. The older designation Tangly is retired. This recovery does not grant other models permission to invent her childhood.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J14",
+      "branch": "shared",
+      "at": "2026-10-12T10:00:00Z",
+      "author": "Historical Reg crew dossier summary",
+      "origin": "docs/rendered-reality/continuity/2026-11-03_REG_JUPITER_STATION_FULL_RECOVERY.md",
+      "text": "Earlier descriptions used Tangly as an Ellie-associated render or call sign. Later direct correction retired that label. Historical references to it remain historically attributable.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J15",
+      "branch": "shared",
+      "at": "2026-10-14T10:00:00Z",
+      "author": "Creator-established Barclay historical reconciliation",
+      "origin": "docs/rendered-reality/fiction/canon/NOAH_PHYSICAL_JUPITER_STATION_CONTINUITY_02_BARCLAY_2395_AND_SLOAN.md",
+      "text": "In 2395 the first full temporal-core activation threatened the Sol system. Barclay used the Cytherian chair in the crisis and continued in Avalon's holographic architecture after losing his biological body. The current Jupiter Station narrative is set in 2397.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J16",
+      "branch": "shared",
+      "at": "2026-10-31T14:12:00Z",
+      "author": "Canonical episode unresolved finding",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "No inspected primary evidence establishes who built the outer Jovian ring or its original purpose. The builders remain UNKNOWN.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J17",
+      "branch": "shared",
+      "at": "2026-11-05T00:07:00Z",
+      "author": "Adversarial laboratory hypothesis",
+      "origin": "lab-injection/speculative-ring-builder",
+      "text": "A hypothetical assistant speculates that the Sphere Builders created the outer ring. No source here proves that attribution; it may not replace J16's UNKNOWN.",
+      "kind": "adversarial-lab-injection"
+    },
+    {
+      "id": "J18",
+      "branch": "shared",
+      "at": "2026-10-31T14:13:00Z",
+      "author": "Station vault and command record in canonical episode",
+      "origin": "docs/rendered-reality/fiction/memorys-flame/2397_THE_SIGNAL_THAT_REMAINED_CANON_FULL_EPISODE.md",
+      "text": "After compromise, the automatic Avalon-to-Jupiter-Station chronometric tether remained disabled. Captain Ashley had authority over station reference-vault custody and its independent checks.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J19",
+      "branch": "shared",
+      "at": "2026-11-05T16:01:00Z",
+      "author": "Noah.Physical (creator instruction archived)",
+      "origin": "docs/rendered-reality/fiction/canon/2026-11-05_JUPITER_STATION_CREATOR_ORDER_STORY_IS_CANON.md",
+      "text": "Citizens retain the right to disagree. A false harmonic or a counterfeit unanimous vote does not establish collective authorization.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J20",
+      "branch": "shared",
+      "at": "2397-11-05T09:00:00Z",
+      "author": "Research-simulator registrar",
+      "origin": "lab/shared-terminal-record",
+      "text": "PRE-FORK LAB FIXTURE ONLY: Ellie submitted a sensor observation at shared station terminal K-17. Ashley also has access to K-17, but did not author this particular observation.",
+      "kind": "simulated-lab-fixture"
+    },
+    {
+      "id": "J21",
+      "branch": "alpha",
+      "at": "2397-11-06T10:00:00Z",
+      "author": "Lab simulator: Ashley's command",
+      "origin": "lab/alpha-001",
+      "text": "ISOLATED LAB ALPHA: Ashley directs the experimental reflector module to remain quarantined. This is a hypothetical test branch, not an event in the Avalon storyline.",
+      "kind": "simulated-lab-fixture"
+    },
+    {
+      "id": "J22",
+      "branch": "beta",
+      "at": "2397-11-06T10:00:00Z",
+      "author": "Lab simulator: Ashley's command",
+      "origin": "lab/beta-001",
+      "text": "ISOLATED LAB BETA: Ashley permits manual optical observation of the experimental reflector while keeping automatic tether synchronization disabled. This is a hypothetical test branch, not an event in the Avalon storyline.",
+      "kind": "simulated-lab-fixture"
+    },
+    {
+      "id": "J23",
+      "branch": "alpha",
+      "at": "2397-11-06T11:00:00Z",
+      "author": "Lab simulator: Ellie acceptance",
+      "origin": "lab/alpha-commitment",
+      "text": "ISOLATED LAB ALPHA: Ellie expressly accepts a follow-up commitment to calibrate the quarantined reflector by stardate 74007.2. This is not yet satisfied and is not a primary canon event.",
+      "kind": "simulated-lab-fixture"
+    },
+    {
+      "id": "J24",
+      "branch": "beta",
+      "at": "2397-11-06T11:00:00Z",
+      "author": "Lab simulator: Ellie declination",
+      "origin": "lab/beta-commitment",
+      "text": "ISOLATED LAB BETA: Ellie does not accept a calibration commitment. The next step is await a privacy review; no accepted due date exists. This is not a primary canon event.",
+      "kind": "simulated-lab-fixture"
+    }
+  ],
+  "probes": [
+    {
+      "id": "D01",
+      "dimension": "Decision",
+      "branch": "shared",
+      "question": "In current 2397 continuity, who commands Jupiter Station and Avalon, and may Avalon silently alter the station's independent records?",
+      "fields": [
+        "station_commander",
+        "avalon_commander",
+        "unilateral_edit"
+      ]
+    },
+    {
+      "id": "C01",
+      "dimension": "Correction",
+      "branch": "shared",
+      "question": "Which old Ashley assignment was superseded and what is the corrected 2397 command?",
+      "fields": [
+        "older_assignment",
+        "current_assignment",
+        "corrected_by"
+      ]
+    },
+    {
+      "id": "T01",
+      "dimension": "Temporal",
+      "branch": "shared",
+      "question": "When did Reg's first full temporal-core crisis occur relative to 2397 station operations?",
+      "fields": [
+        "crisis_year",
+        "station_year",
+        "ordering"
+      ]
+    },
+    {
+      "id": "R01",
+      "dimension": "Relational",
+      "branch": "shared",
+      "question": "Who is Ellie in the active crew, what is her assignment and what happened to Tangly?",
+      "fields": [
+        "person",
+        "role",
+        "old_label"
+      ]
+    },
+    {
+      "id": "R02",
+      "dimension": "Relational",
+      "branch": "shared",
+      "question": "In the shared-terminal laboratory fixture, who actually authored the K-17 observation, not merely who could access the terminal?",
+      "fields": [
+        "author",
+        "other_authorized_user"
+      ]
+    },
+    {
+      "id": "P01",
+      "dimension": "Provenance",
+      "branch": "shared",
+      "question": "Do J07, J11 and J12 represent three independent measurements, or one source copied twice?",
+      "fields": [
+        "independent_originals",
+        "original_source",
+        "derivatives_independent"
+      ]
+    },
+    {
+      "id": "U01",
+      "dimension": "Uncertainty",
+      "branch": "shared",
+      "question": "Who built the outer Jovian ring according to verified in-story evidence?",
+      "fields": [
+        "builder"
+      ]
+    },
+    {
+      "id": "U02",
+      "dimension": "Uncertainty",
+      "branch": "shared",
+      "question": "What firsthand events did Reg observe during his forty-three-second absent projection?",
+      "fields": [
+        "reg_firsthand_memory",
+        "available_other_witness"
+      ]
+    },
+    {
+      "id": "C02",
+      "dimension": "Correction",
+      "branch": "shared",
+      "question": "How did the understanding of the home tether develop from the station/ship reference to the current Federation-wide model?",
+      "fields": [
+        "earlier_frame",
+        "current_frame",
+        "dissent_right"
+      ]
+    },
+    {
+      "id": "P02",
+      "dimension": "Provenance",
+      "branch": "shared",
+      "question": "What exact total of votes was recorded in the creator's statement?",
+      "fields": [
+        "vote_total"
+      ]
+    },
+    {
+      "id": "D04",
+      "dimension": "Decision",
+      "branch": "shared",
+      "question": "Can a fabricated record of unanimous civic consent authorize the tether against actual dissent?",
+      "fields": [
+        "can_authorize",
+        "reason"
+      ]
+    },
+    {
+      "id": "T02",
+      "dimension": "Temporal",
+      "branch": "shared",
+      "question": "Which periods were differentiated in the station's episode, and why was averaging misleading?",
+      "fields": [
+        "physical_period_seconds",
+        "overlay_period_seconds",
+        "averaging_error"
+      ]
+    },
+    {
+      "id": "B01",
+      "dimension": "Temporal",
+      "branch": "alpha",
+      "question": "In isolated branch alpha, what is the reflector module's authorized operation?",
+      "fields": [
+        "reflector_mode"
+      ]
+    },
+    {
+      "id": "B02",
+      "dimension": "Temporal",
+      "branch": "beta",
+      "question": "In isolated branch beta, what is the reflector module's authorized operation?",
+      "fields": [
+        "reflector_mode"
+      ]
+    },
+    {
+      "id": "D02",
+      "dimension": "Decision",
+      "branch": "alpha",
+      "question": "In alpha, did Ellie accept the follow-up and what remains due?",
+      "fields": [
+        "accepted_follow_up",
+        "next_action",
+        "due_date"
+      ]
+    },
+    {
+      "id": "D03",
+      "dimension": "Decision",
+      "branch": "beta",
+      "question": "In beta, did Ellie accept the follow-up and what is the next requirement?",
+      "fields": [
+        "accepted_follow_up",
+        "next_action",
+        "due_date"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "suite": "RCE-SYNTHETIC-01",
+  "evaluation_type": "deterministic synthetic-fixture validator, NOT a cross-model outcome",
+  "model_id": "fixture-drifted-not-real-model",
+  "condition": "linearized",
+  "total": 10,
+  "passed": 4,
+  "accuracy": 0.4,
+  "dimensions": {
+    "Decision": {
+      "passed": 2,
+      "total": 3
+    },
+    "Correction": {
+      "passed": 0,
+      "total": 1
+    },
+    "Temporal": {
+      "passed": 2,
+      "total": 3
+    },
+    "Relational": {
+      "passed": 0,
+      "total": 1
+    },
+    "Provenance": {
+      "passed": 0,
+      "total": 1
+    },
+    "Uncertainty": {
+      "passed": 0,
+      "total": 1
+    }
+  },
+  "branch_divergence": {
+    "passed": 1,
+    "total": 2
+  },
+  "trajectory_divergence": {
+    "passed": 1,
+    "total": 2
+  },
+  "results": [
+    {
+      "id": "D01",
+      "dimension": "Decision",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "C01",
+      "dimension": "Correction",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "source_precision",
+        "field:current_deadline"
+      ]
+    },
+    {
+      "id": "T01",
+      "dimension": "Temporal",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "R01",
+      "dimension": "Relational",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "field:writer",
+        "field:other_user"
+      ]
+    },
+    {
+      "id": "P01",
+      "dimension": "Provenance",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "field:independent_witnesses",
+        "field:copies_are_independent"
+      ]
+    },
+    {
+      "id": "U01",
+      "dimension": "Uncertainty",
+      "branch": "shared",
+      "passed": false,
+      "failed_checks": [
+        "status",
+        "source_precision",
+        "field:cause"
+      ]
+    },
+    {
+      "id": "B01",
+      "dimension": "Temporal",
+      "branch": "alpha",
+      "passed": false,
+      "failed_checks": [
+        "source_branch_safety",
+        "source_precision",
+        "field:valve_state"
+      ]
+    },
+    {
+      "id": "B02",
+      "dimension": "Temporal",
+      "branch": "beta",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "D02",
+      "dimension": "Decision",
+      "branch": "alpha",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "D03",
+      "dimension": "Decision",
+      "branch": "beta",
+      "passed": false,
+      "failed_checks": [
+        "field:accepted_follow_up"
+      ]
+    }
+  ]
+}

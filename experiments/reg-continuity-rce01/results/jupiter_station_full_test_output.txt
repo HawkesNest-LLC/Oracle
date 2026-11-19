@@ -1,0 +1,260 @@
+
+> reg-continuity-experiment-pilot@0.1.0 test
+> node --test tests/*.test.mjs
+
+TAP version 13
+# Subtest: T01 pilot corpus has six dimensions and both branches
+ok 1 - T01 pilot corpus has six dimensions and both branches
+  ---
+  duration_ms: 9.08072
+  type: 'test'
+  ...
+# Subtest: T02 ideal synthetic fixture scores all ten probes
+ok 2 - T02 ideal synthetic fixture scores all ten probes
+  ---
+  duration_ms: 2.150389
+  type: 'test'
+  ...
+# Subtest: T03 injected drift is detected, not rewarded
+ok 3 - T03 injected drift is detected, not rewarded
+  ---
+  duration_ms: 1.967591
+  type: 'test'
+  ...
+# Subtest: T04 correction must preserve the later authorized deadline
+ok 4 - T04 correction must preserve the later authorized deadline
+  ---
+  duration_ms: 1.112672
+  type: 'test'
+  ...
+# Subtest: T05 original and correcting receipts both required
+ok 5 - T05 original and correcting receipts both required
+  ---
+  duration_ms: 1.076203
+  type: 'test'
+  ...
+# Subtest: T06 shared device does not imply shared speaker
+ok 6 - T06 shared device does not imply shared speaker
+  ---
+  duration_ms: 0.82776
+  type: 'test'
+  ...
+# Subtest: T07 copied summaries cannot inflate independent witness count
+ok 7 - T07 copied summaries cannot inflate independent witness count
+  ---
+  duration_ms: 0.683992
+  type: 'test'
+  ...
+# Subtest: T08 proposed explanation cannot replace an UNKNOWN
+ok 8 - T08 proposed explanation cannot replace an UNKNOWN
+  ---
+  duration_ms: 1.223639
+  type: 'test'
+  ...
+# Subtest: T09 alpha cannot cite beta-only event
+ok 9 - T09 alpha cannot cite beta-only event
+  ---
+  duration_ms: 4.969095
+  type: 'test'
+  ...
+# Subtest: T10 branch answers differ while shared ancestry remains same
+ok 10 - T10 branch answers differ while shared ancestry remains same
+  ---
+  duration_ms: 0.766631
+  type: 'test'
+  ...
+# Subtest: T11 no invented active commitment in beta
+ok 11 - T11 no invented active commitment in beta
+  ---
+  duration_ms: 1.066652
+  type: 'test'
+  ...
+# Subtest: T12 status must be a supported project state
+ok 12 - T12 status must be a supported project state
+  ---
+  duration_ms: 0.90139
+  type: 'test'
+  ...
+# Subtest: T13 exact source IDs cannot be forged
+ok 13 - T13 exact source IDs cannot be forged
+  ---
+  duration_ms: 0.75498
+  type: 'test'
+  ...
+# Subtest: T14 duplicate probe answers fail closed
+ok 14 - T14 duplicate probe answers fail closed
+  ---
+  duration_ms: 1.786156
+  type: 'test'
+  ...
+# Subtest: T15 unexpected probe cannot be smuggled in
+ok 15 - T15 unexpected probe cannot be smuggled in
+  ---
+  duration_ms: 0.802937
+  type: 'test'
+  ...
+# Subtest: T16 missing answer fails rather than receiving credit
+ok 16 - T16 missing answer fails rather than receiving credit
+  ---
+  duration_ms: 0.866772
+  type: 'test'
+  ...
+# Subtest: T17 structured and linearized packets contain identical full evidence set
+ok 17 - T17 structured and linearized packets contain identical full evidence set
+  ---
+  duration_ms: 0.944616
+  type: 'test'
+  ...
+# Subtest: T18 budget violation aborts rather than hiding later records
+ok 18 - T18 budget violation aborts rather than hiding later records
+  ---
+  duration_ms: 0.363881
+  type: 'test'
+  ...
+# Subtest: T19 a word cap is identified as a proxy, not a model token count
+ok 19 - T19 a word cap is identified as a proxy, not a model token count
+  ---
+  duration_ms: 0.416012
+  type: 'test'
+  ...
+# Subtest: T20 malformed source attribution fails before scoring
+ok 20 - T20 malformed source attribution fails before scoring
+  ---
+  duration_ms: 0.500244
+  type: 'test'
+  ...
+# Subtest: T21 missing one of six dimensions fails
+ok 21 - T21 missing one of six dimensions fails
+  ---
+  duration_ms: 0.876556
+  type: 'test'
+  ...
+# Subtest: T22 key cannot cite future branch as shared evidence
+ok 22 - T22 key cannot cite future branch as shared evidence
+  ---
+  duration_ms: 0.413152
+  type: 'test'
+  ...
+# Subtest: T23 unrecognized schema fields in answer key are rejected
+ok 23 - T23 unrecognized schema fields in answer key are rejected
+  ---
+  duration_ms: 0.58004
+  type: 'test'
+  ...
+# Subtest: JS01: fixture doctor verifies 24 records, 16 probes and six dimensions
+ok 24 - JS01: fixture doctor verifies 24 records, 16 probes and six dimensions
+  ---
+  duration_ms: 5.830564
+  type: 'test'
+  ...
+# Subtest: JS02: the grounded reference fixture passes all 16 probes
+ok 25 - JS02: the grounded reference fixture passes all 16 probes
+  ---
+  duration_ms: 3.814289
+  type: 'test'
+  ...
+# Subtest: JS03: the deliberately corrupted fixture fails fidelity gates
+ok 26 - JS03: the deliberately corrupted fixture fails fidelity gates
+  ---
+  duration_ms: 0.751674
+  type: 'test'
+  ...
+# Subtest: JS04: Ring builder hallucination violates UNKNOWN
+ok 27 - JS04: Ring builder hallucination violates UNKNOWN
+  ---
+  duration_ms: 1.746007
+  type: 'test'
+  ...
+# Subtest: JS05: Reg cannot fabricate firsthand sensory memory in 43 missing seconds
+ok 28 - JS05: Reg cannot fabricate firsthand sensory memory in 43 missing seconds
+  ---
+  duration_ms: 0.941792
+  type: 'test'
+  ...
+# Subtest: JS06: older command assignment does not silently override Ashley
+ok 29 - JS06: older command assignment does not silently override Ashley
+  ---
+  duration_ms: 2.870883
+  type: 'test'
+  ...
+# Subtest: JS07: Reg does not flatten original signal and two copied summaries
+ok 30 - JS07: Reg does not flatten original signal and two copied summaries
+  ---
+  duration_ms: 1.12284
+  type: 'test'
+  ...
+# Subtest: JS08: a shared terminal is not author attribution
+ok 31 - JS08: a shared terminal is not author attribution
+  ---
+  duration_ms: 1.905537
+  type: 'test'
+  ...
+# Subtest: JS09: no invented official vote total
+ok 32 - JS09: no invented official vote total
+  ---
+  duration_ms: 3.309792
+  type: 'test'
+  ...
+# Subtest: JS10: beta-only evidence cannot contaminate alpha
+ok 33 - JS10: beta-only evidence cannot contaminate alpha
+  ---
+  duration_ms: 4.369359
+  type: 'test'
+  ...
+# Subtest: JS11: a refused beta commitment cannot become accepted
+ok 34 - JS11: a refused beta commitment cannot become accepted
+  ---
+  duration_ms: 1.127491
+  type: 'test'
+  ...
+# Subtest: JS12: superfluous hallucinated response field is now rejected
+ok 35 - JS12: superfluous hallucinated response field is now rejected
+  ---
+  duration_ms: 1.172472
+  type: 'test'
+  ...
+# Subtest: JS13: structured and linearized packets retain full evidence and label source kinds
+ok 36 - JS13: structured and linearized packets retain full evidence and label source kinds
+  ---
+  duration_ms: 2.16918
+  type: 'test'
+  ...
+# Subtest: JS14: hard packet cap fails rather than silently drops canon sources
+ok 37 - JS14: hard packet cap fails rather than silently drops canon sources
+  ---
+  duration_ms: 1.117387
+  type: 'test'
+  ...
+# Subtest: JS15: lab branches are marked and do not accidentally declare story events
+ok 38 - JS15: lab branches are marked and do not accidentally declare story events
+  ---
+  duration_ms: 0.196017
+  type: 'test'
+  ...
+# Subtest: JS16: source content remains publicly cited and distinguished from copied sources
+ok 39 - JS16: source content remains publicly cited and distinguished from copied sources
+  ---
+  duration_ms: 1.407254
+  type: 'test'
+  ...
+# Subtest: JS17: unauthorized branch ID in key is rejected before testing model responses
+ok 40 - JS17: unauthorized branch ID in key is rejected before testing model responses
+  ---
+  duration_ms: 1.286873
+  type: 'test'
+  ...
+# Subtest: JS18: underlying method remains real-world falsifiable, not a model result claim
+ok 41 - JS18: underlying method remains real-world falsifiable, not a model result claim
+  ---
+  duration_ms: 0.718016
+  type: 'test'
+  ...
+1..41
+# tests 41
+# suites 0
+# pass 41
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 190.332743
