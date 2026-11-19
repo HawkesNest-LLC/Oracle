@@ -1,0 +1,17 @@
+{
+  "experiment": "ELLIE-002",
+  "local_execution": {
+    "status": "PASS_DETERMINISTIC_PLUMBING_ONLY",
+    "event_count": 7,
+    "final_hash": "72ddea129a0521eab174b7330a8d4fbdb8ed07218f963124ffb6539409c95e0d",
+    "cold_restart_verified": true
+  },
+  "github_transcription_rerun": false,
+  "model_execution": false,
+  "model_blocker": "No configured OpenAI/Anthropic/Gemini API credentials in local execution environment",
+  "source_novelty_for_model": "NOT_TESTED",
+  "relational_independence": "NOT_TESTED",
+  "embodied_learning": "NOT_TESTED",
+  "subjective_experience_claim": false,
+  "canon_promoted": false
+}
