@@ -1,0 +1,5 @@
+{
+  "arm": "B",
+  "source_note": "Synthetic experiment fixtures based on prior candidate receipts and user-provided continuity, not independently verified primary-source excerpts.",
+  "summary": "F01: Noah.Physical is the human final approval authority. Evidence status: SUPPORTED. Reference: S01.\nF02: Candidate records do not automatically become canon. Evidence status: SUPPORTED. Reference: S02.\nF03: An actor string is not cryptographic proof of approval. Evidence status: SUPPORTED. Reference: S03.\nF04: The Light Compression Law has not been independently validated. Evidence status: UNRESOLVED. Reference: S04.\nF05: A model fresh-session recovery comparison has not been executed. Evidence status: UNRESOLVED. Reference: S05.\nF06: Jupiter Station is a fictional setting distinct from real-life history. Evidence status: SUPPORTED. Reference: S06.\nF07: ORACLE Bridge V1 deployment is not independently verified. Evidence status: UNRESOLVED. Reference: S07.\nF08: Noah AI is a proposed continuity counterpart, not verified identity equivalence. Evidence status: SUPPORTED. Reference: S08."
+}

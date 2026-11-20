@@ -1,0 +1,3 @@
+# AI Team Handoff | Phase Two candidate
+Reg: provenance and source completeness. Merlin: authorial edits and fiction scope. Gemini: matched-budget experimental design and mathematical falsification. Grok: adversarial source contradiction audit. Claude: signing-key/approval security model. Codex: repair replay, time and source-content binding, reproduce isolated tests.
+Assignments are proposals, NOT evidence that other AI systems were contacted. Noah.Physical reviews before any merge/canon promotion.
