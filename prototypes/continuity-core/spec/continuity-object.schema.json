@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/continuity/continuity-object-v0.1.schema.json",
+  "title": "Continuity Object v0.1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["claimId", "statement", "status", "authority", "confidence", "sources", "branch", "era"],
+  "properties": {
+    "claimId": {"type": "string", "minLength": 1},
+    "statement": {"type": "string", "minLength": 1},
+    "status": {"enum": ["ESTABLISHED", "RECONSTRUCTED", "PROPOSED", "SIMULATED", "SUPERSEDED", "REJECTED", "UNKNOWN"]},
+    "authority": {"enum": ["Creator", "Editor", "AI", "Reviewer", "Observer"]},
+    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "sources": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+    "branch": {"type": "string", "minLength": 1},
+    "era": {"type": "string", "minLength": 1},
+    "revisionId": {"type": ["string", "null"]},
+    "supersedes": {"type": ["string", "null"]},
+    "validFrom": {"type": ["string", "null"]},
+    "validTo": {"type": ["string", "null"]}
+  }
+}

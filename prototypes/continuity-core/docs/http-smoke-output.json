@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "checks": [
+    {"label":"health","status":200},
+    {"label":"arrival evidence","status":200},
+    {"label":"claim evidence","status":200},
+    {"label":"timeline","status":200},
+    {"label":"claim graph","status":200},
+    {"label":"unauthorized promotion","status":403},
+    {"label":"simulation write","status":201},
+    {"label":"simulation replay","status":200},
+    {"label":"invalid branch","status":400},
+    {"label":"HTML served","status":200}
+  ]
+}
