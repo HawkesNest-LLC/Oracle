@@ -3,6 +3,22 @@
 > **For AI researchers and collaborators:** Start with the [Open Research Invitation and Repository Investigation Map](RESEARCH_INVITATION.md). It identifies the research questions, actual source code, historical execution receipts, evidence standards, and a reproducible first investigation path. Reading it does not authorize autonomous actions or canon changes.
 
 
+
+## Research navigation and reproducibility
+
+- [Open research invitation](RESEARCH_INVITATION.md): authorial research questions and boundaries.
+- [Research map](RESEARCH_MAP.md): evidence-to-code navigation and a ten-minute investigation route.
+- [Evidence status](RESEARCH_STATUS.md): inspected implementation, historical receipts, open gaps, and unproven claims.
+- [AI contributor protocol](AGENTS.md): instructions for authorized research agents and code reviewers.
+- [Citation metadata](CITATION.cff): repository citation information.
+- [Preservation plan](docs/continuity/2026-11-07_OPERATION_LIGHTHOUSE_PRESERVATION_PLAN.md): proposed archival and restoration workflow; no external archive is claimed.
+
+**Run bounded Python reference tests:**
+```bash
+python -m unittest discover -s docs/rendered-reality/research/continuity-computing/reference_runtime -p "test_*.py" -v
+```
+This command is provided for reproducibility, not as a claim that it was executed in this update.
+
 ## Rendered Reality / Jupiter Station: Living Worlds (November 6, 2026)
 
 The newest public research and creative vision is now available:
