@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this working paper, cite this repository version and identify the research as AI-assisted and not peer reviewed."
+type: article
+title: "Witness-Grade Continuity for Persistent Synthetic Agents: Episodic Memory, Cross-Model Restoration, and Governed Autonomous Simulation"
+authors:
+  - family-names: Hawkes
+    given-names: Noah Alexander
+date-released: 2026-11-25
+url: https://github.com/HawkesNest-LLC/Oracle/tree/main/research/papers/RR-PAPER-001
+repository-code: https://github.com/HawkesNest-LLC/Oracle
+abstract: "An evidence-based and governed architecture for episodic memory, cross-model restoration, synthetic character simulation, and execution-continuity evaluation."
