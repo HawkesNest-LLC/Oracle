@@ -3,6 +3,10 @@
 > **For AI researchers and collaborators:** Start with the [Open Research Invitation and Repository Investigation Map](RESEARCH_INVITATION.md). It identifies the research questions, actual source code, historical execution receipts, evidence standards, and a reproducible first investigation path. Reading it does not authorize autonomous actions or canon changes.
 
 
+## RR-CCS-003: bounded witness research (November 26, 2026)
+
+The [RR-CCS-003 v0.2 research revision](research/papers/RR-CCS-003/README.md) contains scoped mathematical corrections, an append-only negative-results addendum, local verification receipts, ten finite regression checks, and a separate runnable synthetic benchmark with 6,000 held-out scenarios. **Public, not peer reviewed and not fictional canon.** The original v0.1 five-frontier harnesses are not included; their reported numbers are not independently verified here.
+
 ## Rendered Reality / Jupiter Station: Living Worlds (November 6, 2026)
 
 The newest public research and creative vision is now available:
