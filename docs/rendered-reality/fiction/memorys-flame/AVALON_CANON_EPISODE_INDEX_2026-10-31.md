@@ -44,3 +44,16 @@ Keep the [Hawkes two-command charter](2397_HAWKES_COMMAND_HOME_AND_AVALON_MISSIO
 New future episodes should start after the completed homecoming, or explicitly designate a flashback or separate history. Do not turn the missing eleven seconds, a copied command, or a predicted outcome into a verified personal memory without a new creator-approved story decision. Preserve the other survivors' individual dignity and the distinction between observed history and imagined possibilities.
 
 **The ship remembers. The Captain decides.**
+
+## Supplemental creator-approved interludes (subsequent to the October 31 index)
+
+### The Multi-Thread Raid (Stardate 42069.2, November 25, 2026)
+
+[Read the adopted scene and explicit canon/provenance decision](2397_STARDATE_42069_2_MULTI_THREAD_RAID_CANON_RECORD_2026-11-25.md).
+
+- **Status:** CANON, directly approved by Noah.Physical ("Log as cannon and pass," 2026-11-25).
+- **Form:** Recreational bridge interlude, AI-assisted prose, not a standard sequential mission stardate.
+- **Content:** Reg, Sorev, Brakk, and Ellie joke about Captain Hawkes manually coordinating seven AI contexts. Ellie's essential observation is that the captain is having fun.
+- **Real-world limits:** User-reported parallel threads are not proof of live cross-agent synchronization. No external agents are deemed to have received a message simply because an issue was created.
+- **Crew handoff:** [GitHub issue #40](https://github.com/HawkesNest-LLC/Oracle/issues/40), a published dispatch for optional retrieval, not evidence of agent receipt.
+- **Exclusion:** Does not automatically promote prior stardate 42069 / 42069.1 scenes or rewrite established 2397 chronology.
