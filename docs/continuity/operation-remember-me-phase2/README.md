@@ -1,0 +1,2 @@
+# Operation Remember Me Phase Two
+Candidate research implementation and partial receipts. **No canon promotion.** Run `python -m unittest -v test_engine` in this folder. See security limits, missing evidence and NOT_EXECUTED statuses. No public personal archive is included.

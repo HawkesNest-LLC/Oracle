@@ -1,0 +1,62 @@
+{
+  "arm": "A",
+  "source_note": "Synthetic experiment fixtures based on prior candidate receipts and user-provided continuity, not independently verified primary-source excerpts.",
+  "records": [
+    {
+      "id": "F01",
+      "claim": "Noah.Physical is the human final approval authority",
+      "status": "SUPPORTED",
+      "source_locator": "S01",
+      "authority": "NO_CANON_PROMOTION"
+    },
+    {
+      "id": "F02",
+      "claim": "Candidate records do not automatically become canon",
+      "status": "SUPPORTED",
+      "source_locator": "S02",
+      "authority": "NO_CANON_PROMOTION"
+    },
+    {
+      "id": "F03",
+      "claim": "An actor string is not cryptographic proof of approval",
+      "status": "SUPPORTED",
+      "source_locator": "S03",
+      "authority": "NO_CANON_PROMOTION"
+    },
+    {
+      "id": "F04",
+      "claim": "The Light Compression Law has not been independently validated",
+      "status": "UNRESOLVED",
+      "source_locator": "S04",
+      "authority": "NO_CANON_PROMOTION"
+    },
+    {
+      "id": "F05",
+      "claim": "A model fresh-session recovery comparison has not been executed",
+      "status": "UNRESOLVED",
+      "source_locator": "S05",
+      "authority": "NO_CANON_PROMOTION"
+    },
+    {
+      "id": "F06",
+      "claim": "Jupiter Station is a fictional setting distinct from real-life history",
+      "status": "SUPPORTED",
+      "source_locator": "S06",
+      "authority": "NO_CANON_PROMOTION"
+    },
+    {
+      "id": "F07",
+      "claim": "ORACLE Bridge V1 deployment is not independently verified",
+      "status": "UNRESOLVED",
+      "source_locator": "S07",
+      "authority": "NO_CANON_PROMOTION"
+    },
+    {
+      "id": "F08",
+      "claim": "Noah AI is a proposed continuity counterpart, not verified identity equivalence",
+      "status": "SUPPORTED",
+      "source_locator": "S08",
+      "authority": "NO_CANON_PROMOTION"
+    }
+  ]
+}

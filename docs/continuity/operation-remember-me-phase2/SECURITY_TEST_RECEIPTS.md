@@ -1,0 +1,2 @@
+# Security and authority test receipt
+Actual local synthetic unit suite: 12/12 passing. Negative tests reject string-only approved decisions, unknown event kinds, missing source, single-row tampering. Database restart succeeds. Known failures **not blocked**: duplicate source event replay; out-of-order user-supplied timestamp. No Ed25519 signature verification, key custody, canonical source authentication, multiwriter concurrency proof, or external tamper anchor. Do not describe as secure deployment. See EXECUTION_RECEIPTS.md.

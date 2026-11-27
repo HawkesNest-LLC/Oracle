@@ -1,0 +1,15 @@
+{
+  "experiment": "NOT_EXECUTED",
+  "fresh_session": "NOT_EXECUTED",
+  "deterministic_tests": {
+    "executed": true,
+    "passed": 12,
+    "failed": 0,
+    "environment": "isolated container Python unittest",
+    "limitations": [
+      "replay allowed",
+      "out-of-order timestamp allowed"
+    ]
+  },
+  "light_compression_law": "NOT_VALIDATED"
+}

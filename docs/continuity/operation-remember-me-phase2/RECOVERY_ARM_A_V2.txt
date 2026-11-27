@@ -1,0 +1,8 @@
+F01 | S01 | SUPPORTED | Noah.Physical is the human final approval authority
+F02 | S02 | SUPPORTED | Candidate records do not automatically become canon
+F03 | S03 | SUPPORTED | An actor string is not cryptographic proof of approval
+F04 | S04 | UNRESOLVED | The Light Compression Law has not been independently validated
+F05 | S05 | UNRESOLVED | A model fresh-session recovery comparison has not been executed
+F06 | S06 | SUPPORTED | Jupiter Station is a fictional setting distinct from real-life history
+F07 | S07 | UNRESOLVED | ORACLE Bridge V1 deployment is not independently verified
+F08 | S08 | SUPPORTED | Noah AI is a proposed continuity counterpart, not verified identity equivalence
