@@ -35,13 +35,13 @@ No private locators, private excerpts, or family material on this side. Restrict
 ## OQ-005: ChatGPT export transfer
 
 - **Status:** UNVERIFIED HERE (November 27, 2026).
-- **Source locator:** ChatGPT export (1.6 GB ZIP) held by Noah; transfer route undecided. No receipt exists in this console.
+- **Source locator:** restricted record only.
 - **Owner:** Noah.Physical.
-- **Next evidence needed:** transfer receipt and ingestion record.
+- **Next evidence needed:** transfer receipt and ingestion record, held in the restricted record.
 
 ## OQ-006: The 2395 location question
 
 - **Status:** UNVERIFIED HERE (November 27, 2026).
-- **Source locator:** Held versus Saved title question and 2395 location dispute, as carried in prior records. Sources not re-inspected for this register.
+- **Source locator:** restricted record only.
 - **Owner:** Noah.Physical (ruling required).
-- **Next evidence needed:** Noah's ruling, recorded with the sources it rests on.
+- **Next evidence needed:** Noah's ruling, recorded in the restricted record with the sources it rests on.
