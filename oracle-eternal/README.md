@@ -14,7 +14,7 @@ What works now, verified in this repository:
 - Deterministic engine: selection, retrieval with source hashes, mechanical review, classification, save, read-back verification, receipt, and persistence across runs.
 - Governance by code: secret scanning, write allowlist, blocked categories, fiction candidate-only rule, and canon promotion refusal without an approval record.
 - Morning briefing generated from the ledger.
-- 22 tests, green, standard library only.
+- 23 tests, green, standard library only.
 - First artifact: OE-001, an architecture investigation with verified and reported sources separated.
 
 What does not work yet, stated plainly:
