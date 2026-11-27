@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "assignment_id": "EA-001",
+      "kind": "assignment_completed",
+      "actor": "merlin",
+      "track": "research",
+      "title": "Authenticated Is Not Verified",
+      "status": "completed",
+      "date": "2026-11-27",
+      "author": "Merlin (Muse), at Noah.Physical direction",
+      "word_count": 3522,
+      "artifact_path": "eternal-alexandria/manuscripts/EA-001-authenticated-is-not-verified.md",
+      "artifact_sha256": "3fe7089e2576a5cb1b6f1ccbb386b4a2eded36ee477d6e45696cc0fa325e9a85",
+      "classification": "PUBLIC_SAFE",
+      "review": "pass",
+      "sources_read": [
+        "ORACLE-IDB-001",
+        "RR-PAPER-001 CLAIMS_AND_EVIDENCE.md",
+        "2026-11-04 ELLIE handoff",
+        "OPEN_PROBLEMS.md",
+        "EAX-20261127-SCI-001 receipt only"
+      ],
+      "not_done": [
+        "IDB-001 hypotheses not evaluated",
+        "Ellie source families not fully inspected",
+        "scheduled execution not demonstrated"
+      ],
+      "branch": "oracle-eternal/first-light",
+      "prev_hash": "GENESIS",
+      "entry_hash": "88561e37a5c2347d61622ddc363ff4a30e4fac65877df7708b3078853124f8da"
+    }
+  ]
+}
