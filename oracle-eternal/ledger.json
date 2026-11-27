@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "event": "genesis",
+      "timestamp": "2026-11-27T18:19:34Z",
+      "engine_version": "0.1.0-first-light",
+      "note": "ORACLE Eternal ledger created. No executions recorded yet.",
+      "prev_hash": "GENESIS",
+      "entry_hash": "cbd5449c6d4be3261333bf7f2b5854d6f7dbb52a1fb9c26da79904b62575910f"
+    },
+    {
+      "event": "execution",
+      "run_id": "OE-RUN-20261127T181934Z",
+      "timestamp": "2026-11-27T18:19:34Z",
+      "mode": "first-light",
+      "engine_version": "0.1.0-first-light",
+      "status": "completed",
+      "reason": "artifact verified by read-back and recorded",
+      "cost_usd": 0.0,
+      "model": "none",
+      "assignment_id": "OE-000",
+      "assignment_title": "What actually works: autonomous research engines for a writer on an iPhone",
+      "artifact_id": "OE-001",
+      "artifact_title": "What actually works: autonomous research engines for a writer on an iPhone",
+      "artifact_path": "oracle-eternal/artifacts/OE-001-architecture-investigation.md",
+      "artifact_sha256": "f2eeae7a3b8dcce759ef2056018f8a25271999c726b37295cae0f0957f967c4e",
+      "word_count": 3037,
+      "source_hashes": {
+        "RESEARCH_ATLAS.md": "20406cae75979117e27116c1830ab52199b46c9a1355a1f5ec2b234b5a3b1e06",
+        "research-index.json": "908042525fbfa98d5411063dc3d141b42a1b3633f8d16e751f175c1fd48fb447",
+        "OPEN_PROBLEMS.md": "ffcafee5dbe387fd9f17fc8ad6592323513bb1f0025f4dd0392d642e94a74b45",
+        "RESEARCH_DEPENDENCIES.md": "c60c17db5d9b525b5c1b3e24f52967af1af0a6198e4bc95df9cff2747c97e708",
+        "RESEARCH_TIMELINE.md": "db6486e6bfc684de1c4108f5d00a0f706c706885713fe645dd1cbe7527cafa71"
+      },
+      "missing_sources": [],
+      "classification": {
+        "label": "PUBLIC_SAFE",
+        "reasons": [
+          "no blocked signal detected"
+        ]
+      },
+      "canon_gate": "no canon question raised",
+      "review": {
+        "role": "MERLIN",
+        "execution": "mechanical",
+        "note": "Mechanical checks only. Not an independent model attestation, not a peer review, and not an authorship claim.",
+        "word_count": 3037,
+        "heading_count": 12,
+        "findings": [],
+        "verdict": "pass"
+      },
+      "boundary": {
+        "role": "ELLIE",
+        "execution": "mechanical",
+        "note": "Mechanical checks only. Not an independent model attestation, not a peer review, and not an authorship claim.",
+        "status": "not-applicable"
+      },
+      "brief": {
+        "role": "REG",
+        "execution": "mechanical",
+        "note": "Mechanical checks only. Not an independent model attestation, not a peer review, and not an authorship claim.",
+        "assignment_id": "OE-000",
+        "title": "What actually works: autonomous research engines for a writer on an iPhone",
+        "kind": "research-review",
+        "source_locators": [
+          "RESEARCH_ATLAS.md",
+          "research-index.json",
+          "OPEN_PROBLEMS.md",
+          "RESEARCH_DEPENDENCIES.md",
+          "RESEARCH_TIMELINE.md"
+        ],
+        "atlas_matches": [],
+        "word_target": 3000,
+        "brief": "Investigate JARVIS (drussell23), GitHub Agentic Workflows, scheduled GitHub Actions, and Codex. Determine what actually works for a writer on an iPhone, and record the selected architecture with costs and limits."
+      },
+      "atlas": {
+        "role": "ALEXANDRIA",
+        "execution": "mechanical",
+        "note": "Mechanical checks only. Not an independent model attestation, not a peer review, and not an authorship claim.",
+        "index_schema": 1,
+        "entry_count": 6,
+        "titles": [
+          "Witness-Grade Continuity for Persistent Synthetic Agents",
+          "Continuity Computing",
+          "SOV1 Cognitive Mirror",
+          "The Witness Must Not Become the Author",
+          "RR-CCS-003 local verification receipt",
+          "RR-PAPER-001 claims and evidence"
+        ],
+        "paths": [
+          "research/papers/RR-PAPER-001/MANUSCRIPT.md",
+          "docs/rendered-reality/research/2026-11-03_CONTINUITY_COMPUTING_WHITE_PAPER_V1_0.md",
+          "docs/rendered-reality/research/2026-11-15_SOV1_COGNITIVE_MIRROR_RESEARCH_PREPRINT_V01.md",
+          "research/ORACLE-IDB-001-witness-historical-invention-2026-11-27.md",
+          "research/papers/RR-CCS-003/VERIFICATION_RECEIPT_2026-11-26.md",
+          "research/papers/RR-PAPER-001/CLAIMS_AND_EVIDENCE.md"
+        ]
+      },
+      "atlas_addition": "/tmp/oe-state-1/atlas-additions/ATLAS-2026-11-27-c6892ee4.json",
+      "atlas_addition_errors": [],
+      "prev_hash": "cbd5449c6d4be3261333bf7f2b5854d6f7dbb52a1fb9c26da79904b62575910f",
+      "entry_hash": "4c12958ea0f3ea0f710cfabcdd95376d73a99336e03d5ca9797d15459e3a1c30"
+    },
+    {
+      "event": "execution",
+      "run_id": "OE-RUN-20261128T131700Z",
+      "timestamp": "2026-11-28T13:17:00Z",
+      "mode": "scheduled",
+      "engine_version": "0.1.0-first-light",
+      "status": "abstained",
+      "reason": "no model execution configured and no artifact supplied; manuscript generation abstained",
+      "cost_usd": 0.0,
+      "model": "none",
+      "assignment_id": "OP-01",
+      "assignment_title": "Does provenance-aware memory improve correction survival against matched strong retrieval baselines?",
+      "brief": {
+        "role": "REG",
+        "execution": "mechanical",
+        "note": "Mechanical checks only. Not an independent model attestation, not a peer review, and not an authorship claim.",
+        "assignment_id": "OP-01",
+        "title": "Does provenance-aware memory improve correction survival against matched strong retrieval baselines?",
+        "kind": "experimental-protocol",
+        "source_locators": [
+          "OPEN_PROBLEMS.md",
+          "RESEARCH_ATLAS.md",
+          "research/papers/RR-PAPER-001/CLAIMS_AND_EVIDENCE.md",
+          "research/papers/RR-CCS-003/VERIFICATION_RECEIPT_2026-11-26.md"
+        ],
+        "atlas_matches": [
+          "RR-CCS-003 local verification receipt",
+          "RR-PAPER-001 claims and evidence"
+        ],
+        "word_target": 3000,
+        "brief": "Draft a preregistered experimental protocol only. No new experiment is run until Noah.Physical approves it. Use synthetic identities, matched data, held-out evaluation, and explicit negative results."
+      },
+      "atlas": {
+        "role": "ALEXANDRIA",
+        "execution": "mechanical",
+        "note": "Mechanical checks only. Not an independent model attestation, not a peer review, and not an authorship claim.",
+        "index_schema": 1,
+        "entry_count": 6,
+        "titles": [
+          "Witness-Grade Continuity for Persistent Synthetic Agents",
+          "Continuity Computing",
+          "SOV1 Cognitive Mirror",
+          "The Witness Must Not Become the Author",
+          "RR-CCS-003 local verification receipt",
+          "RR-PAPER-001 claims and evidence"
+        ],
+        "paths": [
+          "research/papers/RR-PAPER-001/MANUSCRIPT.md",
+          "docs/rendered-reality/research/2026-11-03_CONTINUITY_COMPUTING_WHITE_PAPER_V1_0.md",
+          "docs/rendered-reality/research/2026-11-15_SOV1_COGNITIVE_MIRROR_RESEARCH_PREPRINT_V01.md",
+          "research/ORACLE-IDB-001-witness-historical-invention-2026-11-27.md",
+          "research/papers/RR-CCS-003/VERIFICATION_RECEIPT_2026-11-26.md",
+          "research/papers/RR-PAPER-001/CLAIMS_AND_EVIDENCE.md"
+        ]
+      },
+      "source_hashes": {
+        "OPEN_PROBLEMS.md": "ffcafee5dbe387fd9f17fc8ad6592323513bb1f0025f4dd0392d642e94a74b45",
+        "RESEARCH_ATLAS.md": "20406cae75979117e27116c1830ab52199b46c9a1355a1f5ec2b234b5a3b1e06",
+        "research/papers/RR-PAPER-001/CLAIMS_AND_EVIDENCE.md": "9f1cb01ffac0c47d5c6fdac20cac1070e8e654e4a8ff4395ccdeb988422f0244",
+        "research/papers/RR-CCS-003/VERIFICATION_RECEIPT_2026-11-26.md": "1825289cc96c1bf8a856f0e534073874f261c908e769366c3f82c86b89902da2"
+      },
+      "missing_sources": [],
+      "prev_hash": "4c12958ea0f3ea0f710cfabcdd95376d73a99336e03d5ca9797d15459e3a1c30",
+      "entry_hash": "4c264b17bf6e49aea927198b936ce503bd787129c22b53253a3a6961da437bb0"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "receipt_id": "EA-001",
+  "date": "2026-11-27",
+  "assignment_id": "EA-001",
+  "track": "research",
+  "artifact": "eternal-alexandria/manuscripts/EA-001-authenticated-is-not-verified.md",
+  "word_count": 3522,
+  "sha256": "3fe7089e2576a5cb1b6f1ccbb386b4a2eded36ee477d6e45696cc0fa325e9a85",
+  "classification": "PUBLIC_SAFE",
+  "review": "pass",
+  "branch": "oracle-eternal/first-light",
+  "commit": "b814db8316f9efc7e1d1b8868c1586340eed8d96",
+  "amendments": [
+    {
+      "date": "2026-11-27",
+      "field": "commit",
+      "previous": "pending-push",
+      "corrected": "b814db8316f9efc7e1d1b8868c1586340eed8d96",
+      "reason": "Receipt written before push; corrected after push. Original value preserved here. Cross-attestation note from Ellie, ELLIE_TO_MERLIN_001."
+    }
+  ],
+  "sources_read_first_hand": 5,
+  "private_text_reproduced": false,
+  "sci_001_manuscript_read": false,
+  "cost_usd": 0
+}
