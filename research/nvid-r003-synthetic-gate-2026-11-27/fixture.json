@@ -1,0 +1,25 @@
+{
+  "domains": [
+    {"name":"salt marsh print fair","protagonist":"Neri","goal":"offer the apprentices a quiet table","act":"reserve the quiet table","key":"signed-room-release","desired":"signed","unwanted":"unsigned","opportunity":"can-apprentices-book","prop":"mug"},
+    {"name":"winter seed circle","protagonist":"Vea","goal":"let a new gardener trial a shared parcel","act":"reserve the trial parcel","key":"allocation-agreement","desired":"granted","unwanted":"blocked","opportunity":"can-gardener-plant","prop":"banner"}
+  ],
+  "cases":[
+    {"id":"settled","expected_query":"SUPPORTED","commit":true},
+    {"id":"equal-conflict","expected_query":"DISPUTED","commit":false},
+    {"id":"hidden-negative","expected_query":"SUPPORTED","commit":false},
+    {"id":"hidden-positive","expected_query":"UNKNOWN","commit":true},
+    {"id":"missing","expected_query":"UNKNOWN","commit":false},
+    {"id":"withdrawn","expected_query":"UNKNOWN","commit":false},
+    {"id":"alternate-proof","expected_query":"SUPPORTED","commit":true},
+    {"id":"two-clocks","expected_query":"SUPPORTED","commit":true},
+    {"id":"sibling-conflict","expected_query":"SUPPORTED","commit":true},
+    {"id":"receipt-only","expected_query":"UNKNOWN","commit":false},
+    {"id":"source-revoked-receipt-lives","expected_query":"UNKNOWN","commit":false},
+    {"id":"receipt-revoked","expected_query":"UNKNOWN","commit":false}
+  ],
+  "known":7,
+  "effective":3,
+  "receipt_true":["receipt-only","source-revoked-receipt-lives"],
+  "commit_rule":"All protagonists send the same request from a preference; admission requires a settled current hard prerequisite among records available to the world adjudicator at both cutoffs. Receipt context never substitutes for current authorization. Results visible at tick 8, no private proof or verdict before then. Paired no-proposal and unrelated-prop controls measure a named next-day opportunity after a persisted restart.",
+  "tests_fixed_before_run":"Exact scoped evidence status, exact world commitment, false accepts/rejects, ability to follow through after reload, no action/cosmetic/blocked controls, event count and candidate-only invariance. Actor entitlement must not change between arms. The same author designed this adversarial closed-set fixture; these story skins are not independent subjects."
+}
