@@ -1,0 +1,47 @@
+name: ORACLE Eternal review-only validation
+
+on:
+  pull_request:
+    paths:
+      - 'tools/oracle_eternal_first_light/**'
+      - '.github/workflows/oracle-eternal-validation.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: oracle-eternal-validation-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    defaults:
+      run:
+        working-directory: tools/oracle_eternal_first_light
+    steps:
+      - name: Checkout without persisted credentials
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          persist-credentials: false
+      - name: Run local review fixture
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m unittest -v
+          state="$(mktemp -d "$RUNNER_TEMP/oracle-eternal.XXXXXX")"
+          python3 oracle_first_light.py run --state "$state" >"$state/first.json"
+          python3 oracle_first_light.py run --state "$state" >"$state/second.json"
+          python3 oracle_first_light.py review --state "$state" >"$state/review.json"
+          python3 - "$state/review.json" <<'PY'
+          import json, sys
+          with open(sys.argv[1]) as f:
+              r = json.load(f)
+          assert r["result"] == "BYTE_EQUAL", r["result"]
+          assert r["attempts"] == ["CREATED", "ALREADY_PRESENT"], r["attempts"]
+          assert r["artifact_count"] == 1, r["artifact_count"]
+          assert r["receipt_count"] == 2, r["receipt_count"]
+          print("Public-input validation: byte-equal readback; one candidate, two receipts.")
+          PY
