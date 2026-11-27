@@ -1,0 +1,11 @@
+{
+  "id": "ATLAS-2026-11-27-c6892ee4",
+  "title": "What actually works: autonomous research engines for a writer on an iPhone",
+  "path": "oracle-eternal/artifacts/OE-001-architecture-investigation.md",
+  "date": "2026-11-27",
+  "status": "First Light artifact; mechanical review only, human review required.",
+  "role": "research-review",
+  "artifact_id": "OE-001",
+  "artifact_sha256": "f2eeae7a3b8dcce759ef2056018f8a25271999c726b37295cae0f0957f967c4e",
+  "source": "ORACLE Eternal First Light execution OE-RUN-20261127T181934Z"
+}
