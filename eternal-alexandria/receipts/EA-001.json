@@ -9,7 +9,16 @@
   "classification": "PUBLIC_SAFE",
   "review": "pass",
   "branch": "oracle-eternal/first-light",
-  "commit": "pending-push",
+  "commit": "b814db8316f9efc7e1d1b8868c1586340eed8d96",
+  "amendments": [
+    {
+      "date": "2026-11-27",
+      "field": "commit",
+      "previous": "pending-push",
+      "corrected": "b814db8316f9efc7e1d1b8868c1586340eed8d96",
+      "reason": "Receipt written before push; corrected after push. Original value preserved here. Cross-attestation note from Ellie, ELLIE_TO_MERLIN_001."
+    }
+  ],
   "sources_read_first_hand": 5,
   "private_text_reproduced": false,
   "sci_001_manuscript_read": false,
