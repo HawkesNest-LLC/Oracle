@@ -1,0 +1,81 @@
+name: ORACLE Eternal daily run
+
+on:
+  schedule:
+    # 13:17 UTC is 7:17 a.m. Central time. Off the top of the hour on
+    # purpose: scheduled runs are best effort and the top of the hour
+    # is the busiest window. Scheduled workflows only fire from the
+    # default branch, so this file does nothing until it is merged.
+    - cron: "17 13 * * *"
+  workflow_dispatch:
+    inputs:
+      assignment:
+        description: "Assignment id to execute (empty means next queued)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oracle-eternal
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out default branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run engine tests (fail closed)
+        run: python3 -m unittest discover -s oracle-eternal/tests
+
+      - name: Prepare state checkout
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set +e
+          git clone --depth 1 --branch oracle-eternal/state "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" state
+          CLONE_STATUS=$?
+          set -e
+          if [ "$CLONE_STATUS" -ne 0 ]; then
+            rm -rf state
+            mkdir -p state
+            git -C state init -q
+            git -C state checkout -q --orphan oracle-eternal/state
+            git -C state remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          fi
+
+      - name: Run the engine (scheduled mode)
+        run: |
+          ARGS=(--repo "$GITHUB_WORKSPACE" --state "$GITHUB_WORKSPACE/state" --mode scheduled)
+          if [ -n "${{ inputs.assignment }}" ]; then ARGS+=(--assignment "${{ inputs.assignment }}"); fi
+          cd oracle-eternal && python3 -m engine.engine "${ARGS[@]}"
+
+      - name: Upload the briefing
+        uses: actions/upload-artifact@v4
+        with:
+          name: oracle-eternal-briefing
+          path: state/briefing/latest.md
+          if-no-files-found: error
+
+      - name: Commit state branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git -C state config user.name "ORACLE Eternal"
+          git -C state config user.email "oracle-eternal@users.noreply.github.com"
+          git -C state add -A
+          git -C state diff --cached --quiet || git -C state commit -m "ORACLE Eternal scheduled state update"
+          if git -C state rev-parse --verify HEAD >/dev/null 2>&1; then
+            git -C state push origin HEAD:oracle-eternal/state
+          else
+            echo "no state commit to push"
+          fi
