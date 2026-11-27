@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "created": "2026-11-27",
+  "scope": "initial public source selection; opening-section review",
+  "research_program": "Noah Alexander Hawkes / Rendered Reality",
+  "entries": [
+    {
+      "title": "Witness-Grade Continuity for Persistent Synthetic Agents",
+      "path": "research/papers/RR-PAPER-001/MANUSCRIPT.md",
+      "blob_sha": "ea57cfbde94d3a71f53dbae5a2a1088897dd4efb",
+      "date": "2026-11-25",
+      "status": "Working paper; seven hypotheses, not general superiority.",
+      "role": "synthesis",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/97e0c8ba2edd81c84298b10fb730f3d9a360d68c/research/papers/RR-PAPER-001/MANUSCRIPT.md"
+    },
+    {
+      "title": "Continuity Computing",
+      "path": "docs/rendered-reality/research/2026-11-03_CONTINUITY_COMPUTING_WHITE_PAPER_V1_0.md",
+      "blob_sha": "87ad7d0806fcd5021dc6ac3c29b5bc5ae3ca7640",
+      "date": "2026-11",
+      "status": "Draft architecture and central testable hypothesis.",
+      "role": "foundation",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/97e0c8ba2edd81c84298b10fb730f3d9a360d68c/docs/rendered-reality/research/2026-11-03_CONTINUITY_COMPUTING_WHITE_PAPER_V1_0.md"
+    },
+    {
+      "title": "SOV1 Cognitive Mirror",
+      "path": "docs/rendered-reality/research/2026-11-15_SOV1_COGNITIVE_MIRROR_RESEARCH_PREPRINT_V01.md",
+      "blob_sha": "29d8d6ecd88e3a3ce8d56301c07c3df58ccab802",
+      "date": "2026-11-15",
+      "status": "Candidate deliberative interface; Branch Zero and human convergence.",
+      "role": "governance",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/97e0c8ba2edd81c84298b10fb730f3d9a360d68c/docs/rendered-reality/research/2026-11-15_SOV1_COGNITIVE_MIRROR_RESEARCH_PREPRINT_V01.md"
+    },
+    {
+      "title": "The Witness Must Not Become the Author",
+      "path": "research/ORACLE-IDB-001-witness-historical-invention-2026-11-27.md",
+      "blob_sha": "8ef70ebc9b6be4b6f2e3a161a78c3417d7794899",
+      "date": "2026-11-27",
+      "status": "Proposed synthetic benchmark; no new empirical validation.",
+      "role": "methodology",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/97e0c8ba2edd81c84298b10fb730f3d9a360d68c/research/ORACLE-IDB-001-witness-historical-invention-2026-11-27.md"
+    },
+    {
+      "title": "RR-CCS-003 local verification receipt",
+      "path": "research/papers/RR-CCS-003/VERIFICATION_RECEIPT_2026-11-26.md",
+      "blob_sha": "aed8f81946300161cbcdfee67abdb6340154d389",
+      "date": "2026-11-26",
+      "status": "Historical local reproduction receipt; adaptive strategy did not beat always-retrieve in separate kit; strong bound not established.",
+      "role": "evidence",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/97e0c8ba2edd81c84298b10fb730f3d9a360d68c/research/papers/RR-CCS-003/VERIFICATION_RECEIPT_2026-11-26.md"
+    },
+    {
+      "title": "RR-PAPER-001 claims and evidence",
+      "path": "research/papers/RR-PAPER-001/CLAIMS_AND_EVIDENCE.md",
+      "blob_sha": "b43ef7273335ceda2ac00a3e0c19da8a080a2e5f",
+      "date": "2026-11-25",
+      "status": "Companion evidence ledger; separates reported and proposed findings.",
+      "role": "evidence",
+      "url": "https://github.com/HawkesNest-LLC/Oracle/blob/97e0c8ba2edd81c84298b10fb730f3d9a360d68c/research/papers/RR-PAPER-001/CLAIMS_AND_EVIDENCE.md"
+    }
+  ]
+}
