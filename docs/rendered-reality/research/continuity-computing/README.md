@@ -1,39 +1,31 @@
-# Continuity Computing | AI and human entrypoint
+# Continuity Computing | Public research entrypoint
 
-**Human authority:** Noah.Physical.  
-**Project status:** Published draft white paper, candidate architecture, bounded Python reference kernel, research addendum. Not a deployed holodeck, general identity-preservation proof, or consciousness transfer.
+**Creator and authorial authority:** Noah.Physical  
+**Status:** Public research program and candidate engineering model, not a deployed full continuity engine, peer-reviewed result, or evidence of personal identity transfer.
 
-## Read in order
+## Creator source
 
-1. [Creator white paper](../2026-11-03_CONTINUITY_COMPUTING_WHITE_PAPER_V1_0.md)
-2. [Engineering specification](../2026-11-03_CONTINUITY_COMPUTING_AI_BUILD_SPEC.md)
-3. [Trajectory and benchmark addendum](../2026-11-03_CONTINUITY_COMPUTING_TRAJECTORY_EVALUATION_CANDIDATE.md)
-4. [Jupiter Station source recovery](../../continuity/2026-11-03_REG_JUPITER_STATION_FULL_RECOVERY.md)
-5. [Prior runtime assessment](../2026-11-02_CONTINUITY_AWARE_SIMULATION_RUNTIME_ASSESSMENT.md)
-6. [Python reference runtime](reference_runtime/continuity_kernel.py)
-7. [Eight reference tests](reference_runtime/test_continuity_kernel.py)
+1. [Continuity Computing white paper v1.0 (Nov 2026)](../2026-11-03_CONTINUITY_COMPUTING_WHITE_PAPER_V1_0.md)  
+   Original creator-supplied manuscript. Preserve separately from AI editorial addenda.
+2. [Trajectory and falsifiable evaluation addendum (candidate)](../2026-11-03_CONTINUITY_COMPUTING_TRAJECTORY_EVALUATION_CANDIDATE.md)  
+   AI-assisted proposed definitions and benchmarking. Not an established empirical finding.
+3. [Public technical research brief and adversarial debate prompt (Nov 27, 2026)](../2026-11-27_CONTINUITY_COMPUTING_PUBLIC_RESEARCH_BRIEF.md)  
+   Public-safe synthesis with a testable comparison against strong existing approaches.
+4. [Nov 2 continuity-aware simulation assessment](../2026-11-02_CONTINUITY_AWARE_SIMULATION_RUNTIME_ASSESSMENT.md)  
+   Historical, candidate engineering assessment. Not evidence of deployment.
 
-## Directions for AI coding agents
+## Scope boundaries
 
-- Treat the original white paper as creator-supplied conceptual research; do not rewrite it by silently inserting AI claims.
-- Candidate engineering instructions are not established science or complete software.
-- Source bytes and original authorship remain distinct from copied text and transport.
-- Do not silently promote simulations or alternate timelines to creator canon.
-- Implement source, claim, authority attestation, correction, contradiction, commitment, trajectory, branch and receipt semantics separately.
-- Do not infer a real person's private intentions, consciousness, or identity survival from a computed trajectory.
-- Use access control enforced by the storage/API layer; prompts are not authorization.
-- Preserve corrected and disputed history while protecting private data and honoring retention rules.
-- Prefer one reproducible scene with source-linked facts over an impressive renderer that invents history.
-- Write tests before claiming a feature works. Output a real commit SHA and readback for every completed publication.
+Continuity Computing proposes explicit models of **SOURCE, CLAIM, STATUS, AUTHORITY/ATTESTATION, REVISION, CONFLICT, DEPENDENCY, COMMITMENT, BRANCH, RECEIPT and TRAJECTORY**. The long-horizon hypothesis has not been validated experimentally. Compare it with event sourcing, temporal databases, data lineage, provenance graphs, knowledge representation, and established agent memory systems.
 
-## Local tests
+An implementation must not infer a user's identity, consent, or authorization from text alone. A model-generated prediction cannot silently become witnessed history. An earlier source remains evidence of earlier state but not necessarily current belief.
 
-Run the Python standard-library tests from the repository root:
+## Separation of public and private materials
 
-~~~bash
-python -m unittest discover -s docs/rendered-reality/research/continuity-computing/reference_runtime -p "test_*.py" -v
-~~~
+Fiction-specific Jupiter Station / Avalon recovery text, private creator quote registers, and source-level story-continuity tests were archived in the restricted **HawkesNest-LLC/Executable-Files** repository on Nov 27, 2026. They are not part of this public-facing research index. Any prior public commit history containing those texts may remain accessible: removing the current files from the public branch does not erase existing Git history.
 
-Eight tests passed in the prior local container on November 3, 2026. This is not a deployed-service audit or independent production certification.
+No fictional canon was promoted by this index revision.
 
-**Next milestone:** Implement missing primitives and benchmark fixtures, then integrate text-only world-state reconstruction before graphics.
+## Next research milestone
+
+Publish a labeled reconstruction benchmark with independent validation, test against strong memory and event-sourcing baselines, and report both improvement and overhead. Unknowns, failures, privacy restrictions, corrections and real-world execution receipts must remain inspectable.
