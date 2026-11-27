@@ -1,0 +1,46 @@
+{
+  "flat_actor": {
+    "causal_delta_candidate": 10,
+    "commits": 10,
+    "false_accept": 4,
+    "false_reject": 4,
+    "n": 24,
+    "prop_control": 24,
+    "query_status_correct": 20,
+    "receipt_correct": 24,
+    "stalled": 14
+  },
+  "flat_world": {
+    "causal_delta_candidate": 10,
+    "commits": 10,
+    "false_accept": 2,
+    "false_reject": 2,
+    "n": 24,
+    "prop_control": 24,
+    "query_status_correct": 20,
+    "receipt_correct": 24,
+    "stalled": 14
+  },
+  "scoped_actor": {
+    "causal_delta_candidate": 10,
+    "commits": 10,
+    "false_accept": 2,
+    "false_reject": 2,
+    "n": 24,
+    "prop_control": 24,
+    "query_status_correct": 24,
+    "receipt_correct": 24,
+    "stalled": 14
+  },
+  "settled_world": {
+    "causal_delta_candidate": 10,
+    "commits": 10,
+    "false_accept": 0,
+    "false_reject": 0,
+    "n": 24,
+    "prop_control": 24,
+    "query_status_correct": 24,
+    "receipt_correct": 24,
+    "stalled": 14
+  }
+}
