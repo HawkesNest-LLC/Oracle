@@ -1,0 +1,122 @@
+{
+  "assignments": [
+    {
+      "artifact_id": "OE-001",
+      "brief": "Investigate JARVIS (drussell23), GitHub Agentic Workflows, scheduled GitHub Actions, and Codex. Determine what actually works for a writer on an iPhone, and record the selected architecture with costs and limits.",
+      "id": "OE-000",
+      "kind": "research-review",
+      "sensitivity": "public-safe",
+      "source_paths": [
+        "RESEARCH_ATLAS.md",
+        "research-index.json",
+        "OPEN_PROBLEMS.md",
+        "RESEARCH_DEPENDENCIES.md",
+        "RESEARCH_TIMELINE.md"
+      ],
+      "status": "done",
+      "title": "What actually works: autonomous research engines for a writer on an iPhone",
+      "word_target": 3000
+    },
+    {
+      "brief": "Draft a preregistered experimental protocol only. No new experiment is run until Noah.Physical approves it. Use synthetic identities, matched data, held-out evaluation, and explicit negative results.",
+      "id": "OP-01",
+      "kind": "experimental-protocol",
+      "sensitivity": "public-safe",
+      "source_paths": [
+        "OPEN_PROBLEMS.md",
+        "RESEARCH_ATLAS.md",
+        "research/papers/RR-PAPER-001/CLAIMS_AND_EVIDENCE.md",
+        "research/papers/RR-CCS-003/VERIFICATION_RECEIPT_2026-11-26.md"
+      ],
+      "status": "queued",
+      "title": "Does provenance-aware memory improve correction survival against matched strong retrieval baselines?",
+      "word_target": 3000
+    },
+    {
+      "brief": "Review what the existing record already distinguishes: authentication of a statement versus verification of its content. Candidate review only; no new historical claim.",
+      "id": "OP-02",
+      "kind": "research-review",
+      "sensitivity": "public-safe",
+      "source_paths": [
+        "OPEN_PROBLEMS.md",
+        "research/ORACLE-IDB-001-witness-historical-invention-2026-11-27.md",
+        "RESEARCH_ATLAS.md"
+      ],
+      "status": "queued",
+      "title": "Can source attribution distinguish authenticated statements from verified historical truth?",
+      "word_target": 3000
+    },
+    {
+      "brief": "Draft a preregistered protocol for measuring abstention against coverage on matched synthetic probes. Protocol only; no experiment until approved.",
+      "id": "OP-03",
+      "kind": "experimental-protocol",
+      "sensitivity": "public-safe",
+      "source_paths": [
+        "OPEN_PROBLEMS.md",
+        "research/ORACLE-IDB-001-witness-historical-invention-2026-11-27.md"
+      ],
+      "status": "queued",
+      "title": "How does abstention trade off against justified coverage?",
+      "word_target": 2500
+    },
+    {
+      "brief": "Review the existing governance record on authority boundaries and identity assertions across systems. Candidate review only.",
+      "id": "OP-04",
+      "kind": "research-review",
+      "sensitivity": "public-safe",
+      "source_paths": [
+        "OPEN_PROBLEMS.md",
+        "docs/rendered-reality/research/2026-11-15_SOV1_COGNITIVE_MIRROR_RESEARCH_PREPRINT_V01.md",
+        "RESEARCH_ATLAS.md"
+      ],
+      "status": "queued",
+      "title": "Can authority boundaries survive cross-model restoration without caller-controlled identity assertions?",
+      "word_target": 3000
+    },
+    {
+      "brief": "Candidate review of identifiability limits under finite witness and storage. State what cannot be known from the surviving record.",
+      "id": "OP-05",
+      "kind": "research-review",
+      "sensitivity": "public-safe",
+      "source_paths": [
+        "OPEN_PROBLEMS.md",
+        "RESEARCH_TIMELINE.md",
+        "research/papers/RR-PAPER-001/MANUSCRIPT.md"
+      ],
+      "status": "queued",
+      "title": "Which historical distinctions become unidentifiable under finite witness and storage budgets?",
+      "word_target": 2500
+    },
+    {
+      "branch_label": "candidate-fiction",
+      "brief": "Candidate review only. Fiction stays candidate and branch-labeled; no canon promotion and no approved history is rewritten.",
+      "id": "OP-06",
+      "kind": "research-review",
+      "sensitivity": "public-safe",
+      "source_paths": [
+        "OPEN_PROBLEMS.md",
+        "RESEARCH_ATLAS.md"
+      ],
+      "status": "queued",
+      "title": "Can persistent fictional agents preserve branch-local knowledge without rewriting approved history?",
+      "word_target": 2500
+    },
+    {
+      "brief": "Analyze the bounded negative result already on record. No new experiment until a preregistered protocol is approved.",
+      "id": "OP-07",
+      "kind": "research-review",
+      "sensitivity": "public-safe",
+      "source_paths": [
+        "OPEN_PROBLEMS.md",
+        "research/papers/RR-CCS-003/VERIFICATION_RECEIPT_2026-11-26.md",
+        "research/papers/RR-PAPER-001/CLAIMS_AND_EVIDENCE.md"
+      ],
+      "status": "queued",
+      "title": "Why did the adaptive strategy in the separate CCS-003 reproduction kit fail to beat always-retrieve, and under which preregistered conditions might that change?",
+      "word_target": 3000
+    }
+  ],
+  "created": "2026-11-27",
+  "note": "Seeded from sources located first-hand on 2026-11-27: OPEN_PROBLEMS.md (seven candidate problems) and the Research Atlas index (research-index.json). No assignment was invented. Statuses change only through ledger-recorded executions.",
+  "schema_version": 1
+}
