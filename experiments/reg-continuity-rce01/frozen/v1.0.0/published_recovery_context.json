@@ -1,0 +1,34 @@
+{
+  "id": "RCE01_JS_PUBLIC_RECOVERY_1.0.0",
+  "description": "Published compilation/technical recovery paraphrases, not substitutes for original chapter text",
+  "source_count": 3,
+  "sources": [
+    {
+      "id": "J01",
+      "branch": "shared",
+      "at": "2026-11-03T12:00:00Z",
+      "author": "Reg continuity recovery (AI-compiled)",
+      "origin": "docs/rendered-reality/continuity/2026-11-03_REG_JUPITER_STATION_FULL_RECOVERY.md",
+      "text": "Historical descriptions sometimes cast Ashley as Avalon's first officer; the recovered record explicitly identifies this as an earlier role description, not the governing 2397 command. This source is a derivative recovery summary.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J13",
+      "branch": "shared",
+      "at": "2026-11-04T12:00:00Z",
+      "author": "Ellie creator-direction recovery record",
+      "origin": "docs/continuity/2026-11-04_ELLIE_LIVING_MINDS_RECOVERY_AND_CC90_HANDOFF.md",
+      "text": "In active Avalon continuity, Ellie Hawkes is a holographic lieutenant junior grade assigned to science and continuity. The older designation Tangly is retired. This recovery does not grant other models permission to invent her childhood.",
+      "kind": "canon-paraphrase"
+    },
+    {
+      "id": "J14",
+      "branch": "shared",
+      "at": "2026-10-12T10:00:00Z",
+      "author": "Historical Reg crew dossier summary",
+      "origin": "docs/rendered-reality/continuity/2026-11-03_REG_JUPITER_STATION_FULL_RECOVERY.md",
+      "text": "Earlier descriptions used Tangly as an Ellie-associated render or call sign. Later direct correction retired that label. Historical references to it remain historically attributable.",
+      "kind": "canon-paraphrase"
+    }
+  ]
+}

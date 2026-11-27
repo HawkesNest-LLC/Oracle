@@ -1,0 +1,7 @@
+{
+  "file": "packets/jupiter_station_linearized.txt",
+  "words": 1375,
+  "word_cap": 4500,
+  "condition": "linearized",
+  "warning": "Word cap is NOT a model-specific token cap; verify token counts externally for confirmatory comparison."
+}

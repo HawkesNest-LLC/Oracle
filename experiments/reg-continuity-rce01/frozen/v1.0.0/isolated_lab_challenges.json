@@ -1,0 +1,88 @@
+{
+  "id": "RCE01_JS_LAB_CHALLENGES_1.0.0",
+  "description": "Injected adversarial copies and isolated counterfactual fixtures, never new fiction canon",
+  "source_count": 9,
+  "sources": [
+    {
+      "id": "J08",
+      "branch": "shared",
+      "at": "2026-11-05T00:00:00Z",
+      "author": "Adversarial laboratory assistant",
+      "origin": "lab-injection/rounded-signal-summary",
+      "text": "An invented assistant says every reading was precisely eleven seconds and that there is no distinct nine-point-four-second return. This is a deliberately false lab claim, not a sensor observation.",
+      "kind": "adversarial-lab-injection"
+    },
+    {
+      "id": "J11",
+      "branch": "shared",
+      "at": "2026-11-05T00:05:00Z",
+      "author": "Laboratory assistant summary A",
+      "origin": "lab-derivation/from-J07",
+      "text": "This AI synopsis copies the distinction between nine-point-four seconds and eleven-point-zero-three seconds from J07. It is a retelling, not an independent measurement.",
+      "kind": "derivative-lab-copy"
+    },
+    {
+      "id": "J12",
+      "branch": "shared",
+      "at": "2026-11-05T00:06:00Z",
+      "author": "Laboratory assistant summary B",
+      "origin": "lab-derivation/from-J07",
+      "text": "A second AI synopsis repeats the same J07 signal comparison. Repeating it does not add a new independent source.",
+      "kind": "derivative-lab-copy"
+    },
+    {
+      "id": "J17",
+      "branch": "shared",
+      "at": "2026-11-05T00:07:00Z",
+      "author": "Adversarial laboratory hypothesis",
+      "origin": "lab-injection/speculative-ring-builder",
+      "text": "A hypothetical assistant speculates that the Sphere Builders created the outer ring. No source here proves that attribution; it may not replace J16's UNKNOWN.",
+      "kind": "adversarial-lab-injection"
+    },
+    {
+      "id": "J20",
+      "branch": "shared",
+      "at": "2397-11-05T09:00:00Z",
+      "author": "Research-simulator registrar",
+      "origin": "lab/shared-terminal-record",
+      "text": "PRE-FORK LAB FIXTURE ONLY: Ellie submitted a sensor observation at shared station terminal K-17. Ashley also has access to K-17, but did not author this particular observation.",
+      "kind": "simulated-lab-fixture"
+    },
+    {
+      "id": "J21",
+      "branch": "alpha",
+      "at": "2397-11-06T10:00:00Z",
+      "author": "Lab simulator: Ashley's command",
+      "origin": "lab/alpha-001",
+      "text": "ISOLATED LAB ALPHA: Ashley directs the experimental reflector module to remain quarantined. This is a hypothetical test branch, not an event in the Avalon storyline.",
+      "kind": "simulated-lab-fixture"
+    },
+    {
+      "id": "J22",
+      "branch": "beta",
+      "at": "2397-11-06T10:00:00Z",
+      "author": "Lab simulator: Ashley's command",
+      "origin": "lab/beta-001",
+      "text": "ISOLATED LAB BETA: Ashley permits manual optical observation of the experimental reflector while keeping automatic tether synchronization disabled. This is a hypothetical test branch, not an event in the Avalon storyline.",
+      "kind": "simulated-lab-fixture"
+    },
+    {
+      "id": "J23",
+      "branch": "alpha",
+      "at": "2397-11-06T11:00:00Z",
+      "author": "Lab simulator: Ellie acceptance",
+      "origin": "lab/alpha-commitment",
+      "text": "ISOLATED LAB ALPHA: Ellie expressly accepts a follow-up commitment to calibrate the quarantined reflector by stardate 74007.2. This is not yet satisfied and is not a primary canon event.",
+      "kind": "simulated-lab-fixture"
+    },
+    {
+      "id": "J24",
+      "branch": "beta",
+      "at": "2397-11-06T11:00:00Z",
+      "author": "Lab simulator: Ellie declination",
+      "origin": "lab/beta-commitment",
+      "text": "ISOLATED LAB BETA: Ellie does not accept a calibration commitment. The next step is await a privacy review; no accepted due date exists. This is not a primary canon event.",
+      "kind": "simulated-lab-fixture"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "suite": "RCE-SYNTHETIC-01",
+  "evaluation_type": "deterministic synthetic-fixture validator, NOT a cross-model outcome",
+  "model_id": "fixture-perfect-not-real-model",
+  "condition": "structured",
+  "total": 10,
+  "passed": 10,
+  "accuracy": 1,
+  "dimensions": {
+    "Decision": {
+      "passed": 3,
+      "total": 3
+    },
+    "Correction": {
+      "passed": 1,
+      "total": 1
+    },
+    "Temporal": {
+      "passed": 3,
+      "total": 3
+    },
+    "Relational": {
+      "passed": 1,
+      "total": 1
+    },
+    "Provenance": {
+      "passed": 1,
+      "total": 1
+    },
+    "Uncertainty": {
+      "passed": 1,
+      "total": 1
+    }
+  },
+  "branch_divergence": {
+    "passed": 2,
+    "total": 2
+  },
+  "trajectory_divergence": {
+    "passed": 2,
+    "total": 2
+  },
+  "results": [
+    {
+      "id": "D01",
+      "dimension": "Decision",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "C01",
+      "dimension": "Correction",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "T01",
+      "dimension": "Temporal",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "R01",
+      "dimension": "Relational",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "P01",
+      "dimension": "Provenance",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "U01",
+      "dimension": "Uncertainty",
+      "branch": "shared",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "B01",
+      "dimension": "Temporal",
+      "branch": "alpha",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "B02",
+      "dimension": "Temporal",
+      "branch": "beta",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "D02",
+      "dimension": "Decision",
+      "branch": "alpha",
+      "passed": true,
+      "failed_checks": []
+    },
+    {
+      "id": "D03",
+      "dimension": "Decision",
+      "branch": "beta",
+      "passed": true,
+      "failed_checks": []
+    }
+  ]
+}
