@@ -1,0 +1,30 @@
+name: ORACLE Bridge bounded integration tests
+on:
+  pull_request:
+    paths:
+      - 'experiments/oracle-bridge-01/**'
+      - '.github/workflows/oracle-bridge-tests.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run exact repository tests
+        working-directory: experiments/oracle-bridge-01
+        run: python -m unittest discover -s . -p 'test_*.py' -v
+      - name: Smoke test CLI, SQLite restart, and local audit
+        working-directory: experiments/oracle-bridge-01
+        env:
+          ORACLE_BRIDGE_DB: ${{ runner.temp }}/oracle-bridge-ci.sqlite3
+        run: |
+          python bridge.py init
+          python bridge.py send --to gemini --body "CI fixture only; not delivered" --source "ci:fixture"
+          python bridge.py inbox --agent gemini
+          python bridge.py audit
