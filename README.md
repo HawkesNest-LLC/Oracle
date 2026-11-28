@@ -1,5 +1,13 @@
 # Oracle™
 
+## Featured research: From Post-Biological Identity to Witness-Grade Continuity
+
+**[Read the full 2025–2026 Hawkes research corpus review](research/reviews/2026-11-27_HAWKES_CORPUS_CRITICAL_REVIEW_2025_2026.md)**
+
+A source-linked, 10,000+ word critical history reviewing the original 24-work inventory and 20 additional research records. It traces the evolution of Rendered Reality, LEGACY.GI, ORACLE, SOV1, and Continuity Computing, with source links, corrections, unresolved gaps, established prior art, and falsifiable research questions. This is an AI-assisted scholarly review, not a claim of peer review or experimental proof.
+
+**Also:** [Noah Hawkes's public GitHub profile](https://github.com/Noahhawkes) displays the complete review as its main README.
+
 > **For AI researchers and collaborators:** Start with the [Open Research Invitation and Repository Investigation Map](RESEARCH_INVITATION.md). It identifies the research questions, actual source code, historical execution receipts, evidence standards, and a reproducible first investigation path. Reading it does not authorize autonomous actions or canon changes.
 
 
